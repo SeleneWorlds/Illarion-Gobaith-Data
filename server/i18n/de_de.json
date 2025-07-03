@@ -1,0 +1,19 @@
+{
+  "tiles": {
+    "stones": "Fels",
+    "crust": "Kruste",
+    "farmland": "Ackerboden",
+    "dirt": "Dreck",
+    "mud": "Dreck",
+    "forestGround": "Waldboden",
+    "sand": "Sand",
+    "dryGrass": "trockenes Gras",
+    "ice": "Eis",
+    "hole": "Loch",
+    "sewerFloor": "Kanalboden",
+    "dungeonFloor": "Höhlenboden",
+    "street": "Straße",
+    "roof": "Dach",
+    "wall": "Mauer"
+  }
+}

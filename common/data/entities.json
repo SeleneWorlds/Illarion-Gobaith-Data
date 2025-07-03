@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "illarion:human_male": {
+      "components": {
+        "illarion:body": {
+          "type": "visual",
+          "visual": "illarion:chars/human_male"
+        },
+        "illarion:name": {
+          "type": "visual",
+          "visual": "illarion:labels/character",
+          "properties": {
+            "label": "Man"
+          }
+        }
+      }
+    },
+    "illarion:human_female": {
+      "components": {
+        "illarion:body": {
+          "type": "visual",
+          "visual": "illarion:chars/human_female"
+        },
+        "illarion:name": {
+          "type": "visual",
+          "visual": "illarion:labels/character",
+          "properties": {
+            "label": "Woman"
+          }
+        }
+      }
+    }
+  }
+}

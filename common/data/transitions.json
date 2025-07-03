@@ -1,0 +1,2327 @@
+{
+  "entries": {
+    "illarion:parquet1": {
+      "priority": 999
+    },
+    "illarion:marble": {
+      "priority": 999
+    },
+    "illarion:carpet1": {
+      "priority": 999
+    },
+    "illarion:carpet2": {
+      "priority": 999
+    },
+    "illarion:carpet3": {
+      "priority": 999
+    },
+    "illarion:carpet4": {
+      "priority": 999
+    },
+    "illarion:carpet5": {
+      "priority": 999
+    },
+    "illarion:carpet6": {
+      "priority": 999
+    },
+    "illarion:carpet7": {
+      "priority": 999
+    },
+    "illarion:carpet8": {
+      "priority": 999
+    },
+    "illarion:carpet9": {
+      "priority": 999
+    },
+    "illarion:sand1": {
+      "priority": 20,
+      "transitions": [
+        {
+          "tile": "illarion:transitions/sand1/1",
+          "neighbours": [
+            "110",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/2",
+          "neighbours": [
+            "011",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/3",
+          "neighbours": [
+            "100",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/4",
+          "neighbours": [
+            "000",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/5",
+          "neighbours": [
+            "000",
+            "0X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/6",
+          "neighbours": [
+            "000",
+            "0X0",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/7",
+          "neighbours": [
+            "001",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/8",
+          "neighbours": [
+            "000",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/9",
+          "neighbours": [
+            "111",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/10",
+          "neighbours": [
+            "100",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/11",
+          "neighbours": [
+            "000",
+            "0X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/12",
+          "neighbours": [
+            "001",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/13",
+          "neighbours": [
+            "110",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/14",
+          "neighbours": [
+            "011",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/15",
+          "neighbours": [
+            "000",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/16",
+          "neighbours": [
+            "000",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/17",
+          "neighbours": [
+            "111",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/18",
+          "neighbours": [
+            "111",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/19",
+          "neighbours": [
+            "110",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/20",
+          "neighbours": [
+            "100",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/21",
+          "neighbours": [
+            "000",
+            "0X1",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/22",
+          "neighbours": [
+            "000",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/23",
+          "neighbours": [
+            "011",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/24",
+          "neighbours": [
+            "001",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/25",
+          "neighbours": [
+            "111",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/26",
+          "neighbours": [
+            "111",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/27",
+          "neighbours": [
+            "100",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/sand1/28",
+          "neighbours": [
+            "001",
+            "0X1",
+            "111"
+          ]
+        }
+      ]
+    },
+    "illarion:farmland": {
+      "priority": 50,
+      "transitions": [
+        {
+          "tile": "illarion:transitions/farmland/1",
+          "neighbours": [
+            "110",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/2",
+          "neighbours": [
+            "011",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/3",
+          "neighbours": [
+            "100",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/4",
+          "neighbours": [
+            "000",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/5",
+          "neighbours": [
+            "000",
+            "0X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/6",
+          "neighbours": [
+            "000",
+            "0X0",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/7",
+          "neighbours": [
+            "001",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/8",
+          "neighbours": [
+            "000",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/9",
+          "neighbours": [
+            "111",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/10",
+          "neighbours": [
+            "100",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/11",
+          "neighbours": [
+            "000",
+            "0X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/12",
+          "neighbours": [
+            "001",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/13",
+          "neighbours": [
+            "110",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/14",
+          "neighbours": [
+            "011",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/15",
+          "neighbours": [
+            "000",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/16",
+          "neighbours": [
+            "000",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/17",
+          "neighbours": [
+            "111",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/18",
+          "neighbours": [
+            "111",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/19",
+          "neighbours": [
+            "110",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/20",
+          "neighbours": [
+            "100",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/21",
+          "neighbours": [
+            "000",
+            "0X1",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/22",
+          "neighbours": [
+            "000",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/23",
+          "neighbours": [
+            "011",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/24",
+          "neighbours": [
+            "001",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/25",
+          "neighbours": [
+            "111",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/26",
+          "neighbours": [
+            "111",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/27",
+          "neighbours": [
+            "100",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/farmland/28",
+          "neighbours": [
+            "001",
+            "0X1",
+            "111"
+          ]
+        }
+      ]
+    },
+    "illarion:dirt": {
+      "priority": 70,
+      "transitions": [
+        {
+          "tile": "illarion:transitions/dirt/1",
+          "neighbours": [
+            "110",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/2",
+          "neighbours": [
+            "011",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/3",
+          "neighbours": [
+            "100",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/4",
+          "neighbours": [
+            "000",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/5",
+          "neighbours": [
+            "000",
+            "0X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/6",
+          "neighbours": [
+            "000",
+            "0X0",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/7",
+          "neighbours": [
+            "001",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/8",
+          "neighbours": [
+            "000",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/9",
+          "neighbours": [
+            "111",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/10",
+          "neighbours": [
+            "100",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/11",
+          "neighbours": [
+            "000",
+            "0X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/12",
+          "neighbours": [
+            "001",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/13",
+          "neighbours": [
+            "110",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/14",
+          "neighbours": [
+            "011",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/15",
+          "neighbours": [
+            "000",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/16",
+          "neighbours": [
+            "000",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/17",
+          "neighbours": [
+            "111",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/18",
+          "neighbours": [
+            "111",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/19",
+          "neighbours": [
+            "110",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/20",
+          "neighbours": [
+            "100",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/21",
+          "neighbours": [
+            "000",
+            "0X1",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/22",
+          "neighbours": [
+            "000",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/23",
+          "neighbours": [
+            "011",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/24",
+          "neighbours": [
+            "001",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/25",
+          "neighbours": [
+            "111",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/26",
+          "neighbours": [
+            "111",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/27",
+          "neighbours": [
+            "100",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dirt/28",
+          "neighbours": [
+            "001",
+            "0X1",
+            "111"
+          ]
+        }
+      ]
+    },
+    "illarion:dungeonFloor": {
+      "priority": 85,
+      "transitions": [
+        {
+          "tile": "illarion:transitions/dungeonFloor/1",
+          "neighbours": [
+            "110",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/2",
+          "neighbours": [
+            "011",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/3",
+          "neighbours": [
+            "100",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/4",
+          "neighbours": [
+            "000",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/5",
+          "neighbours": [
+            "000",
+            "0X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/6",
+          "neighbours": [
+            "000",
+            "0X0",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/7",
+          "neighbours": [
+            "001",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/8",
+          "neighbours": [
+            "000",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/9",
+          "neighbours": [
+            "111",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/10",
+          "neighbours": [
+            "100",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/11",
+          "neighbours": [
+            "000",
+            "0X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/12",
+          "neighbours": [
+            "001",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/13",
+          "neighbours": [
+            "110",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/14",
+          "neighbours": [
+            "011",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/15",
+          "neighbours": [
+            "000",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/16",
+          "neighbours": [
+            "000",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/17",
+          "neighbours": [
+            "111",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/18",
+          "neighbours": [
+            "111",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/19",
+          "neighbours": [
+            "110",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/20",
+          "neighbours": [
+            "100",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/21",
+          "neighbours": [
+            "000",
+            "0X1",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/22",
+          "neighbours": [
+            "000",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/23",
+          "neighbours": [
+            "011",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/24",
+          "neighbours": [
+            "001",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/25",
+          "neighbours": [
+            "111",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/26",
+          "neighbours": [
+            "111",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/27",
+          "neighbours": [
+            "100",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/dungeonFloor/28",
+          "neighbours": [
+            "001",
+            "0X1",
+            "111"
+          ]
+        }
+      ]
+    },
+    "illarion:stones": {
+      "priority": 60,
+      "transitions": [
+        {
+          "tile": "illarion:transitions/stones/1",
+          "neighbours": [
+            "110",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/2",
+          "neighbours": [
+            "011",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/3",
+          "neighbours": [
+            "100",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/4",
+          "neighbours": [
+            "000",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/5",
+          "neighbours": [
+            "000",
+            "0X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/6",
+          "neighbours": [
+            "000",
+            "0X0",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/7",
+          "neighbours": [
+            "001",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/8",
+          "neighbours": [
+            "000",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/9",
+          "neighbours": [
+            "111",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/10",
+          "neighbours": [
+            "100",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/11",
+          "neighbours": [
+            "000",
+            "0X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/12",
+          "neighbours": [
+            "001",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/13",
+          "neighbours": [
+            "110",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/14",
+          "neighbours": [
+            "011",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/15",
+          "neighbours": [
+            "000",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/16",
+          "neighbours": [
+            "000",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/17",
+          "neighbours": [
+            "111",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/18",
+          "neighbours": [
+            "111",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/19",
+          "neighbours": [
+            "110",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/20",
+          "neighbours": [
+            "100",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/21",
+          "neighbours": [
+            "000",
+            "0X1",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/22",
+          "neighbours": [
+            "000",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/23",
+          "neighbours": [
+            "011",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/24",
+          "neighbours": [
+            "001",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/25",
+          "neighbours": [
+            "111",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/26",
+          "neighbours": [
+            "111",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/27",
+          "neighbours": [
+            "100",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/stones/28",
+          "neighbours": [
+            "001",
+            "0X1",
+            "111"
+          ]
+        }
+      ]
+    },
+    "illarion:lava": {
+      "priority": 10,
+      "transitions": [
+        {
+          "tile": "illarion:transitions/lava/1",
+          "neighbours": [
+            "110",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/2",
+          "neighbours": [
+            "011",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/3",
+          "neighbours": [
+            "100",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/4",
+          "neighbours": [
+            "000",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/5",
+          "neighbours": [
+            "000",
+            "0X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/6",
+          "neighbours": [
+            "000",
+            "0X0",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/7",
+          "neighbours": [
+            "001",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/8",
+          "neighbours": [
+            "000",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/9",
+          "neighbours": [
+            "111",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/10",
+          "neighbours": [
+            "100",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/11",
+          "neighbours": [
+            "000",
+            "0X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/12",
+          "neighbours": [
+            "001",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/13",
+          "neighbours": [
+            "110",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/14",
+          "neighbours": [
+            "011",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/15",
+          "neighbours": [
+            "000",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/16",
+          "neighbours": [
+            "000",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/17",
+          "neighbours": [
+            "111",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/18",
+          "neighbours": [
+            "111",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/19",
+          "neighbours": [
+            "110",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/20",
+          "neighbours": [
+            "100",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/21",
+          "neighbours": [
+            "000",
+            "0X1",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/22",
+          "neighbours": [
+            "000",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/23",
+          "neighbours": [
+            "011",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/24",
+          "neighbours": [
+            "001",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/25",
+          "neighbours": [
+            "111",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/26",
+          "neighbours": [
+            "111",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/27",
+          "neighbours": [
+            "100",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/lava/28",
+          "neighbours": [
+            "001",
+            "0X1",
+            "111"
+          ]
+        }
+      ]
+    },
+    "illarion:snow": {
+      "priority": 100,
+      "transitions": [
+        {
+          "tile": "illarion:transitions/snow/1",
+          "neighbours": [
+            "110",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/2",
+          "neighbours": [
+            "011",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/3",
+          "neighbours": [
+            "100",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/4",
+          "neighbours": [
+            "000",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/5",
+          "neighbours": [
+            "000",
+            "0X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/6",
+          "neighbours": [
+            "000",
+            "0X0",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/7",
+          "neighbours": [
+            "001",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/8",
+          "neighbours": [
+            "000",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/9",
+          "neighbours": [
+            "111",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/10",
+          "neighbours": [
+            "100",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/11",
+          "neighbours": [
+            "000",
+            "0X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/12",
+          "neighbours": [
+            "001",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/13",
+          "neighbours": [
+            "110",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/14",
+          "neighbours": [
+            "011",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/15",
+          "neighbours": [
+            "000",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/16",
+          "neighbours": [
+            "000",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/17",
+          "neighbours": [
+            "111",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/18",
+          "neighbours": [
+            "111",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/19",
+          "neighbours": [
+            "110",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/20",
+          "neighbours": [
+            "100",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/21",
+          "neighbours": [
+            "000",
+            "0X1",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/22",
+          "neighbours": [
+            "000",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/23",
+          "neighbours": [
+            "011",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/24",
+          "neighbours": [
+            "001",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/25",
+          "neighbours": [
+            "111",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/26",
+          "neighbours": [
+            "111",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/27",
+          "neighbours": [
+            "100",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/snow/28",
+          "neighbours": [
+            "001",
+            "0X1",
+            "111"
+          ]
+        }
+      ]
+    },
+    "illarion:street1": {
+      "priority": 40,
+      "transitions": [
+        {
+          "tile": "illarion:transitions/street1/1",
+          "neighbours": [
+            "110",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/2",
+          "neighbours": [
+            "011",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/3",
+          "neighbours": [
+            "100",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/4",
+          "neighbours": [
+            "000",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/5",
+          "neighbours": [
+            "000",
+            "0X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/6",
+          "neighbours": [
+            "000",
+            "0X0",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/7",
+          "neighbours": [
+            "001",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/8",
+          "neighbours": [
+            "000",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/9",
+          "neighbours": [
+            "111",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/10",
+          "neighbours": [
+            "100",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/11",
+          "neighbours": [
+            "000",
+            "0X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/12",
+          "neighbours": [
+            "001",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/13",
+          "neighbours": [
+            "110",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/14",
+          "neighbours": [
+            "011",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/15",
+          "neighbours": [
+            "000",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/16",
+          "neighbours": [
+            "000",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/17",
+          "neighbours": [
+            "111",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/18",
+          "neighbours": [
+            "111",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/19",
+          "neighbours": [
+            "110",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/20",
+          "neighbours": [
+            "100",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/21",
+          "neighbours": [
+            "000",
+            "0X1",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/22",
+          "neighbours": [
+            "000",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/23",
+          "neighbours": [
+            "011",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/24",
+          "neighbours": [
+            "001",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/25",
+          "neighbours": [
+            "111",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/26",
+          "neighbours": [
+            "111",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/27",
+          "neighbours": [
+            "100",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/street1/28",
+          "neighbours": [
+            "001",
+            "0X1",
+            "111"
+          ]
+        }
+      ]
+    },
+    "illarion:forestGround": {
+      "priority": 80,
+      "transitions": [
+        {
+          "tile": "illarion:transitions/forestGround/1",
+          "neighbours": [
+            "110",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/2",
+          "neighbours": [
+            "011",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/3",
+          "neighbours": [
+            "100",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/4",
+          "neighbours": [
+            "000",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/5",
+          "neighbours": [
+            "000",
+            "0X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/6",
+          "neighbours": [
+            "000",
+            "0X0",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/7",
+          "neighbours": [
+            "001",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/8",
+          "neighbours": [
+            "000",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/9",
+          "neighbours": [
+            "111",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/10",
+          "neighbours": [
+            "100",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/11",
+          "neighbours": [
+            "000",
+            "0X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/12",
+          "neighbours": [
+            "001",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/13",
+          "neighbours": [
+            "110",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/14",
+          "neighbours": [
+            "011",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/15",
+          "neighbours": [
+            "000",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/16",
+          "neighbours": [
+            "000",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/17",
+          "neighbours": [
+            "111",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/18",
+          "neighbours": [
+            "111",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/19",
+          "neighbours": [
+            "110",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/20",
+          "neighbours": [
+            "100",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/21",
+          "neighbours": [
+            "000",
+            "0X1",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/22",
+          "neighbours": [
+            "000",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/23",
+          "neighbours": [
+            "011",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/24",
+          "neighbours": [
+            "001",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/25",
+          "neighbours": [
+            "111",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/26",
+          "neighbours": [
+            "111",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/27",
+          "neighbours": [
+            "100",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/forestGround/28",
+          "neighbours": [
+            "001",
+            "0X1",
+            "111"
+          ]
+        }
+      ]
+    },
+    "illarion:grass": {
+      "priority": 90,
+      "transitions": [
+        {
+          "tile": "illarion:transitions/grass/1",
+          "neighbours": [
+            "110",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/2",
+          "neighbours": [
+            "011",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/3",
+          "neighbours": [
+            "100",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/4",
+          "neighbours": [
+            "000",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/5",
+          "neighbours": [
+            "000",
+            "0X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/6",
+          "neighbours": [
+            "000",
+            "0X0",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/7",
+          "neighbours": [
+            "001",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/8",
+          "neighbours": [
+            "000",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/9",
+          "neighbours": [
+            "111",
+            "0X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/10",
+          "neighbours": [
+            "100",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/11",
+          "neighbours": [
+            "000",
+            "0X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/12",
+          "neighbours": [
+            "001",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/13",
+          "neighbours": [
+            "110",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/14",
+          "neighbours": [
+            "011",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/15",
+          "neighbours": [
+            "000",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/16",
+          "neighbours": [
+            "000",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/17",
+          "neighbours": [
+            "111",
+            "1X0",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/18",
+          "neighbours": [
+            "111",
+            "0X1",
+            "000"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/19",
+          "neighbours": [
+            "110",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/20",
+          "neighbours": [
+            "100",
+            "1X0",
+            "110"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/21",
+          "neighbours": [
+            "000",
+            "0X1",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/22",
+          "neighbours": [
+            "000",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/23",
+          "neighbours": [
+            "011",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/24",
+          "neighbours": [
+            "001",
+            "0X1",
+            "011"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/25",
+          "neighbours": [
+            "111",
+            "1X0",
+            "100"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/26",
+          "neighbours": [
+            "111",
+            "0X1",
+            "001"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/27",
+          "neighbours": [
+            "100",
+            "1X0",
+            "111"
+          ]
+        },
+        {
+          "tile": "illarion:transitions/grass/28",
+          "neighbours": [
+            "001",
+            "0X1",
+            "111"
+          ]
+        }
+      ]
+    }
+  }
+}

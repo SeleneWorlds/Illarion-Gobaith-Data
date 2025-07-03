@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "illarion:stones": {
+      "visual": "illarion:tiles/stones",
+      "color": "#9b785a",
+      "slowFactor": 7
+    },
+    "illarion:farmland": {
+      "visual": "illarion:tiles/farmland",
+      "color": "#9b785a",
+      "slowFactor": 7
+    },
+    "illarion:dirt": {
+      "visual": "illarion:tiles/dirt",
+      "color": "#9b785a",
+      "slowFactor": 7
+    },
+    "illarion:forestGround": {
+      "visual": "illarion:tiles/forestGround",
+      "color": "#8ca064",
+      "slowFactor": 6
+    },
+    "illarion:sand1": {
+      "visual": "illarion:tiles/sand1",
+      "color": "#ffff00",
+      "slowFactor": 6
+    },
+    "illarion:dungeonFloor": {
+      "visual": "illarion:tiles/dungeonFloor",
+      "color": "#9b785a",
+      "slowFactor": 6
+    },
+    "illarion:street1": {
+      "visual": "illarion:tiles/street1",
+      "color": "#afb7a5",
+      "slowFactor": 5
+    },
+    "illarion:roof1": {
+      "visual": "illarion:tiles/roof1",
+      "color": "#cd6565",
+      "slowFactor": 5
+    },
+    "illarion:roof2": {
+      "visual": "illarion:tiles/roof2",
+      "color": "#cd6565",
+      "slowFactor": 5
+    },
+    "illarion:roof3": {
+      "visual": "illarion:tiles/roof3",
+      "color": "#cd6565",
+      "slowFactor": 5
+    },
+    "illarion:wall": {
+      "visual": "illarion:tiles/wall",
+      "color": "#afb7a5",
+      "impassable": true,
+      "slowFactor": 5
+    },
+    "illarion:carpet1": {
+      "visual": "illarion:tiles/carpet1",
+      "color": "#ffffcc",
+      "slowFactor": 5
+    },
+    "illarion:carpet2": {
+      "visual": "illarion:tiles/carpet2",
+      "color": "#ffffcc",
+      "slowFactor": 5
+    },
+    "illarion:carpet3": {
+      "visual": "illarion:tiles/carpet3",
+      "color": "#ffffcc",
+      "slowFactor": 5
+    },
+    "illarion:carpet4": {
+      "visual": "illarion:tiles/carpet4",
+      "color": "#ffffcc",
+      "slowFactor": 5
+    },
+    "illarion:carpet5": {
+      "visual": "illarion:tiles/carpet5",
+      "color": "#ffffcc",
+      "slowFactor": 5
+    },
+    "illarion:carpet6": {
+      "visual": "illarion:tiles/carpet6",
+      "color": "#ffffcc",
+      "slowFactor": 5
+    },
+    "illarion:carpet7": {
+      "visual": "illarion:tiles/carpet7",
+      "color": "#ffffcc",
+      "slowFactor": 5
+    },
+    "illarion:carpet8": {
+      "visual": "illarion:tiles/carpet8",
+      "color": "#ffffcc",
+      "slowFactor": 5
+    },
+    "illarion:carpet9": {
+      "visual": "illarion:tiles/carpet9",
+      "color": "#ffffcc",
+      "slowFactor": 5
+    },
+    "illarion:parquet1": {
+      "visual": "illarion:tiles/parquet1",
+      "color": "#cd6565",
+      "slowFactor": 5
+    },
+    "illarion:marble": {
+      "visual": "illarion:tiles/marble",
+      "color": "#ffffcc",
+      "slowFactor": 5
+    },
+    "illarion:lava": {
+      "visual": "illarion:tiles/lava",
+      "color": "#cd6565",
+      "slowFactor": 7
+    },
+    "illarion:snow": {
+      "visual": "illarion:tiles/snow",
+      "color": "#ffffff",
+      "slowFactor": 6
+    },
+    "illarion:grass": {
+      "visual": "illarion:tiles/grass",
+      "color": "#b6d69e",
+      "slowFactor": 6
+    },
+    "illarion:water": {
+      "visual": "illarion:tiles/water",
+      "color": "#7ec1ee",
+      "slowFactor": 5,
+      "impassable": true
+    }
+  }
+}
