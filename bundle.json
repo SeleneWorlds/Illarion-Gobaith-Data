@@ -1,4 +1,7 @@
 {
   "name": "illarion-gobaith-data",
-  "description": "Illarion Gobaith Data"
+  "description": "Illarion Gobaith Data",
+  "entrypoints": [
+    "common/lua/grid.lua"
+  ]
 }
