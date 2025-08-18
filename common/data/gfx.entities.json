@@ -2,9 +2,13 @@
   "entries": {
     "illarion:gfx/lightning": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/lightning"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -13,9 +17,13 @@
     },
     "illarion:gfx/ice": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/ice"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -24,9 +32,13 @@
     },
     "illarion:gfx/elf_fire": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/elf_fire"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -35,9 +47,13 @@
     },
     "illarion:gfx/demon_fire": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/demon_fire"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -46,9 +62,13 @@
     },
     "illarion:gfx/spell": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/spell"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -57,9 +77,13 @@
     },
     "illarion:gfx/wind": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/wind"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -68,9 +92,13 @@
     },
     "illarion:gfx/poison_cloud": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/poison_cloud"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -79,9 +107,13 @@
     },
     "illarion:gfx/fireball": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/fireball"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -90,9 +122,13 @@
     },
     "illarion:gfx/water_splash": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/water_splash"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -101,9 +137,13 @@
     },
     "illarion:gfx/fizzle": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/fizzle"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -112,9 +152,13 @@
     },
     "illarion:gfx/blood": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/blood"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -123,9 +167,13 @@
     },
     "illarion:gfx/bow": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/bow"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -134,9 +182,13 @@
     },
     "illarion:gfx/rain": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/rain"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -145,9 +197,13 @@
     },
     "illarion:gfx/sword": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/sword"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -156,9 +212,13 @@
     },
     "illarion:gfx/shield": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/shield"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -167,9 +227,13 @@
     },
     "illarion:gfx/mace": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/mace"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -178,9 +242,13 @@
     },
     "illarion:gfx/dagger": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/dagger"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -189,9 +257,13 @@
     },
     "illarion:gfx/claw": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/claw"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -200,9 +272,13 @@
     },
     "illarion:gfx/boxing": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/boxing"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -211,9 +287,13 @@
     },
     "illarion:gfx/glowing": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/glowing"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -222,9 +302,13 @@
     },
     "illarion:gfx/fall": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/fall"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -233,9 +317,13 @@
     },
     "illarion:gfx/flame_strike": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/flame_strike"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -244,9 +332,13 @@
     },
     "illarion:gfx/light": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/light"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -255,9 +347,13 @@
     },
     "illarion:gfx/fire_field": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/fire_field"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -266,9 +362,13 @@
     },
     "illarion:gfx/stars": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/stars"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -277,9 +377,13 @@
     },
     "illarion:gfx/explosion": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/explosion"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -288,9 +392,13 @@
     },
     "illarion:gfx/splash": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/splash"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -299,9 +407,13 @@
     },
     "illarion:gfx/sun": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/sun"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -310,9 +422,13 @@
     },
     "illarion:gfx/violet": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/violet"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -321,9 +437,13 @@
     },
     "illarion:gfx/sprinkle": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/sprinkle"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
@@ -332,9 +452,13 @@
     },
     "illarion:gfx/scotty": {
       "components": {
-        "illarion:gfx": {
+        "illarion:visual": {
           "type": "visual",
           "visual": "illarion:gfx/scotty"
+        },
+        "illarion:client_script": {
+          "type": "client_script",
+          "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
         }
       },
       "metadata": {
