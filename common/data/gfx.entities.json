@@ -1,0 +1,345 @@
+{
+  "entries": {
+    "illarion:gfx/lightning": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/lightning"
+        }
+      },
+      "metadata": {
+        "gfxId": 2
+      }
+    },
+    "illarion:gfx/ice": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/ice"
+        }
+      },
+      "metadata": {
+        "gfxId": 3
+      }
+    },
+    "illarion:gfx/elf_fire": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/elf_fire"
+        }
+      },
+      "metadata": {
+        "gfxId": 4
+      }
+    },
+    "illarion:gfx/demon_fire": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/demon_fire"
+        }
+      },
+      "metadata": {
+        "gfxId": 5
+      }
+    },
+    "illarion:gfx/spell": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/spell"
+        }
+      },
+      "metadata": {
+        "gfxId": 6
+      }
+    },
+    "illarion:gfx/wind": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/wind"
+        }
+      },
+      "metadata": {
+        "gfxId": 7
+      }
+    },
+    "illarion:gfx/poison_cloud": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/poison_cloud"
+        }
+      },
+      "metadata": {
+        "gfxId": 8
+      }
+    },
+    "illarion:gfx/fireball": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/fireball"
+        }
+      },
+      "metadata": {
+        "gfxId": 9
+      }
+    },
+    "illarion:gfx/water_splash": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/water_splash"
+        }
+      },
+      "metadata": {
+        "gfxId": 11
+      }
+    },
+    "illarion:gfx/fizzle": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/fizzle"
+        }
+      },
+      "metadata": {
+        "gfxId": 12
+      }
+    },
+    "illarion:gfx/blood": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/blood"
+        }
+      },
+      "metadata": {
+        "gfxId": 13
+      }
+    },
+    "illarion:gfx/bow": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/bow"
+        }
+      },
+      "metadata": {
+        "gfxId": 15
+      }
+    },
+    "illarion:gfx/rain": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/rain"
+        }
+      },
+      "metadata": {
+        "gfxId": 16
+      }
+    },
+    "illarion:gfx/sword": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/sword"
+        }
+      },
+      "metadata": {
+        "gfxId": 17
+      }
+    },
+    "illarion:gfx/shield": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/shield"
+        }
+      },
+      "metadata": {
+        "gfxId": 18
+      }
+    },
+    "illarion:gfx/mace": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/mace"
+        }
+      },
+      "metadata": {
+        "gfxId": 19
+      }
+    },
+    "illarion:gfx/dagger": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/dagger"
+        }
+      },
+      "metadata": {
+        "gfxId": 20
+      }
+    },
+    "illarion:gfx/claw": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/claw"
+        }
+      },
+      "metadata": {
+        "gfxId": 21
+      }
+    },
+    "illarion:gfx/boxing": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/boxing"
+        }
+      },
+      "metadata": {
+        "gfxId": 22
+      }
+    },
+    "illarion:gfx/glowing": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/glowing"
+        }
+      },
+      "metadata": {
+        "gfxId": 31
+      }
+    },
+    "illarion:gfx/fall": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/fall"
+        }
+      },
+      "metadata": {
+        "gfxId": 32
+      }
+    },
+    "illarion:gfx/flame_strike": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/flame_strike"
+        }
+      },
+      "metadata": {
+        "gfxId": 36
+      }
+    },
+    "illarion:gfx/light": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/light"
+        }
+      },
+      "metadata": {
+        "gfxId": 37
+      }
+    },
+    "illarion:gfx/fire_field": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/fire_field"
+        }
+      },
+      "metadata": {
+        "gfxId": 38
+      }
+    },
+    "illarion:gfx/stars": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/stars"
+        }
+      },
+      "metadata": {
+        "gfxId": 41
+      }
+    },
+    "illarion:gfx/explosion": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/explosion"
+        }
+      },
+      "metadata": {
+        "gfxId": 44
+      }
+    },
+    "illarion:gfx/splash": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/splash"
+        }
+      },
+      "metadata": {
+        "gfxId": 45
+      }
+    },
+    "illarion:gfx/sun": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/sun"
+        }
+      },
+      "metadata": {
+        "gfxId": 46
+      }
+    },
+    "illarion:gfx/violet": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/violet"
+        }
+      },
+      "metadata": {
+        "gfxId": 51
+      }
+    },
+    "illarion:gfx/sprinkle": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/sprinkle"
+        }
+      },
+      "metadata": {
+        "gfxId": 52
+      }
+    },
+    "illarion:gfx/scotty": {
+      "components": {
+        "illarion:gfx": {
+          "type": "visual",
+          "visual": "illarion:gfx/scotty"
+        }
+      },
+      "metadata": {
+        "gfxId": 53
+      }
+    }
+  }
+}
