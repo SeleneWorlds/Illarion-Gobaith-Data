@@ -11,6 +11,10 @@
         "illarion:skills": {
             "suffix": "skills",
             "platform": "server"
+        },
+        "illarion:lte": {
+            "suffix": "lte",
+            "platform": "server"
         }
     }
 }
