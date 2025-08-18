@@ -1,6 +1,7 @@
 {
   "entries": {
     "illarion:human_male": {
+      "tags": ["illarion:character"],
       "components": {
         "illarion:body": {
           "type": "visual",
@@ -16,6 +17,7 @@
       }
     },
     "illarion:human_female": {
+      "tags": ["illarion:character"],
       "components": {
         "illarion:body": {
           "type": "visual",
