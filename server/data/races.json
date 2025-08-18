@@ -222,6 +222,11 @@
         "id": "116"
       }
     },
-    etting = 117
+    "illarion:etting": {
+      "metadata": {
+        "name": "etting",
+        "id": "117"
+      }
+    }
   }
 }
