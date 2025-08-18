@@ -3,6 +3,14 @@
         "illarion:sounds": {
             "suffix": "illasounds",
             "platform": "server"
+        },
+        "illarion:races": {
+            "suffix": "races",
+            "platform": "server"
+        },
+        "illarion:skills": {
+            "suffix": "skills",
+            "platform": "server"
         }
     }
 }
