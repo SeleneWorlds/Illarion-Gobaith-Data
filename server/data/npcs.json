@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "illarion:borgate": {
+      "metadata": {
+        "npcId": 396
+      },
+      "type": 1,
+      "x": -83,
+      "y": -101,
+      "z": 0,
+      "facing": 6,
+      "healer": false,
+      "name": "Borgate Northoff",
+      "script": "npc.borgate_northoff",
+      "sex": 0,
+      "hair": 2,
+      "beard": 3,
+      "hairRed": 126,
+      "hairGreen": 75,
+      "hairBlue": 30,
+      "skinRed": 217,
+      "skinGreen": 154,
+      "skinBlue": 123,
+      "hairAlpha": 255,
+      "skinAlpha": 255
+    }
+  }
+}
