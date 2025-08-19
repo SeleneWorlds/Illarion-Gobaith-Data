@@ -7,7 +7,7 @@
       }
     },
     "illarion:dwarf": {
-      "entityMale": "illarion:human_male",
+      "entityMale": "illarion:dwarf_male",
       "metadata": {
         "name": "dwarf",
         "raceId": 1

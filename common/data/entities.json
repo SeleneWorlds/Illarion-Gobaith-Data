@@ -31,6 +31,22 @@
           }
         }
       }
+    },
+    "illarion:dwarf_male": {
+      "tags": ["illarion:character"],
+      "components": {
+        "illarion:body": {
+          "type": "visual",
+          "visual": "illarion:chars/dwarf_male"
+        },
+        "illarion:name": {
+          "type": "visual",
+          "visual": "illarion:labels/character",
+          "properties": {
+            "label": "Dwarf"
+          }
+        }
+      }
     }
   }
 }
