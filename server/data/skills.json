@@ -300,6 +300,12 @@
         "id": "39"
       }
     },
+    "illarion:wandMagic": {
+      "metadata": {
+        "name": "wandMagic",
+        "id": "52"
+      }
+    },
     "illarion:waterMagic": {
       "metadata": {
         "name": "waterMagic",
