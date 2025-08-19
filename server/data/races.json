@@ -43,24 +43,36 @@
       }
     },
     "illarion:forestTroll": {
+      "strokeArmor": 7,
+      "punctureArmor": 14,
+      "thrustArmor": 14,
       "metadata": {
         "name": "forestTroll",
         "id": "9"
       }
     },
     "illarion:mummy": {
+      "strokeArmor": 2,
+      "punctureArmor": 10,
+      "thrustArmor": 5,
       "metadata": {
         "name": "mummy",
         "id": "10"
       }
     },
     "illarion:skeleton": {
+      "strokeArmor": 17,
+      "punctureArmor": 35,
+      "thrustArmor": 5,
       "metadata": {
         "name": "skeleton",
         "id": "11"
       }
     },
     "illarion:floatingEye": {
+      "strokeArmor": 13,
+      "punctureArmor": 13,
+      "thrustArmor": 5,
       "metadata": {
         "name": "floatingEye",
         "id": "12"
@@ -73,6 +85,9 @@
       }
     },
     "illarion:spider": {
+      "strokeArmor": 15,
+      "punctureArmor": 5,
+      "thrustArmor": 30,
       "metadata": {
         "name": "spider",
         "id": "19"
@@ -85,24 +100,36 @@
       }
     },
     "illarion:wasp": {
+      "strokeArmor": 17,
+      "punctureArmor": 15,
+      "thrustArmor": 6,
       "metadata": {
         "name": "wasp",
         "id": "27"
       }
     },
     "illarion:golem": {
+      "strokeArmor": 40,
+      "punctureArmor": 40,
+      "thrustArmor": 23,
       "metadata": {
         "name": "golem",
         "id": "30"
       }
     },
     "illarion:cow": {
+      "strokeArmor": 7,
+      "punctureArmor": 3,
+      "thrustArmor": 5,
       "metadata": {
         "name": "cow",
         "id": "37"
       }
     },
     "illarion:wolf": {
+      "strokeArmor": 7,
+      "punctureArmor": 3,
+      "thrustArmor": 5,
       "metadata": {
         "name": "wolf",
         "id": "39"
@@ -187,6 +214,9 @@
       }
     },
     "illarion:rat": {
+      "strokeArmor": 15,
+      "punctureArmor": 15,
+      "thrustArmor": 15,
       "metadata": {
         "name": "rat",
         "id": "111"

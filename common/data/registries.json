@@ -15,6 +15,14 @@
         "illarion:lte": {
             "suffix": "lte",
             "platform": "server"
+        },
+        "illarion:weapons": {
+            "suffix": "weapons",
+            "platform": "server"
+        },
+        "illarion:armors": {
+            "suffix": "armors",
+            "platform": "server"
         }
     }
 }
