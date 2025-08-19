@@ -2,7 +2,7 @@
   "entries": {
     "illarion:item_0": {
       "metadata": {
-        "itemId": "0"
+        "itemId": 0
       },
       "bodyParts": 0,
       "puncture": 0,
@@ -15,7 +15,7 @@
     },
     "illarion:item_34": {
       "metadata": {
-        "itemId": "34"
+        "itemId": 34
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -28,7 +28,7 @@
     },
     "illarion:item_55": {
       "metadata": {
-        "itemId": "55"
+        "itemId": 55
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -41,7 +41,7 @@
     },
     "illarion:item_62": {
       "metadata": {
-        "itemId": "62"
+        "itemId": 62
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -54,7 +54,7 @@
     },
     "illarion:item_67": {
       "metadata": {
-        "itemId": "67"
+        "itemId": 67
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -67,7 +67,7 @@
     },
     "illarion:item_71": {
       "metadata": {
-        "itemId": "71"
+        "itemId": 71
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -80,7 +80,7 @@
     },
     "illarion:item_79": {
       "metadata": {
-        "itemId": "79"
+        "itemId": 79
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -93,7 +93,7 @@
     },
     "illarion:item_82": {
       "metadata": {
-        "itemId": "82"
+        "itemId": 82
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -106,7 +106,7 @@
     },
     "illarion:item_83": {
       "metadata": {
-        "itemId": "83"
+        "itemId": 83
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -119,7 +119,7 @@
     },
     "illarion:item_180": {
       "metadata": {
-        "itemId": "180"
+        "itemId": 180
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -132,7 +132,7 @@
     },
     "illarion:item_181": {
       "metadata": {
-        "itemId": "181"
+        "itemId": 181
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -145,7 +145,7 @@
     },
     "illarion:item_182": {
       "metadata": {
-        "itemId": "182"
+        "itemId": 182
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -158,7 +158,7 @@
     },
     "illarion:item_183": {
       "metadata": {
-        "itemId": "183"
+        "itemId": 183
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -171,7 +171,7 @@
     },
     "illarion:item_193": {
       "metadata": {
-        "itemId": "193"
+        "itemId": 193
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -184,7 +184,7 @@
     },
     "illarion:item_194": {
       "metadata": {
-        "itemId": "194"
+        "itemId": 194
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -197,7 +197,7 @@
     },
     "illarion:item_195": {
       "metadata": {
-        "itemId": "195"
+        "itemId": 195
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -210,7 +210,7 @@
     },
     "illarion:item_196": {
       "metadata": {
-        "itemId": "196"
+        "itemId": 196
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -223,7 +223,7 @@
     },
     "illarion:item_806": {
       "metadata": {
-        "itemId": "806"
+        "itemId": 806
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -236,7 +236,7 @@
     },
     "illarion:item_807": {
       "metadata": {
-        "itemId": "807"
+        "itemId": 807
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -249,7 +249,7 @@
     },
     "illarion:item_808": {
       "metadata": {
-        "itemId": "808"
+        "itemId": 808
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -262,7 +262,7 @@
     },
     "illarion:item_809": {
       "metadata": {
-        "itemId": "809"
+        "itemId": 809
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -275,7 +275,7 @@
     },
     "illarion:item_810": {
       "metadata": {
-        "itemId": "810"
+        "itemId": 810
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -288,7 +288,7 @@
     },
     "illarion:item_811": {
       "metadata": {
-        "itemId": "811"
+        "itemId": 811
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -301,7 +301,7 @@
     },
     "illarion:item_812": {
       "metadata": {
-        "itemId": "812"
+        "itemId": 812
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -314,7 +314,7 @@
     },
     "illarion:item_813": {
       "metadata": {
-        "itemId": "813"
+        "itemId": 813
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -327,7 +327,7 @@
     },
     "illarion:item_814": {
       "metadata": {
-        "itemId": "814"
+        "itemId": 814
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -340,7 +340,7 @@
     },
     "illarion:item_815": {
       "metadata": {
-        "itemId": "815"
+        "itemId": 815
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -353,7 +353,7 @@
     },
     "illarion:item_816": {
       "metadata": {
-        "itemId": "816"
+        "itemId": 816
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -366,7 +366,7 @@
     },
     "illarion:item_817": {
       "metadata": {
-        "itemId": "817"
+        "itemId": 817
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -379,7 +379,7 @@
     },
     "illarion:item_818": {
       "metadata": {
-        "itemId": "818"
+        "itemId": 818
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -392,7 +392,7 @@
     },
     "illarion:item_819": {
       "metadata": {
-        "itemId": "819"
+        "itemId": 819
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -405,7 +405,7 @@
     },
     "illarion:item_820": {
       "metadata": {
-        "itemId": "820"
+        "itemId": 820
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -418,7 +418,7 @@
     },
     "illarion:item_821": {
       "metadata": {
-        "itemId": "821"
+        "itemId": 821
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -431,7 +431,7 @@
     },
     "illarion:item_822": {
       "metadata": {
-        "itemId": "822"
+        "itemId": 822
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -444,7 +444,7 @@
     },
     "illarion:item_823": {
       "metadata": {
-        "itemId": "823"
+        "itemId": 823
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -457,7 +457,7 @@
     },
     "illarion:item_824": {
       "metadata": {
-        "itemId": "824"
+        "itemId": 824
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -470,7 +470,7 @@
     },
     "illarion:item_825": {
       "metadata": {
-        "itemId": "825"
+        "itemId": 825
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -483,7 +483,7 @@
     },
     "illarion:item_826": {
       "metadata": {
-        "itemId": "826"
+        "itemId": 826
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -496,7 +496,7 @@
     },
     "illarion:item_827": {
       "metadata": {
-        "itemId": "827"
+        "itemId": 827
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -509,7 +509,7 @@
     },
     "illarion:item_828": {
       "metadata": {
-        "itemId": "828"
+        "itemId": 828
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -522,7 +522,7 @@
     },
     "illarion:item_829": {
       "metadata": {
-        "itemId": "829"
+        "itemId": 829
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -535,7 +535,7 @@
     },
     "illarion:item_830": {
       "metadata": {
-        "itemId": "830"
+        "itemId": 830
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -548,7 +548,7 @@
     },
     "illarion:item_831": {
       "metadata": {
-        "itemId": "831"
+        "itemId": 831
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -561,7 +561,7 @@
     },
     "illarion:item_832": {
       "metadata": {
-        "itemId": "832"
+        "itemId": 832
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -574,7 +574,7 @@
     },
     "illarion:item_839": {
       "metadata": {
-        "itemId": "839"
+        "itemId": 839
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -587,7 +587,7 @@
     },
     "illarion:item_840": {
       "metadata": {
-        "itemId": "840"
+        "itemId": 840
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -600,7 +600,7 @@
     },
     "illarion:item_841": {
       "metadata": {
-        "itemId": "841"
+        "itemId": 841
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -613,7 +613,7 @@
     },
     "illarion:item_842": {
       "metadata": {
-        "itemId": "842"
+        "itemId": 842
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -626,7 +626,7 @@
     },
     "illarion:item_843": {
       "metadata": {
-        "itemId": "843"
+        "itemId": 843
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -639,7 +639,7 @@
     },
     "illarion:item_844": {
       "metadata": {
-        "itemId": "844"
+        "itemId": 844
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -652,7 +652,7 @@
     },
     "illarion:item_1055": {
       "metadata": {
-        "itemId": "1055"
+        "itemId": 1055
       },
       "bodyParts": 128,
       "puncture": 51,
@@ -665,7 +665,7 @@
     },
     "illarion:item_1056": {
       "metadata": {
-        "itemId": "1056"
+        "itemId": 1056
       },
       "bodyParts": 128,
       "puncture": 19,
@@ -678,7 +678,7 @@
     },
     "illarion:item_1058": {
       "metadata": {
-        "itemId": "1058"
+        "itemId": 1058
       },
       "bodyParts": 128,
       "puncture": 23,
@@ -691,7 +691,7 @@
     },
     "illarion:item_1095": {
       "metadata": {
-        "itemId": "1095"
+        "itemId": 1095
       },
       "bodyParts": 4,
       "puncture": 19,
@@ -704,7 +704,7 @@
     },
     "illarion:item_1442": {
       "metadata": {
-        "itemId": "1442"
+        "itemId": 1442
       },
       "bodyParts": 4,
       "puncture": 42,
@@ -717,7 +717,7 @@
     },
     "illarion:item_1443": {
       "metadata": {
-        "itemId": "1443"
+        "itemId": 1443
       },
       "bodyParts": 4,
       "puncture": 37,
@@ -730,7 +730,7 @@
     },
     "illarion:item_1444": {
       "metadata": {
-        "itemId": "1444"
+        "itemId": 1444
       },
       "bodyParts": 4,
       "puncture": 46,
@@ -743,7 +743,7 @@
     },
     "illarion:item_1445": {
       "metadata": {
-        "itemId": "1445"
+        "itemId": 1445
       },
       "bodyParts": 4,
       "puncture": 55,
@@ -756,7 +756,7 @@
     },
     "illarion:item_1446": {
       "metadata": {
-        "itemId": "1446"
+        "itemId": 1446
       },
       "bodyParts": 4,
       "puncture": 73,
@@ -769,7 +769,7 @@
     },
     "illarion:item_1447": {
       "metadata": {
-        "itemId": "1447"
+        "itemId": 1447
       },
       "bodyParts": 8,
       "puncture": 5,
@@ -782,7 +782,7 @@
     },
     "illarion:item_1448": {
       "metadata": {
-        "itemId": "1448"
+        "itemId": 1448
       },
       "bodyParts": 8,
       "puncture": 5,
@@ -795,7 +795,7 @@
     },
     "illarion:item_1449": {
       "metadata": {
-        "itemId": "1449"
+        "itemId": 1449
       },
       "bodyParts": 8,
       "puncture": 5,
@@ -808,7 +808,7 @@
     },
     "illarion:item_1450": {
       "metadata": {
-        "itemId": "1450"
+        "itemId": 1450
       },
       "bodyParts": 8,
       "puncture": 5,
@@ -821,7 +821,7 @@
     },
     "illarion:item_1451": {
       "metadata": {
-        "itemId": "1451"
+        "itemId": 1451
       },
       "bodyParts": 8,
       "puncture": 5,
@@ -834,7 +834,7 @@
     },
     "illarion:item_1452": {
       "metadata": {
-        "itemId": "1452"
+        "itemId": 1452
       },
       "bodyParts": 8,
       "puncture": 5,
@@ -847,7 +847,7 @@
     },
     "illarion:item_1453": {
       "metadata": {
-        "itemId": "1453"
+        "itemId": 1453
       },
       "bodyParts": 8,
       "puncture": 8,
@@ -860,7 +860,7 @@
     },
     "illarion:item_1454": {
       "metadata": {
-        "itemId": "1454"
+        "itemId": 1454
       },
       "bodyParts": 8,
       "puncture": 28,
@@ -873,7 +873,7 @@
     },
     "illarion:item_1455": {
       "metadata": {
-        "itemId": "1455"
+        "itemId": 1455
       },
       "bodyParts": 8,
       "puncture": 41,
@@ -886,7 +886,7 @@
     },
     "illarion:item_1456": {
       "metadata": {
-        "itemId": "1456"
+        "itemId": 1456
       },
       "bodyParts": 8,
       "puncture": 48,
@@ -899,7 +899,7 @@
     },
     "illarion:item_1457": {
       "metadata": {
-        "itemId": "1457"
+        "itemId": 1457
       },
       "bodyParts": 8,
       "puncture": 55,
@@ -912,7 +912,7 @@
     },
     "illarion:item_1458": {
       "metadata": {
-        "itemId": "1458"
+        "itemId": 1458
       },
       "bodyParts": 8,
       "puncture": 68,
@@ -925,7 +925,7 @@
     },
     "illarion:item_1459": {
       "metadata": {
-        "itemId": "1459"
+        "itemId": 1459
       },
       "bodyParts": 8,
       "puncture": 75,
@@ -938,7 +938,7 @@
     },
     "illarion:item_1460": {
       "metadata": {
-        "itemId": "1460"
+        "itemId": 1460
       },
       "bodyParts": 8,
       "puncture": 5,
@@ -951,7 +951,7 @@
     },
     "illarion:item_1461": {
       "metadata": {
-        "itemId": "1461"
+        "itemId": 1461
       },
       "bodyParts": 8,
       "puncture": 10,
@@ -964,7 +964,7 @@
     },
     "illarion:item_1462": {
       "metadata": {
-        "itemId": "1462"
+        "itemId": 1462
       },
       "bodyParts": 8,
       "puncture": 14,
@@ -977,7 +977,7 @@
     },
     "illarion:item_1463": {
       "metadata": {
-        "itemId": "1463"
+        "itemId": 1463
       },
       "bodyParts": 8,
       "puncture": 19,
@@ -990,7 +990,7 @@
     },
     "illarion:item_1464": {
       "metadata": {
-        "itemId": "1464"
+        "itemId": 1464
       },
       "bodyParts": 8,
       "puncture": 23,
@@ -1003,7 +1003,7 @@
     },
     "illarion:item_1465": {
       "metadata": {
-        "itemId": "1465"
+        "itemId": 1465
       },
       "bodyParts": 8,
       "puncture": 32,
@@ -1016,7 +1016,7 @@
     },
     "illarion:item_1466": {
       "metadata": {
-        "itemId": "1466"
+        "itemId": 1466
       },
       "bodyParts": 8,
       "puncture": 37,
@@ -1029,7 +1029,7 @@
     },
     "illarion:item_1467": {
       "metadata": {
-        "itemId": "1467"
+        "itemId": 1467
       },
       "bodyParts": 8,
       "puncture": 41,
@@ -1042,7 +1042,7 @@
     },
     "illarion:item_1468": {
       "metadata": {
-        "itemId": "1468"
+        "itemId": 1468
       },
       "bodyParts": 8,
       "puncture": 46,
@@ -1055,7 +1055,7 @@
     },
     "illarion:item_1469": {
       "metadata": {
-        "itemId": "1469"
+        "itemId": 1469
       },
       "bodyParts": 8,
       "puncture": 50,
@@ -1068,7 +1068,7 @@
     },
     "illarion:item_1470": {
       "metadata": {
-        "itemId": "1470"
+        "itemId": 1470
       },
       "bodyParts": 8,
       "puncture": 10,
@@ -1081,7 +1081,7 @@
     },
     "illarion:item_1471": {
       "metadata": {
-        "itemId": "1471"
+        "itemId": 1471
       },
       "bodyParts": 8,
       "puncture": 28,
@@ -1094,7 +1094,7 @@
     },
     "illarion:item_1472": {
       "metadata": {
-        "itemId": "1472"
+        "itemId": 1472
       },
       "bodyParts": 8,
       "puncture": 37,
@@ -1107,7 +1107,7 @@
     },
     "illarion:item_1491": {
       "metadata": {
-        "itemId": "1491"
+        "itemId": 1491
       },
       "bodyParts": 64,
       "puncture": 50,
@@ -1120,7 +1120,7 @@
     },
     "illarion:item_1492": {
       "metadata": {
-        "itemId": "1492"
+        "itemId": 1492
       },
       "bodyParts": 64,
       "puncture": 10,
@@ -1133,7 +1133,7 @@
     },
     "illarion:item_1493": {
       "metadata": {
-        "itemId": "1493"
+        "itemId": 1493
       },
       "bodyParts": 64,
       "puncture": 28,
@@ -1146,7 +1146,7 @@
     },
     "illarion:item_1494": {
       "metadata": {
-        "itemId": "1494"
+        "itemId": 1494
       },
       "bodyParts": 64,
       "puncture": 37,
@@ -1159,7 +1159,7 @@
     },
     "illarion:item_1495": {
       "metadata": {
-        "itemId": "1495"
+        "itemId": 1495
       },
       "bodyParts": 64,
       "puncture": 55,
@@ -1172,7 +1172,7 @@
     },
     "illarion:item_1496": {
       "metadata": {
-        "itemId": "1496"
+        "itemId": 1496
       },
       "bodyParts": 64,
       "puncture": 64,
@@ -1185,7 +1185,7 @@
     },
     "illarion:item_1497": {
       "metadata": {
-        "itemId": "1497"
+        "itemId": 1497
       },
       "bodyParts": 64,
       "puncture": 82,
@@ -1198,7 +1198,7 @@
     },
     "illarion:item_1498": {
       "metadata": {
-        "itemId": "1498"
+        "itemId": 1498
       },
       "bodyParts": 64,
       "puncture": 91,
@@ -1211,7 +1211,7 @@
     },
     "illarion:item_1499": {
       "metadata": {
-        "itemId": "1499"
+        "itemId": 1499
       },
       "bodyParts": 64,
       "puncture": 100,
@@ -1224,7 +1224,7 @@
     },
     "illarion:item_1500": {
       "metadata": {
-        "itemId": "1500"
+        "itemId": 1500
       },
       "bodyParts": 128,
       "puncture": 8,
@@ -1237,7 +1237,7 @@
     },
     "illarion:item_1501": {
       "metadata": {
-        "itemId": "1501"
+        "itemId": 1501
       },
       "bodyParts": 128,
       "puncture": 21,
@@ -1250,7 +1250,7 @@
     },
     "illarion:item_1502": {
       "metadata": {
-        "itemId": "1502"
+        "itemId": 1502
       },
       "bodyParts": 128,
       "puncture": 28,
@@ -1263,7 +1263,7 @@
     },
     "illarion:item_1503": {
       "metadata": {
-        "itemId": "1503"
+        "itemId": 1503
       },
       "bodyParts": 128,
       "puncture": 41,
@@ -1276,7 +1276,7 @@
     },
     "illarion:item_1504": {
       "metadata": {
-        "itemId": "1504"
+        "itemId": 1504
       },
       "bodyParts": 128,
       "puncture": 48,
@@ -1289,7 +1289,7 @@
     },
     "illarion:item_1054": {
       "metadata": {
-        "itemId": "1054"
+        "itemId": 1054
       },
       "bodyParts": 128,
       "puncture": 32,
@@ -1302,7 +1302,7 @@
     },
     "illarion:item_3917": {
       "metadata": {
-        "itemId": "3917"
+        "itemId": 3917
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -1315,7 +1315,7 @@
     },
     "illarion:item_1057": {
       "metadata": {
-        "itemId": "1057"
+        "itemId": 1057
       },
       "bodyParts": 128,
       "puncture": 14,
@@ -1328,7 +1328,7 @@
     },
     "illarion:item_7": {
       "metadata": {
-        "itemId": "7"
+        "itemId": 7
       },
       "bodyParts": 1,
       "puncture": 21,
@@ -1341,7 +1341,7 @@
     },
     "illarion:item_16": {
       "metadata": {
-        "itemId": "16"
+        "itemId": 16
       },
       "bodyParts": 1,
       "puncture": 10,
@@ -1354,7 +1354,7 @@
     },
     "illarion:item_48": {
       "metadata": {
-        "itemId": "48"
+        "itemId": 48
       },
       "bodyParts": 8,
       "puncture": 21,
@@ -1367,7 +1367,7 @@
     },
     "illarion:item_53": {
       "metadata": {
-        "itemId": "53"
+        "itemId": 53
       },
       "bodyParts": 128,
       "puncture": 35,
@@ -1380,7 +1380,7 @@
     },
     "illarion:item_68": {
       "metadata": {
-        "itemId": "68"
+        "itemId": 68
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -1393,7 +1393,7 @@
     },
     "illarion:item_94": {
       "metadata": {
-        "itemId": "94"
+        "itemId": 94
       },
       "bodyParts": 1,
       "puncture": 55,
@@ -1406,7 +1406,7 @@
     },
     "illarion:item_101": {
       "metadata": {
-        "itemId": "101"
+        "itemId": 101
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -1419,7 +1419,7 @@
     },
     "illarion:item_184": {
       "metadata": {
-        "itemId": "184"
+        "itemId": 184
       },
       "bodyParts": 1,
       "puncture": 91,
@@ -1432,7 +1432,7 @@
     },
     "illarion:item_185": {
       "metadata": {
-        "itemId": "185"
+        "itemId": 185
       },
       "bodyParts": 1,
       "puncture": 100,
@@ -1445,7 +1445,7 @@
     },
     "illarion:item_187": {
       "metadata": {
-        "itemId": "187"
+        "itemId": 187
       },
       "bodyParts": 1,
       "puncture": 28,
@@ -1458,7 +1458,7 @@
     },
     "illarion:item_202": {
       "metadata": {
-        "itemId": "202"
+        "itemId": 202
       },
       "bodyParts": 1,
       "puncture": 10,
@@ -1471,7 +1471,7 @@
     },
     "illarion:item_235": {
       "metadata": {
-        "itemId": "235"
+        "itemId": 235
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -1484,7 +1484,7 @@
     },
     "illarion:item_277": {
       "metadata": {
-        "itemId": "277"
+        "itemId": 277
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -1497,7 +1497,7 @@
     },
     "illarion:item_278": {
       "metadata": {
-        "itemId": "278"
+        "itemId": 278
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -1510,7 +1510,7 @@
     },
     "illarion:item_279": {
       "metadata": {
-        "itemId": "279"
+        "itemId": 279
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -1523,7 +1523,7 @@
     },
     "illarion:item_281": {
       "metadata": {
-        "itemId": "281"
+        "itemId": 281
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -1536,7 +1536,7 @@
     },
     "illarion:item_282": {
       "metadata": {
-        "itemId": "282"
+        "itemId": 282
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -1549,7 +1549,7 @@
     },
     "illarion:item_324": {
       "metadata": {
-        "itemId": "324"
+        "itemId": 324
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -1562,7 +1562,7 @@
     },
     "illarion:item_325": {
       "metadata": {
-        "itemId": "325"
+        "itemId": 325
       },
       "bodyParts": 8,
       "puncture": 19,
@@ -1575,7 +1575,7 @@
     },
     "illarion:item_326": {
       "metadata": {
-        "itemId": "326"
+        "itemId": 326
       },
       "bodyParts": 128,
       "puncture": 28,
@@ -1588,7 +1588,7 @@
     },
     "illarion:item_356": {
       "metadata": {
-        "itemId": "356"
+        "itemId": 356
       },
       "bodyParts": 1,
       "puncture": 8,
@@ -1601,7 +1601,7 @@
     },
     "illarion:item_362": {
       "metadata": {
-        "itemId": "362"
+        "itemId": 362
       },
       "bodyParts": 4,
       "puncture": 68,
@@ -1614,7 +1614,7 @@
     },
     "illarion:item_363": {
       "metadata": {
-        "itemId": "363"
+        "itemId": 363
       },
       "bodyParts": 4,
       "puncture": 14,
@@ -1627,7 +1627,7 @@
     },
     "illarion:item_364": {
       "metadata": {
-        "itemId": "364"
+        "itemId": 364
       },
       "bodyParts": 4,
       "puncture": 62,
@@ -1640,7 +1640,7 @@
     },
     "illarion:item_365": {
       "metadata": {
-        "itemId": "365"
+        "itemId": 365
       },
       "bodyParts": 4,
       "puncture": 35,
@@ -1653,7 +1653,7 @@
     },
     "illarion:item_366": {
       "metadata": {
-        "itemId": "366"
+        "itemId": 366
       },
       "bodyParts": 64,
       "puncture": 35,
@@ -1666,7 +1666,7 @@
     },
     "illarion:item_367": {
       "metadata": {
-        "itemId": "367"
+        "itemId": 367
       },
       "bodyParts": 64,
       "puncture": 14,
@@ -1679,7 +1679,7 @@
     },
     "illarion:item_369": {
       "metadata": {
-        "itemId": "369"
+        "itemId": 369
       },
       "bodyParts": 128,
       "puncture": 14,
@@ -1692,7 +1692,7 @@
     },
     "illarion:item_384": {
       "metadata": {
-        "itemId": "384"
+        "itemId": 384
       },
       "bodyParts": 8,
       "puncture": 14,
@@ -1705,7 +1705,7 @@
     },
     "illarion:item_526": {
       "metadata": {
-        "itemId": "526"
+        "itemId": 526
       },
       "bodyParts": 8,
       "puncture": 35,
@@ -1718,7 +1718,7 @@
     },
     "illarion:item_527": {
       "metadata": {
-        "itemId": "527"
+        "itemId": 527
       },
       "bodyParts": 8,
       "puncture": 62,
@@ -1731,7 +1731,7 @@
     },
     "illarion:item_528": {
       "metadata": {
-        "itemId": "528"
+        "itemId": 528
       },
       "bodyParts": 8,
       "puncture": 28,
@@ -1744,7 +1744,7 @@
     },
     "illarion:item_529": {
       "metadata": {
-        "itemId": "529"
+        "itemId": 529
       },
       "bodyParts": 8,
       "puncture": 51,
@@ -1757,7 +1757,7 @@
     },
     "illarion:item_530": {
       "metadata": {
-        "itemId": "530"
+        "itemId": 530
       },
       "bodyParts": 8,
       "puncture": 73,
@@ -1770,7 +1770,7 @@
     },
     "illarion:item_531": {
       "metadata": {
-        "itemId": "531"
+        "itemId": 531
       },
       "bodyParts": 8,
       "puncture": 82,
@@ -1783,7 +1783,7 @@
     },
     "illarion:item_648": {
       "metadata": {
-        "itemId": "648"
+        "itemId": 648
       },
       "bodyParts": 1,
       "puncture": 68,
@@ -1796,7 +1796,7 @@
     },
     "illarion:item_696": {
       "metadata": {
-        "itemId": "696"
+        "itemId": 696
       },
       "bodyParts": 4,
       "puncture": 30,
@@ -1809,7 +1809,7 @@
     },
     "illarion:item_697": {
       "metadata": {
-        "itemId": "697"
+        "itemId": 697
       },
       "bodyParts": 128,
       "puncture": 55,
@@ -1822,7 +1822,7 @@
     },
     "illarion:item_280": {
       "metadata": {
-        "itemId": "280"
+        "itemId": 280
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -1835,7 +1835,7 @@
     },
     "illarion:item_698": {
       "metadata": {
-        "itemId": "698"
+        "itemId": 698
       },
       "bodyParts": 128,
       "puncture": 68,
@@ -1848,7 +1848,7 @@
     },
     "illarion:item_699": {
       "metadata": {
-        "itemId": "699"
+        "itemId": 699
       },
       "bodyParts": 128,
       "puncture": 46,
@@ -1861,7 +1861,7 @@
     },
     "illarion:item_770": {
       "metadata": {
-        "itemId": "770"
+        "itemId": 770
       },
       "bodyParts": 128,
       "puncture": 91,
@@ -1874,7 +1874,7 @@
     },
     "illarion:item_771": {
       "metadata": {
-        "itemId": "771"
+        "itemId": 771
       },
       "bodyParts": 128,
       "puncture": 64,
@@ -1887,7 +1887,7 @@
     },
     "illarion:item_1505": {
       "metadata": {
-        "itemId": "1505"
+        "itemId": 1505
       },
       "bodyParts": 128,
       "puncture": 62,
@@ -1900,7 +1900,7 @@
     },
     "illarion:item_1506": {
       "metadata": {
-        "itemId": "1506"
+        "itemId": 1506
       },
       "bodyParts": 128,
       "puncture": 75,
@@ -1913,7 +1913,7 @@
     },
     "illarion:item_1507": {
       "metadata": {
-        "itemId": "1507"
+        "itemId": 1507
       },
       "bodyParts": 128,
       "puncture": 5,
@@ -1926,7 +1926,7 @@
     },
     "illarion:item_1508": {
       "metadata": {
-        "itemId": "1508"
+        "itemId": 1508
       },
       "bodyParts": 128,
       "puncture": 10,
@@ -1939,7 +1939,7 @@
     },
     "illarion:item_1509": {
       "metadata": {
-        "itemId": "1509"
+        "itemId": 1509
       },
       "bodyParts": 128,
       "puncture": 28,
@@ -1952,7 +1952,7 @@
     },
     "illarion:item_1510": {
       "metadata": {
-        "itemId": "1510"
+        "itemId": 1510
       },
       "bodyParts": 128,
       "puncture": 37,
@@ -1965,7 +1965,7 @@
     },
     "illarion:item_1511": {
       "metadata": {
-        "itemId": "1511"
+        "itemId": 1511
       },
       "bodyParts": 128,
       "puncture": 41,
@@ -1978,7 +1978,7 @@
     },
     "illarion:item_1512": {
       "metadata": {
-        "itemId": "1512"
+        "itemId": 1512
       },
       "bodyParts": 128,
       "puncture": 50,
@@ -1991,7 +1991,7 @@
     },
     "illarion:item_1513": {
       "metadata": {
-        "itemId": "1513"
+        "itemId": 1513
       },
       "bodyParts": 128,
       "puncture": 19,
@@ -2004,7 +2004,7 @@
     },
     "illarion:item_1514": {
       "metadata": {
-        "itemId": "1514"
+        "itemId": 1514
       },
       "bodyParts": 128,
       "puncture": 37,
@@ -2017,7 +2017,7 @@
     },
     "illarion:item_1515": {
       "metadata": {
-        "itemId": "1515"
+        "itemId": 1515
       },
       "bodyParts": 128,
       "puncture": 46,
@@ -2030,7 +2030,7 @@
     },
     "illarion:item_1516": {
       "metadata": {
-        "itemId": "1516"
+        "itemId": 1516
       },
       "bodyParts": 128,
       "puncture": 55,
@@ -2043,7 +2043,7 @@
     },
     "illarion:item_1517": {
       "metadata": {
-        "itemId": "1517"
+        "itemId": 1517
       },
       "bodyParts": 128,
       "puncture": 73,
@@ -2056,7 +2056,7 @@
     },
     "illarion:item_1518": {
       "metadata": {
-        "itemId": "1518"
+        "itemId": 1518
       },
       "bodyParts": 128,
       "puncture": 82,
@@ -2069,7 +2069,7 @@
     },
     "illarion:item_1519": {
       "metadata": {
-        "itemId": "1519"
+        "itemId": 1519
       },
       "bodyParts": 128,
       "puncture": 100,
@@ -2082,7 +2082,7 @@
     },
     "illarion:item_1520": {
       "metadata": {
-        "itemId": "1520"
+        "itemId": 1520
       },
       "bodyParts": 128,
       "puncture": 5,
@@ -2095,7 +2095,7 @@
     },
     "illarion:item_2111": {
       "metadata": {
-        "itemId": "2111"
+        "itemId": 2111
       },
       "bodyParts": 64,
       "puncture": 46,
@@ -2108,7 +2108,7 @@
     },
     "illarion:item_2112": {
       "metadata": {
-        "itemId": "2112"
+        "itemId": 2112
       },
       "bodyParts": 64,
       "puncture": 37,
@@ -2121,7 +2121,7 @@
     },
     "illarion:item_2113": {
       "metadata": {
-        "itemId": "2113"
+        "itemId": 2113
       },
       "bodyParts": 64,
       "puncture": 68,
@@ -2134,7 +2134,7 @@
     },
     "illarion:item_2114": {
       "metadata": {
-        "itemId": "2114"
+        "itemId": 2114
       },
       "bodyParts": 64,
       "puncture": 55,
@@ -2147,7 +2147,7 @@
     },
     "illarion:item_2116": {
       "metadata": {
-        "itemId": "2116"
+        "itemId": 2116
       },
       "bodyParts": 64,
       "puncture": 46,
@@ -2160,7 +2160,7 @@
     },
     "illarion:item_2117": {
       "metadata": {
-        "itemId": "2117"
+        "itemId": 2117
       },
       "bodyParts": 64,
       "puncture": 19,
@@ -2173,7 +2173,7 @@
     },
     "illarion:item_2172": {
       "metadata": {
-        "itemId": "2172"
+        "itemId": 2172
       },
       "bodyParts": 64,
       "puncture": 73,
@@ -2186,7 +2186,7 @@
     },
     "illarion:item_2193": {
       "metadata": {
-        "itemId": "2193"
+        "itemId": 2193
       },
       "bodyParts": 64,
       "puncture": 23,
@@ -2199,7 +2199,7 @@
     },
     "illarion:item_2194": {
       "metadata": {
-        "itemId": "2194"
+        "itemId": 2194
       },
       "bodyParts": 64,
       "puncture": 10,
@@ -2212,7 +2212,7 @@
     },
     "illarion:item_2286": {
       "metadata": {
-        "itemId": "2286"
+        "itemId": 2286
       },
       "bodyParts": 1,
       "puncture": 50,
@@ -2225,7 +2225,7 @@
     },
     "illarion:item_2287": {
       "metadata": {
-        "itemId": "2287"
+        "itemId": 2287
       },
       "bodyParts": 1,
       "puncture": 82,
@@ -2238,7 +2238,7 @@
     },
     "illarion:item_2290": {
       "metadata": {
-        "itemId": "2290"
+        "itemId": 2290
       },
       "bodyParts": 1,
       "puncture": 46,
@@ -2251,7 +2251,7 @@
     },
     "illarion:item_2291": {
       "metadata": {
-        "itemId": "2291"
+        "itemId": 2291
       },
       "bodyParts": 1,
       "puncture": 46,
@@ -2264,7 +2264,7 @@
     },
     "illarion:item_2295": {
       "metadata": {
-        "itemId": "2295"
+        "itemId": 2295
       },
       "bodyParts": 8,
       "puncture": 5,
@@ -2277,7 +2277,7 @@
     },
     "illarion:item_2302": {
       "metadata": {
-        "itemId": "2302"
+        "itemId": 2302
       },
       "bodyParts": 1,
       "puncture": 37,
@@ -2290,7 +2290,7 @@
     },
     "illarion:item_2303": {
       "metadata": {
-        "itemId": "2303"
+        "itemId": 2303
       },
       "bodyParts": 1,
       "puncture": 87,
@@ -2303,7 +2303,7 @@
     },
     "illarion:item_2357": {
       "metadata": {
-        "itemId": "2357"
+        "itemId": 2357
       },
       "bodyParts": 4,
       "puncture": 55,
@@ -2316,7 +2316,7 @@
     },
     "illarion:item_2359": {
       "metadata": {
-        "itemId": "2359"
+        "itemId": 2359
       },
       "bodyParts": 4,
       "puncture": 10,
@@ -2329,7 +2329,7 @@
     },
     "illarion:item_2360": {
       "metadata": {
-        "itemId": "2360"
+        "itemId": 2360
       },
       "bodyParts": 4,
       "puncture": 14,
@@ -2342,7 +2342,7 @@
     },
     "illarion:item_2363": {
       "metadata": {
-        "itemId": "2363"
+        "itemId": 2363
       },
       "bodyParts": 4,
       "puncture": 100,
@@ -2355,7 +2355,7 @@
     },
     "illarion:item_1415": {
       "metadata": {
-        "itemId": "1415"
+        "itemId": 1415
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -2368,7 +2368,7 @@
     },
     "illarion:item_1416": {
       "metadata": {
-        "itemId": "1416"
+        "itemId": 1416
       },
       "bodyParts": 1,
       "puncture": 14,
@@ -2381,7 +2381,7 @@
     },
     "illarion:item_1417": {
       "metadata": {
-        "itemId": "1417"
+        "itemId": 1417
       },
       "bodyParts": 1,
       "puncture": 28,
@@ -2394,7 +2394,7 @@
     },
     "illarion:item_1418": {
       "metadata": {
-        "itemId": "1418"
+        "itemId": 1418
       },
       "bodyParts": 1,
       "puncture": 35,
@@ -2407,7 +2407,7 @@
     },
     "illarion:item_1419": {
       "metadata": {
-        "itemId": "1419"
+        "itemId": 1419
       },
       "bodyParts": 1,
       "puncture": 41,
@@ -2420,7 +2420,7 @@
     },
     "illarion:item_1420": {
       "metadata": {
-        "itemId": "1420"
+        "itemId": 1420
       },
       "bodyParts": 1,
       "puncture": 48,
@@ -2433,7 +2433,7 @@
     },
     "illarion:item_1421": {
       "metadata": {
-        "itemId": "1421"
+        "itemId": 1421
       },
       "bodyParts": 1,
       "puncture": 55,
@@ -2446,7 +2446,7 @@
     },
     "illarion:item_1422": {
       "metadata": {
-        "itemId": "1422"
+        "itemId": 1422
       },
       "bodyParts": 1,
       "puncture": 62,
@@ -2459,7 +2459,7 @@
     },
     "illarion:item_1423": {
       "metadata": {
-        "itemId": "1423"
+        "itemId": 1423
       },
       "bodyParts": 1,
       "puncture": 68,
@@ -2472,7 +2472,7 @@
     },
     "illarion:item_1424": {
       "metadata": {
-        "itemId": "1424"
+        "itemId": 1424
       },
       "bodyParts": 1,
       "puncture": 75,
@@ -2485,7 +2485,7 @@
     },
     "illarion:item_1425": {
       "metadata": {
-        "itemId": "1425"
+        "itemId": 1425
       },
       "bodyParts": 1,
       "puncture": 14,
@@ -2498,7 +2498,7 @@
     },
     "illarion:item_1426": {
       "metadata": {
-        "itemId": "1426"
+        "itemId": 1426
       },
       "bodyParts": 1,
       "puncture": 23,
@@ -2511,7 +2511,7 @@
     },
     "illarion:item_1427": {
       "metadata": {
-        "itemId": "1427"
+        "itemId": 1427
       },
       "bodyParts": 1,
       "puncture": 32,
@@ -2524,7 +2524,7 @@
     },
     "illarion:item_1428": {
       "metadata": {
-        "itemId": "1428"
+        "itemId": 1428
       },
       "bodyParts": 1,
       "puncture": 41,
@@ -2537,7 +2537,7 @@
     },
     "illarion:item_1429": {
       "metadata": {
-        "itemId": "1429"
+        "itemId": 1429
       },
       "bodyParts": 1,
       "puncture": 19,
@@ -2550,7 +2550,7 @@
     },
     "illarion:item_1430": {
       "metadata": {
-        "itemId": "1430"
+        "itemId": 1430
       },
       "bodyParts": 1,
       "puncture": 37,
@@ -2563,7 +2563,7 @@
     },
     "illarion:item_1431": {
       "metadata": {
-        "itemId": "1431"
+        "itemId": 1431
       },
       "bodyParts": 1,
       "puncture": 64,
@@ -2576,7 +2576,7 @@
     },
     "illarion:item_1432": {
       "metadata": {
-        "itemId": "1432"
+        "itemId": 1432
       },
       "bodyParts": 1,
       "puncture": 73,
@@ -2589,7 +2589,7 @@
     },
     "illarion:item_1433": {
       "metadata": {
-        "itemId": "1433"
+        "itemId": 1433
       },
       "bodyParts": 4,
       "puncture": 8,
@@ -2602,7 +2602,7 @@
     },
     "illarion:item_1434": {
       "metadata": {
-        "itemId": "1434"
+        "itemId": 1434
       },
       "bodyParts": 4,
       "puncture": 21,
@@ -2615,7 +2615,7 @@
     },
     "illarion:item_1435": {
       "metadata": {
-        "itemId": "1435"
+        "itemId": 1435
       },
       "bodyParts": 4,
       "puncture": 41,
@@ -2628,7 +2628,7 @@
     },
     "illarion:item_1436": {
       "metadata": {
-        "itemId": "1436"
+        "itemId": 1436
       },
       "bodyParts": 4,
       "puncture": 48,
@@ -2641,7 +2641,7 @@
     },
     "illarion:item_1437": {
       "metadata": {
-        "itemId": "1437"
+        "itemId": 1437
       },
       "bodyParts": 4,
       "puncture": 75,
@@ -2654,7 +2654,7 @@
     },
     "illarion:item_1438": {
       "metadata": {
-        "itemId": "1438"
+        "itemId": 1438
       },
       "bodyParts": 4,
       "puncture": 28,
@@ -2667,7 +2667,7 @@
     },
     "illarion:item_1439": {
       "metadata": {
-        "itemId": "1439"
+        "itemId": 1439
       },
       "bodyParts": 4,
       "puncture": 32,
@@ -2680,7 +2680,7 @@
     },
     "illarion:item_1440": {
       "metadata": {
-        "itemId": "1440"
+        "itemId": 1440
       },
       "bodyParts": 4,
       "puncture": 41,
@@ -2693,7 +2693,7 @@
     },
     "illarion:item_1441": {
       "metadata": {
-        "itemId": "1441"
+        "itemId": 1441
       },
       "bodyParts": 4,
       "puncture": 19,
@@ -2706,7 +2706,7 @@
     },
     "illarion:item_2364": {
       "metadata": {
-        "itemId": "2364"
+        "itemId": 2364
       },
       "bodyParts": 4,
       "puncture": 28,
@@ -2719,7 +2719,7 @@
     },
     "illarion:item_2365": {
       "metadata": {
-        "itemId": "2365"
+        "itemId": 2365
       },
       "bodyParts": 4,
       "puncture": 46,
@@ -2732,7 +2732,7 @@
     },
     "illarion:item_2367": {
       "metadata": {
-        "itemId": "2367"
+        "itemId": 2367
       },
       "bodyParts": 4,
       "puncture": 82,
@@ -2745,7 +2745,7 @@
     },
     "illarion:item_2369": {
       "metadata": {
-        "itemId": "2369"
+        "itemId": 2369
       },
       "bodyParts": 4,
       "puncture": 64,
@@ -2758,7 +2758,7 @@
     },
     "illarion:item_2377": {
       "metadata": {
-        "itemId": "2377"
+        "itemId": 2377
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -2771,7 +2771,7 @@
     },
     "illarion:item_2378": {
       "metadata": {
-        "itemId": "2378"
+        "itemId": 2378
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -2784,7 +2784,7 @@
     },
     "illarion:item_2380": {
       "metadata": {
-        "itemId": "2380"
+        "itemId": 2380
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -2797,7 +2797,7 @@
     },
     "illarion:item_2384": {
       "metadata": {
-        "itemId": "2384"
+        "itemId": 2384
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -2810,7 +2810,7 @@
     },
     "illarion:item_2389": {
       "metadata": {
-        "itemId": "2389"
+        "itemId": 2389
       },
       "bodyParts": 4,
       "puncture": 37,
@@ -2823,7 +2823,7 @@
     },
     "illarion:item_2390": {
       "metadata": {
-        "itemId": "2390"
+        "itemId": 2390
       },
       "bodyParts": 4,
       "puncture": 69,
@@ -2836,7 +2836,7 @@
     },
     "illarion:item_2393": {
       "metadata": {
-        "itemId": "2393"
+        "itemId": 2393
       },
       "bodyParts": 4,
       "puncture": 91,
@@ -2849,7 +2849,7 @@
     },
     "illarion:item_2395": {
       "metadata": {
-        "itemId": "2395"
+        "itemId": 2395
       },
       "bodyParts": 4,
       "puncture": 51,
@@ -2862,7 +2862,7 @@
     },
     "illarion:item_2399": {
       "metadata": {
-        "itemId": "2399"
+        "itemId": 2399
       },
       "bodyParts": 4,
       "puncture": 51,
@@ -2875,7 +2875,7 @@
     },
     "illarion:item_2400": {
       "metadata": {
-        "itemId": "2400"
+        "itemId": 2400
       },
       "bodyParts": 4,
       "puncture": 50,
@@ -2888,7 +2888,7 @@
     },
     "illarion:item_2402": {
       "metadata": {
-        "itemId": "2402"
+        "itemId": 2402
       },
       "bodyParts": 4,
       "puncture": 87,
@@ -2901,7 +2901,7 @@
     },
     "illarion:item_2403": {
       "metadata": {
-        "itemId": "2403"
+        "itemId": 2403
       },
       "bodyParts": 4,
       "puncture": 23,
@@ -2914,7 +2914,7 @@
     },
     "illarion:item_2407": {
       "metadata": {
-        "itemId": "2407"
+        "itemId": 2407
       },
       "bodyParts": 4,
       "puncture": 28,
@@ -2927,7 +2927,7 @@
     },
     "illarion:item_2416": {
       "metadata": {
-        "itemId": "2416"
+        "itemId": 2416
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -2940,7 +2940,7 @@
     },
     "illarion:item_2418": {
       "metadata": {
-        "itemId": "2418"
+        "itemId": 2418
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -2953,7 +2953,7 @@
     },
     "illarion:item_2419": {
       "metadata": {
-        "itemId": "2419"
+        "itemId": 2419
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -2966,7 +2966,7 @@
     },
     "illarion:item_2420": {
       "metadata": {
-        "itemId": "2420"
+        "itemId": 2420
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -2979,7 +2979,7 @@
     },
     "illarion:item_2421": {
       "metadata": {
-        "itemId": "2421"
+        "itemId": 2421
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -2992,7 +2992,7 @@
     },
     "illarion:item_2441": {
       "metadata": {
-        "itemId": "2441"
+        "itemId": 2441
       },
       "bodyParts": 1,
       "puncture": 28,
@@ -3005,7 +3005,7 @@
     },
     "illarion:item_2444": {
       "metadata": {
-        "itemId": "2444"
+        "itemId": 2444
       },
       "bodyParts": 1,
       "puncture": 19,
@@ -3018,7 +3018,7 @@
     },
     "illarion:item_2559": {
       "metadata": {
-        "itemId": "2559"
+        "itemId": 2559
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3031,7 +3031,7 @@
     },
     "illarion:item_3526": {
       "metadata": {
-        "itemId": "3526"
+        "itemId": 3526
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3044,7 +3044,7 @@
     },
     "illarion:item_3527": {
       "metadata": {
-        "itemId": "3527"
+        "itemId": 3527
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3057,7 +3057,7 @@
     },
     "illarion:item_3528": {
       "metadata": {
-        "itemId": "3528"
+        "itemId": 3528
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3070,7 +3070,7 @@
     },
     "illarion:item_3529": {
       "metadata": {
-        "itemId": "3529"
+        "itemId": 3529
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3083,7 +3083,7 @@
     },
     "illarion:item_3530": {
       "metadata": {
-        "itemId": "3530"
+        "itemId": 3530
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3096,7 +3096,7 @@
     },
     "illarion:item_3531": {
       "metadata": {
-        "itemId": "3531"
+        "itemId": 3531
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3109,7 +3109,7 @@
     },
     "illarion:item_3532": {
       "metadata": {
-        "itemId": "3532"
+        "itemId": 3532
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3122,7 +3122,7 @@
     },
     "illarion:item_3533": {
       "metadata": {
-        "itemId": "3533"
+        "itemId": 3533
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3135,7 +3135,7 @@
     },
     "illarion:item_3535": {
       "metadata": {
-        "itemId": "3535"
+        "itemId": 3535
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3148,7 +3148,7 @@
     },
     "illarion:item_3536": {
       "metadata": {
-        "itemId": "3536"
+        "itemId": 3536
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3161,7 +3161,7 @@
     },
     "illarion:item_3537": {
       "metadata": {
-        "itemId": "3537"
+        "itemId": 3537
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3174,7 +3174,7 @@
     },
     "illarion:item_3538": {
       "metadata": {
-        "itemId": "3538"
+        "itemId": 3538
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3187,7 +3187,7 @@
     },
     "illarion:item_3539": {
       "metadata": {
-        "itemId": "3539"
+        "itemId": 3539
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3200,7 +3200,7 @@
     },
     "illarion:item_3540": {
       "metadata": {
-        "itemId": "3540"
+        "itemId": 3540
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3213,7 +3213,7 @@
     },
     "illarion:item_3541": {
       "metadata": {
-        "itemId": "3541"
+        "itemId": 3541
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3226,7 +3226,7 @@
     },
     "illarion:item_3542": {
       "metadata": {
-        "itemId": "3542"
+        "itemId": 3542
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3239,7 +3239,7 @@
     },
     "illarion:item_3543": {
       "metadata": {
-        "itemId": "3543"
+        "itemId": 3543
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3252,7 +3252,7 @@
     },
     "illarion:item_3544": {
       "metadata": {
-        "itemId": "3544"
+        "itemId": 3544
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3265,7 +3265,7 @@
     },
     "illarion:item_3545": {
       "metadata": {
-        "itemId": "3545"
+        "itemId": 3545
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3278,7 +3278,7 @@
     },
     "illarion:item_3546": {
       "metadata": {
-        "itemId": "3546"
+        "itemId": 3546
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3291,7 +3291,7 @@
     },
     "illarion:item_3547": {
       "metadata": {
-        "itemId": "3547"
+        "itemId": 3547
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3304,7 +3304,7 @@
     },
     "illarion:item_3548": {
       "metadata": {
-        "itemId": "3548"
+        "itemId": 3548
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3317,7 +3317,7 @@
     },
     "illarion:item_3549": {
       "metadata": {
-        "itemId": "3549"
+        "itemId": 3549
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3330,7 +3330,7 @@
     },
     "illarion:item_3550": {
       "metadata": {
-        "itemId": "3550"
+        "itemId": 3550
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3343,7 +3343,7 @@
     },
     "illarion:item_3551": {
       "metadata": {
-        "itemId": "3551"
+        "itemId": 3551
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3356,7 +3356,7 @@
     },
     "illarion:item_3552": {
       "metadata": {
-        "itemId": "3552"
+        "itemId": 3552
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3369,7 +3369,7 @@
     },
     "illarion:item_3553": {
       "metadata": {
-        "itemId": "3553"
+        "itemId": 3553
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3382,7 +3382,7 @@
     },
     "illarion:item_3554": {
       "metadata": {
-        "itemId": "3554"
+        "itemId": 3554
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3395,7 +3395,7 @@
     },
     "illarion:item_3555": {
       "metadata": {
-        "itemId": "3555"
+        "itemId": 3555
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3408,7 +3408,7 @@
     },
     "illarion:item_3556": {
       "metadata": {
-        "itemId": "3556"
+        "itemId": 3556
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -3421,7 +3421,7 @@
     },
     "illarion:item_3557": {
       "metadata": {
-        "itemId": "3557"
+        "itemId": 3557
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -3434,7 +3434,7 @@
     },
     "illarion:item_3558": {
       "metadata": {
-        "itemId": "3558"
+        "itemId": 3558
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3447,7 +3447,7 @@
     },
     "illarion:item_3559": {
       "metadata": {
-        "itemId": "3559"
+        "itemId": 3559
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3460,7 +3460,7 @@
     },
     "illarion:item_3560": {
       "metadata": {
-        "itemId": "3560"
+        "itemId": 3560
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3473,7 +3473,7 @@
     },
     "illarion:item_3561": {
       "metadata": {
-        "itemId": "3561"
+        "itemId": 3561
       },
       "bodyParts": 32,
       "puncture": 0,
@@ -3486,7 +3486,7 @@
     },
     "illarion:item_3708": {
       "metadata": {
-        "itemId": "3708"
+        "itemId": 3708
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -3499,7 +3499,7 @@
     },
     "illarion:item_3868": {
       "metadata": {
-        "itemId": "3868"
+        "itemId": 3868
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -3512,7 +3512,7 @@
     },
     "illarion:item_222": {
       "metadata": {
-        "itemId": "222"
+        "itemId": 222
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3525,7 +3525,7 @@
     },
     "illarion:item_225": {
       "metadata": {
-        "itemId": "225"
+        "itemId": 225
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -3538,7 +3538,7 @@
     },
     "illarion:item_334": {
       "metadata": {
-        "itemId": "334"
+        "itemId": 334
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3551,7 +3551,7 @@
     },
     "illarion:item_357": {
       "metadata": {
-        "itemId": "357"
+        "itemId": 357
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -3564,7 +3564,7 @@
     },
     "illarion:item_358": {
       "metadata": {
-        "itemId": "358"
+        "itemId": 358
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -3577,7 +3577,7 @@
     },
     "illarion:item_368": {
       "metadata": {
-        "itemId": "368"
+        "itemId": 368
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -3590,7 +3590,7 @@
     },
     "illarion:item_370": {
       "metadata": {
-        "itemId": "370"
+        "itemId": 370
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -3603,7 +3603,7 @@
     },
     "illarion:item_371": {
       "metadata": {
-        "itemId": "371"
+        "itemId": 371
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -3616,7 +3616,7 @@
     },
     "illarion:item_457": {
       "metadata": {
-        "itemId": "457"
+        "itemId": 457
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -3629,7 +3629,7 @@
     },
     "illarion:item_458": {
       "metadata": {
-        "itemId": "458"
+        "itemId": 458
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -3642,7 +3642,7 @@
     },
     "illarion:item_459": {
       "metadata": {
-        "itemId": "459"
+        "itemId": 459
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -3655,7 +3655,7 @@
     },
     "illarion:item_460": {
       "metadata": {
-        "itemId": "460"
+        "itemId": 460
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -3668,7 +3668,7 @@
     },
     "illarion:item_461": {
       "metadata": {
-        "itemId": "461"
+        "itemId": 461
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -3681,7 +3681,7 @@
     },
     "illarion:item_465": {
       "metadata": {
-        "itemId": "465"
+        "itemId": 465
       },
       "bodyParts": 1,
       "puncture": 5,
@@ -3694,7 +3694,7 @@
     },
     "illarion:item_547": {
       "metadata": {
-        "itemId": "547"
+        "itemId": 547
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -3707,7 +3707,7 @@
     },
     "illarion:item_548": {
       "metadata": {
-        "itemId": "548"
+        "itemId": 548
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -3720,7 +3720,7 @@
     },
     "illarion:item_558": {
       "metadata": {
-        "itemId": "558"
+        "itemId": 558
       },
       "bodyParts": 16,
       "puncture": 0,
@@ -3733,7 +3733,7 @@
     },
     "illarion:item_802": {
       "metadata": {
-        "itemId": "802"
+        "itemId": 802
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -3746,7 +3746,7 @@
     },
     "illarion:item_803": {
       "metadata": {
-        "itemId": "803"
+        "itemId": 803
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -3759,7 +3759,7 @@
     },
     "illarion:item_1473": {
       "metadata": {
-        "itemId": "1473"
+        "itemId": 1473
       },
       "bodyParts": 8,
       "puncture": 46,
@@ -3772,7 +3772,7 @@
     },
     "illarion:item_1474": {
       "metadata": {
-        "itemId": "1474"
+        "itemId": 1474
       },
       "bodyParts": 8,
       "puncture": 55,
@@ -3785,7 +3785,7 @@
     },
     "illarion:item_1475": {
       "metadata": {
-        "itemId": "1475"
+        "itemId": 1475
       },
       "bodyParts": 8,
       "puncture": 64,
@@ -3798,7 +3798,7 @@
     },
     "illarion:item_1476": {
       "metadata": {
-        "itemId": "1476"
+        "itemId": 1476
       },
       "bodyParts": 8,
       "puncture": 91,
@@ -3811,7 +3811,7 @@
     },
     "illarion:item_1477": {
       "metadata": {
-        "itemId": "1477"
+        "itemId": 1477
       },
       "bodyParts": 8,
       "puncture": 100,
@@ -3824,7 +3824,7 @@
     },
     "illarion:item_3534": {
       "metadata": {
-        "itemId": "3534"
+        "itemId": 3534
       },
       "bodyParts": 2,
       "puncture": 0,
@@ -3837,7 +3837,7 @@
     },
     "illarion:item_1478": {
       "metadata": {
-        "itemId": "1478"
+        "itemId": 1478
       },
       "bodyParts": 64,
       "puncture": 8,
@@ -3850,7 +3850,7 @@
     },
     "illarion:item_1479": {
       "metadata": {
-        "itemId": "1479"
+        "itemId": 1479
       },
       "bodyParts": 64,
       "puncture": 21,
@@ -3863,7 +3863,7 @@
     },
     "illarion:item_1480": {
       "metadata": {
-        "itemId": "1480"
+        "itemId": 1480
       },
       "bodyParts": 64,
       "puncture": 28,
@@ -3876,7 +3876,7 @@
     },
     "illarion:item_1481": {
       "metadata": {
-        "itemId": "1481"
+        "itemId": 1481
       },
       "bodyParts": 64,
       "puncture": 41,
@@ -3889,7 +3889,7 @@
     },
     "illarion:item_1482": {
       "metadata": {
-        "itemId": "1482"
+        "itemId": 1482
       },
       "bodyParts": 64,
       "puncture": 48,
@@ -3902,7 +3902,7 @@
     },
     "illarion:item_1483": {
       "metadata": {
-        "itemId": "1483"
+        "itemId": 1483
       },
       "bodyParts": 64,
       "puncture": 62,
@@ -3915,7 +3915,7 @@
     },
     "illarion:item_1484": {
       "metadata": {
-        "itemId": "1484"
+        "itemId": 1484
       },
       "bodyParts": 64,
       "puncture": 75,
@@ -3928,7 +3928,7 @@
     },
     "illarion:item_1485": {
       "metadata": {
-        "itemId": "1485"
+        "itemId": 1485
       },
       "bodyParts": 64,
       "puncture": 5,
@@ -3941,7 +3941,7 @@
     },
     "illarion:item_1486": {
       "metadata": {
-        "itemId": "1486"
+        "itemId": 1486
       },
       "bodyParts": 64,
       "puncture": 14,
@@ -3954,7 +3954,7 @@
     },
     "illarion:item_1487": {
       "metadata": {
-        "itemId": "1487"
+        "itemId": 1487
       },
       "bodyParts": 64,
       "puncture": 19,
@@ -3967,7 +3967,7 @@
     },
     "illarion:item_1488": {
       "metadata": {
-        "itemId": "1488"
+        "itemId": 1488
       },
       "bodyParts": 64,
       "puncture": 28,
@@ -3980,7 +3980,7 @@
     },
     "illarion:item_1489": {
       "metadata": {
-        "itemId": "1489"
+        "itemId": 1489
       },
       "bodyParts": 64,
       "puncture": 32,
@@ -3993,7 +3993,7 @@
     },
     "illarion:item_1490": {
       "metadata": {
-        "itemId": "1490"
+        "itemId": 1490
       },
       "bodyParts": 64,
       "puncture": 41,
@@ -4006,7 +4006,7 @@
     },
     "illarion:item_4": {
       "metadata": {
-        "itemId": "4"
+        "itemId": 4
       },
       "bodyParts": 4,
       "puncture": 10,
@@ -4019,7 +4019,7 @@
     },
     "illarion:item_848": {
       "metadata": {
-        "itemId": "848"
+        "itemId": 848
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4032,7 +4032,7 @@
     },
     "illarion:item_850": {
       "metadata": {
-        "itemId": "850"
+        "itemId": 850
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4045,7 +4045,7 @@
     },
     "illarion:item_852": {
       "metadata": {
-        "itemId": "852"
+        "itemId": 852
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4058,7 +4058,7 @@
     },
     "illarion:item_851": {
       "metadata": {
-        "itemId": "851"
+        "itemId": 851
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4071,7 +4071,7 @@
     },
     "illarion:item_845": {
       "metadata": {
-        "itemId": "845"
+        "itemId": 845
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4084,7 +4084,7 @@
     },
     "illarion:item_846": {
       "metadata": {
-        "itemId": "846"
+        "itemId": 846
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4097,7 +4097,7 @@
     },
     "illarion:item_847": {
       "metadata": {
-        "itemId": "847"
+        "itemId": 847
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4110,7 +4110,7 @@
     },
     "illarion:item_849": {
       "metadata": {
-        "itemId": "849"
+        "itemId": 849
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4123,7 +4123,7 @@
     },
     "illarion:item_835": {
       "metadata": {
-        "itemId": "835"
+        "itemId": 835
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4136,7 +4136,7 @@
     },
     "illarion:item_836": {
       "metadata": {
-        "itemId": "836"
+        "itemId": 836
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4149,7 +4149,7 @@
     },
     "illarion:item_837": {
       "metadata": {
-        "itemId": "837"
+        "itemId": 837
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4162,7 +4162,7 @@
     },
     "illarion:item_838": {
       "metadata": {
-        "itemId": "838"
+        "itemId": 838
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4175,7 +4175,7 @@
     },
     "illarion:item_833": {
       "metadata": {
-        "itemId": "833"
+        "itemId": 833
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4188,7 +4188,7 @@
     },
     "illarion:item_834": {
       "metadata": {
-        "itemId": "834"
+        "itemId": 834
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4201,7 +4201,7 @@
     },
     "illarion:item_805": {
       "metadata": {
-        "itemId": "805"
+        "itemId": 805
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4214,7 +4214,7 @@
     },
     "illarion:item_800": {
       "metadata": {
-        "itemId": "800"
+        "itemId": 800
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4227,7 +4227,7 @@
     },
     "illarion:item_385": {
       "metadata": {
-        "itemId": "385"
+        "itemId": 385
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4240,7 +4240,7 @@
     },
     "illarion:item_804": {
       "metadata": {
-        "itemId": "804"
+        "itemId": 804
       },
       "bodyParts": 4,
       "puncture": 5,
@@ -4253,7 +4253,7 @@
     },
     "illarion:item_801": {
       "metadata": {
-        "itemId": "801"
+        "itemId": 801
       },
       "bodyParts": 4,
       "puncture": 5,

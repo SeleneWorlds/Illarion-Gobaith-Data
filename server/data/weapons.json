@@ -2,7 +2,7 @@
   "entries": {
     "illarion:item_1046": {
       "metadata": {
-        "itemId": "1046"
+        "itemId": 1046
       },
       "attack": 13,
       "defence": 0,
@@ -17,7 +17,7 @@
     },
     "illarion:item_2635": {
       "metadata": {
-        "itemId": "2635"
+        "itemId": 2635
       },
       "attack": 13,
       "defence": 3,
@@ -32,7 +32,7 @@
     },
     "illarion:item_2711": {
       "metadata": {
-        "itemId": "2711"
+        "itemId": 2711
       },
       "attack": 13,
       "defence": 3,
@@ -47,7 +47,7 @@
     },
     "illarion:item_917": {
       "metadata": {
-        "itemId": "917"
+        "itemId": 917
       },
       "attack": 14,
       "defence": 30,
@@ -62,7 +62,7 @@
     },
     "illarion:item_2694": {
       "metadata": {
-        "itemId": "2694"
+        "itemId": 2694
       },
       "attack": 14,
       "defence": 8,
@@ -77,7 +77,7 @@
     },
     "illarion:item_2740": {
       "metadata": {
-        "itemId": "2740"
+        "itemId": 2740
       },
       "attack": 14,
       "defence": 13,
@@ -92,7 +92,7 @@
     },
     "illarion:item_389": {
       "metadata": {
-        "itemId": "389"
+        "itemId": 389
       },
       "attack": 16,
       "defence": 15,
@@ -107,7 +107,7 @@
     },
     "illarion:item_2757": {
       "metadata": {
-        "itemId": "2757"
+        "itemId": 2757
       },
       "attack": 16,
       "defence": 10,
@@ -122,7 +122,7 @@
     },
     "illarion:item_1521": {
       "metadata": {
-        "itemId": "1521"
+        "itemId": 1521
       },
       "attack": 17,
       "defence": 5,
@@ -137,7 +137,7 @@
     },
     "illarion:item_297": {
       "metadata": {
-        "itemId": "297"
+        "itemId": 297
       },
       "attack": 18,
       "defence": 18,
@@ -152,7 +152,7 @@
     },
     "illarion:item_1038": {
       "metadata": {
-        "itemId": "1038"
+        "itemId": 1038
       },
       "attack": 18,
       "defence": 5,
@@ -167,7 +167,7 @@
     },
     "illarion:item_1090": {
       "metadata": {
-        "itemId": "1090"
+        "itemId": 1090
       },
       "attack": 18,
       "defence": 0,
@@ -182,7 +182,7 @@
     },
     "illarion:item_2723": {
       "metadata": {
-        "itemId": "2723"
+        "itemId": 2723
       },
       "attack": 18,
       "defence": 0,
@@ -197,7 +197,7 @@
     },
     "illarion:item_2725": {
       "metadata": {
-        "itemId": "2725"
+        "itemId": 2725
       },
       "attack": 18,
       "defence": 0,
@@ -212,7 +212,7 @@
     },
     "illarion:item_2672": {
       "metadata": {
-        "itemId": "2672"
+        "itemId": 2672
       },
       "attack": 19,
       "defence": 19,
@@ -227,7 +227,7 @@
     },
     "illarion:item_2701": {
       "metadata": {
-        "itemId": "2701"
+        "itemId": 2701
       },
       "attack": 19,
       "defence": 13,
@@ -242,7 +242,7 @@
     },
     "illarion:item_2705": {
       "metadata": {
-        "itemId": "2705"
+        "itemId": 2705
       },
       "attack": 19,
       "defence": 13,
@@ -257,7 +257,7 @@
     },
     "illarion:item_2675": {
       "metadata": {
-        "itemId": "2675"
+        "itemId": 2675
       },
       "attack": 20,
       "defence": 20,
@@ -272,7 +272,7 @@
     },
     "illarion:item_231": {
       "metadata": {
-        "itemId": "231"
+        "itemId": 231
       },
       "attack": 21,
       "defence": 8,
@@ -287,7 +287,7 @@
     },
     "illarion:item_2946": {
       "metadata": {
-        "itemId": "2946"
+        "itemId": 2946
       },
       "attack": 21,
       "defence": 8,
@@ -302,7 +302,7 @@
     },
     "illarion:item_444": {
       "metadata": {
-        "itemId": "444"
+        "itemId": 444
       },
       "attack": 22,
       "defence": 23,
@@ -317,7 +317,7 @@
     },
     "illarion:item_1047": {
       "metadata": {
-        "itemId": "1047"
+        "itemId": 1047
       },
       "attack": 23,
       "defence": 10,
@@ -332,7 +332,7 @@
     },
     "illarion:item_1049": {
       "metadata": {
-        "itemId": "1049"
+        "itemId": 1049
       },
       "attack": 23,
       "defence": 10,
@@ -347,7 +347,7 @@
     },
     "illarion:item_1525": {
       "metadata": {
-        "itemId": "1525"
+        "itemId": 1525
       },
       "attack": 23,
       "defence": 10,
@@ -362,7 +362,7 @@
     },
     "illarion:item_2388": {
       "metadata": {
-        "itemId": "2388"
+        "itemId": 2388
       },
       "attack": 23,
       "defence": 70,
@@ -377,7 +377,7 @@
     },
     "illarion:item_2671": {
       "metadata": {
-        "itemId": "2671"
+        "itemId": 2671
       },
       "attack": 23,
       "defence": 25,
@@ -392,7 +392,7 @@
     },
     "illarion:item_2742": {
       "metadata": {
-        "itemId": "2742"
+        "itemId": 2742
       },
       "attack": 23,
       "defence": 25,
@@ -407,7 +407,7 @@
     },
     "illarion:item_1522": {
       "metadata": {
-        "itemId": "1522"
+        "itemId": 1522
       },
       "attack": 24,
       "defence": 10,
@@ -422,7 +422,7 @@
     },
     "illarion:item_2448": {
       "metadata": {
-        "itemId": "2448"
+        "itemId": 2448
       },
       "attack": 24,
       "defence": 80,
@@ -437,7 +437,7 @@
     },
     "illarion:item_2655": {
       "metadata": {
-        "itemId": "2655"
+        "itemId": 2655
       },
       "attack": 24,
       "defence": 18,
@@ -452,7 +452,7 @@
     },
     "illarion:item_2658": {
       "metadata": {
-        "itemId": "2658"
+        "itemId": 2658
       },
       "attack": 24,
       "defence": 18,
@@ -467,7 +467,7 @@
     },
     "illarion:item_2778": {
       "metadata": {
-        "itemId": "2778"
+        "itemId": 2778
       },
       "attack": 24,
       "defence": 18,
@@ -482,7 +482,7 @@
     },
     "illarion:item_2775": {
       "metadata": {
-        "itemId": "2775"
+        "itemId": 2775
       },
       "attack": 26,
       "defence": 20,
@@ -497,7 +497,7 @@
     },
     "illarion:item_2788": {
       "metadata": {
-        "itemId": "2788"
+        "itemId": 2788
       },
       "attack": 26,
       "defence": 20,
@@ -512,7 +512,7 @@
     },
     "illarion:item_916": {
       "metadata": {
-        "itemId": "916"
+        "itemId": 916
       },
       "attack": 28,
       "defence": 90,
@@ -527,7 +527,7 @@
     },
     "illarion:item_1040": {
       "metadata": {
-        "itemId": "1040"
+        "itemId": 1040
       },
       "attack": 28,
       "defence": 15,
@@ -542,7 +542,7 @@
     },
     "illarion:item_2737": {
       "metadata": {
-        "itemId": "2737"
+        "itemId": 2737
       },
       "attack": 28,
       "defence": 13,
@@ -557,7 +557,7 @@
     },
     "illarion:item_2284": {
       "metadata": {
-        "itemId": "2284"
+        "itemId": 2284
       },
       "attack": 29,
       "defence": 95,
@@ -572,7 +572,7 @@
     },
     "illarion:item_2693": {
       "metadata": {
-        "itemId": "2693"
+        "itemId": 2693
       },
       "attack": 29,
       "defence": 23,
@@ -587,7 +587,7 @@
     },
     "illarion:item_2704": {
       "metadata": {
-        "itemId": "2704"
+        "itemId": 2704
       },
       "attack": 29,
       "defence": 23,
@@ -602,7 +602,7 @@
     },
     "illarion:item_2447": {
       "metadata": {
-        "itemId": "2447"
+        "itemId": 2447
       },
       "attack": 30,
       "defence": 100,
@@ -617,7 +617,7 @@
     },
     "illarion:item_2439": {
       "metadata": {
-        "itemId": "2439"
+        "itemId": 2439
       },
       "attack": 31,
       "defence": 100,
@@ -632,7 +632,7 @@
     },
     "illarion:item_2654": {
       "metadata": {
-        "itemId": "2654"
+        "itemId": 2654
       },
       "attack": 31,
       "defence": 25,
@@ -647,7 +647,7 @@
     },
     "illarion:item_2656": {
       "metadata": {
-        "itemId": "2656"
+        "itemId": 2656
       },
       "attack": 31,
       "defence": 25,
@@ -662,7 +662,7 @@
     },
     "illarion:item_2777": {
       "metadata": {
-        "itemId": "2777"
+        "itemId": 2777
       },
       "attack": 31,
       "defence": 25,
@@ -677,7 +677,7 @@
     },
     "illarion:item_1044": {
       "metadata": {
-        "itemId": "1044"
+        "itemId": 1044
       },
       "attack": 32,
       "defence": 15,
@@ -692,7 +692,7 @@
     },
     "illarion:item_1528": {
       "metadata": {
-        "itemId": "1528"
+        "itemId": 1528
       },
       "attack": 32,
       "defence": 10,
@@ -707,7 +707,7 @@
     },
     "illarion:item_1048": {
       "metadata": {
-        "itemId": "1048"
+        "itemId": 1048
       },
       "attack": 33,
       "defence": 20,
@@ -722,7 +722,7 @@
     },
     "illarion:item_1526": {
       "metadata": {
-        "itemId": "1526"
+        "itemId": 1526
       },
       "attack": 33,
       "defence": 20,
@@ -737,7 +737,7 @@
     },
     "illarion:item_1523": {
       "metadata": {
-        "itemId": "1523"
+        "itemId": 1523
       },
       "attack": 36,
       "defence": 18,
@@ -752,7 +752,7 @@
     },
     "illarion:item_2642": {
       "metadata": {
-        "itemId": "2642"
+        "itemId": 2642
       },
       "attack": 36,
       "defence": 18,
@@ -767,7 +767,7 @@
     },
     "illarion:item_1041": {
       "metadata": {
-        "itemId": "1041"
+        "itemId": 1041
       },
       "attack": 39,
       "defence": 20,
@@ -782,7 +782,7 @@
     },
     "illarion:item_2660": {
       "metadata": {
-        "itemId": "2660"
+        "itemId": 2660
       },
       "attack": 39,
       "defence": 20,
@@ -797,7 +797,7 @@
     },
     "illarion:item_296": {
       "metadata": {
-        "itemId": "296"
+        "itemId": 296
       },
       "attack": 43,
       "defence": 23,
@@ -812,7 +812,7 @@
     },
     "illarion:item_1042": {
       "metadata": {
-        "itemId": "1042"
+        "itemId": 1042
       },
       "attack": 43,
       "defence": 30,
@@ -827,7 +827,7 @@
     },
     "illarion:item_1043": {
       "metadata": {
-        "itemId": "1043"
+        "itemId": 1043
       },
       "attack": 43,
       "defence": 23,
@@ -842,7 +842,7 @@
     },
     "illarion:item_1529": {
       "metadata": {
-        "itemId": "1529"
+        "itemId": 1529
       },
       "attack": 46,
       "defence": 20,
@@ -857,7 +857,7 @@
     },
     "illarion:item_1052": {
       "metadata": {
-        "itemId": "1052"
+        "itemId": 1052
       },
       "attack": 47,
       "defence": 25,
@@ -872,7 +872,7 @@
     },
     "illarion:item_2662": {
       "metadata": {
-        "itemId": "2662"
+        "itemId": 2662
       },
       "attack": 47,
       "defence": 25,
@@ -887,7 +887,7 @@
     },
     "illarion:item_1053": {
       "metadata": {
-        "itemId": "1053"
+        "itemId": 1053
       },
       "attack": 48,
       "defence": 35,
@@ -902,7 +902,7 @@
     },
     "illarion:item_1039": {
       "metadata": {
-        "itemId": "1039"
+        "itemId": 1039
       },
       "attack": 53,
       "defence": 40,
@@ -917,7 +917,7 @@
     },
     "illarion:item_2731": {
       "metadata": {
-        "itemId": "2731"
+        "itemId": 2731
       },
       "attack": 53,
       "defence": 40,
@@ -932,7 +932,7 @@
     },
     "illarion:item_383": {
       "metadata": {
-        "itemId": "383"
+        "itemId": 383
       },
       "attack": 54,
       "defence": 25,
@@ -947,7 +947,7 @@
     },
     "illarion:item_1050": {
       "metadata": {
-        "itemId": "1050"
+        "itemId": 1050
       },
       "attack": 58,
       "defence": 45,
@@ -962,7 +962,7 @@
     },
     "illarion:item_1051": {
       "metadata": {
-        "itemId": "1051"
+        "itemId": 1051
       },
       "attack": 63,
       "defence": 50,
@@ -977,7 +977,7 @@
     },
     "illarion:item_3035": {
       "metadata": {
-        "itemId": "3035"
+        "itemId": 3035
       },
       "attack": 63,
       "defence": 50,
@@ -992,7 +992,7 @@
     },
     "illarion:item_1527": {
       "metadata": {
-        "itemId": "1527"
+        "itemId": 1527
       },
       "attack": 68,
       "defence": 35,
@@ -1007,7 +1007,7 @@
     },
     "illarion:item_382": {
       "metadata": {
-        "itemId": "382"
+        "itemId": 382
       },
       "attack": 75,
       "defence": 100,
@@ -1022,7 +1022,7 @@
     },
     "illarion:item_2636": {
       "metadata": {
-        "itemId": "2636"
+        "itemId": 2636
       },
       "attack": 75,
       "defence": 40,
@@ -1037,7 +1037,7 @@
     },
     "illarion:item_2627": {
       "metadata": {
-        "itemId": "2627"
+        "itemId": 2627
       },
       "attack": 82,
       "defence": 45,
@@ -1052,7 +1052,7 @@
     },
     "illarion:item_2640": {
       "metadata": {
-        "itemId": "2640"
+        "itemId": 2640
       },
       "attack": 86,
       "defence": 48,
@@ -1067,7 +1067,7 @@
     },
     "illarion:item_1530": {
       "metadata": {
-        "itemId": "1530"
+        "itemId": 1530
       },
       "attack": 89,
       "defence": 50,
@@ -1082,7 +1082,7 @@
     },
     "illarion:item_2626": {
       "metadata": {
-        "itemId": "2626"
+        "itemId": 2626
       },
       "attack": 89,
       "defence": 50,
@@ -1097,7 +1097,7 @@
     },
     "illarion:item_2785": {
       "metadata": {
-        "itemId": "2785"
+        "itemId": 2785
       },
       "attack": 44,
       "defence": 0,
@@ -1112,7 +1112,7 @@
     },
     "illarion:item_2784": {
       "metadata": {
-        "itemId": "2784"
+        "itemId": 2784
       },
       "attack": 44,
       "defence": 0,
@@ -1127,7 +1127,7 @@
     },
     "illarion:item_2783": {
       "metadata": {
-        "itemId": "2783"
+        "itemId": 2783
       },
       "attack": 44,
       "defence": 0,
@@ -1142,7 +1142,7 @@
     },
     "illarion:item_2782": {
       "metadata": {
-        "itemId": "2782"
+        "itemId": 2782
       },
       "attack": 44,
       "defence": 0,
@@ -1157,7 +1157,7 @@
     },
     "illarion:item_3608": {
       "metadata": {
-        "itemId": "3608"
+        "itemId": 3608
       },
       "attack": 44,
       "defence": 0,
@@ -1172,7 +1172,7 @@
     },
     "illarion:item_1531": {
       "metadata": {
-        "itemId": "1531"
+        "itemId": 1531
       },
       "attack": 17,
       "defence": 0,
@@ -1187,7 +1187,7 @@
     },
     "illarion:item_2645": {
       "metadata": {
-        "itemId": "2645"
+        "itemId": 2645
       },
       "attack": 21,
       "defence": 0,
@@ -1202,7 +1202,7 @@
     },
     "illarion:item_2646": {
       "metadata": {
-        "itemId": "2646"
+        "itemId": 2646
       },
       "attack": 21,
       "defence": 0,
@@ -1217,7 +1217,7 @@
     },
     "illarion:item_2714": {
       "metadata": {
-        "itemId": "2714"
+        "itemId": 2714
       },
       "attack": 24,
       "defence": 0,
@@ -1232,7 +1232,7 @@
     },
     "illarion:item_294": {
       "metadata": {
-        "itemId": "294"
+        "itemId": 294
       },
       "attack": 28,
       "defence": 0,
@@ -1247,7 +1247,7 @@
     },
     "illarion:item_2708": {
       "metadata": {
-        "itemId": "2708"
+        "itemId": 2708
       },
       "attack": 28,
       "defence": 0,
@@ -1262,7 +1262,7 @@
     },
     "illarion:item_293": {
       "metadata": {
-        "itemId": "293"
+        "itemId": 293
       },
       "attack": 36,
       "defence": 0,
@@ -1277,7 +1277,7 @@
     },
     "illarion:item_2685": {
       "metadata": {
-        "itemId": "2685"
+        "itemId": 2685
       },
       "attack": 36,
       "defence": 0,
@@ -1292,7 +1292,7 @@
     },
     "illarion:item_2780": {
       "metadata": {
-        "itemId": "2780"
+        "itemId": 2780
       },
       "attack": 39,
       "defence": 0,
@@ -1307,7 +1307,7 @@
     },
     "illarion:item_2718": {
       "metadata": {
-        "itemId": "2718"
+        "itemId": 2718
       },
       "attack": 43,
       "defence": 0,
@@ -1322,7 +1322,7 @@
     },
     "illarion:item_2727": {
       "metadata": {
-        "itemId": "2727"
+        "itemId": 2727
       },
       "attack": 47,
       "defence": 0,
@@ -1337,7 +1337,7 @@
     },
     "illarion:item_2739": {
       "metadata": {
-        "itemId": "2739"
+        "itemId": 2739
       },
       "attack": 47,
       "defence": 0,
@@ -1352,7 +1352,7 @@
     },
     "illarion:item_27": {
       "metadata": {
-        "itemId": "27"
+        "itemId": 27
       },
       "attack": 5,
       "defence": 0,
@@ -1367,7 +1367,7 @@
     },
     "illarion:item_64": {
       "metadata": {
-        "itemId": "64"
+        "itemId": 64
       },
       "attack": 6,
       "defence": 0,
@@ -1382,7 +1382,7 @@
     },
     "illarion:item_93": {
       "metadata": {
-        "itemId": "93"
+        "itemId": 93
       },
       "attack": 6,
       "defence": 100,
@@ -1397,7 +1397,7 @@
     },
     "illarion:item_189": {
       "metadata": {
-        "itemId": "189"
+        "itemId": 189
       },
       "attack": 7,
       "defence": 3,
@@ -1412,7 +1412,7 @@
     },
     "illarion:item_17": {
       "metadata": {
-        "itemId": "17"
+        "itemId": 17
       },
       "attack": 9,
       "defence": 10,
@@ -1427,7 +1427,7 @@
     },
     "illarion:item_25": {
       "metadata": {
-        "itemId": "25"
+        "itemId": 25
       },
       "attack": 9,
       "defence": 3,
@@ -1442,7 +1442,7 @@
     },
     "illarion:item_18": {
       "metadata": {
-        "itemId": "18"
+        "itemId": 18
       },
       "attack": 11,
       "defence": 20,
@@ -1457,7 +1457,7 @@
     },
     "illarion:item_78": {
       "metadata": {
-        "itemId": "78"
+        "itemId": 78
       },
       "attack": 11,
       "defence": 5,
@@ -1472,7 +1472,7 @@
     },
     "illarion:item_190": {
       "metadata": {
-        "itemId": "190"
+        "itemId": 190
       },
       "attack": 12,
       "defence": 10,
@@ -1487,7 +1487,7 @@
     },
     "illarion:item_230": {
       "metadata": {
-        "itemId": "230"
+        "itemId": 230
       },
       "attack": 13,
       "defence": 3,
@@ -1502,7 +1502,7 @@
     },
     "illarion:item_1": {
       "metadata": {
-        "itemId": "1"
+        "itemId": 1
       },
       "attack": 14,
       "defence": 8,
@@ -1517,7 +1517,7 @@
     },
     "illarion:item_19": {
       "metadata": {
-        "itemId": "19"
+        "itemId": 19
       },
       "attack": 16,
       "defence": 40,
@@ -1532,7 +1532,7 @@
     },
     "illarion:item_20": {
       "metadata": {
-        "itemId": "20"
+        "itemId": 20
       },
       "attack": 19,
       "defence": 50,
@@ -1547,7 +1547,7 @@
     },
     "illarion:item_85": {
       "metadata": {
-        "itemId": "85"
+        "itemId": 85
       },
       "attack": 21,
       "defence": 15,
@@ -1562,7 +1562,7 @@
     },
     "illarion:item_91": {
       "metadata": {
-        "itemId": "91"
+        "itemId": 91
       },
       "attack": 21,
       "defence": 21,
@@ -1577,7 +1577,7 @@
     },
     "illarion:item_186": {
       "metadata": {
-        "itemId": "186"
+        "itemId": 186
       },
       "attack": 21,
       "defence": 60,
@@ -1592,7 +1592,7 @@
     },
     "illarion:item_98": {
       "metadata": {
-        "itemId": "98"
+        "itemId": 98
       },
       "attack": 24,
       "defence": 18,
@@ -1607,7 +1607,7 @@
     },
     "illarion:item_192": {
       "metadata": {
-        "itemId": "192"
+        "itemId": 192
       },
       "attack": 24,
       "defence": 10,
@@ -1622,7 +1622,7 @@
     },
     "illarion:item_39": {
       "metadata": {
-        "itemId": "39"
+        "itemId": 39
       },
       "attack": 25,
       "defence": 5,
@@ -1637,7 +1637,7 @@
     },
     "illarion:item_88": {
       "metadata": {
-        "itemId": "88"
+        "itemId": 88
       },
       "attack": 25,
       "defence": 5,
@@ -1652,7 +1652,7 @@
     },
     "illarion:item_95": {
       "metadata": {
-        "itemId": "95"
+        "itemId": 95
       },
       "attack": 25,
       "defence": 80,
@@ -1667,7 +1667,7 @@
     },
     "illarion:item_84": {
       "metadata": {
-        "itemId": "84"
+        "itemId": 84
       },
       "attack": 26,
       "defence": 20,
@@ -1682,7 +1682,7 @@
     },
     "illarion:item_96": {
       "metadata": {
-        "itemId": "96"
+        "itemId": 96
       },
       "attack": 26,
       "defence": 90,
@@ -1697,7 +1697,7 @@
     },
     "illarion:item_204": {
       "metadata": {
-        "itemId": "204"
+        "itemId": 204
       },
       "attack": 28,
       "defence": 15,
@@ -1712,7 +1712,7 @@
     },
     "illarion:item_229": {
       "metadata": {
-        "itemId": "229"
+        "itemId": 229
       },
       "attack": 28,
       "defence": 13,
@@ -1727,7 +1727,7 @@
     },
     "illarion:item_40": {
       "metadata": {
-        "itemId": "40"
+        "itemId": 40
       },
       "attack": 29,
       "defence": 8,
@@ -1742,7 +1742,7 @@
     },
     "illarion:item_123": {
       "metadata": {
-        "itemId": "123"
+        "itemId": 123
       },
       "attack": 29,
       "defence": 23,
@@ -1757,7 +1757,7 @@
     },
     "illarion:item_206": {
       "metadata": {
-        "itemId": "206"
+        "itemId": 206
       },
       "attack": 29,
       "defence": 23,
@@ -1772,7 +1772,7 @@
     },
     "illarion:item_124": {
       "metadata": {
-        "itemId": "124"
+        "itemId": 124
       },
       "attack": 32,
       "defence": 15,
@@ -1787,7 +1787,7 @@
     },
     "illarion:item_77": {
       "metadata": {
-        "itemId": "77"
+        "itemId": 77
       },
       "attack": 38,
       "defence": 25,
@@ -1802,7 +1802,7 @@
     },
     "illarion:item_57": {
       "metadata": {
-        "itemId": "57"
+        "itemId": 57
       },
       "attack": 39,
       "defence": 15,
@@ -1817,7 +1817,7 @@
     },
     "illarion:item_76": {
       "metadata": {
-        "itemId": "76"
+        "itemId": 76
       },
       "attack": 54,
       "defence": 25,
@@ -1832,7 +1832,7 @@
     },
     "illarion:item_188": {
       "metadata": {
-        "itemId": "188"
+        "itemId": 188
       },
       "attack": 61,
       "defence": 30,
@@ -1847,7 +1847,7 @@
     },
     "illarion:item_226": {
       "metadata": {
-        "itemId": "226"
+        "itemId": 226
       },
       "attack": 61,
       "defence": 30,
@@ -1862,7 +1862,7 @@
     },
     "illarion:item_209": {
       "metadata": {
-        "itemId": "209"
+        "itemId": 209
       },
       "attack": 68,
       "defence": 35,
@@ -1877,7 +1877,7 @@
     },
     "illarion:item_205": {
       "metadata": {
-        "itemId": "205"
+        "itemId": 205
       },
       "attack": 75,
       "defence": 40,
@@ -1892,7 +1892,7 @@
     },
     "illarion:item_207": {
       "metadata": {
-        "itemId": "207"
+        "itemId": 207
       },
       "attack": 75,
       "defence": 40,
@@ -1907,7 +1907,7 @@
     },
     "illarion:item_100": {
       "metadata": {
-        "itemId": "100"
+        "itemId": 100
       },
       "attack": 77,
       "defence": 0,
@@ -1922,7 +1922,7 @@
     },
     "illarion:item_208": {
       "metadata": {
-        "itemId": "208"
+        "itemId": 208
       },
       "attack": 82,
       "defence": 45,
@@ -1937,7 +1937,7 @@
     },
     "illarion:item_99": {
       "metadata": {
-        "itemId": "99"
+        "itemId": 99
       },
       "attack": 100,
       "defence": 100,
@@ -1952,7 +1952,7 @@
     },
     "illarion:item_89": {
       "metadata": {
-        "itemId": "89"
+        "itemId": 89
       },
       "attack": 9,
       "defence": 0,
@@ -1967,7 +1967,7 @@
     },
     "illarion:item_65": {
       "metadata": {
-        "itemId": "65"
+        "itemId": 65
       },
       "attack": 13,
       "defence": 0,
@@ -1982,7 +1982,7 @@
     },
     "illarion:item_70": {
       "metadata": {
-        "itemId": "70"
+        "itemId": 70
       },
       "attack": 32,
       "defence": 0,
@@ -1997,7 +1997,7 @@
     },
     "illarion:item_323": {
       "metadata": {
-        "itemId": "323"
+        "itemId": 323
       },
       "attack": 29,
       "defence": 0,
@@ -2012,7 +2012,7 @@
     },
     "illarion:item_1045": {
       "metadata": {
-        "itemId": "1045"
+        "itemId": 1045
       },
       "attack": 5,
       "defence": 0,
@@ -2027,7 +2027,7 @@
     },
     "illarion:item_237": {
       "metadata": {
-        "itemId": "237"
+        "itemId": 237
       },
       "attack": 6,
       "defence": 0,
@@ -2042,7 +2042,7 @@
     },
     "illarion:item_322": {
       "metadata": {
-        "itemId": "322"
+        "itemId": 322
       },
       "attack": 6,
       "defence": 0,
@@ -2057,7 +2057,7 @@
     },
     "illarion:item_445": {
       "metadata": {
-        "itemId": "445"
+        "itemId": 445
       },
       "attack": 6,
       "defence": 0,
@@ -2072,7 +2072,7 @@
     },
     "illarion:item_549": {
       "metadata": {
-        "itemId": "549"
+        "itemId": 549
       },
       "attack": 6,
       "defence": 0,
@@ -2087,7 +2087,7 @@
     },
     "illarion:item_1266": {
       "metadata": {
-        "itemId": "1266"
+        "itemId": 1266
       },
       "attack": 6,
       "defence": 0,
@@ -2102,7 +2102,7 @@
     },
     "illarion:item_2445": {
       "metadata": {
-        "itemId": "2445"
+        "itemId": 2445
       },
       "attack": 6,
       "defence": 5,
@@ -2117,7 +2117,7 @@
     },
     "illarion:item_2776": {
       "metadata": {
-        "itemId": "2776"
+        "itemId": 2776
       },
       "attack": 6,
       "defence": 0,
@@ -2132,7 +2132,7 @@
     },
     "illarion:item_2668": {
       "metadata": {
-        "itemId": "2668"
+        "itemId": 2668
       },
       "attack": 7,
       "defence": 3,
@@ -2147,7 +2147,7 @@
     },
     "illarion:item_1524": {
       "metadata": {
-        "itemId": "1524"
+        "itemId": 1524
       },
       "attack": 8,
       "defence": 5,
@@ -2162,7 +2162,7 @@
     },
     "illarion:item_2629": {
       "metadata": {
-        "itemId": "2629"
+        "itemId": 2629
       },
       "attack": 9,
       "defence": 0,
@@ -2177,7 +2177,7 @@
     },
     "illarion:item_2664": {
       "metadata": {
-        "itemId": "2664"
+        "itemId": 2664
       },
       "attack": 9,
       "defence": 0,
@@ -2192,7 +2192,7 @@
     },
     "illarion:item_398": {
       "metadata": {
-        "itemId": "398"
+        "itemId": 398
       },
       "attack": 10,
       "defence": 8,
@@ -2207,7 +2207,7 @@
     },
     "illarion:item_2689": {
       "metadata": {
-        "itemId": "2689"
+        "itemId": 2689
       },
       "attack": 12,
       "defence": 10,
@@ -2222,7 +2222,7 @@
     },
     "illarion:item_4820": {
       "metadata": {
-        "itemId": "4820"
+        "itemId": 4820
       },
       "attack": 29,
       "defence": 0,
@@ -2237,7 +2237,7 @@
     },
     "illarion:item_4338": {
       "metadata": {
-        "itemId": "4338"
+        "itemId": 4338
       },
       "attack": 47,
       "defence": 25,
@@ -2252,7 +2252,7 @@
     },
     "illarion:item_4856": {
       "metadata": {
-        "itemId": "4856"
+        "itemId": 4856
       },
       "attack": 63,
       "defence": 50,

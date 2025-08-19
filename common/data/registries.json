@@ -23,6 +23,10 @@
         "illarion:armors": {
             "suffix": "armors",
             "platform": "server"
+        },
+        "illarion:npcs": {
+            "suffix": "npcs",
+            "platform": "server"
         }
     }
 }
