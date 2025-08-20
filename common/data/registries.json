@@ -1,7 +1,7 @@
 {
     "entries": {
         "illarion:sounds": {
-            "suffix": "illasounds",
+            "suffix": "sounds",
             "platform": "server"
         },
         "illarion:races": {
