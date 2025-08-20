@@ -1,0 +1,4369 @@
+{
+  "entries": {
+    "illarion:monster_192": {
+      "metadata": {
+        "monsterId": 192
+      },
+      "nameEnglish": "Pit Servant",
+      "race": 19,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_19_spider.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Grubendiener"
+    },
+    "illarion:monster_114": {
+      "metadata": {
+        "monsterId": 114
+      },
+      "nameEnglish": "Crippled Skeleton",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_11_skeleton.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Verkrüppeltes Skelett"
+    },
+    "illarion:monster_121": {
+      "metadata": {
+        "monsterId": 121
+      },
+      "nameEnglish": "Gazer",
+      "race": 12,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_12_beholder.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Gaffer"
+    },
+    "illarion:monster_122": {
+      "metadata": {
+        "monsterId": 122
+      },
+      "nameEnglish": "Googly",
+      "race": 12,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_12_beholder.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Glotzer"
+    },
+    "illarion:monster_124": {
+      "metadata": {
+        "monsterId": 124
+      },
+      "nameEnglish": "Deadly Eye",
+      "race": 12,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_12_beholder.id_124_deadly_eye",
+      "minSize": 100,
+      "maxSize": 110,
+      "nameGerman": "Tödliches Auge"
+    },
+    "illarion:monster_131": {
+      "metadata": {
+        "monsterId": 131
+      },
+      "nameEnglish": "Shadow Eye",
+      "race": 12,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_13_black_beholder.default",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Schattenauge"
+    },
+    "illarion:monster_151": {
+      "metadata": {
+        "monsterId": 151
+      },
+      "nameEnglish": "Rotten Mummy",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_15_brown_mummy.default",
+      "minSize": 95,
+      "maxSize": 100,
+      "nameGerman": "Verfaulte Mumie"
+    },
+    "illarion:monster_152": {
+      "metadata": {
+        "monsterId": 152
+      },
+      "nameEnglish": "Smelly Mummy",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_15_brown_mummy.default",
+      "minSize": 95,
+      "maxSize": 100,
+      "nameGerman": "Stinkende Mumie"
+    },
+    "illarion:monster_191": {
+      "metadata": {
+        "monsterId": 191
+      },
+      "nameEnglish": "Dread Spider",
+      "race": 19,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_19_spider.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Schreckensspinne"
+    },
+    "illarion:monster_181": {
+      "metadata": {
+        "monsterId": 181
+      },
+      "nameEnglish": "Sheep",
+      "race": 18,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_18_sheep.default",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Schaf"
+    },
+    "illarion:monster_111": {
+      "metadata": {
+        "monsterId": 111
+      },
+      "nameEnglish": "Skeleton",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_11_skeleton.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Skelett"
+    },
+    "illarion:monster_112": {
+      "metadata": {
+        "monsterId": 112
+      },
+      "nameEnglish": "Scruffy Skeleton",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_11_skeleton.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Vergammeltes Skelett"
+    },
+    "illarion:monster_182": {
+      "metadata": {
+        "monsterId": 182
+      },
+      "nameEnglish": "Lamb",
+      "race": 18,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_18_sheep.default",
+      "minSize": 80,
+      "maxSize": 85,
+      "nameGerman": "Lamm"
+    },
+    "illarion:monster_211": {
+      "metadata": {
+        "monsterId": 211
+      },
+      "nameEnglish": "Fire Spider",
+      "race": 19,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_21_red_spider.id_211_fire_spider",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Feuerspinne"
+    },
+    "illarion:monster_193": {
+      "metadata": {
+        "monsterId": 193
+      },
+      "nameEnglish": "Tarantula",
+      "race": 19,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_19_spider.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Tarantel"
+    },
+    "illarion:monster_195": {
+      "metadata": {
+        "monsterId": 195
+      },
+      "nameEnglish": "Spider Queen",
+      "race": 19,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_19_spider.id_195_spider_queen",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Spinnenkönigin"
+    },
+    "illarion:monster_16": {
+      "metadata": {
+        "monsterId": 16
+      },
+      "nameEnglish": "Friendly Dwarf",
+      "race": 1,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_1_dwarf.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Friedlicher Zwerg"
+    },
+    "illarion:monster_203": {
+      "metadata": {
+        "monsterId": 203
+      },
+      "nameEnglish": "Unholy Acolyte",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_20_demon_skeleton.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Unheiliger Akolyth"
+    },
+    "illarion:monster_402": {
+      "metadata": {
+        "monsterId": 402
+      },
+      "nameEnglish": "Lamb Slaughterer",
+      "race": 39,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_40_wolf.id_402_lambslaughterer",
+      "minSize": 119,
+      "maxSize": 120,
+      "nameGerman": "Lammschlächter"
+    },
+    "illarion:monster_221": {
+      "metadata": {
+        "monsterId": 221
+      },
+      "nameEnglish": "Gynkese Widow",
+      "race": 19,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_22_green_spider.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Gynkesische Witwe"
+    },
+    "illarion:monster_231": {
+      "metadata": {
+        "monsterId": 231
+      },
+      "nameEnglish": "King's Fright",
+      "race": 19,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_23_blue_spider.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Königsschreck"
+    },
+    "illarion:monster_243": {
+      "metadata": {
+        "monsterId": 243
+      },
+      "nameEnglish": "Young Boar",
+      "race": 24,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_24_pig.default",
+      "minSize": 80,
+      "maxSize": 85,
+      "nameGerman": "Junger Keiler"
+    },
+    "illarion:monster_271": {
+      "metadata": {
+        "monsterId": 271
+      },
+      "nameEnglish": "Wasp",
+      "race": 27,
+      "hitpoints": 10000,
+      "movementType": "fly",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_27_wasp.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Wespe"
+    },
+    "illarion:monster_272": {
+      "metadata": {
+        "monsterId": 272
+      },
+      "nameEnglish": "Hornet",
+      "race": 27,
+      "hitpoints": 10000,
+      "movementType": "fly",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_27_wasp.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Hornisse"
+    },
+    "illarion:monster_301": {
+      "metadata": {
+        "monsterId": 301
+      },
+      "nameEnglish": "Stone Golem",
+      "race": 30,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_30_golem.default",
+      "minSize": 100,
+      "maxSize": 100,
+      "nameGerman": "Steingolem"
+    },
+    "illarion:monster_302": {
+      "metadata": {
+        "monsterId": 302
+      },
+      "nameEnglish": "Son of the Mountains",
+      "race": 30,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_30_golem.default",
+      "minSize": 120,
+      "maxSize": 120,
+      "nameGerman": "Sohn der Berge"
+    },
+    "illarion:monster_303": {
+      "metadata": {
+        "monsterId": 303
+      },
+      "nameEnglish": "Clay Golem",
+      "race": 30,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_30_golem.id_303_clay_golem",
+      "minSize": 85,
+      "maxSize": 95,
+      "nameGerman": "Lehmgolem"
+    },
+    "illarion:monster_304": {
+      "metadata": {
+        "monsterId": 304
+      },
+      "nameEnglish": "Lava Golem",
+      "race": 30,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_30_golem.id_304_lava_golem",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Lavagolem"
+    },
+    "illarion:monster_305": {
+      "metadata": {
+        "monsterId": 305
+      },
+      "nameEnglish": "Silver Golem",
+      "race": 30,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_30_golem.id_305_silver_golem",
+      "minSize": 100,
+      "maxSize": 105,
+      "nameGerman": "Silbergolem"
+    },
+    "illarion:monster_306": {
+      "metadata": {
+        "monsterId": 306
+      },
+      "nameEnglish": "Diamond Golem",
+      "race": 30,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_30_golem.id_306_dimond_golem",
+      "minSize": 110,
+      "maxSize": 115,
+      "nameGerman": "Diamantengolem"
+    },
+    "illarion:monster_371": {
+      "metadata": {
+        "monsterId": 371
+      },
+      "nameEnglish": "Cow",
+      "race": 37,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_37_cow.default",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Kuh"
+    },
+    "illarion:monster_372": {
+      "metadata": {
+        "monsterId": 372
+      },
+      "nameEnglish": "Bull",
+      "race": 37,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_37_cow.default",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Bulle"
+    },
+    "illarion:monster_373": {
+      "metadata": {
+        "monsterId": 373
+      },
+      "nameEnglish": "Young Bull",
+      "race": 37,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_37_cow.default",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Junger Bulle"
+    },
+    "illarion:monster_392": {
+      "metadata": {
+        "monsterId": 392
+      },
+      "nameEnglish": "Welp",
+      "race": 39,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_39_wolf.default",
+      "minSize": 80,
+      "maxSize": 81,
+      "nameGerman": "Welpe"
+    },
+    "illarion:monster_393": {
+      "metadata": {
+        "monsterId": 393
+      },
+      "nameEnglish": "Young Wolf",
+      "race": 39,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_39_wolf.default",
+      "minSize": 90,
+      "maxSize": 95,
+      "nameGerman": "Junger Wolf"
+    },
+    "illarion:monster_394": {
+      "metadata": {
+        "monsterId": 394
+      },
+      "nameEnglish": "Giant Wolf",
+      "race": 39,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_39_wolf.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Gigantischer Wolf"
+    },
+    "illarion:monster_395": {
+      "metadata": {
+        "monsterId": 395
+      },
+      "nameEnglish": "Pack Leader",
+      "race": 39,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_39_wolf.default",
+      "minSize": 110,
+      "maxSize": 111,
+      "nameGerman": "Rudelanführer"
+    },
+    "illarion:monster_36": {
+      "metadata": {
+        "monsterId": 36
+      },
+      "nameEnglish": "Friendly Elf",
+      "race": 3,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_3_elf.default",
+      "minSize": 90,
+      "maxSize": 110,
+      "nameGerman": "Friedlicher Elf"
+    },
+    "illarion:monster_404": {
+      "metadata": {
+        "monsterId": 404
+      },
+      "nameEnglish": "Red Wolf",
+      "race": 39,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_40_wolf.id_404_red_wolf",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Roter Wolf"
+    },
+    "illarion:monster_403": {
+      "metadata": {
+        "monsterId": 403
+      },
+      "nameEnglish": "Grey Tail",
+      "race": 39,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_40_wolf.id_403_grey_tail",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Grauschwanz"
+    },
+    "illarion:monster_522": {
+      "metadata": {
+        "monsterId": 522
+      },
+      "nameEnglish": "Terror Beast",
+      "race": 52,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_52_raptor.default",
+      "minSize": 100,
+      "maxSize": 110,
+      "nameGerman": "Schreckensbiest"
+    },
+    "illarion:monster_511": {
+      "metadata": {
+        "monsterId": 511
+      },
+      "nameEnglish": "Grizzly Bear",
+      "race": 51,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_51_bear.default",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Grizzlybär"
+    },
+    "illarion:monster_521": {
+      "metadata": {
+        "monsterId": 521
+      },
+      "nameEnglish": "Snapper",
+      "race": 52,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_52_raptor.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Schnapper"
+    },
+    "illarion:monster_523": {
+      "metadata": {
+        "monsterId": 523
+      },
+      "nameEnglish": "Scale Beast",
+      "race": 52,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_52_raptor.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Schuppenbiest"
+    },
+    "illarion:monster_525": {
+      "metadata": {
+        "monsterId": 525
+      },
+      "nameEnglish": "Ripper Tooth",
+      "race": 52,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_52_raptor.default",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Reißzahn"
+    },
+    "illarion:monster_981": {
+      "metadata": {
+        "monsterId": 981
+      },
+      "nameEnglish": "Corpse Eater",
+      "race": 59,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_98_beetle.green",
+      "minSize": 105,
+      "maxSize": 110,
+      "nameGerman": "Leichenfresser"
+    },
+    "illarion:monster_532": {
+      "metadata": {
+        "monsterId": 532
+      },
+      "nameEnglish": "Limping Zombie",
+      "race": 53,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_53_zombie.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Humpelnder Zombie"
+    },
+    "illarion:monster_564": {
+      "metadata": {
+        "monsterId": 564
+      },
+      "nameEnglish": "Gold Golem",
+      "race": 56,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_56_irongolem.id_564_gold",
+      "minSize": 115,
+      "maxSize": 120,
+      "nameGerman": "Goldgolem"
+    },
+    "illarion:monster_593": {
+      "metadata": {
+        "monsterId": 593
+      },
+      "nameEnglish": "Scarab",
+      "race": 59,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_59_beetle.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Skarabäus"
+    },
+    "illarion:monster_594": {
+      "metadata": {
+        "monsterId": 594
+      },
+      "nameEnglish": "Coffin Crawler",
+      "race": 59,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_59_beetle.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Sargkriecher"
+    },
+    "illarion:monster_61": {
+      "metadata": {
+        "monsterId": 61
+      },
+      "nameEnglish": "Drow Archer",
+      "race": 3,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_6_drow.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Dunkelelfenschütze"
+    },
+    "illarion:monster_63": {
+      "metadata": {
+        "monsterId": 63
+      },
+      "nameEnglish": "Drow Mage",
+      "race": 3,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_6_drow.id_63_mage",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Dunkelelfenmagier"
+    },
+    "illarion:monster_983": {
+      "metadata": {
+        "monsterId": 983
+      },
+      "nameEnglish": "Grave Reaper",
+      "race": 59,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_98_beetle.red",
+      "minSize": 90,
+      "maxSize": 95,
+      "nameGerman": "Grabräuber"
+    },
+    "illarion:monster_984": {
+      "metadata": {
+        "monsterId": 984
+      },
+      "nameEnglish": "Bone Scraper",
+      "race": 59,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_98_beetle.yellow",
+      "minSize": 95,
+      "maxSize": 100,
+      "nameGerman": "Knochennager"
+    },
+    "illarion:monster_113": {
+      "metadata": {
+        "monsterId": 113
+      },
+      "nameEnglish": "Armoured Skeleton",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_11_skeleton.default",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Gepanzertes Skelett"
+    },
+    "illarion:monster_6": {
+      "metadata": {
+        "monsterId": 6
+      },
+      "nameEnglish": "Friendly Human",
+      "race": 0,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_0_human.default",
+      "minSize": 90,
+      "maxSize": 110,
+      "nameGerman": "Friedlicher Mensch"
+    },
+    "illarion:monster_102": {
+      "metadata": {
+        "monsterId": 102
+      },
+      "nameEnglish": "Enbalmed Slave",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_10_mummy.default",
+      "minSize": 80,
+      "maxSize": 85,
+      "nameGerman": "Einbalsamierter Sklave"
+    },
+    "illarion:monster_104": {
+      "metadata": {
+        "monsterId": 104
+      },
+      "nameEnglish": "Poisonous Mummy",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_10_mummy.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Giftige Mumie"
+    },
+    "illarion:monster_201": {
+      "metadata": {
+        "monsterId": 201
+      },
+      "nameEnglish": "Demon Skeleton",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_20_demon_skeleton.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Dämonenskelett"
+    },
+    "illarion:monster_401": {
+      "metadata": {
+        "monsterId": 401
+      },
+      "nameEnglish": "Ghost Wolf",
+      "race": 39,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_40_wolf.id_401_ghost_wolf",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Geisterwolf"
+    },
+    "illarion:monster_982": {
+      "metadata": {
+        "monsterId": 982
+      },
+      "nameEnglish": "Copperling",
+      "race": 59,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_98_beetle.copper",
+      "minSize": 80,
+      "maxSize": 85,
+      "nameGerman": "Kupferling"
+    },
+    "illarion:monster_109": {
+      "metadata": {
+        "monsterId": 109
+      },
+      "nameEnglish": "Forgotten Mummy",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_10_mummy.id_109_forgotten",
+      "minSize": 90,
+      "maxSize": 110,
+      "nameGerman": "Vergessene Mumie"
+    },
+    "illarion:monster_115": {
+      "metadata": {
+        "monsterId": 115
+      },
+      "nameEnglish": "Mystic Skeleton",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_11_skeleton.id_115_mystic",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Mystisches Skelett"
+    },
+    "illarion:monster_125": {
+      "metadata": {
+        "monsterId": 125
+      },
+      "nameEnglish": "Terror Eye",
+      "race": 12,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_12_beholder.default",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Schreckensauge"
+    },
+    "illarion:monster_196": {
+      "metadata": {
+        "monsterId": 196
+      },
+      "nameEnglish": "Small Spider",
+      "race": 19,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_19_spider.default",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Kleine Spinne"
+    },
+    "illarion:monster_12": {
+      "metadata": {
+        "monsterId": 12
+      },
+      "nameEnglish": "Dwarven Warrior",
+      "race": 1,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_1_dwarf.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Zwergenkrieger"
+    },
+    "illarion:monster_14": {
+      "metadata": {
+        "monsterId": 14
+      },
+      "nameEnglish": "Dwarven Smith",
+      "race": 1,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_1_dwarf.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Zwergenschmied"
+    },
+    "illarion:monster_15": {
+      "metadata": {
+        "monsterId": 15
+      },
+      "nameEnglish": "Dwarven Hunter",
+      "race": 1,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_1_dwarf.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Zwergenjäger"
+    },
+    "illarion:monster_105": {
+      "metadata": {
+        "monsterId": 105
+      },
+      "nameEnglish": "Chergas Servant",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_10_mummy.id_105_chergas_servant",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Chergas Diener"
+    },
+    "illarion:monster_108": {
+      "metadata": {
+        "monsterId": 108
+      },
+      "nameEnglish": "Palace Guard",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_10_mummy.id_108_palace_guard",
+      "minSize": 95,
+      "maxSize": 100,
+      "nameGerman": "Palastwache"
+    },
+    "illarion:monster_13": {
+      "metadata": {
+        "monsterId": 13
+      },
+      "nameEnglish": "Dwarven Priest",
+      "race": 1,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_1_dwarf.id_13_priest",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Zwergenpriester"
+    },
+    "illarion:monster_273": {
+      "metadata": {
+        "monsterId": 273
+      },
+      "nameEnglish": "Wasp Queen",
+      "race": 27,
+      "hitpoints": 10000,
+      "movementType": "fly",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_27_wasp.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Wespenkönigin"
+    },
+    "illarion:monster_274": {
+      "metadata": {
+        "monsterId": 274
+      },
+      "nameEnglish": "Wasp Drone",
+      "race": 27,
+      "hitpoints": 10000,
+      "movementType": "fly",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_27_wasp.default",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Wespendrone"
+    },
+    "illarion:monster_278": {
+      "metadata": {
+        "monsterId": 278
+      },
+      "nameEnglish": "Fire Wasp",
+      "race": 27,
+      "hitpoints": 10000,
+      "movementType": "fly",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_27_wasp.id_278_fire_wasp",
+      "minSize": 85,
+      "maxSize": 90,
+      "nameGerman": "Feuerwespe"
+    },
+    "illarion:monster_21": {
+      "metadata": {
+        "monsterId": 21
+      },
+      "nameEnglish": "Halfling",
+      "race": 2,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_2_halfling.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Halbling"
+    },
+    "illarion:monster_22": {
+      "metadata": {
+        "monsterId": 22
+      },
+      "nameEnglish": "Halfling Warrior",
+      "race": 2,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_2_halfling.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Halblingskrieger"
+    },
+    "illarion:monster_23": {
+      "metadata": {
+        "monsterId": 23
+      },
+      "nameEnglish": "Halfling Thief",
+      "race": 2,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_2_halfling.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Halblingsdieb"
+    },
+    "illarion:monster_35": {
+      "metadata": {
+        "monsterId": 35
+      },
+      "nameEnglish": "Elven Hunter",
+      "race": 3,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_3_elf.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Elfenjäger"
+    },
+    "illarion:monster_45": {
+      "metadata": {
+        "monsterId": 45
+      },
+      "nameEnglish": "Orc Shaman",
+      "race": 4,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_4_orc.id_45_shaman",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Orkschamane"
+    },
+    "illarion:monster_515": {
+      "metadata": {
+        "monsterId": 515
+      },
+      "nameEnglish": "Black Bear",
+      "race": 51,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_51_bear.black",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Schwarzbär"
+    },
+    "illarion:monster_534": {
+      "metadata": {
+        "monsterId": 534
+      },
+      "nameEnglish": "Zombie Giant",
+      "race": 53,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_53_zombie.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Zombiegigant"
+    },
+    "illarion:monster_531": {
+      "metadata": {
+        "monsterId": 531
+      },
+      "nameEnglish": "Walking Dead",
+      "race": 53,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_53_zombie.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Wandelnder Toter"
+    },
+    "illarion:monster_533": {
+      "metadata": {
+        "monsterId": 533
+      },
+      "nameEnglish": "Zombie",
+      "race": 53,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_53_zombie.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Zombie"
+    },
+    "illarion:monster_539": {
+      "metadata": {
+        "monsterId": 539
+      },
+      "nameEnglish": "Coffin Guard",
+      "race": 53,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_53_zombie.red",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Sargwächter"
+    },
+    "illarion:monster_540": {
+      "metadata": {
+        "monsterId": 540
+      },
+      "nameEnglish": "Undead Warlock",
+      "race": 53,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_53_zombie.id_540_warlock",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Untoter Kampfmagier"
+    },
+    "illarion:monster_562": {
+      "metadata": {
+        "monsterId": 562
+      },
+      "nameEnglish": "Steel Golem",
+      "race": 56,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_56_irongolem.default",
+      "minSize": 95,
+      "maxSize": 100,
+      "nameGerman": "Stahlgolem"
+    },
+    "illarion:monster_537": {
+      "metadata": {
+        "monsterId": 537
+      },
+      "nameEnglish": "Poltergeist",
+      "race": 53,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_53_zombie.transparent",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Poltergeist"
+    },
+    "illarion:monster_542": {
+      "metadata": {
+        "monsterId": 542
+      },
+      "nameEnglish": "Demon Beast",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_54_hellhound.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Dämonenbiest"
+    },
+    "illarion:monster_541": {
+      "metadata": {
+        "monsterId": 541
+      },
+      "nameEnglish": "Crippled Demon Beast",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_54_hellhound.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Verkrüppeltes Dämonenbiest"
+    },
+    "illarion:monster_551": {
+      "metadata": {
+        "monsterId": 551
+      },
+      "nameEnglish": "Imp",
+      "race": 55,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_55_imp.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Imp"
+    },
+    "illarion:monster_552": {
+      "metadata": {
+        "monsterId": 552
+      },
+      "nameEnglish": "Satyr",
+      "race": 55,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_55_imp.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Satyr"
+    },
+    "illarion:monster_553": {
+      "metadata": {
+        "monsterId": 553
+      },
+      "nameEnglish": "Cursed Imp",
+      "race": 55,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_55_imp.id_553_cursed",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Verfluchter Imp"
+    },
+    "illarion:monster_561": {
+      "metadata": {
+        "monsterId": 561
+      },
+      "nameEnglish": "Iron Golem",
+      "race": 56,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_56_irongolem.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Eisengolem"
+    },
+    "illarion:monster_632": {
+      "metadata": {
+        "monsterId": 632
+      },
+      "nameEnglish": "Black Dragon Skeleton",
+      "race": 63,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_63_bone_dragon.id_632_black",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Schwarzer Skelettdrache"
+    },
+    "illarion:monster_571": {
+      "metadata": {
+        "monsterId": 571
+      },
+      "nameEnglish": "Snuffler",
+      "race": 57,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_57_ratman.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Schnüffler"
+    },
+    "illarion:monster_572": {
+      "metadata": {
+        "monsterId": 572
+      },
+      "nameEnglish": "Baiter",
+      "race": 57,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_57_ratman.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Hetzer"
+    },
+    "illarion:monster_54": {
+      "metadata": {
+        "monsterId": 54
+      },
+      "nameEnglish": "Lizard Priest",
+      "race": 5,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_5_lizard.id_54_priest",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Echsenmenschenpriester"
+    },
+    "illarion:monster_611": {
+      "metadata": {
+        "monsterId": 611
+      },
+      "nameEnglish": "Stinky Slime",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_61_slime.default",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Klebriger Schleim"
+    },
+    "illarion:monster_612": {
+      "metadata": {
+        "monsterId": 612
+      },
+      "nameEnglish": "Slimey Slime",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_61_slime.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Schleimiger Schleim"
+    },
+    "illarion:monster_631": {
+      "metadata": {
+        "monsterId": 631
+      },
+      "nameEnglish": "Bone Dragon",
+      "race": 63,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_63_bone_dragon.default",
+      "minSize": 100,
+      "maxSize": 110,
+      "nameGerman": "Skelettdrache"
+    },
+    "illarion:monster_633": {
+      "metadata": {
+        "monsterId": 633
+      },
+      "nameEnglish": "Undead Fire Dragon",
+      "race": 63,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_63_bone_dragon.id_633_fire",
+      "minSize": 100,
+      "maxSize": 110,
+      "nameGerman": "Untoter Feuerdrache"
+    },
+    "illarion:monster_635": {
+      "metadata": {
+        "monsterId": 635
+      },
+      "nameEnglish": "Undead Swamp Dragon",
+      "race": 63,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_63_bone_dragon.id_635_swamp",
+      "minSize": 85,
+      "maxSize": 90,
+      "nameGerman": "Untoter Sumpfdrache"
+    },
+    "illarion:monster_634": {
+      "metadata": {
+        "monsterId": 634
+      },
+      "nameEnglish": "Nightmare Dragon",
+      "race": 63,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_63_bone_dragon.id_634_nightmare",
+      "minSize": 80,
+      "maxSize": 85,
+      "nameGerman": "Albtraumdrache"
+    },
+    "illarion:monster_795": {
+      "metadata": {
+        "monsterId": 795
+      },
+      "nameEnglish": "Fire Spitter",
+      "race": 9,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_79_trolls.id_795_firespitter",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Feuerspeier"
+    },
+    "illarion:monster_791": {
+      "metadata": {
+        "monsterId": 791
+      },
+      "nameEnglish": "Bridge Troll",
+      "race": 9,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_79_trolls.bridge",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Brückentroll"
+    },
+    "illarion:monster_796": {
+      "metadata": {
+        "monsterId": 796
+      },
+      "nameEnglish": "Keeper of Fire",
+      "race": 9,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_79_trolls.id_796_keeper_of_fire",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Hüter des Feuers"
+    },
+    "illarion:monster_851": {
+      "metadata": {
+        "monsterId": 851
+      },
+      "nameEnglish": "Shadow Runner",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_85_black_hellhound.default",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Schattenläufer"
+    },
+    "illarion:monster_793": {
+      "metadata": {
+        "monsterId": 793
+      },
+      "nameEnglish": "Mountain Troll",
+      "race": 9,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_79_trolls.mountain",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Bergtroll"
+    },
+    "illarion:monster_794": {
+      "metadata": {
+        "monsterId": 794
+      },
+      "nameEnglish": "Mountain Troll Archer",
+      "race": 9,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_79_trolls.mountain",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Bergtrollschütze"
+    },
+    "illarion:monster_861": {
+      "metadata": {
+        "monsterId": 861
+      },
+      "nameEnglish": "Crippled Ghost Beast",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_86_transparent_hellhound.default",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Verküppeltes Geisterbiest"
+    },
+    "illarion:monster_862": {
+      "metadata": {
+        "monsterId": 862
+      },
+      "nameEnglish": "Ghost Beast",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_86_transparent_hellhound.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Geisterbiest"
+    },
+    "illarion:monster_96": {
+      "metadata": {
+        "monsterId": 96
+      },
+      "nameEnglish": "Friendly Forest Troll",
+      "race": 9,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_9_foresttroll.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Friedlicher Waldtroll"
+    },
+    "illarion:monster_901": {
+      "metadata": {
+        "monsterId": 901
+      },
+      "nameEnglish": "Shadow Wimp",
+      "race": 55,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_90_black_imp.default",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Schattenschwächling"
+    },
+    "illarion:monster_94": {
+      "metadata": {
+        "monsterId": 94
+      },
+      "nameEnglish": "Forest Troll Hunter",
+      "race": 9,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_9_foresttroll.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Waldtrolljänger"
+    },
+    "illarion:monster_95": {
+      "metadata": {
+        "monsterId": 95
+      },
+      "nameEnglish": "Forest Troll Forester",
+      "race": 9,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_9_foresttroll.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Waldtrollförster"
+    },
+    "illarion:monster_524": {
+      "metadata": {
+        "monsterId": 524
+      },
+      "nameEnglish": "Fire Raptor",
+      "race": 52,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_52_raptor.id_524_fire_raptor",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Feuerraptor"
+    },
+    "illarion:monster_3": {
+      "metadata": {
+        "monsterId": 3
+      },
+      "nameEnglish": "Human Mage",
+      "race": 0,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_0_human.id_3_mage",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Menschenmagier"
+    },
+    "illarion:monster_11": {
+      "metadata": {
+        "monsterId": 11
+      },
+      "nameEnglish": "Dwarf",
+      "race": 1,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_1_dwarf.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Zwerg"
+    },
+    "illarion:monster_106": {
+      "metadata": {
+        "monsterId": 106
+      },
+      "nameEnglish": "Worker Mummy",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_10_mummy.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Arbeitermumie"
+    },
+    "illarion:monster_171": {
+      "metadata": {
+        "monsterId": 171
+      },
+      "nameEnglish": "Mummified Priest",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_17_blue_mummy.id_171_mummifiedpriest",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Mumifizierter Priester"
+    },
+    "illarion:monster_1054": {
+      "metadata": {
+        "monsterId": 1054
+      },
+      "nameEnglish": "Friendly Slime",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_105_transparent_slime.default",
+      "minSize": 95,
+      "maxSize": 110,
+      "nameGerman": "Friedlicher Schleim"
+    },
+    "illarion:monster_117": {
+      "metadata": {
+        "monsterId": 117
+      },
+      "nameEnglish": "Weakened Lich",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_11_skeleton.default",
+      "minSize": 100,
+      "maxSize": 100,
+      "nameGerman": "Geschwächter Lich"
+    },
+    "illarion:monster_141": {
+      "metadata": {
+        "monsterId": 141
+      },
+      "nameEnglish": "Ghost Eye",
+      "race": 12,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_14_transparent_beholder.default",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Geisterauge"
+    },
+    "illarion:monster_142": {
+      "metadata": {
+        "monsterId": 142
+      },
+      "nameEnglish": "Unholy Ghost Eye",
+      "race": 12,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_14_transparent_beholder.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Unheiliges Geisterauge"
+    },
+    "illarion:monster_143": {
+      "metadata": {
+        "monsterId": 143
+      },
+      "nameEnglish": "Horrible Ghost Eye",
+      "race": 12,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_14_transparent_beholder.id_143_horrible_ghost_eye",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Schreckliches Geisterauge"
+    },
+    "illarion:monster_65": {
+      "metadata": {
+        "monsterId": 65
+      },
+      "nameEnglish": "Drow Leader",
+      "race": 3,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_6_drow.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Anführer der Dunkelelfen"
+    },
+    "illarion:monster_4": {
+      "metadata": {
+        "monsterId": 4
+      },
+      "nameEnglish": "Human Necromancer",
+      "race": 0,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_0_human.id_4_necromancer",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Menschennekromant"
+    },
+    "illarion:monster_241": {
+      "metadata": {
+        "monsterId": 241
+      },
+      "nameEnglish": "Pig",
+      "race": 24,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_24_pig.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Schwein"
+    },
+    "illarion:monster_1042": {
+      "metadata": {
+        "monsterId": 1042
+      },
+      "nameEnglish": "Wandering Sewage",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_104_black_slime.default",
+      "minSize": 90,
+      "maxSize": 110,
+      "nameGerman": "Wanderndes Abwasser"
+    },
+    "illarion:monster_25": {
+      "metadata": {
+        "monsterId": 25
+      },
+      "nameEnglish": "Halfling Hunter",
+      "race": 2,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_2_halfling.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Halblingsjäger"
+    },
+    "illarion:monster_26": {
+      "metadata": {
+        "monsterId": 26
+      },
+      "nameEnglish": "Friendly Halfling",
+      "race": 2,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_2_halfling.default",
+      "minSize": 90,
+      "maxSize": 110,
+      "nameGerman": "Friedlicher Halbling"
+    },
+    "illarion:monster_32": {
+      "metadata": {
+        "monsterId": 32
+      },
+      "nameEnglish": "Elven Warrior",
+      "race": 3,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_3_elf.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Elfenkrieger"
+    },
+    "illarion:monster_33": {
+      "metadata": {
+        "monsterId": 33
+      },
+      "nameEnglish": "Elven Priest",
+      "race": 3,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_3_elf.id_33_priest",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Elfenpriester"
+    },
+    "illarion:monster_34": {
+      "metadata": {
+        "monsterId": 34
+      },
+      "nameEnglish": "Elven Mage",
+      "race": 3,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_3_elf.id_34_mage",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Elfenmagier"
+    },
+    "illarion:monster_42": {
+      "metadata": {
+        "monsterId": 42
+      },
+      "nameEnglish": "Orc Warrior",
+      "race": 4,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_4_orc.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Orkkrieger"
+    },
+    "illarion:monster_43": {
+      "metadata": {
+        "monsterId": 43
+      },
+      "nameEnglish": "Orc Thief",
+      "race": 4,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_4_orc.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Orkdieb"
+    },
+    "illarion:monster_44": {
+      "metadata": {
+        "monsterId": 44
+      },
+      "nameEnglish": "Orc Hunter",
+      "race": 4,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_4_orc.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Orkjäger"
+    },
+    "illarion:monster_46": {
+      "metadata": {
+        "monsterId": 46
+      },
+      "nameEnglish": "Friendly Orc",
+      "race": 4,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_4_orc.default",
+      "minSize": 90,
+      "maxSize": 110,
+      "nameGerman": "Friedlicher Ork"
+    },
+    "illarion:monster_575": {
+      "metadata": {
+        "monsterId": 575
+      },
+      "nameEnglish": "Contaminated Ratchild",
+      "race": 57,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_57_ratman.green",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Kontaminiertes Rattenkind"
+    },
+    "illarion:monster_576": {
+      "metadata": {
+        "monsterId": 576
+      },
+      "nameEnglish": "Contaminated Ratman",
+      "race": 57,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_57_ratman.green",
+      "minSize": 90,
+      "maxSize": 105,
+      "nameGerman": "Kontaminierter Rattenmensch"
+    },
+    "illarion:monster_573": {
+      "metadata": {
+        "monsterId": 573
+      },
+      "nameEnglish": "Sewer Rat",
+      "race": 57,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_57_ratman.red",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Kanalratte"
+    },
+    "illarion:monster_574": {
+      "metadata": {
+        "monsterId": 574
+      },
+      "nameEnglish": "Giant Sewer Rat",
+      "race": 57,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_57_ratman.red",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Gigantische Kanalratte"
+    },
+    "illarion:monster_581": {
+      "metadata": {
+        "monsterId": 581
+      },
+      "nameEnglish": "Dog",
+      "race": 58,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_58_dog.default",
+      "minSize": 95,
+      "maxSize": 100,
+      "nameGerman": "Hund"
+    },
+    "illarion:monster_582": {
+      "metadata": {
+        "monsterId": 582
+      },
+      "nameEnglish": "Vicious Dog",
+      "race": 58,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_58_dog.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Boshafter Hund"
+    },
+    "illarion:monster_583": {
+      "metadata": {
+        "monsterId": 583
+      },
+      "nameEnglish": "Watchdog",
+      "race": 58,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_58_dog.default",
+      "minSize": 85,
+      "maxSize": 100,
+      "nameGerman": "Wachhund"
+    },
+    "illarion:monster_584": {
+      "metadata": {
+        "monsterId": 584
+      },
+      "nameEnglish": "Docile Stray Dog",
+      "race": 58,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_58_dog.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Zahmer Streuner"
+    },
+    "illarion:monster_591": {
+      "metadata": {
+        "monsterId": 591
+      },
+      "nameEnglish": "Peaceful Beetle",
+      "race": 59,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_59_beetle.default",
+      "minSize": 81,
+      "maxSize": 121,
+      "nameGerman": "Friedlicher Käfer"
+    },
+    "illarion:monster_592": {
+      "metadata": {
+        "monsterId": 592
+      },
+      "nameEnglish": "Hunter Beetle",
+      "race": 59,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_59_beetle.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Jagdkäfer"
+    },
+    "illarion:monster_51": {
+      "metadata": {
+        "monsterId": 51
+      },
+      "nameEnglish": "Lizard",
+      "race": 5,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_5_lizard.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Echsenmensch"
+    },
+    "illarion:monster_52": {
+      "metadata": {
+        "monsterId": 52
+      },
+      "nameEnglish": "Lizard Temple Warrior",
+      "race": 5,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_5_lizard.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Echsen-Tempelkrieger"
+    },
+    "illarion:monster_53": {
+      "metadata": {
+        "monsterId": 53
+      },
+      "nameEnglish": "Lizard Mage",
+      "race": 5,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_5_lizard.id_53_mage",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Echsenmagier"
+    },
+    "illarion:monster_604": {
+      "metadata": {
+        "monsterId": 604
+      },
+      "nameEnglish": "Fire Ridge",
+      "race": 60,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_60_fox.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Feuerkamm"
+    },
+    "illarion:monster_602": {
+      "metadata": {
+        "monsterId": 602
+      },
+      "nameEnglish": "Redfox",
+      "race": 60,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_60_fox.default",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Rotfuchs"
+    },
+    "illarion:monster_751": {
+      "metadata": {
+        "monsterId": 751
+      },
+      "nameEnglish": "Grave Guard",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_75_blue_skeleton.default",
+      "minSize": 100,
+      "maxSize": 110,
+      "nameGerman": "Grabwächter"
+    },
+    "illarion:monster_606": {
+      "metadata": {
+        "monsterId": 606
+      },
+      "nameEnglish": "Young Grey Fox",
+      "race": 60,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_60_fox.gray",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Junger Graufuchs"
+    },
+    "illarion:monster_613": {
+      "metadata": {
+        "monsterId": 613
+      },
+      "nameEnglish": "Mouldy Slime",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_61_slime.default",
+      "minSize": 100,
+      "maxSize": 110,
+      "nameGerman": "Schimmliger Schleim"
+    },
+    "illarion:monster_614": {
+      "metadata": {
+        "monsterId": 614
+      },
+      "nameEnglish": "Cauterising Slime",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_61_slime.default",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Kauterisierender Schleim"
+    },
+    "illarion:monster_615": {
+      "metadata": {
+        "monsterId": 615
+      },
+      "nameEnglish": "Friendly Slime",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_61_slime.default",
+      "minSize": 95,
+      "maxSize": 110,
+      "nameGerman": "Friedlicher Schleim"
+    },
+    "illarion:monster_621": {
+      "metadata": {
+        "monsterId": 621
+      },
+      "nameEnglish": "Chicken",
+      "race": 62,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_62_chicken.default",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Hühnchen"
+    },
+    "illarion:monster_622": {
+      "metadata": {
+        "monsterId": 622
+      },
+      "nameEnglish": "Angry Chicken",
+      "race": 62,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_62_chicken.default",
+      "minSize": 95,
+      "maxSize": 105,
+      "nameGerman": "Wütendes Hühnchen"
+    },
+    "illarion:monster_64": {
+      "metadata": {
+        "monsterId": 64
+      },
+      "nameEnglish": "Drow Priest",
+      "race": 3,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_6_drow.id_64_priest",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Dunkelelfenpriester"
+    },
+    "illarion:monster_872": {
+      "metadata": {
+        "monsterId": 872
+      },
+      "nameEnglish": "Swamp Beast",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_87_green_hellhound.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Sumpfbiest"
+    },
+    "illarion:monster_1031": {
+      "metadata": {
+        "monsterId": 1031
+      },
+      "nameEnglish": "Blood Slime",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_103_red_slime.default",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Blutschleim"
+    },
+    "illarion:monster_891": {
+      "metadata": {
+        "monsterId": 891
+      },
+      "nameEnglish": "Fire Imp",
+      "race": 55,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_89_red_imp.default",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Feuerimp"
+    },
+    "illarion:monster_893": {
+      "metadata": {
+        "monsterId": 893
+      },
+      "nameEnglish": "Mystic Fire Imp",
+      "race": 55,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_89_red_imp.id_893_mystic",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Mystischer Feuerimp"
+    },
+    "illarion:monster_902": {
+      "metadata": {
+        "monsterId": 902
+      },
+      "nameEnglish": "Shadow Imp",
+      "race": 55,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_90_black_imp.default",
+      "minSize": 90,
+      "maxSize": 110,
+      "nameGerman": "Schattenimp"
+    },
+    "illarion:monster_903": {
+      "metadata": {
+        "monsterId": 903
+      },
+      "nameEnglish": "Shadow Dancer",
+      "race": 55,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_90_black_imp.id_903_shadow_dancer",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Schattentänzer"
+    },
+    "illarion:monster_91": {
+      "metadata": {
+        "monsterId": 91
+      },
+      "nameEnglish": "Forest Troll",
+      "race": 9,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_9_foresttroll.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Waldtroll"
+    },
+    "illarion:monster_92": {
+      "metadata": {
+        "monsterId": 92
+      },
+      "nameEnglish": "Forest Troll Warrior",
+      "race": 9,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_9_foresttroll.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Waldtrollkrieger"
+    },
+    "illarion:monster_93": {
+      "metadata": {
+        "monsterId": 93
+      },
+      "nameEnglish": "Forest Troll Shaman",
+      "race": 9,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_9_foresttroll.id_93_shaman",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Waldtrollschamane"
+    },
+    "illarion:monster_261": {
+      "metadata": {
+        "monsterId": 261
+      },
+      "nameEnglish": "Nightmare Spider",
+      "race": 19,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_26_transparent_spider.default",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Albtraumspinne"
+    },
+    "illarion:monster_9": {
+      "metadata": {
+        "monsterId": 9
+      },
+      "nameEnglish": "Cursed Knight",
+      "race": 0,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_0_human.default",
+      "minSize": 100,
+      "maxSize": 100,
+      "nameGerman": "Verfluchter Ritter"
+    },
+    "illarion:monster_1033": {
+      "metadata": {
+        "monsterId": 1033
+      },
+      "nameEnglish": "Wandering Demon Blood",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_103_red_slime.default",
+      "minSize": 100,
+      "maxSize": 110,
+      "nameGerman": "Wanderndes Dämonenblut"
+    },
+    "illarion:monster_31": {
+      "metadata": {
+        "monsterId": 31
+      },
+      "nameEnglish": "Elf",
+      "race": 3,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_3_elf.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Elf"
+    },
+    "illarion:monster_41": {
+      "metadata": {
+        "monsterId": 41
+      },
+      "nameEnglish": "Orc",
+      "race": 4,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_4_orc.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Ork"
+    },
+    "illarion:monster_577": {
+      "metadata": {
+        "monsterId": 577
+      },
+      "nameEnglish": "Crazy Rat Alchemist",
+      "race": 57,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_57_ratman.blue",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Verrückter Rattenalchemist"
+    },
+    "illarion:monster_616": {
+      "metadata": {
+        "monsterId": 616
+      },
+      "nameEnglish": "Old Slime",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_61_slime.id_616_old_slime",
+      "minSize": 100,
+      "maxSize": 100,
+      "nameGerman": "Alter Schleim"
+    },
+    "illarion:monster_103": {
+      "metadata": {
+        "monsterId": 103
+      },
+      "nameEnglish": "Enbalmed Servant",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_10_mummy.default",
+      "minSize": 85,
+      "maxSize": 90,
+      "nameGerman": "Einbalsamierter Diener"
+    },
+    "illarion:monster_1111": {
+      "metadata": {
+        "monsterId": 1111
+      },
+      "nameEnglish": "Rat",
+      "race": 111,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_111_rat.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Ratte"
+    },
+    "illarion:monster_1112": {
+      "metadata": {
+        "monsterId": 1112
+      },
+      "nameEnglish": "Small Rat",
+      "race": 111,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_111_rat.default",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Kleine Ratte"
+    },
+    "illarion:monster_1115": {
+      "metadata": {
+        "monsterId": 1115
+      },
+      "nameEnglish": "Plague Rat",
+      "race": 111,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_111_rat.default",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Pestratte"
+    },
+    "illarion:monster_1116": {
+      "metadata": {
+        "monsterId": 1116
+      },
+      "nameEnglish": "Sewer Rat",
+      "race": 111,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_111_rat.default",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Kanalratte"
+    },
+    "illarion:monster_1161": {
+      "metadata": {
+        "monsterId": 1161
+      },
+      "nameEnglish": "Red Deer",
+      "race": 116,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_116_deer.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Rothirsch"
+    },
+    "illarion:monster_1162": {
+      "metadata": {
+        "monsterId": 1162
+      },
+      "nameEnglish": "White Tail Deer",
+      "race": 116,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_116_deer.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Weißwedelhirsch"
+    },
+    "illarion:monster_1163": {
+      "metadata": {
+        "monsterId": 1163
+      },
+      "nameEnglish": "Mule Deer",
+      "race": 116,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_116_deer.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Maultierhirsch"
+    },
+    "illarion:monster_1164": {
+      "metadata": {
+        "monsterId": 1164
+      },
+      "nameEnglish": "Eld's Deer",
+      "race": 116,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_116_deer.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Leierhirsch"
+    },
+    "illarion:monster_1165": {
+      "metadata": {
+        "monsterId": 1165
+      },
+      "nameEnglish": "Fallow Deer",
+      "race": 116,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_116_deer.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Dammhirsch"
+    },
+    "illarion:monster_172": {
+      "metadata": {
+        "monsterId": 172
+      },
+      "nameEnglish": "Mummified Temple Servant",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_17_blue_mummy.default",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Mummifizierter Tempeldiener"
+    },
+    "illarion:monster_204": {
+      "metadata": {
+        "monsterId": 204
+      },
+      "nameEnglish": "Unholy Archmage",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_20_demon_skeleton.id_204_archmage",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Unheiliger Erzmagier"
+    },
+    "illarion:monster_205": {
+      "metadata": {
+        "monsterId": 205
+      },
+      "nameEnglish": "Lich",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_20_demon_skeleton.id_205_lich",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Lich"
+    },
+    "illarion:monster_601": {
+      "metadata": {
+        "monsterId": 601
+      },
+      "nameEnglish": "Fox Cub",
+      "race": 60,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_60_fox.default",
+      "minSize": 80,
+      "maxSize": 85,
+      "nameGerman": "Fuchswelpe"
+    },
+    "illarion:monster_1043": {
+      "metadata": {
+        "monsterId": 1043
+      },
+      "nameEnglish": "Corpse Bile",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_104_black_slime.default",
+      "minSize": 115,
+      "maxSize": 120,
+      "nameGerman": "Leichengalle"
+    },
+    "illarion:monster_5": {
+      "metadata": {
+        "monsterId": 5
+      },
+      "nameEnglish": "Human Thief",
+      "race": 0,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_0_human.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Menschlicher Dieb"
+    },
+    "illarion:monster_101": {
+      "metadata": {
+        "monsterId": 101
+      },
+      "nameEnglish": "Mummy",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_10_mummy.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Mumie"
+    },
+    "illarion:monster_1113": {
+      "metadata": {
+        "monsterId": 1113
+      },
+      "nameEnglish": "Aggressive Rat",
+      "race": 111,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_111_rat.default",
+      "minSize": 80,
+      "maxSize": 110,
+      "nameGerman": "Aggressive Ratte"
+    },
+    "illarion:monster_1114": {
+      "metadata": {
+        "monsterId": 1114
+      },
+      "nameEnglish": "Muskrat",
+      "race": 111,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_111_rat.default",
+      "minSize": 90,
+      "maxSize": 110,
+      "nameGerman": "Bisamratte"
+    },
+    "illarion:monster_222": {
+      "metadata": {
+        "monsterId": 222
+      },
+      "nameEnglish": "Juvenile Gynk Spider",
+      "race": 19,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_22_green_spider.default",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Jugendliche Gynkspinne"
+    },
+    "illarion:monster_242": {
+      "metadata": {
+        "monsterId": 242
+      },
+      "nameEnglish": "Boar",
+      "race": 24,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_24_pig.default",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Eber"
+    },
+    "illarion:monster_391": {
+      "metadata": {
+        "monsterId": 391
+      },
+      "nameEnglish": "Wolf",
+      "race": 39,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_39_wolf.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Wolf"
+    },
+    "illarion:monster_513": {
+      "metadata": {
+        "monsterId": 513
+      },
+      "nameEnglish": "Silverback",
+      "race": 51,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_51_bear.silver",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Silbernacken"
+    },
+    "illarion:monster_514": {
+      "metadata": {
+        "monsterId": 514
+      },
+      "nameEnglish": "Young Silverback",
+      "race": 51,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_51_bear.silver",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Junger Silbernacken"
+    },
+    "illarion:monster_535": {
+      "metadata": {
+        "monsterId": 535
+      },
+      "nameEnglish": "Bog Body",
+      "race": 53,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_53_zombie.black",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Moorleiche"
+    },
+    "illarion:monster_536": {
+      "metadata": {
+        "monsterId": 536
+      },
+      "nameEnglish": "Ragged Bog Body",
+      "race": 53,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_53_zombie.black",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Zerlumpter Moorkörper"
+    },
+    "illarion:monster_538": {
+      "metadata": {
+        "monsterId": 538
+      },
+      "nameEnglish": "Horrible Poltergeist",
+      "race": 53,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_53_zombie.transparent",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Furchtbarer Poltergeist"
+    },
+    "illarion:monster_563": {
+      "metadata": {
+        "monsterId": 563
+      },
+      "nameEnglish": "Merinium Golem",
+      "race": 56,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_56_irongolem.id_563_merinium",
+      "minSize": 120,
+      "maxSize": 120,
+      "nameGerman": "Meriniumgolem"
+    },
+    "illarion:monster_605": {
+      "metadata": {
+        "monsterId": 605
+      },
+      "nameEnglish": "Grey Fox",
+      "race": 60,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_60_fox.gray",
+      "minSize": 100,
+      "maxSize": 110,
+      "nameGerman": "Graufuchs"
+    },
+    "illarion:monster_623": {
+      "metadata": {
+        "monsterId": 623
+      },
+      "nameEnglish": "Crazy Chicken",
+      "race": 62,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_62_chicken.id_623_crazy",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Verücktes Hühnchen"
+    },
+    "illarion:monster_637": {
+      "metadata": {
+        "monsterId": 637
+      },
+      "nameEnglish": "Golden Bone Dragon",
+      "race": 63,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_63_bone_dragon.id_637_golden",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Goldener Knochendrache"
+    },
+    "illarion:monster_764": {
+      "metadata": {
+        "monsterId": 764
+      },
+      "nameEnglish": "Mystic Swamp Horror",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_76_green_skeleton.id_764_mysticswamphorror",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Mystischer Sumpfhorror"
+    },
+    "illarion:monster_742": {
+      "metadata": {
+        "monsterId": 742
+      },
+      "nameEnglish": "Bone Schemes",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_74_tranparent_skeleton.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Knochenschemen"
+    },
+    "illarion:monster_743": {
+      "metadata": {
+        "monsterId": 743
+      },
+      "nameEnglish": "Bone Ghost",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_74_tranparent_skeleton.default",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Knochengeist"
+    },
+    "illarion:monster_744": {
+      "metadata": {
+        "monsterId": 744
+      },
+      "nameEnglish": "Phantom Archer",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_74_tranparent_skeleton.default",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Phantomschütze"
+    },
+    "illarion:monster_753": {
+      "metadata": {
+        "monsterId": 753
+      },
+      "nameEnglish": "Grave Guard Archer",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_75_blue_skeleton.default",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Grabwächterschütze"
+    },
+    "illarion:monster_761": {
+      "metadata": {
+        "monsterId": 761
+      },
+      "nameEnglish": "Armoured Swamp Horror",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_76_green_skeleton.default",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Gepanzerter Sumpfhorror"
+    },
+    "illarion:monster_762": {
+      "metadata": {
+        "monsterId": 762
+      },
+      "nameEnglish": "Crippled Swamp Horror",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_76_green_skeleton.default",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Verkrüppelter Sumpfhorror"
+    },
+    "illarion:monster_763": {
+      "metadata": {
+        "monsterId": 763
+      },
+      "nameEnglish": "Scruffy Swamp Horror",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_76_green_skeleton.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Gammeliger Sumpfhorror"
+    },
+    "illarion:monster_852": {
+      "metadata": {
+        "monsterId": 852
+      },
+      "nameEnglish": "Shadow Fright",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_85_black_hellhound.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Schattenangst"
+    },
+    "illarion:monster_782": {
+      "metadata": {
+        "monsterId": 782
+      },
+      "nameEnglish": "Golden Legionnaire",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_78_golden_skeleton.default",
+      "minSize": 120,
+      "maxSize": 120,
+      "nameGerman": "Goldener Legionär"
+    },
+    "illarion:monster_784": {
+      "metadata": {
+        "monsterId": 784
+      },
+      "nameEnglish": "Golden Archer",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_78_golden_skeleton.default",
+      "minSize": 100,
+      "maxSize": 100,
+      "nameGerman": "Goldener Schütze"
+    },
+    "illarion:monster_853": {
+      "metadata": {
+        "monsterId": 853
+      },
+      "nameEnglish": "Giant Shadow Runner",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_85_black_hellhound.default",
+      "minSize": 115,
+      "maxSize": 120,
+      "nameGerman": "Gigantischer Schattenläufer"
+    },
+    "illarion:monster_871": {
+      "metadata": {
+        "monsterId": 871
+      },
+      "nameEnglish": "Crippled Swamp Beast",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_87_green_hellhound.default",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Verkrüppeltes Sumpfbiest"
+    },
+    "illarion:monster_881": {
+      "metadata": {
+        "monsterId": 881
+      },
+      "nameEnglish": "Blood Hunter",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_88_red_hellhound.default",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Blutjäger"
+    },
+    "illarion:monster_883": {
+      "metadata": {
+        "monsterId": 883
+      },
+      "nameEnglish": "Blood Sniffer",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_88_red_hellhound.default",
+      "minSize": 115,
+      "maxSize": 120,
+      "nameGerman": "Blutschnüffler"
+    },
+    "illarion:monster_873": {
+      "metadata": {
+        "monsterId": 873
+      },
+      "nameEnglish": "Giant Swamp Beast",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_87_green_hellhound.default",
+      "minSize": 115,
+      "maxSize": 120,
+      "nameGerman": "Gigantisches Sumpfbiest"
+    },
+    "illarion:monster_882": {
+      "metadata": {
+        "monsterId": 882
+      },
+      "nameEnglish": "Monstrosity",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_88_red_hellhound.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Monstrosität"
+    },
+    "illarion:monster_954": {
+      "metadata": {
+        "monsterId": 954
+      },
+      "nameEnglish": "Orc Hound",
+      "race": 58,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_95_dog.black",
+      "minSize": 105,
+      "maxSize": 110,
+      "nameGerman": "Orkhund"
+    },
+    "illarion:monster_955": {
+      "metadata": {
+        "monsterId": 955
+      },
+      "nameEnglish": "Young Orc Hound",
+      "race": 58,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_95_dog.black",
+      "minSize": 95,
+      "maxSize": 100,
+      "nameGerman": "Junger Orkhund"
+    },
+    "illarion:monster_1151": {
+      "metadata": {
+        "monsterId": 1151
+      },
+      "nameEnglish": "Fairy",
+      "race": 115,
+      "hitpoints": 10000,
+      "movementType": "fly",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_115_fairy.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Fee"
+    },
+    "illarion:monster_951": {
+      "metadata": {
+        "monsterId": 951
+      },
+      "nameEnglish": "Attack Dog",
+      "race": 58,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_95_dog.red",
+      "minSize": 95,
+      "maxSize": 110,
+      "nameGerman": "Angriffshund"
+    },
+    "illarion:monster_262": {
+      "metadata": {
+        "monsterId": 262
+      },
+      "nameEnglish": "Soulpain",
+      "race": 19,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_26_transparent_spider.id_262_soulpain",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Seelenpein"
+    },
+    "illarion:monster_636": {
+      "metadata": {
+        "monsterId": 636
+      },
+      "nameEnglish": "Shiny Death Dragon",
+      "race": 63,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_63_bone_dragon.id_636_ice",
+      "minSize": 80,
+      "maxSize": 85,
+      "nameGerman": "Leuchtender Todesdrache"
+    },
+    "illarion:monster_1": {
+      "metadata": {
+        "monsterId": 1
+      },
+      "nameEnglish": "Human",
+      "race": 0,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_0_human.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Mensch"
+    },
+    "illarion:monster_2": {
+      "metadata": {
+        "monsterId": 2
+      },
+      "nameEnglish": "Human Warrior",
+      "race": 0,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_0_human.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Menschenkrieger"
+    },
+    "illarion:monster_752": {
+      "metadata": {
+        "monsterId": 752
+      },
+      "nameEnglish": "Mystic Grave Guard",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_75_blue_skeleton.id_752_mysticgraveguard",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Mystischer Grabwächter"
+    },
+    "illarion:monster_783": {
+      "metadata": {
+        "monsterId": 783
+      },
+      "nameEnglish": "Golden Magus",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_78_golden_skeleton.id_783_magus",
+      "minSize": 80,
+      "maxSize": 80,
+      "nameGerman": "Goldener Magier"
+    },
+    "illarion:monster_792": {
+      "metadata": {
+        "monsterId": 792
+      },
+      "nameEnglish": "Bridge Troll Shaman",
+      "race": 9,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_79_trolls.id_792_bridge_troll_shaman",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Brückentrollschamane"
+    },
+    "illarion:monster_892": {
+      "metadata": {
+        "monsterId": 892
+      },
+      "nameEnglish": "Cursed Fire Imp",
+      "race": 55,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_89_red_imp.id_892_cursed",
+      "minSize": 90,
+      "maxSize": 110,
+      "nameGerman": "Verfluchter Feuerimp"
+    },
+    "illarion:monster_543": {
+      "metadata": {
+        "monsterId": 543
+      },
+      "nameEnglish": "Giant Demon Beast",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_54_hellhound.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Gigantisches Dämonenbiest"
+    },
+    "illarion:monster_232": {
+      "metadata": {
+        "monsterId": 232
+      },
+      "nameEnglish": "Shadow Muncher",
+      "race": 19,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_23_blue_spider.id_232_shadowmuncher",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Schattenschlinger"
+    },
+    "illarion:monster_741": {
+      "metadata": {
+        "monsterId": 741
+      },
+      "nameEnglish": "Phantom Skeleton",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_74_tranparent_skeleton.default",
+      "minSize": 100,
+      "maxSize": 110,
+      "nameGerman": "Phantomskelett"
+    },
+    "illarion:monster_754": {
+      "metadata": {
+        "monsterId": 754
+      },
+      "nameEnglish": "Ancient Grave Guard",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_75_blue_skeleton.default",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Uralter Grabwächter"
+    },
+    "illarion:monster_863": {
+      "metadata": {
+        "monsterId": 863
+      },
+      "nameEnglish": "Giant Ghost Beast",
+      "race": 54,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_86_transparent_hellhound.default",
+      "minSize": 115,
+      "maxSize": 120,
+      "nameGerman": "Gigantisches Geisterbiest"
+    },
+    "illarion:monster_56": {
+      "metadata": {
+        "monsterId": 56
+      },
+      "nameEnglish": "Friendly Lizard",
+      "race": 5,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_5_lizard.default",
+      "minSize": 90,
+      "maxSize": 110,
+      "nameGerman": "Friedlicher Echsenmensch"
+    },
+    "illarion:monster_1032": {
+      "metadata": {
+        "monsterId": 1032
+      },
+      "nameEnglish": "Wandering Pool of Blood",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_103_red_slime.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Wandernder See aus Blut"
+    },
+    "illarion:monster_1041": {
+      "metadata": {
+        "monsterId": 1041
+      },
+      "nameEnglish": "Wandering Garbage",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_104_black_slime.default",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Wandernder Müll"
+    },
+    "illarion:monster_107": {
+      "metadata": {
+        "monsterId": 107
+      },
+      "nameEnglish": "Mummy of Madness",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_10_mummy.id_107_madness",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Mumie des Wahnsinns"
+    },
+    "illarion:monster_110": {
+      "metadata": {
+        "monsterId": 110
+      },
+      "nameEnglish": "Dead King",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_10_mummy.id_110_king",
+      "minSize": 119,
+      "maxSize": 120,
+      "nameGerman": "Toter König"
+    },
+    "illarion:monster_1053": {
+      "metadata": {
+        "monsterId": 1053
+      },
+      "nameEnglish": "Doomed Ectoplasm",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_105_transparent_slime.default",
+      "minSize": 110,
+      "maxSize": 115,
+      "nameGerman": "Verdammtes Ektoplasma"
+    },
+    "illarion:monster_1052": {
+      "metadata": {
+        "monsterId": 1052
+      },
+      "nameEnglish": "Malicious Ectoplasm",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_105_transparent_slime.default",
+      "minSize": 100,
+      "maxSize": 110,
+      "nameGerman": "Bösartiges Ektoplasma"
+    },
+    "illarion:monster_952": {
+      "metadata": {
+        "monsterId": 952
+      },
+      "nameEnglish": "Hound",
+      "race": 58,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_95_dog.gray",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Jagdhund"
+    },
+    "illarion:monster_953": {
+      "metadata": {
+        "monsterId": 953
+      },
+      "nameEnglish": "Young Hound",
+      "race": 58,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_95_dog.gray",
+      "minSize": 100,
+      "maxSize": 110,
+      "nameGerman": "Junger Jagdhund"
+    },
+    "illarion:monster_123": {
+      "metadata": {
+        "monsterId": 123
+      },
+      "nameEnglish": "Eye of Horror",
+      "race": 12,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_12_beholder.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Auge des Streckens"
+    },
+    "illarion:monster_132": {
+      "metadata": {
+        "monsterId": 132
+      },
+      "nameEnglish": "Eye of Darkness",
+      "race": 12,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_13_black_beholder.id_132_eye_of_darkness",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Auge der Dunkelheit"
+    },
+    "illarion:monster_202": {
+      "metadata": {
+        "monsterId": 202
+      },
+      "nameEnglish": "Mystic Demon Skeleton",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_20_demon_skeleton.id_202_mystic",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Mystisches Dämonenskelett"
+    },
+    "illarion:monster_223": {
+      "metadata": {
+        "monsterId": 223
+      },
+      "nameEnglish": "Giant Enforcer Spider",
+      "race": 19,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_22_green_spider.default",
+      "minSize": 110,
+      "maxSize": 150,
+      "nameGerman": "Riesige Vollstreckerspinne"
+    },
+    "illarion:monster_24": {
+      "metadata": {
+        "monsterId": 24
+      },
+      "nameEnglish": "Halfling Peasant",
+      "race": 2,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_2_halfling.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Halblingsbauer"
+    },
+    "illarion:monster_396": {
+      "metadata": {
+        "monsterId": 396
+      },
+      "nameEnglish": "Peaceful Wolf",
+      "race": 39,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_39_wolf.default",
+      "minSize": 95,
+      "maxSize": 100,
+      "nameGerman": "Friedlicher Wolf"
+    },
+    "illarion:monster_516": {
+      "metadata": {
+        "monsterId": 516
+      },
+      "nameEnglish": "Young Black Bear",
+      "race": 51,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_51_bear.black",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Junger Schwarzbär"
+    },
+    "illarion:monster_512": {
+      "metadata": {
+        "monsterId": 512
+      },
+      "nameEnglish": "Young Grizzly Bear",
+      "race": 51,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_51_bear.default",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Junger Grizzlybär"
+    },
+    "illarion:monster_55": {
+      "metadata": {
+        "monsterId": 55
+      },
+      "nameEnglish": "Lizard Thief",
+      "race": 5,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_5_lizard.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Echsenmenschendieb"
+    },
+    "illarion:monster_62": {
+      "metadata": {
+        "monsterId": 62
+      },
+      "nameEnglish": "Drow Warrior",
+      "race": 3,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_6_drow.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Dunkelelfenkrieger"
+    },
+    "illarion:monster_116": {
+      "metadata": {
+        "monsterId": 116
+      },
+      "nameEnglish": "Friendly Skeleton",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_11_skeleton.default",
+      "minSize": 90,
+      "maxSize": 100,
+      "nameGerman": "Friedliches Skelett"
+    },
+    "illarion:monster_1152": {
+      "metadata": {
+        "monsterId": 1152
+      },
+      "nameEnglish": "Blood fairy",
+      "race": 115,
+      "hitpoints": 10000,
+      "movementType": "fly",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_115_fairy.id_1152_blood_fairy",
+      "minSize": 100,
+      "maxSize": 100,
+      "nameGerman": "Blutfee"
+    },
+    "illarion:monster_1121": {
+      "metadata": {
+        "monsterId": 1121
+      },
+      "nameEnglish": "Night Dragon",
+      "race": 112,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_112_flesh_dragon.id_1121_nightdragon",
+      "minSize": 80,
+      "maxSize": 90,
+      "nameGerman": "Nachtdrache"
+    },
+    "illarion:monster_1122": {
+      "metadata": {
+        "monsterId": 1122
+      },
+      "nameEnglish": "Shadow Dragon",
+      "race": 112,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_112_flesh_dragon.id_1122_shadowdragon",
+      "minSize": 90,
+      "maxSize": 110,
+      "nameGerman": "Schattendrache"
+    },
+    "illarion:monster_1123": {
+      "metadata": {
+        "monsterId": 1123
+      },
+      "nameEnglish": "Dragon of Death",
+      "race": 112,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_112_flesh_dragon.id_1123_deathdragon",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Todesdrache"
+    },
+    "illarion:monster_1131": {
+      "metadata": {
+        "monsterId": 1131
+      },
+      "nameEnglish": "Rabbit",
+      "race": 113,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_113_rabbit.default",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Kaninchen"
+    },
+    "illarion:monster_1132": {
+      "metadata": {
+        "monsterId": 1132
+      },
+      "nameEnglish": "Hare",
+      "race": 113,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_113_rabbit.default",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Hase"
+    },
+    "illarion:monster_173": {
+      "metadata": {
+        "monsterId": 173
+      },
+      "nameEnglish": "Mummified High Priest",
+      "race": 10,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_17_blue_mummy.id_173_mummifiedhighpriest",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Mumifizierter Hohepriester"
+    },
+    "illarion:monster_578": {
+      "metadata": {
+        "monsterId": 578
+      },
+      "nameEnglish": "Rat Priest",
+      "race": 57,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_57_ratman.id_578_priest",
+      "minSize": 90,
+      "maxSize": 105,
+      "nameGerman": "Rattenpriester"
+    },
+    "illarion:monster_244": {
+      "metadata": {
+        "monsterId": 244
+      },
+      "nameEnglish": "Hog",
+      "race": 24,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_24_pig.default",
+      "minSize": 100,
+      "maxSize": 110,
+      "nameGerman": "Sau"
+    },
+    "illarion:monster_638": {
+      "metadata": {
+        "monsterId": 638
+      },
+      "nameEnglish": "Black Dragon Skeleton of Madness",
+      "race": 63,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_63_bone_dragon.id_638_madness",
+      "minSize": 110,
+      "maxSize": 120,
+      "nameGerman": "Schwarzer Skelettdrache des Wahnsinns"
+    },
+    "illarion:monster_7": {
+      "metadata": {
+        "monsterId": 7
+      },
+      "nameEnglish": "Dark Paladin",
+      "race": 0,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_0_human.id_7_dark_paladin",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Dunkler Paladin"
+    },
+    "illarion:monster_66": {
+      "metadata": {
+        "monsterId": 66
+      },
+      "nameEnglish": "Drow Matriarch",
+      "race": 3,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "t",
+      "script": "monster.race_6_drow.id_66_matriarch",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Matriarchin der Dunkelelfen"
+    },
+    "illarion:monster_1133": {
+      "metadata": {
+        "monsterId": 1133
+      },
+      "nameEnglish": "Forest Rabbit",
+      "race": 113,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_113_rabbit.id_1133_forest",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Waldkaninchen"
+    },
+    "illarion:monster_1134": {
+      "metadata": {
+        "monsterId": 1134
+      },
+      "nameEnglish": "Forest Hare",
+      "race": 113,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_113_rabbit.id_1133_forest",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Waldhase"
+    },
+    "illarion:monster_1135": {
+      "metadata": {
+        "monsterId": 1135
+      },
+      "nameEnglish": "Desert Rabbit",
+      "race": 113,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_113_rabbit.id_1135_desert",
+      "minSize": 80,
+      "maxSize": 100,
+      "nameGerman": "Wüstenkaninchen"
+    },
+    "illarion:monster_1136": {
+      "metadata": {
+        "monsterId": 1136
+      },
+      "nameEnglish": "Desert Hare",
+      "race": 113,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_113_rabbit.id_1135_desert",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Wüstenhase"
+    },
+    "illarion:monster_603": {
+      "metadata": {
+        "monsterId": 603
+      },
+      "nameEnglish": "Fox Mother",
+      "race": 60,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_60_fox.default",
+      "minSize": 100,
+      "maxSize": 120,
+      "nameGerman": "Fähe"
+    },
+    "illarion:monster_1141": {
+      "metadata": {
+        "monsterId": 1141
+      },
+      "nameEnglish": "Enraged Akaltut",
+      "race": 114,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_114_akaltut.id_1141_enraged_akaltut",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Wütende Akaltut"
+    },
+    "illarion:monster_1153": {
+      "metadata": {
+        "monsterId": 1153
+      },
+      "nameEnglish": "Mystical Fairy",
+      "race": 115,
+      "hitpoints": 10000,
+      "movementType": "fly",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_115_fairy.id_1153_mystical_fairy",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Mystische Fee"
+    },
+    "illarion:monster_1154": {
+      "metadata": {
+        "monsterId": 1154
+      },
+      "nameEnglish": "Elemental Fairy",
+      "race": 115,
+      "hitpoints": 10000,
+      "movementType": "fly",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_115_fairy.id_1154_elemental_fairy",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Elementarfee"
+    },
+    "illarion:monster_1051": {
+      "metadata": {
+        "monsterId": 1051
+      },
+      "nameEnglish": "Ectoplasm",
+      "race": 61,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_105_transparent_slime.default",
+      "minSize": 90,
+      "maxSize": 90,
+      "nameGerman": "Ektoplasma"
+    },
+    "illarion:monster_1173": {
+      "metadata": {
+        "monsterId": 1173
+      },
+      "nameEnglish": "Ettin Sorcerer",
+      "race": 117,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_117_ettin.id_1173_sorcerer_ettin",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Ettinhexer"
+    },
+    "illarion:monster_1174": {
+      "metadata": {
+        "monsterId": 1174
+      },
+      "nameEnglish": "Ettin Cannibal",
+      "race": 117,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_117_ettin.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Ettinkannibale"
+    },
+    "illarion:monster_1155": {
+      "metadata": {
+        "monsterId": 1155
+      },
+      "nameEnglish": "Trickster Fairy",
+      "race": 115,
+      "hitpoints": 10000,
+      "movementType": "fly",
+      "canAttack": "f",
+      "canHealSelf": "f",
+      "script": "monster.race_115_fairy.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Schwindelfee"
+    },
+    "illarion:monster_1142": {
+      "metadata": {
+        "monsterId": 1142
+      },
+      "nameEnglish": "Akaltut",
+      "race": 114,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "t",
+      "script": "monster.race_114_akaltut.id_1142_akaltut",
+      "minSize": 100,
+      "maxSize": 100,
+      "nameGerman": "Akaltut"
+    },
+    "illarion:monster_1171": {
+      "metadata": {
+        "monsterId": 1171
+      },
+      "nameEnglish": "Ettin",
+      "race": 117,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_117_ettin.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Ettin"
+    },
+    "illarion:monster_1172": {
+      "metadata": {
+        "monsterId": 1172
+      },
+      "nameEnglish": "Deformed Ettin",
+      "race": 117,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_117_ettin.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Entstellter Ettin"
+    },
+    "illarion:monster_1175": {
+      "metadata": {
+        "monsterId": 1175
+      },
+      "nameEnglish": "Evil Crazied Ettin",
+      "race": 117,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_117_ettin.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Boshafter Ettin"
+    },
+    "illarion:monster_206": {
+      "metadata": {
+        "monsterId": 206
+      },
+      "nameEnglish": "Demon Skeleton Servant",
+      "race": 11,
+      "hitpoints": 10000,
+      "movementType": "walk",
+      "canAttack": "t",
+      "canHealSelf": "f",
+      "script": "monster.race_20_demon_skeleton.default",
+      "minSize": 80,
+      "maxSize": 120,
+      "nameGerman": "Dämonenskelett Diener"
+    }
+  }
+}
