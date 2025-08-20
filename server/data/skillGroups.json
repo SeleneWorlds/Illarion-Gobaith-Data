@@ -1,0 +1,60 @@
+{
+  "entries": {
+    "illarion:languages": {
+      "nameGerman": "Sprachen",
+      "nameEnglish": "Languages",
+      "metadata": {
+        "skillGroupId": 0
+      }
+    },
+    "illarion:craftmanship": {
+      "nameGerman": "Handwerk",
+      "nameEnglish": "Craftmanship",
+      "metadata": {
+        "skillGroupId": 1
+      }
+    },
+    "illarion:others": {
+      "nameGerman": "Andere",
+      "nameEnglish": "Others",
+      "metadata": {
+        "skillGroupId": 3
+      }
+    },
+    "illarion:fighting": {
+      "nameGerman": "Kampf",
+      "nameEnglish": "Fighting",
+      "metadata": {
+        "skillGroupId": 4
+      }
+    },
+    "illarion:bards": {
+      "nameGerman": "Barden",
+      "nameEnglish": "Bards",
+      "metadata": {
+        "skillGroupId": 7
+      }
+    },
+    "illarion:arcaneMagic": {
+      "nameGerman": "Arkane Magie",
+      "nameEnglish": "Arcane Magic",
+      "metadata": {
+        "skillGroupId": 2
+      }
+    },
+    "illarion:divineMagic": {
+      "nameGerman": "Göttliche Magie",
+      "nameEnglish": "Divine Magic",
+      "metadata": {
+        "skillGroupId": 6
+      }
+    },
+    "illarion:naturalMagic": {
+      "nameGerman": "Naturmagie",
+      "nameEnglish": "Natural Magic",
+      "metadata": {
+        "skillGroupId": 5
+      }
+    }
+  }
+}
