@@ -1,6 +1,6 @@
 {
   "entries": {
-    "illarion:spawn_3": {
+    "illarion:monster_spawn_3": {
       "metadata": {
         "monsterSpawnId": 3
       },
@@ -13,7 +13,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_4": {
+    "illarion:monster_spawn_4": {
       "metadata": {
         "monsterSpawnId": 4
       },
@@ -26,7 +26,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_5": {
+    "illarion:monster_spawn_5": {
       "metadata": {
         "monsterSpawnId": 5
       },
@@ -39,7 +39,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_6": {
+    "illarion:monster_spawn_6": {
       "metadata": {
         "monsterSpawnId": 6
       },
@@ -52,7 +52,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_7": {
+    "illarion:monster_spawn_7": {
       "metadata": {
         "monsterSpawnId": 7
       },
@@ -65,7 +65,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_8": {
+    "illarion:monster_spawn_8": {
       "metadata": {
         "monsterSpawnId": 8
       },
@@ -78,7 +78,7 @@
       "spawnAll": "f",
       "spawnRange": 40
     },
-    "illarion:spawn_9": {
+    "illarion:monster_spawn_9": {
       "metadata": {
         "monsterSpawnId": 9
       },
@@ -91,7 +91,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_10": {
+    "illarion:monster_spawn_10": {
       "metadata": {
         "monsterSpawnId": 10
       },
@@ -104,7 +104,7 @@
       "spawnAll": "f",
       "spawnRange": 50
     },
-    "illarion:spawn_11": {
+    "illarion:monster_spawn_11": {
       "metadata": {
         "monsterSpawnId": 11
       },
@@ -117,7 +117,7 @@
       "spawnAll": "f",
       "spawnRange": 50
     },
-    "illarion:spawn_12": {
+    "illarion:monster_spawn_12": {
       "metadata": {
         "monsterSpawnId": 12
       },
@@ -130,7 +130,7 @@
       "spawnAll": "f",
       "spawnRange": 50
     },
-    "illarion:spawn_13": {
+    "illarion:monster_spawn_13": {
       "metadata": {
         "monsterSpawnId": 13
       },
@@ -143,7 +143,7 @@
       "spawnAll": "f",
       "spawnRange": 50
     },
-    "illarion:spawn_14": {
+    "illarion:monster_spawn_14": {
       "metadata": {
         "monsterSpawnId": 14
       },
@@ -156,7 +156,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_15": {
+    "illarion:monster_spawn_15": {
       "metadata": {
         "monsterSpawnId": 15
       },
@@ -169,7 +169,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_16": {
+    "illarion:monster_spawn_16": {
       "metadata": {
         "monsterSpawnId": 16
       },
@@ -182,7 +182,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_17": {
+    "illarion:monster_spawn_17": {
       "metadata": {
         "monsterSpawnId": 17
       },
@@ -195,7 +195,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_18": {
+    "illarion:monster_spawn_18": {
       "metadata": {
         "monsterSpawnId": 18
       },
@@ -208,7 +208,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_19": {
+    "illarion:monster_spawn_19": {
       "metadata": {
         "monsterSpawnId": 19
       },
@@ -221,7 +221,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_20": {
+    "illarion:monster_spawn_20": {
       "metadata": {
         "monsterSpawnId": 20
       },
@@ -234,7 +234,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_21": {
+    "illarion:monster_spawn_21": {
       "metadata": {
         "monsterSpawnId": 21
       },
@@ -247,7 +247,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_22": {
+    "illarion:monster_spawn_22": {
       "metadata": {
         "monsterSpawnId": 22
       },
@@ -260,7 +260,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_24": {
+    "illarion:monster_spawn_24": {
       "metadata": {
         "monsterSpawnId": 24
       },
@@ -273,7 +273,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_27": {
+    "illarion:monster_spawn_27": {
       "metadata": {
         "monsterSpawnId": 27
       },
@@ -286,7 +286,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_28": {
+    "illarion:monster_spawn_28": {
       "metadata": {
         "monsterSpawnId": 28
       },
@@ -299,7 +299,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_29": {
+    "illarion:monster_spawn_29": {
       "metadata": {
         "monsterSpawnId": 29
       },
@@ -312,7 +312,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_30": {
+    "illarion:monster_spawn_30": {
       "metadata": {
         "monsterSpawnId": 30
       },
@@ -325,7 +325,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_31": {
+    "illarion:monster_spawn_31": {
       "metadata": {
         "monsterSpawnId": 31
       },
@@ -338,7 +338,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_32": {
+    "illarion:monster_spawn_32": {
       "metadata": {
         "monsterSpawnId": 32
       },
@@ -351,7 +351,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_33": {
+    "illarion:monster_spawn_33": {
       "metadata": {
         "monsterSpawnId": 33
       },
@@ -364,7 +364,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_34": {
+    "illarion:monster_spawn_34": {
       "metadata": {
         "monsterSpawnId": 34
       },
@@ -377,7 +377,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_35": {
+    "illarion:monster_spawn_35": {
       "metadata": {
         "monsterSpawnId": 35
       },
@@ -390,7 +390,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_36": {
+    "illarion:monster_spawn_36": {
       "metadata": {
         "monsterSpawnId": 36
       },
@@ -403,7 +403,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_37": {
+    "illarion:monster_spawn_37": {
       "metadata": {
         "monsterSpawnId": 37
       },
@@ -416,7 +416,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_38": {
+    "illarion:monster_spawn_38": {
       "metadata": {
         "monsterSpawnId": 38
       },
@@ -429,7 +429,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_39": {
+    "illarion:monster_spawn_39": {
       "metadata": {
         "monsterSpawnId": 39
       },
@@ -442,7 +442,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_40": {
+    "illarion:monster_spawn_40": {
       "metadata": {
         "monsterSpawnId": 40
       },
@@ -455,7 +455,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_41": {
+    "illarion:monster_spawn_41": {
       "metadata": {
         "monsterSpawnId": 41
       },
@@ -468,7 +468,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_42": {
+    "illarion:monster_spawn_42": {
       "metadata": {
         "monsterSpawnId": 42
       },
@@ -481,7 +481,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_43": {
+    "illarion:monster_spawn_43": {
       "metadata": {
         "monsterSpawnId": 43
       },
@@ -494,7 +494,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_44": {
+    "illarion:monster_spawn_44": {
       "metadata": {
         "monsterSpawnId": 44
       },
@@ -507,7 +507,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_60": {
+    "illarion:monster_spawn_60": {
       "metadata": {
         "monsterSpawnId": 60
       },
@@ -520,7 +520,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_61": {
+    "illarion:monster_spawn_61": {
       "metadata": {
         "monsterSpawnId": 61
       },
@@ -533,7 +533,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_62": {
+    "illarion:monster_spawn_62": {
       "metadata": {
         "monsterSpawnId": 62
       },
@@ -546,7 +546,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_63": {
+    "illarion:monster_spawn_63": {
       "metadata": {
         "monsterSpawnId": 63
       },
@@ -559,7 +559,7 @@
       "spawnAll": "f",
       "spawnRange": 50
     },
-    "illarion:spawn_64": {
+    "illarion:monster_spawn_64": {
       "metadata": {
         "monsterSpawnId": 64
       },
@@ -572,7 +572,7 @@
       "spawnAll": "f",
       "spawnRange": 50
     },
-    "illarion:spawn_65": {
+    "illarion:monster_spawn_65": {
       "metadata": {
         "monsterSpawnId": 65
       },
@@ -585,7 +585,7 @@
       "spawnAll": "f",
       "spawnRange": 50
     },
-    "illarion:spawn_66": {
+    "illarion:monster_spawn_66": {
       "metadata": {
         "monsterSpawnId": 66
       },
@@ -598,7 +598,7 @@
       "spawnAll": "f",
       "spawnRange": 50
     },
-    "illarion:spawn_67": {
+    "illarion:monster_spawn_67": {
       "metadata": {
         "monsterSpawnId": 67
       },
@@ -611,7 +611,7 @@
       "spawnAll": "f",
       "spawnRange": 50
     },
-    "illarion:spawn_68": {
+    "illarion:monster_spawn_68": {
       "metadata": {
         "monsterSpawnId": 68
       },
@@ -624,7 +624,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_78": {
+    "illarion:monster_spawn_78": {
       "metadata": {
         "monsterSpawnId": 78
       },
@@ -637,7 +637,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_79": {
+    "illarion:monster_spawn_79": {
       "metadata": {
         "monsterSpawnId": 79
       },
@@ -650,7 +650,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_80": {
+    "illarion:monster_spawn_80": {
       "metadata": {
         "monsterSpawnId": 80
       },
@@ -663,7 +663,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_81": {
+    "illarion:monster_spawn_81": {
       "metadata": {
         "monsterSpawnId": 81
       },
@@ -676,7 +676,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_82": {
+    "illarion:monster_spawn_82": {
       "metadata": {
         "monsterSpawnId": 82
       },
@@ -689,7 +689,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_83": {
+    "illarion:monster_spawn_83": {
       "metadata": {
         "monsterSpawnId": 83
       },
@@ -702,7 +702,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_84": {
+    "illarion:monster_spawn_84": {
       "metadata": {
         "monsterSpawnId": 84
       },
@@ -715,7 +715,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_85": {
+    "illarion:monster_spawn_85": {
       "metadata": {
         "monsterSpawnId": 85
       },
@@ -728,7 +728,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_86": {
+    "illarion:monster_spawn_86": {
       "metadata": {
         "monsterSpawnId": 86
       },
@@ -741,7 +741,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_87": {
+    "illarion:monster_spawn_87": {
       "metadata": {
         "monsterSpawnId": 87
       },
@@ -754,7 +754,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_88": {
+    "illarion:monster_spawn_88": {
       "metadata": {
         "monsterSpawnId": 88
       },
@@ -767,7 +767,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_89": {
+    "illarion:monster_spawn_89": {
       "metadata": {
         "monsterSpawnId": 89
       },
@@ -780,7 +780,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_90": {
+    "illarion:monster_spawn_90": {
       "metadata": {
         "monsterSpawnId": 90
       },
@@ -793,7 +793,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_91": {
+    "illarion:monster_spawn_91": {
       "metadata": {
         "monsterSpawnId": 91
       },
@@ -806,7 +806,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_103": {
+    "illarion:monster_spawn_103": {
       "metadata": {
         "monsterSpawnId": 103
       },
@@ -819,7 +819,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_111": {
+    "illarion:monster_spawn_111": {
       "metadata": {
         "monsterSpawnId": 111
       },
@@ -832,7 +832,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_113": {
+    "illarion:monster_spawn_113": {
       "metadata": {
         "monsterSpawnId": 113
       },
@@ -845,7 +845,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_118": {
+    "illarion:monster_spawn_118": {
       "metadata": {
         "monsterSpawnId": 118
       },
@@ -858,7 +858,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_119": {
+    "illarion:monster_spawn_119": {
       "metadata": {
         "monsterSpawnId": 119
       },
@@ -871,7 +871,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_120": {
+    "illarion:monster_spawn_120": {
       "metadata": {
         "monsterSpawnId": 120
       },
@@ -884,7 +884,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_123": {
+    "illarion:monster_spawn_123": {
       "metadata": {
         "monsterSpawnId": 123
       },
@@ -897,7 +897,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_125": {
+    "illarion:monster_spawn_125": {
       "metadata": {
         "monsterSpawnId": 125
       },
@@ -910,7 +910,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_126": {
+    "illarion:monster_spawn_126": {
       "metadata": {
         "monsterSpawnId": 126
       },
@@ -923,7 +923,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_127": {
+    "illarion:monster_spawn_127": {
       "metadata": {
         "monsterSpawnId": 127
       },
@@ -936,7 +936,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_128": {
+    "illarion:monster_spawn_128": {
       "metadata": {
         "monsterSpawnId": 128
       },
@@ -949,7 +949,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_129": {
+    "illarion:monster_spawn_129": {
       "metadata": {
         "monsterSpawnId": 129
       },
@@ -962,7 +962,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_130": {
+    "illarion:monster_spawn_130": {
       "metadata": {
         "monsterSpawnId": 130
       },
@@ -975,7 +975,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_132": {
+    "illarion:monster_spawn_132": {
       "metadata": {
         "monsterSpawnId": 132
       },
@@ -988,7 +988,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_133": {
+    "illarion:monster_spawn_133": {
       "metadata": {
         "monsterSpawnId": 133
       },
@@ -1001,7 +1001,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_136": {
+    "illarion:monster_spawn_136": {
       "metadata": {
         "monsterSpawnId": 136
       },
@@ -1014,7 +1014,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_1": {
+    "illarion:monster_spawn_1": {
       "metadata": {
         "monsterSpawnId": 1
       },
@@ -1027,7 +1027,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_102": {
+    "illarion:monster_spawn_102": {
       "metadata": {
         "monsterSpawnId": 102
       },
@@ -1040,7 +1040,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_100": {
+    "illarion:monster_spawn_100": {
       "metadata": {
         "monsterSpawnId": 100
       },
@@ -1053,7 +1053,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_101": {
+    "illarion:monster_spawn_101": {
       "metadata": {
         "monsterSpawnId": 101
       },
@@ -1066,7 +1066,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_98": {
+    "illarion:monster_spawn_98": {
       "metadata": {
         "monsterSpawnId": 98
       },
@@ -1079,7 +1079,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_99": {
+    "illarion:monster_spawn_99": {
       "metadata": {
         "monsterSpawnId": 99
       },
@@ -1092,7 +1092,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_94": {
+    "illarion:monster_spawn_94": {
       "metadata": {
         "monsterSpawnId": 94
       },
@@ -1105,7 +1105,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_77": {
+    "illarion:monster_spawn_77": {
       "metadata": {
         "monsterSpawnId": 77
       },
@@ -1118,7 +1118,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_95": {
+    "illarion:monster_spawn_95": {
       "metadata": {
         "monsterSpawnId": 95
       },
@@ -1131,7 +1131,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_96": {
+    "illarion:monster_spawn_96": {
       "metadata": {
         "monsterSpawnId": 96
       },
@@ -1144,7 +1144,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_97": {
+    "illarion:monster_spawn_97": {
       "metadata": {
         "monsterSpawnId": 97
       },
@@ -1157,7 +1157,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_2": {
+    "illarion:monster_spawn_2": {
       "metadata": {
         "monsterSpawnId": 2
       },
@@ -1170,7 +1170,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_105": {
+    "illarion:monster_spawn_105": {
       "metadata": {
         "monsterSpawnId": 105
       },
@@ -1183,7 +1183,7 @@
       "spawnAll": "f",
       "spawnRange": 50
     },
-    "illarion:spawn_106": {
+    "illarion:monster_spawn_106": {
       "metadata": {
         "monsterSpawnId": 106
       },
@@ -1196,7 +1196,7 @@
       "spawnAll": "f",
       "spawnRange": 50
     },
-    "illarion:spawn_108": {
+    "illarion:monster_spawn_108": {
       "metadata": {
         "monsterSpawnId": 108
       },
@@ -1209,7 +1209,7 @@
       "spawnAll": "f",
       "spawnRange": 25
     },
-    "illarion:spawn_109": {
+    "illarion:monster_spawn_109": {
       "metadata": {
         "monsterSpawnId": 109
       },
@@ -1222,7 +1222,7 @@
       "spawnAll": "f",
       "spawnRange": 25
     },
-    "illarion:spawn_55": {
+    "illarion:monster_spawn_55": {
       "metadata": {
         "monsterSpawnId": 55
       },
@@ -1235,7 +1235,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_137": {
+    "illarion:monster_spawn_137": {
       "metadata": {
         "monsterSpawnId": 137
       },
@@ -1248,7 +1248,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_138": {
+    "illarion:monster_spawn_138": {
       "metadata": {
         "monsterSpawnId": 138
       },
@@ -1261,7 +1261,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_139": {
+    "illarion:monster_spawn_139": {
       "metadata": {
         "monsterSpawnId": 139
       },
@@ -1274,7 +1274,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_140": {
+    "illarion:monster_spawn_140": {
       "metadata": {
         "monsterSpawnId": 140
       },
@@ -1287,7 +1287,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_141": {
+    "illarion:monster_spawn_141": {
       "metadata": {
         "monsterSpawnId": 141
       },
@@ -1300,7 +1300,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_142": {
+    "illarion:monster_spawn_142": {
       "metadata": {
         "monsterSpawnId": 142
       },
@@ -1313,7 +1313,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_144": {
+    "illarion:monster_spawn_144": {
       "metadata": {
         "monsterSpawnId": 144
       },
@@ -1326,7 +1326,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_145": {
+    "illarion:monster_spawn_145": {
       "metadata": {
         "monsterSpawnId": 145
       },
@@ -1339,7 +1339,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_146": {
+    "illarion:monster_spawn_146": {
       "metadata": {
         "monsterSpawnId": 146
       },
@@ -1352,7 +1352,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_147": {
+    "illarion:monster_spawn_147": {
       "metadata": {
         "monsterSpawnId": 147
       },
@@ -1365,7 +1365,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_149": {
+    "illarion:monster_spawn_149": {
       "metadata": {
         "monsterSpawnId": 149
       },
@@ -1378,7 +1378,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_150": {
+    "illarion:monster_spawn_150": {
       "metadata": {
         "monsterSpawnId": 150
       },
@@ -1391,7 +1391,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_151": {
+    "illarion:monster_spawn_151": {
       "metadata": {
         "monsterSpawnId": 151
       },
@@ -1404,7 +1404,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_152": {
+    "illarion:monster_spawn_152": {
       "metadata": {
         "monsterSpawnId": 152
       },
@@ -1417,7 +1417,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_153": {
+    "illarion:monster_spawn_153": {
       "metadata": {
         "monsterSpawnId": 153
       },
@@ -1430,7 +1430,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_154": {
+    "illarion:monster_spawn_154": {
       "metadata": {
         "monsterSpawnId": 154
       },
@@ -1443,7 +1443,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_155": {
+    "illarion:monster_spawn_155": {
       "metadata": {
         "monsterSpawnId": 155
       },
@@ -1456,7 +1456,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_46": {
+    "illarion:monster_spawn_46": {
       "metadata": {
         "monsterSpawnId": 46
       },
@@ -1469,7 +1469,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_47": {
+    "illarion:monster_spawn_47": {
       "metadata": {
         "monsterSpawnId": 47
       },
@@ -1482,7 +1482,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_49": {
+    "illarion:monster_spawn_49": {
       "metadata": {
         "monsterSpawnId": 49
       },
@@ -1495,7 +1495,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_117": {
+    "illarion:monster_spawn_117": {
       "metadata": {
         "monsterSpawnId": 117
       },
@@ -1508,7 +1508,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_23": {
+    "illarion:monster_spawn_23": {
       "metadata": {
         "monsterSpawnId": 23
       },
@@ -1521,7 +1521,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_25": {
+    "illarion:monster_spawn_25": {
       "metadata": {
         "monsterSpawnId": 25
       },
@@ -1534,7 +1534,7 @@
       "spawnAll": "f",
       "spawnRange": 40
     },
-    "illarion:spawn_26": {
+    "illarion:monster_spawn_26": {
       "metadata": {
         "monsterSpawnId": 26
       },
@@ -1547,7 +1547,7 @@
       "spawnAll": "f",
       "spawnRange": 40
     },
-    "illarion:spawn_104": {
+    "illarion:monster_spawn_104": {
       "metadata": {
         "monsterSpawnId": 104
       },
@@ -1560,7 +1560,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_107": {
+    "illarion:monster_spawn_107": {
       "metadata": {
         "monsterSpawnId": 107
       },
@@ -1573,7 +1573,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_110": {
+    "illarion:monster_spawn_110": {
       "metadata": {
         "monsterSpawnId": 110
       },
@@ -1586,7 +1586,7 @@
       "spawnAll": "f",
       "spawnRange": 25
     },
-    "illarion:spawn_156": {
+    "illarion:monster_spawn_156": {
       "metadata": {
         "monsterSpawnId": 156
       },
@@ -1599,7 +1599,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_157": {
+    "illarion:monster_spawn_157": {
       "metadata": {
         "monsterSpawnId": 157
       },
@@ -1612,7 +1612,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_158": {
+    "illarion:monster_spawn_158": {
       "metadata": {
         "monsterSpawnId": 158
       },
@@ -1625,7 +1625,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_159": {
+    "illarion:monster_spawn_159": {
       "metadata": {
         "monsterSpawnId": 159
       },
@@ -1638,7 +1638,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_161": {
+    "illarion:monster_spawn_161": {
       "metadata": {
         "monsterSpawnId": 161
       },
@@ -1651,7 +1651,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_163": {
+    "illarion:monster_spawn_163": {
       "metadata": {
         "monsterSpawnId": 163
       },
@@ -1664,7 +1664,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_165": {
+    "illarion:monster_spawn_165": {
       "metadata": {
         "monsterSpawnId": 165
       },
@@ -1677,7 +1677,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_166": {
+    "illarion:monster_spawn_166": {
       "metadata": {
         "monsterSpawnId": 166
       },
@@ -1690,7 +1690,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_168": {
+    "illarion:monster_spawn_168": {
       "metadata": {
         "monsterSpawnId": 168
       },
@@ -1703,7 +1703,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_169": {
+    "illarion:monster_spawn_169": {
       "metadata": {
         "monsterSpawnId": 169
       },
@@ -1716,7 +1716,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_170": {
+    "illarion:monster_spawn_170": {
       "metadata": {
         "monsterSpawnId": 170
       },
@@ -1729,7 +1729,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_171": {
+    "illarion:monster_spawn_171": {
       "metadata": {
         "monsterSpawnId": 171
       },
@@ -1742,7 +1742,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_172": {
+    "illarion:monster_spawn_172": {
       "metadata": {
         "monsterSpawnId": 172
       },
@@ -1755,7 +1755,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_174": {
+    "illarion:monster_spawn_174": {
       "metadata": {
         "monsterSpawnId": 174
       },
@@ -1768,7 +1768,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_175": {
+    "illarion:monster_spawn_175": {
       "metadata": {
         "monsterSpawnId": 175
       },
@@ -1781,7 +1781,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_176": {
+    "illarion:monster_spawn_176": {
       "metadata": {
         "monsterSpawnId": 176
       },
@@ -1794,7 +1794,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_177": {
+    "illarion:monster_spawn_177": {
       "metadata": {
         "monsterSpawnId": 177
       },
@@ -1807,7 +1807,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_180": {
+    "illarion:monster_spawn_180": {
       "metadata": {
         "monsterSpawnId": 180
       },
@@ -1820,7 +1820,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_115": {
+    "illarion:monster_spawn_115": {
       "metadata": {
         "monsterSpawnId": 115
       },
@@ -1833,7 +1833,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_182": {
+    "illarion:monster_spawn_182": {
       "metadata": {
         "monsterSpawnId": 182
       },
@@ -1846,7 +1846,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_183": {
+    "illarion:monster_spawn_183": {
       "metadata": {
         "monsterSpawnId": 183
       },
@@ -1859,7 +1859,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_184": {
+    "illarion:monster_spawn_184": {
       "metadata": {
         "monsterSpawnId": 184
       },
@@ -1872,7 +1872,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_185": {
+    "illarion:monster_spawn_185": {
       "metadata": {
         "monsterSpawnId": 185
       },
@@ -1885,7 +1885,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_186": {
+    "illarion:monster_spawn_186": {
       "metadata": {
         "monsterSpawnId": 186
       },
@@ -1898,7 +1898,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_188": {
+    "illarion:monster_spawn_188": {
       "metadata": {
         "monsterSpawnId": 188
       },
@@ -1911,7 +1911,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_189": {
+    "illarion:monster_spawn_189": {
       "metadata": {
         "monsterSpawnId": 189
       },
@@ -1924,7 +1924,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_190": {
+    "illarion:monster_spawn_190": {
       "metadata": {
         "monsterSpawnId": 190
       },
@@ -1937,7 +1937,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_191": {
+    "illarion:monster_spawn_191": {
       "metadata": {
         "monsterSpawnId": 191
       },
@@ -1950,7 +1950,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_192": {
+    "illarion:monster_spawn_192": {
       "metadata": {
         "monsterSpawnId": 192
       },
@@ -1963,7 +1963,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_193": {
+    "illarion:monster_spawn_193": {
       "metadata": {
         "monsterSpawnId": 193
       },
@@ -1976,7 +1976,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_194": {
+    "illarion:monster_spawn_194": {
       "metadata": {
         "monsterSpawnId": 194
       },
@@ -1989,7 +1989,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_195": {
+    "illarion:monster_spawn_195": {
       "metadata": {
         "monsterSpawnId": 195
       },
@@ -2002,7 +2002,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_196": {
+    "illarion:monster_spawn_196": {
       "metadata": {
         "monsterSpawnId": 196
       },
@@ -2015,7 +2015,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_197": {
+    "illarion:monster_spawn_197": {
       "metadata": {
         "monsterSpawnId": 197
       },
@@ -2028,7 +2028,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_198": {
+    "illarion:monster_spawn_198": {
       "metadata": {
         "monsterSpawnId": 198
       },
@@ -2041,7 +2041,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_199": {
+    "illarion:monster_spawn_199": {
       "metadata": {
         "monsterSpawnId": 199
       },
@@ -2054,7 +2054,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_200": {
+    "illarion:monster_spawn_200": {
       "metadata": {
         "monsterSpawnId": 200
       },
@@ -2067,7 +2067,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_201": {
+    "illarion:monster_spawn_201": {
       "metadata": {
         "monsterSpawnId": 201
       },
@@ -2080,7 +2080,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_202": {
+    "illarion:monster_spawn_202": {
       "metadata": {
         "monsterSpawnId": 202
       },
@@ -2093,7 +2093,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_203": {
+    "illarion:monster_spawn_203": {
       "metadata": {
         "monsterSpawnId": 203
       },
@@ -2106,7 +2106,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_204": {
+    "illarion:monster_spawn_204": {
       "metadata": {
         "monsterSpawnId": 204
       },
@@ -2119,7 +2119,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_205": {
+    "illarion:monster_spawn_205": {
       "metadata": {
         "monsterSpawnId": 205
       },
@@ -2132,7 +2132,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_207": {
+    "illarion:monster_spawn_207": {
       "metadata": {
         "monsterSpawnId": 207
       },
@@ -2145,7 +2145,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_208": {
+    "illarion:monster_spawn_208": {
       "metadata": {
         "monsterSpawnId": 208
       },
@@ -2158,7 +2158,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_209": {
+    "illarion:monster_spawn_209": {
       "metadata": {
         "monsterSpawnId": 209
       },
@@ -2171,7 +2171,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_210": {
+    "illarion:monster_spawn_210": {
       "metadata": {
         "monsterSpawnId": 210
       },
@@ -2184,7 +2184,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_211": {
+    "illarion:monster_spawn_211": {
       "metadata": {
         "monsterSpawnId": 211
       },
@@ -2197,7 +2197,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_212": {
+    "illarion:monster_spawn_212": {
       "metadata": {
         "monsterSpawnId": 212
       },
@@ -2210,7 +2210,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_214": {
+    "illarion:monster_spawn_214": {
       "metadata": {
         "monsterSpawnId": 214
       },
@@ -2223,7 +2223,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_215": {
+    "illarion:monster_spawn_215": {
       "metadata": {
         "monsterSpawnId": 215
       },
@@ -2236,7 +2236,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_216": {
+    "illarion:monster_spawn_216": {
       "metadata": {
         "monsterSpawnId": 216
       },
@@ -2249,7 +2249,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_217": {
+    "illarion:monster_spawn_217": {
       "metadata": {
         "monsterSpawnId": 217
       },
@@ -2262,7 +2262,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_218": {
+    "illarion:monster_spawn_218": {
       "metadata": {
         "monsterSpawnId": 218
       },
@@ -2275,7 +2275,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_220": {
+    "illarion:monster_spawn_220": {
       "metadata": {
         "monsterSpawnId": 220
       },
@@ -2288,7 +2288,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_221": {
+    "illarion:monster_spawn_221": {
       "metadata": {
         "monsterSpawnId": 221
       },
@@ -2301,7 +2301,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_223": {
+    "illarion:monster_spawn_223": {
       "metadata": {
         "monsterSpawnId": 223
       },
@@ -2314,7 +2314,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_224": {
+    "illarion:monster_spawn_224": {
       "metadata": {
         "monsterSpawnId": 224
       },
@@ -2327,7 +2327,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_225": {
+    "illarion:monster_spawn_225": {
       "metadata": {
         "monsterSpawnId": 225
       },
@@ -2340,7 +2340,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_226": {
+    "illarion:monster_spawn_226": {
       "metadata": {
         "monsterSpawnId": 226
       },
@@ -2353,7 +2353,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_228": {
+    "illarion:monster_spawn_228": {
       "metadata": {
         "monsterSpawnId": 228
       },
@@ -2366,7 +2366,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_229": {
+    "illarion:monster_spawn_229": {
       "metadata": {
         "monsterSpawnId": 229
       },
@@ -2379,7 +2379,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_230": {
+    "illarion:monster_spawn_230": {
       "metadata": {
         "monsterSpawnId": 230
       },
@@ -2392,7 +2392,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_231": {
+    "illarion:monster_spawn_231": {
       "metadata": {
         "monsterSpawnId": 231
       },
@@ -2405,7 +2405,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_232": {
+    "illarion:monster_spawn_232": {
       "metadata": {
         "monsterSpawnId": 232
       },
@@ -2418,7 +2418,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_233": {
+    "illarion:monster_spawn_233": {
       "metadata": {
         "monsterSpawnId": 233
       },
@@ -2431,7 +2431,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_234": {
+    "illarion:monster_spawn_234": {
       "metadata": {
         "monsterSpawnId": 234
       },
@@ -2444,7 +2444,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_235": {
+    "illarion:monster_spawn_235": {
       "metadata": {
         "monsterSpawnId": 235
       },
@@ -2457,7 +2457,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_240": {
+    "illarion:monster_spawn_240": {
       "metadata": {
         "monsterSpawnId": 240
       },
@@ -2470,7 +2470,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_241": {
+    "illarion:monster_spawn_241": {
       "metadata": {
         "monsterSpawnId": 241
       },
@@ -2483,7 +2483,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_243": {
+    "illarion:monster_spawn_243": {
       "metadata": {
         "monsterSpawnId": 243
       },
@@ -2496,7 +2496,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_246": {
+    "illarion:monster_spawn_246": {
       "metadata": {
         "monsterSpawnId": 246
       },
@@ -2509,7 +2509,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_247": {
+    "illarion:monster_spawn_247": {
       "metadata": {
         "monsterSpawnId": 247
       },
@@ -2522,7 +2522,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_248": {
+    "illarion:monster_spawn_248": {
       "metadata": {
         "monsterSpawnId": 248
       },
@@ -2535,7 +2535,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_249": {
+    "illarion:monster_spawn_249": {
       "metadata": {
         "monsterSpawnId": 249
       },
@@ -2548,7 +2548,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_250": {
+    "illarion:monster_spawn_250": {
       "metadata": {
         "monsterSpawnId": 250
       },
@@ -2561,7 +2561,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_251": {
+    "illarion:monster_spawn_251": {
       "metadata": {
         "monsterSpawnId": 251
       },
@@ -2574,7 +2574,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_252": {
+    "illarion:monster_spawn_252": {
       "metadata": {
         "monsterSpawnId": 252
       },
@@ -2587,7 +2587,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_256": {
+    "illarion:monster_spawn_256": {
       "metadata": {
         "monsterSpawnId": 256
       },
@@ -2600,7 +2600,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_257": {
+    "illarion:monster_spawn_257": {
       "metadata": {
         "monsterSpawnId": 257
       },
@@ -2613,7 +2613,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_260": {
+    "illarion:monster_spawn_260": {
       "metadata": {
         "monsterSpawnId": 260
       },
@@ -2626,7 +2626,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_263": {
+    "illarion:monster_spawn_263": {
       "metadata": {
         "monsterSpawnId": 263
       },
@@ -2639,7 +2639,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_266": {
+    "illarion:monster_spawn_266": {
       "metadata": {
         "monsterSpawnId": 266
       },
@@ -2652,7 +2652,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_269": {
+    "illarion:monster_spawn_269": {
       "metadata": {
         "monsterSpawnId": 269
       },
@@ -2665,7 +2665,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_270": {
+    "illarion:monster_spawn_270": {
       "metadata": {
         "monsterSpawnId": 270
       },
@@ -2678,7 +2678,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_271": {
+    "illarion:monster_spawn_271": {
       "metadata": {
         "monsterSpawnId": 271
       },
@@ -2691,7 +2691,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_179": {
+    "illarion:monster_spawn_179": {
       "metadata": {
         "monsterSpawnId": 179
       },
@@ -2704,7 +2704,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_268": {
+    "illarion:monster_spawn_268": {
       "metadata": {
         "monsterSpawnId": 268
       },
@@ -2717,7 +2717,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_253": {
+    "illarion:monster_spawn_253": {
       "metadata": {
         "monsterSpawnId": 253
       },
@@ -2730,7 +2730,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_237": {
+    "illarion:monster_spawn_237": {
       "metadata": {
         "monsterSpawnId": 237
       },
@@ -2743,7 +2743,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_258": {
+    "illarion:monster_spawn_258": {
       "metadata": {
         "monsterSpawnId": 258
       },
@@ -2756,7 +2756,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_262": {
+    "illarion:monster_spawn_262": {
       "metadata": {
         "monsterSpawnId": 262
       },
@@ -2769,7 +2769,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_273": {
+    "illarion:monster_spawn_273": {
       "metadata": {
         "monsterSpawnId": 273
       },
@@ -2782,7 +2782,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_276": {
+    "illarion:monster_spawn_276": {
       "metadata": {
         "monsterSpawnId": 276
       },
@@ -2795,7 +2795,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_278": {
+    "illarion:monster_spawn_278": {
       "metadata": {
         "monsterSpawnId": 278
       },
@@ -2808,7 +2808,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_279": {
+    "illarion:monster_spawn_279": {
       "metadata": {
         "monsterSpawnId": 279
       },
@@ -2821,7 +2821,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_280": {
+    "illarion:monster_spawn_280": {
       "metadata": {
         "monsterSpawnId": 280
       },
@@ -2834,7 +2834,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_281": {
+    "illarion:monster_spawn_281": {
       "metadata": {
         "monsterSpawnId": 281
       },
@@ -2847,7 +2847,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_283": {
+    "illarion:monster_spawn_283": {
       "metadata": {
         "monsterSpawnId": 283
       },
@@ -2860,7 +2860,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_285": {
+    "illarion:monster_spawn_285": {
       "metadata": {
         "monsterSpawnId": 285
       },
@@ -2873,7 +2873,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_286": {
+    "illarion:monster_spawn_286": {
       "metadata": {
         "monsterSpawnId": 286
       },
@@ -2886,7 +2886,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_287": {
+    "illarion:monster_spawn_287": {
       "metadata": {
         "monsterSpawnId": 287
       },
@@ -2899,7 +2899,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_288": {
+    "illarion:monster_spawn_288": {
       "metadata": {
         "monsterSpawnId": 288
       },
@@ -2912,7 +2912,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_289": {
+    "illarion:monster_spawn_289": {
       "metadata": {
         "monsterSpawnId": 289
       },
@@ -2925,7 +2925,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_290": {
+    "illarion:monster_spawn_290": {
       "metadata": {
         "monsterSpawnId": 290
       },
@@ -2938,7 +2938,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_291": {
+    "illarion:monster_spawn_291": {
       "metadata": {
         "monsterSpawnId": 291
       },
@@ -2951,7 +2951,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_292": {
+    "illarion:monster_spawn_292": {
       "metadata": {
         "monsterSpawnId": 292
       },
@@ -2964,7 +2964,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_293": {
+    "illarion:monster_spawn_293": {
       "metadata": {
         "monsterSpawnId": 293
       },
@@ -2977,7 +2977,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_265": {
+    "illarion:monster_spawn_265": {
       "metadata": {
         "monsterSpawnId": 265
       },
@@ -2990,7 +2990,7 @@
       "spawnAll": "t",
       "spawnRange": 10
     },
-    "illarion:spawn_294": {
+    "illarion:monster_spawn_294": {
       "metadata": {
         "monsterSpawnId": 294
       },
@@ -3003,7 +3003,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_296": {
+    "illarion:monster_spawn_296": {
       "metadata": {
         "monsterSpawnId": 296
       },
@@ -3016,7 +3016,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_297": {
+    "illarion:monster_spawn_297": {
       "metadata": {
         "monsterSpawnId": 297
       },
@@ -3029,7 +3029,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_298": {
+    "illarion:monster_spawn_298": {
       "metadata": {
         "monsterSpawnId": 298
       },
@@ -3042,7 +3042,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_301": {
+    "illarion:monster_spawn_301": {
       "metadata": {
         "monsterSpawnId": 301
       },
@@ -3055,7 +3055,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_307": {
+    "illarion:monster_spawn_307": {
       "metadata": {
         "monsterSpawnId": 307
       },
@@ -3068,7 +3068,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_308": {
+    "illarion:monster_spawn_308": {
       "metadata": {
         "monsterSpawnId": 308
       },
@@ -3081,7 +3081,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_311": {
+    "illarion:monster_spawn_311": {
       "metadata": {
         "monsterSpawnId": 311
       },
@@ -3094,7 +3094,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_312": {
+    "illarion:monster_spawn_312": {
       "metadata": {
         "monsterSpawnId": 312
       },
@@ -3107,7 +3107,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_315": {
+    "illarion:monster_spawn_315": {
       "metadata": {
         "monsterSpawnId": 315
       },
@@ -3120,7 +3120,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_316": {
+    "illarion:monster_spawn_316": {
       "metadata": {
         "monsterSpawnId": 316
       },
@@ -3133,7 +3133,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_318": {
+    "illarion:monster_spawn_318": {
       "metadata": {
         "monsterSpawnId": 318
       },
@@ -3146,7 +3146,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_319": {
+    "illarion:monster_spawn_319": {
       "metadata": {
         "monsterSpawnId": 319
       },
@@ -3159,7 +3159,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_320": {
+    "illarion:monster_spawn_320": {
       "metadata": {
         "monsterSpawnId": 320
       },
@@ -3172,7 +3172,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_324": {
+    "illarion:monster_spawn_324": {
       "metadata": {
         "monsterSpawnId": 324
       },
@@ -3185,7 +3185,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_325": {
+    "illarion:monster_spawn_325": {
       "metadata": {
         "monsterSpawnId": 325
       },
@@ -3198,7 +3198,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_327": {
+    "illarion:monster_spawn_327": {
       "metadata": {
         "monsterSpawnId": 327
       },
@@ -3211,7 +3211,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_328": {
+    "illarion:monster_spawn_328": {
       "metadata": {
         "monsterSpawnId": 328
       },
@@ -3224,7 +3224,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_333": {
+    "illarion:monster_spawn_333": {
       "metadata": {
         "monsterSpawnId": 333
       },
@@ -3237,7 +3237,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_335": {
+    "illarion:monster_spawn_335": {
       "metadata": {
         "monsterSpawnId": 335
       },
@@ -3250,7 +3250,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_336": {
+    "illarion:monster_spawn_336": {
       "metadata": {
         "monsterSpawnId": 336
       },
@@ -3263,7 +3263,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_338": {
+    "illarion:monster_spawn_338": {
       "metadata": {
         "monsterSpawnId": 338
       },
@@ -3276,7 +3276,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_339": {
+    "illarion:monster_spawn_339": {
       "metadata": {
         "monsterSpawnId": 339
       },
@@ -3289,7 +3289,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_341": {
+    "illarion:monster_spawn_341": {
       "metadata": {
         "monsterSpawnId": 341
       },
@@ -3302,7 +3302,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_342": {
+    "illarion:monster_spawn_342": {
       "metadata": {
         "monsterSpawnId": 342
       },
@@ -3315,7 +3315,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_344": {
+    "illarion:monster_spawn_344": {
       "metadata": {
         "monsterSpawnId": 344
       },
@@ -3328,7 +3328,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_346": {
+    "illarion:monster_spawn_346": {
       "metadata": {
         "monsterSpawnId": 346
       },
@@ -3341,7 +3341,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_347": {
+    "illarion:monster_spawn_347": {
       "metadata": {
         "monsterSpawnId": 347
       },
@@ -3354,7 +3354,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_348": {
+    "illarion:monster_spawn_348": {
       "metadata": {
         "monsterSpawnId": 348
       },
@@ -3367,7 +3367,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_351": {
+    "illarion:monster_spawn_351": {
       "metadata": {
         "monsterSpawnId": 351
       },
@@ -3380,7 +3380,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_352": {
+    "illarion:monster_spawn_352": {
       "metadata": {
         "monsterSpawnId": 352
       },
@@ -3393,7 +3393,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_353": {
+    "illarion:monster_spawn_353": {
       "metadata": {
         "monsterSpawnId": 353
       },
@@ -3406,7 +3406,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_355": {
+    "illarion:monster_spawn_355": {
       "metadata": {
         "monsterSpawnId": 355
       },
@@ -3419,7 +3419,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_356": {
+    "illarion:monster_spawn_356": {
       "metadata": {
         "monsterSpawnId": 356
       },
@@ -3432,7 +3432,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_360": {
+    "illarion:monster_spawn_360": {
       "metadata": {
         "monsterSpawnId": 360
       },
@@ -3445,7 +3445,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_361": {
+    "illarion:monster_spawn_361": {
       "metadata": {
         "monsterSpawnId": 361
       },
@@ -3458,7 +3458,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_363": {
+    "illarion:monster_spawn_363": {
       "metadata": {
         "monsterSpawnId": 363
       },
@@ -3471,7 +3471,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_365": {
+    "illarion:monster_spawn_365": {
       "metadata": {
         "monsterSpawnId": 365
       },
@@ -3484,7 +3484,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_366": {
+    "illarion:monster_spawn_366": {
       "metadata": {
         "monsterSpawnId": 366
       },
@@ -3497,7 +3497,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_367": {
+    "illarion:monster_spawn_367": {
       "metadata": {
         "monsterSpawnId": 367
       },
@@ -3510,7 +3510,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_368": {
+    "illarion:monster_spawn_368": {
       "metadata": {
         "monsterSpawnId": 368
       },
@@ -3523,7 +3523,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_371": {
+    "illarion:monster_spawn_371": {
       "metadata": {
         "monsterSpawnId": 371
       },
@@ -3536,7 +3536,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_372": {
+    "illarion:monster_spawn_372": {
       "metadata": {
         "monsterSpawnId": 372
       },
@@ -3549,7 +3549,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_373": {
+    "illarion:monster_spawn_373": {
       "metadata": {
         "monsterSpawnId": 373
       },
@@ -3562,7 +3562,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_376": {
+    "illarion:monster_spawn_376": {
       "metadata": {
         "monsterSpawnId": 376
       },
@@ -3575,7 +3575,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_377": {
+    "illarion:monster_spawn_377": {
       "metadata": {
         "monsterSpawnId": 377
       },
@@ -3588,7 +3588,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_378": {
+    "illarion:monster_spawn_378": {
       "metadata": {
         "monsterSpawnId": 378
       },
@@ -3601,7 +3601,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_379": {
+    "illarion:monster_spawn_379": {
       "metadata": {
         "monsterSpawnId": 379
       },
@@ -3614,7 +3614,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_380": {
+    "illarion:monster_spawn_380": {
       "metadata": {
         "monsterSpawnId": 380
       },
@@ -3627,7 +3627,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_381": {
+    "illarion:monster_spawn_381": {
       "metadata": {
         "monsterSpawnId": 381
       },
@@ -3640,7 +3640,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_382": {
+    "illarion:monster_spawn_382": {
       "metadata": {
         "monsterSpawnId": 382
       },
@@ -3653,7 +3653,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_383": {
+    "illarion:monster_spawn_383": {
       "metadata": {
         "monsterSpawnId": 383
       },
@@ -3666,7 +3666,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_384": {
+    "illarion:monster_spawn_384": {
       "metadata": {
         "monsterSpawnId": 384
       },
@@ -3679,7 +3679,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_385": {
+    "illarion:monster_spawn_385": {
       "metadata": {
         "monsterSpawnId": 385
       },
@@ -3692,7 +3692,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_386": {
+    "illarion:monster_spawn_386": {
       "metadata": {
         "monsterSpawnId": 386
       },
@@ -3705,7 +3705,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_387": {
+    "illarion:monster_spawn_387": {
       "metadata": {
         "monsterSpawnId": 387
       },
@@ -3718,7 +3718,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_388": {
+    "illarion:monster_spawn_388": {
       "metadata": {
         "monsterSpawnId": 388
       },
@@ -3731,7 +3731,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_389": {
+    "illarion:monster_spawn_389": {
       "metadata": {
         "monsterSpawnId": 389
       },
@@ -3744,7 +3744,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_390": {
+    "illarion:monster_spawn_390": {
       "metadata": {
         "monsterSpawnId": 390
       },
@@ -3757,7 +3757,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_391": {
+    "illarion:monster_spawn_391": {
       "metadata": {
         "monsterSpawnId": 391
       },
@@ -3770,7 +3770,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_392": {
+    "illarion:monster_spawn_392": {
       "metadata": {
         "monsterSpawnId": 392
       },
@@ -3783,7 +3783,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_393": {
+    "illarion:monster_spawn_393": {
       "metadata": {
         "monsterSpawnId": 393
       },
@@ -3796,7 +3796,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_395": {
+    "illarion:monster_spawn_395": {
       "metadata": {
         "monsterSpawnId": 395
       },
@@ -3809,7 +3809,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_396": {
+    "illarion:monster_spawn_396": {
       "metadata": {
         "monsterSpawnId": 396
       },
@@ -3822,7 +3822,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_397": {
+    "illarion:monster_spawn_397": {
       "metadata": {
         "monsterSpawnId": 397
       },
@@ -3835,7 +3835,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_398": {
+    "illarion:monster_spawn_398": {
       "metadata": {
         "monsterSpawnId": 398
       },
@@ -3848,7 +3848,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_400": {
+    "illarion:monster_spawn_400": {
       "metadata": {
         "monsterSpawnId": 400
       },
@@ -3861,7 +3861,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_401": {
+    "illarion:monster_spawn_401": {
       "metadata": {
         "monsterSpawnId": 401
       },
@@ -3874,7 +3874,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_402": {
+    "illarion:monster_spawn_402": {
       "metadata": {
         "monsterSpawnId": 402
       },
@@ -3887,7 +3887,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_403": {
+    "illarion:monster_spawn_403": {
       "metadata": {
         "monsterSpawnId": 403
       },
@@ -3900,7 +3900,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_404": {
+    "illarion:monster_spawn_404": {
       "metadata": {
         "monsterSpawnId": 404
       },
@@ -3913,7 +3913,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_406": {
+    "illarion:monster_spawn_406": {
       "metadata": {
         "monsterSpawnId": 406
       },
@@ -3926,7 +3926,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_407": {
+    "illarion:monster_spawn_407": {
       "metadata": {
         "monsterSpawnId": 407
       },
@@ -3939,7 +3939,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_306": {
+    "illarion:monster_spawn_306": {
       "metadata": {
         "monsterSpawnId": 306
       },
@@ -3952,7 +3952,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_112": {
+    "illarion:monster_spawn_112": {
       "metadata": {
         "monsterSpawnId": 112
       },
@@ -3965,7 +3965,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_178": {
+    "illarion:monster_spawn_178": {
       "metadata": {
         "monsterSpawnId": 178
       },
@@ -3978,7 +3978,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_428": {
+    "illarion:monster_spawn_428": {
       "metadata": {
         "monsterSpawnId": 428
       },
@@ -3991,7 +3991,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_431": {
+    "illarion:monster_spawn_431": {
       "metadata": {
         "monsterSpawnId": 431
       },
@@ -4004,7 +4004,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_430": {
+    "illarion:monster_spawn_430": {
       "metadata": {
         "monsterSpawnId": 430
       },
@@ -4017,7 +4017,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_432": {
+    "illarion:monster_spawn_432": {
       "metadata": {
         "monsterSpawnId": 432
       },
@@ -4030,7 +4030,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_433": {
+    "illarion:monster_spawn_433": {
       "metadata": {
         "monsterSpawnId": 433
       },
@@ -4043,7 +4043,7 @@
       "spawnAll": "f",
       "spawnRange": 60
     },
-    "illarion:spawn_435": {
+    "illarion:monster_spawn_435": {
       "metadata": {
         "monsterSpawnId": 435
       },
@@ -4056,7 +4056,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_437": {
+    "illarion:monster_spawn_437": {
       "metadata": {
         "monsterSpawnId": 437
       },
@@ -4069,7 +4069,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_438": {
+    "illarion:monster_spawn_438": {
       "metadata": {
         "monsterSpawnId": 438
       },
@@ -4082,7 +4082,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_116": {
+    "illarion:monster_spawn_116": {
       "metadata": {
         "monsterSpawnId": 116
       },
@@ -4095,7 +4095,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_326": {
+    "illarion:monster_spawn_326": {
       "metadata": {
         "monsterSpawnId": 326
       },
@@ -4108,7 +4108,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_349": {
+    "illarion:monster_spawn_349": {
       "metadata": {
         "monsterSpawnId": 349
       },
@@ -4121,7 +4121,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_410": {
+    "illarion:monster_spawn_410": {
       "metadata": {
         "monsterSpawnId": 410
       },
@@ -4134,7 +4134,7 @@
       "spawnAll": "t",
       "spawnRange": 5
     },
-    "illarion:spawn_434": {
+    "illarion:monster_spawn_434": {
       "metadata": {
         "monsterSpawnId": 434
       },
@@ -4147,7 +4147,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_439": {
+    "illarion:monster_spawn_439": {
       "metadata": {
         "monsterSpawnId": 439
       },
@@ -4160,7 +4160,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_441": {
+    "illarion:monster_spawn_441": {
       "metadata": {
         "monsterSpawnId": 441
       },
@@ -4173,7 +4173,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_267": {
+    "illarion:monster_spawn_267": {
       "metadata": {
         "monsterSpawnId": 267
       },
@@ -4186,7 +4186,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_442": {
+    "illarion:monster_spawn_442": {
       "metadata": {
         "monsterSpawnId": 442
       },
@@ -4199,7 +4199,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_444": {
+    "illarion:monster_spawn_444": {
       "metadata": {
         "monsterSpawnId": 444
       },
@@ -4212,7 +4212,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_446": {
+    "illarion:monster_spawn_446": {
       "metadata": {
         "monsterSpawnId": 446
       },
@@ -4225,7 +4225,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_448": {
+    "illarion:monster_spawn_448": {
       "metadata": {
         "monsterSpawnId": 448
       },
@@ -4238,7 +4238,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_409": {
+    "illarion:monster_spawn_409": {
       "metadata": {
         "monsterSpawnId": 409
       },
@@ -4251,7 +4251,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_408": {
+    "illarion:monster_spawn_408": {
       "metadata": {
         "monsterSpawnId": 408
       },
@@ -4264,7 +4264,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_411": {
+    "illarion:monster_spawn_411": {
       "metadata": {
         "monsterSpawnId": 411
       },
@@ -4277,7 +4277,7 @@
       "spawnAll": "f",
       "spawnRange": 13
     },
-    "illarion:spawn_412": {
+    "illarion:monster_spawn_412": {
       "metadata": {
         "monsterSpawnId": 412
       },
@@ -4290,7 +4290,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_413": {
+    "illarion:monster_spawn_413": {
       "metadata": {
         "monsterSpawnId": 413
       },
@@ -4303,7 +4303,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_414": {
+    "illarion:monster_spawn_414": {
       "metadata": {
         "monsterSpawnId": 414
       },
@@ -4316,7 +4316,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_449": {
+    "illarion:monster_spawn_449": {
       "metadata": {
         "monsterSpawnId": 449
       },
@@ -4329,7 +4329,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_450": {
+    "illarion:monster_spawn_450": {
       "metadata": {
         "monsterSpawnId": 450
       },
@@ -4342,7 +4342,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_451": {
+    "illarion:monster_spawn_451": {
       "metadata": {
         "monsterSpawnId": 451
       },
@@ -4355,7 +4355,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_452": {
+    "illarion:monster_spawn_452": {
       "metadata": {
         "monsterSpawnId": 452
       },
@@ -4368,7 +4368,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_453": {
+    "illarion:monster_spawn_453": {
       "metadata": {
         "monsterSpawnId": 453
       },
@@ -4381,7 +4381,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_454": {
+    "illarion:monster_spawn_454": {
       "metadata": {
         "monsterSpawnId": 454
       },
@@ -4394,7 +4394,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_455": {
+    "illarion:monster_spawn_455": {
       "metadata": {
         "monsterSpawnId": 455
       },
@@ -4407,7 +4407,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_456": {
+    "illarion:monster_spawn_456": {
       "metadata": {
         "monsterSpawnId": 456
       },
@@ -4420,7 +4420,7 @@
       "spawnAll": "f",
       "spawnRange": 3
     },
-    "illarion:spawn_50": {
+    "illarion:monster_spawn_50": {
       "metadata": {
         "monsterSpawnId": 50
       },
@@ -4433,7 +4433,7 @@
       "spawnAll": "f",
       "spawnRange": 2
     },
-    "illarion:spawn_457": {
+    "illarion:monster_spawn_457": {
       "metadata": {
         "monsterSpawnId": 457
       },
@@ -4446,7 +4446,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_458": {
+    "illarion:monster_spawn_458": {
       "metadata": {
         "monsterSpawnId": 458
       },
@@ -4459,7 +4459,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_459": {
+    "illarion:monster_spawn_459": {
       "metadata": {
         "monsterSpawnId": 459
       },
@@ -4472,7 +4472,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_460": {
+    "illarion:monster_spawn_460": {
       "metadata": {
         "monsterSpawnId": 460
       },
@@ -4485,7 +4485,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_461": {
+    "illarion:monster_spawn_461": {
       "metadata": {
         "monsterSpawnId": 461
       },
@@ -4498,7 +4498,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_463": {
+    "illarion:monster_spawn_463": {
       "metadata": {
         "monsterSpawnId": 463
       },
@@ -4511,7 +4511,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_464": {
+    "illarion:monster_spawn_464": {
       "metadata": {
         "monsterSpawnId": 464
       },
@@ -4524,7 +4524,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_465": {
+    "illarion:monster_spawn_465": {
       "metadata": {
         "monsterSpawnId": 465
       },
@@ -4537,7 +4537,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_466": {
+    "illarion:monster_spawn_466": {
       "metadata": {
         "monsterSpawnId": 466
       },
@@ -4550,7 +4550,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_462": {
+    "illarion:monster_spawn_462": {
       "metadata": {
         "monsterSpawnId": 462
       },
@@ -4563,7 +4563,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_70": {
+    "illarion:monster_spawn_70": {
       "metadata": {
         "monsterSpawnId": 70
       },
@@ -4576,7 +4576,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_436": {
+    "illarion:monster_spawn_436": {
       "metadata": {
         "monsterSpawnId": 436
       },
@@ -4589,7 +4589,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_93": {
+    "illarion:monster_spawn_93": {
       "metadata": {
         "monsterSpawnId": 93
       },
@@ -4602,7 +4602,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_56": {
+    "illarion:monster_spawn_56": {
       "metadata": {
         "monsterSpawnId": 56
       },
@@ -4615,7 +4615,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_57": {
+    "illarion:monster_spawn_57": {
       "metadata": {
         "monsterSpawnId": 57
       },
@@ -4628,7 +4628,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_58": {
+    "illarion:monster_spawn_58": {
       "metadata": {
         "monsterSpawnId": 58
       },
@@ -4641,7 +4641,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_59": {
+    "illarion:monster_spawn_59": {
       "metadata": {
         "monsterSpawnId": 59
       },
@@ -4654,7 +4654,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_71": {
+    "illarion:monster_spawn_71": {
       "metadata": {
         "monsterSpawnId": 71
       },
@@ -4667,7 +4667,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_72": {
+    "illarion:monster_spawn_72": {
       "metadata": {
         "monsterSpawnId": 72
       },
@@ -4680,7 +4680,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_73": {
+    "illarion:monster_spawn_73": {
       "metadata": {
         "monsterSpawnId": 73
       },
@@ -4693,7 +4693,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_74": {
+    "illarion:monster_spawn_74": {
       "metadata": {
         "monsterSpawnId": 74
       },
@@ -4706,7 +4706,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_52": {
+    "illarion:monster_spawn_52": {
       "metadata": {
         "monsterSpawnId": 52
       },
@@ -4719,7 +4719,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_53": {
+    "illarion:monster_spawn_53": {
       "metadata": {
         "monsterSpawnId": 53
       },
@@ -4732,7 +4732,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_75": {
+    "illarion:monster_spawn_75": {
       "metadata": {
         "monsterSpawnId": 75
       },
@@ -4745,7 +4745,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_76": {
+    "illarion:monster_spawn_76": {
       "metadata": {
         "monsterSpawnId": 76
       },
@@ -4758,7 +4758,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_45": {
+    "illarion:monster_spawn_45": {
       "metadata": {
         "monsterSpawnId": 45
       },
@@ -4771,7 +4771,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_48": {
+    "illarion:monster_spawn_48": {
       "metadata": {
         "monsterSpawnId": 48
       },
@@ -4784,7 +4784,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_467": {
+    "illarion:monster_spawn_467": {
       "metadata": {
         "monsterSpawnId": 467
       },
@@ -4797,7 +4797,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_468": {
+    "illarion:monster_spawn_468": {
       "metadata": {
         "monsterSpawnId": 468
       },
@@ -4810,7 +4810,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_469": {
+    "illarion:monster_spawn_469": {
       "metadata": {
         "monsterSpawnId": 469
       },
@@ -4823,7 +4823,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_470": {
+    "illarion:monster_spawn_470": {
       "metadata": {
         "monsterSpawnId": 470
       },
@@ -4836,7 +4836,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_471": {
+    "illarion:monster_spawn_471": {
       "metadata": {
         "monsterSpawnId": 471
       },
@@ -4849,7 +4849,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_302": {
+    "illarion:monster_spawn_302": {
       "metadata": {
         "monsterSpawnId": 302
       },
@@ -4862,7 +4862,7 @@
       "spawnAll": "t",
       "spawnRange": 10
     },
-    "illarion:spawn_474": {
+    "illarion:monster_spawn_474": {
       "metadata": {
         "monsterSpawnId": 474
       },
@@ -4875,7 +4875,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_475": {
+    "illarion:monster_spawn_475": {
       "metadata": {
         "monsterSpawnId": 475
       },
@@ -4888,7 +4888,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_476": {
+    "illarion:monster_spawn_476": {
       "metadata": {
         "monsterSpawnId": 476
       },
@@ -4901,7 +4901,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_477": {
+    "illarion:monster_spawn_477": {
       "metadata": {
         "monsterSpawnId": 477
       },
@@ -4914,7 +4914,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_394": {
+    "illarion:monster_spawn_394": {
       "metadata": {
         "monsterSpawnId": 394
       },
@@ -4927,7 +4927,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_405": {
+    "illarion:monster_spawn_405": {
       "metadata": {
         "monsterSpawnId": 405
       },
@@ -4940,7 +4940,7 @@
       "spawnAll": "f",
       "spawnRange": 12
     },
-    "illarion:spawn_479": {
+    "illarion:monster_spawn_479": {
       "metadata": {
         "monsterSpawnId": 479
       },
@@ -4953,7 +4953,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_340": {
+    "illarion:monster_spawn_340": {
       "metadata": {
         "monsterSpawnId": 340
       },
@@ -4966,7 +4966,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_478": {
+    "illarion:monster_spawn_478": {
       "metadata": {
         "monsterSpawnId": 478
       },
@@ -4979,7 +4979,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_480": {
+    "illarion:monster_spawn_480": {
       "metadata": {
         "monsterSpawnId": 480
       },
@@ -4992,7 +4992,7 @@
       "spawnAll": "f",
       "spawnRange": 5
     },
-    "illarion:spawn_399": {
+    "illarion:monster_spawn_399": {
       "metadata": {
         "monsterSpawnId": 399
       },
@@ -5005,7 +5005,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_122": {
+    "illarion:monster_spawn_122": {
       "metadata": {
         "monsterSpawnId": 122
       },
@@ -5018,7 +5018,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_124": {
+    "illarion:monster_spawn_124": {
       "metadata": {
         "monsterSpawnId": 124
       },
@@ -5031,7 +5031,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_134": {
+    "illarion:monster_spawn_134": {
       "metadata": {
         "monsterSpawnId": 134
       },
@@ -5044,7 +5044,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_135": {
+    "illarion:monster_spawn_135": {
       "metadata": {
         "monsterSpawnId": 135
       },
@@ -5057,7 +5057,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_54": {
+    "illarion:monster_spawn_54": {
       "metadata": {
         "monsterSpawnId": 54
       },
@@ -5070,7 +5070,7 @@
       "spawnAll": "f",
       "spawnRange": 30
     },
-    "illarion:spawn_148": {
+    "illarion:monster_spawn_148": {
       "metadata": {
         "monsterSpawnId": 148
       },
@@ -5083,7 +5083,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_114": {
+    "illarion:monster_spawn_114": {
       "metadata": {
         "monsterSpawnId": 114
       },
@@ -5096,7 +5096,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_121": {
+    "illarion:monster_spawn_121": {
       "metadata": {
         "monsterSpawnId": 121
       },
@@ -5109,7 +5109,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_131": {
+    "illarion:monster_spawn_131": {
       "metadata": {
         "monsterSpawnId": 131
       },
@@ -5122,7 +5122,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_143": {
+    "illarion:monster_spawn_143": {
       "metadata": {
         "monsterSpawnId": 143
       },
@@ -5135,7 +5135,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_160": {
+    "illarion:monster_spawn_160": {
       "metadata": {
         "monsterSpawnId": 160
       },
@@ -5148,7 +5148,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_162": {
+    "illarion:monster_spawn_162": {
       "metadata": {
         "monsterSpawnId": 162
       },
@@ -5161,7 +5161,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_164": {
+    "illarion:monster_spawn_164": {
       "metadata": {
         "monsterSpawnId": 164
       },
@@ -5174,7 +5174,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_167": {
+    "illarion:monster_spawn_167": {
       "metadata": {
         "monsterSpawnId": 167
       },
@@ -5187,7 +5187,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_173": {
+    "illarion:monster_spawn_173": {
       "metadata": {
         "monsterSpawnId": 173
       },
@@ -5200,7 +5200,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_181": {
+    "illarion:monster_spawn_181": {
       "metadata": {
         "monsterSpawnId": 181
       },
@@ -5213,7 +5213,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_213": {
+    "illarion:monster_spawn_213": {
       "metadata": {
         "monsterSpawnId": 213
       },
@@ -5226,7 +5226,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_222": {
+    "illarion:monster_spawn_222": {
       "metadata": {
         "monsterSpawnId": 222
       },
@@ -5239,7 +5239,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_238": {
+    "illarion:monster_spawn_238": {
       "metadata": {
         "monsterSpawnId": 238
       },
@@ -5252,7 +5252,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_239": {
+    "illarion:monster_spawn_239": {
       "metadata": {
         "monsterSpawnId": 239
       },
@@ -5265,7 +5265,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_242": {
+    "illarion:monster_spawn_242": {
       "metadata": {
         "monsterSpawnId": 242
       },
@@ -5278,7 +5278,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_244": {
+    "illarion:monster_spawn_244": {
       "metadata": {
         "monsterSpawnId": 244
       },
@@ -5291,7 +5291,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_245": {
+    "illarion:monster_spawn_245": {
       "metadata": {
         "monsterSpawnId": 245
       },
@@ -5304,7 +5304,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_254": {
+    "illarion:monster_spawn_254": {
       "metadata": {
         "monsterSpawnId": 254
       },
@@ -5317,7 +5317,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_255": {
+    "illarion:monster_spawn_255": {
       "metadata": {
         "monsterSpawnId": 255
       },
@@ -5330,7 +5330,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_259": {
+    "illarion:monster_spawn_259": {
       "metadata": {
         "monsterSpawnId": 259
       },
@@ -5343,7 +5343,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_261": {
+    "illarion:monster_spawn_261": {
       "metadata": {
         "monsterSpawnId": 261
       },
@@ -5356,7 +5356,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_264": {
+    "illarion:monster_spawn_264": {
       "metadata": {
         "monsterSpawnId": 264
       },
@@ -5369,7 +5369,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_272": {
+    "illarion:monster_spawn_272": {
       "metadata": {
         "monsterSpawnId": 272
       },
@@ -5382,7 +5382,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_274": {
+    "illarion:monster_spawn_274": {
       "metadata": {
         "monsterSpawnId": 274
       },
@@ -5395,7 +5395,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_275": {
+    "illarion:monster_spawn_275": {
       "metadata": {
         "monsterSpawnId": 275
       },
@@ -5408,7 +5408,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_277": {
+    "illarion:monster_spawn_277": {
       "metadata": {
         "monsterSpawnId": 277
       },
@@ -5421,7 +5421,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_282": {
+    "illarion:monster_spawn_282": {
       "metadata": {
         "monsterSpawnId": 282
       },
@@ -5434,7 +5434,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_284": {
+    "illarion:monster_spawn_284": {
       "metadata": {
         "monsterSpawnId": 284
       },
@@ -5447,7 +5447,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_187": {
+    "illarion:monster_spawn_187": {
       "metadata": {
         "monsterSpawnId": 187
       },
@@ -5460,7 +5460,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_219": {
+    "illarion:monster_spawn_219": {
       "metadata": {
         "monsterSpawnId": 219
       },
@@ -5473,7 +5473,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_236": {
+    "illarion:monster_spawn_236": {
       "metadata": {
         "monsterSpawnId": 236
       },
@@ -5486,7 +5486,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_295": {
+    "illarion:monster_spawn_295": {
       "metadata": {
         "monsterSpawnId": 295
       },
@@ -5499,7 +5499,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_299": {
+    "illarion:monster_spawn_299": {
       "metadata": {
         "monsterSpawnId": 299
       },
@@ -5512,7 +5512,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_300": {
+    "illarion:monster_spawn_300": {
       "metadata": {
         "monsterSpawnId": 300
       },
@@ -5525,7 +5525,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_303": {
+    "illarion:monster_spawn_303": {
       "metadata": {
         "monsterSpawnId": 303
       },
@@ -5538,7 +5538,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_305": {
+    "illarion:monster_spawn_305": {
       "metadata": {
         "monsterSpawnId": 305
       },
@@ -5551,7 +5551,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_313": {
+    "illarion:monster_spawn_313": {
       "metadata": {
         "monsterSpawnId": 313
       },
@@ -5564,7 +5564,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_317": {
+    "illarion:monster_spawn_317": {
       "metadata": {
         "monsterSpawnId": 317
       },
@@ -5577,7 +5577,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_321": {
+    "illarion:monster_spawn_321": {
       "metadata": {
         "monsterSpawnId": 321
       },
@@ -5590,7 +5590,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_322": {
+    "illarion:monster_spawn_322": {
       "metadata": {
         "monsterSpawnId": 322
       },
@@ -5603,7 +5603,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_323": {
+    "illarion:monster_spawn_323": {
       "metadata": {
         "monsterSpawnId": 323
       },
@@ -5616,7 +5616,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_331": {
+    "illarion:monster_spawn_331": {
       "metadata": {
         "monsterSpawnId": 331
       },
@@ -5629,7 +5629,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_334": {
+    "illarion:monster_spawn_334": {
       "metadata": {
         "monsterSpawnId": 334
       },
@@ -5642,7 +5642,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_337": {
+    "illarion:monster_spawn_337": {
       "metadata": {
         "monsterSpawnId": 337
       },
@@ -5655,7 +5655,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_343": {
+    "illarion:monster_spawn_343": {
       "metadata": {
         "monsterSpawnId": 343
       },
@@ -5668,7 +5668,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_345": {
+    "illarion:monster_spawn_345": {
       "metadata": {
         "monsterSpawnId": 345
       },
@@ -5681,7 +5681,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_357": {
+    "illarion:monster_spawn_357": {
       "metadata": {
         "monsterSpawnId": 357
       },
@@ -5694,7 +5694,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_358": {
+    "illarion:monster_spawn_358": {
       "metadata": {
         "monsterSpawnId": 358
       },
@@ -5707,7 +5707,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_359": {
+    "illarion:monster_spawn_359": {
       "metadata": {
         "monsterSpawnId": 359
       },
@@ -5720,7 +5720,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_364": {
+    "illarion:monster_spawn_364": {
       "metadata": {
         "monsterSpawnId": 364
       },
@@ -5733,7 +5733,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_418": {
+    "illarion:monster_spawn_418": {
       "metadata": {
         "monsterSpawnId": 418
       },
@@ -5746,7 +5746,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_419": {
+    "illarion:monster_spawn_419": {
       "metadata": {
         "monsterSpawnId": 419
       },
@@ -5759,7 +5759,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_420": {
+    "illarion:monster_spawn_420": {
       "metadata": {
         "monsterSpawnId": 420
       },
@@ -5772,7 +5772,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_421": {
+    "illarion:monster_spawn_421": {
       "metadata": {
         "monsterSpawnId": 421
       },
@@ -5785,7 +5785,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_422": {
+    "illarion:monster_spawn_422": {
       "metadata": {
         "monsterSpawnId": 422
       },
@@ -5798,7 +5798,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_423": {
+    "illarion:monster_spawn_423": {
       "metadata": {
         "monsterSpawnId": 423
       },
@@ -5811,7 +5811,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_424": {
+    "illarion:monster_spawn_424": {
       "metadata": {
         "monsterSpawnId": 424
       },
@@ -5824,7 +5824,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_425": {
+    "illarion:monster_spawn_425": {
       "metadata": {
         "monsterSpawnId": 425
       },
@@ -5837,7 +5837,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_426": {
+    "illarion:monster_spawn_426": {
       "metadata": {
         "monsterSpawnId": 426
       },
@@ -5850,7 +5850,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_427": {
+    "illarion:monster_spawn_427": {
       "metadata": {
         "monsterSpawnId": 427
       },
@@ -5863,7 +5863,7 @@
       "spawnAll": "f",
       "spawnRange": 10
     },
-    "illarion:spawn_429": {
+    "illarion:monster_spawn_429": {
       "metadata": {
         "monsterSpawnId": 429
       },
@@ -5876,7 +5876,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_304": {
+    "illarion:monster_spawn_304": {
       "metadata": {
         "monsterSpawnId": 304
       },
@@ -5889,7 +5889,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_309": {
+    "illarion:monster_spawn_309": {
       "metadata": {
         "monsterSpawnId": 309
       },
@@ -5902,7 +5902,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_310": {
+    "illarion:monster_spawn_310": {
       "metadata": {
         "monsterSpawnId": 310
       },
@@ -5915,7 +5915,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_350": {
+    "illarion:monster_spawn_350": {
       "metadata": {
         "monsterSpawnId": 350
       },
@@ -5928,7 +5928,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_354": {
+    "illarion:monster_spawn_354": {
       "metadata": {
         "monsterSpawnId": 354
       },
@@ -5941,7 +5941,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_362": {
+    "illarion:monster_spawn_362": {
       "metadata": {
         "monsterSpawnId": 362
       },
@@ -5954,7 +5954,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_369": {
+    "illarion:monster_spawn_369": {
       "metadata": {
         "monsterSpawnId": 369
       },
@@ -5967,7 +5967,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_370": {
+    "illarion:monster_spawn_370": {
       "metadata": {
         "monsterSpawnId": 370
       },
@@ -5980,7 +5980,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_374": {
+    "illarion:monster_spawn_374": {
       "metadata": {
         "monsterSpawnId": 374
       },
@@ -5993,7 +5993,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_375": {
+    "illarion:monster_spawn_375": {
       "metadata": {
         "monsterSpawnId": 375
       },
@@ -6006,7 +6006,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_332": {
+    "illarion:monster_spawn_332": {
       "metadata": {
         "monsterSpawnId": 332
       },
@@ -6019,7 +6019,7 @@
       "spawnAll": "f",
       "spawnRange": 20
     },
-    "illarion:spawn_69": {
+    "illarion:monster_spawn_69": {
       "metadata": {
         "monsterSpawnId": 69
       },
@@ -6032,7 +6032,7 @@
       "spawnAll": "t",
       "spawnRange": 5
     },
-    "illarion:spawn_206": {
+    "illarion:monster_spawn_206": {
       "metadata": {
         "monsterSpawnId": 206
       },
@@ -6045,7 +6045,7 @@
       "spawnAll": "t",
       "spawnRange": 15
     },
-    "illarion:spawn_227": {
+    "illarion:monster_spawn_227": {
       "metadata": {
         "monsterSpawnId": 227
       },
@@ -6058,7 +6058,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_314": {
+    "illarion:monster_spawn_314": {
       "metadata": {
         "monsterSpawnId": 314
       },
@@ -6071,7 +6071,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_445": {
+    "illarion:monster_spawn_445": {
       "metadata": {
         "monsterSpawnId": 445
       },
@@ -6084,7 +6084,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_447": {
+    "illarion:monster_spawn_447": {
       "metadata": {
         "monsterSpawnId": 447
       },
@@ -6097,7 +6097,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_51": {
+    "illarion:monster_spawn_51": {
       "metadata": {
         "monsterSpawnId": 51
       },
@@ -6110,7 +6110,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_472": {
+    "illarion:monster_spawn_472": {
       "metadata": {
         "monsterSpawnId": 472
       },
@@ -6123,7 +6123,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_473": {
+    "illarion:monster_spawn_473": {
       "metadata": {
         "monsterSpawnId": 473
       },
@@ -6136,7 +6136,7 @@
       "spawnAll": "t",
       "spawnRange": 20
     },
-    "illarion:spawn_92": {
+    "illarion:monster_spawn_92": {
       "metadata": {
         "monsterSpawnId": 92
       },
@@ -6149,7 +6149,7 @@
       "spawnAll": "f",
       "spawnRange": 15
     },
-    "illarion:spawn_443": {
+    "illarion:monster_spawn_443": {
       "metadata": {
         "monsterSpawnId": 443
       },

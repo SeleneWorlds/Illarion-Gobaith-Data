@@ -1,6 +1,6 @@
 {
   "entries": {
-    "illarion:priest": {
+    "illarion:attribute_pack_11": {
       "metadata": {
         "attributePackId": 11
       },
@@ -15,7 +15,7 @@
       "willpower": 18,
       "essence": 16
     },
-    "illarion:paladin": {
+    "illarion:attribute_pack_12": {
       "metadata": {
         "attributePackId": 12
       },
@@ -30,7 +30,7 @@
       "willpower": 16,
       "essence": 14
     },
-    "illarion:druid": {
+    "illarion:attribute_pack_7": {
       "metadata": {
         "attributePackId": 7
       },
@@ -45,7 +45,7 @@
       "willpower": 10,
       "essence": 18
     },
-    "illarion:knight": {
+    "illarion:attribute_pack_1": {
       "metadata": {
         "attributePackId": 1
       },
@@ -60,7 +60,7 @@
       "willpower": 12,
       "essence": 4
     },
-    "illarion:barbarian": {
+    "illarion:attribute_pack_2": {
       "metadata": {
         "attributePackId": 2
       },
@@ -75,7 +75,7 @@
       "willpower": 8,
       "essence": 8
     },
-    "illarion:rogue": {
+    "illarion:attribute_pack_3": {
       "metadata": {
         "attributePackId": 3
       },
@@ -90,7 +90,7 @@
       "willpower": 10,
       "essence": 8
     },
-    "illarion:hunter": {
+    "illarion:attribute_pack_4": {
       "metadata": {
         "attributePackId": 4
       },
@@ -105,7 +105,7 @@
       "willpower": 10,
       "essence": 4
     },
-    "illarion:ranger": {
+    "illarion:attribute_pack_8": {
       "metadata": {
         "attributePackId": 8
       },
@@ -120,7 +120,7 @@
       "willpower": 14,
       "essence": 4
     },
-    "illarion:mage": {
+    "illarion:attribute_pack_9": {
       "metadata": {
         "attributePackId": 9
       },
@@ -135,7 +135,7 @@
       "willpower": 16,
       "essence": 14
     },
-    "illarion:battlemage": {
+    "illarion:attribute_pack_10": {
       "metadata": {
         "attributePackId": 10
       },
@@ -150,7 +150,7 @@
       "willpower": 14,
       "essence": 8
     },
-    "illarion:smith": {
+    "illarion:attribute_pack_5": {
       "metadata": {
         "attributePackId": 5
       },
@@ -165,7 +165,7 @@
       "willpower": 4,
       "essence": 16
     },
-    "illarion:resourceExtractor": {
+    "illarion:attribute_pack_13": {
       "metadata": {
         "attributePackId": 13
       },
@@ -180,7 +180,7 @@
       "willpower": 4,
       "essence": 4
     },
-    "illarion:animalWrangler": {
+    "illarion:attribute_pack_14": {
       "metadata": {
         "attributePackId": 14
       },
@@ -195,7 +195,7 @@
       "willpower": 13,
       "essence": 13
     },
-    "illarion:culinarian_or_carpenter": {
+    "illarion:attribute_pack_15": {
       "metadata": {
         "attributePackId": 15
       },
@@ -210,7 +210,7 @@
       "willpower": 14,
       "essence": 6
     },
-    "illarion:artisan": {
+    "illarion:attribute_pack_16": {
       "metadata": {
         "attributePackId": 16
       },
@@ -225,7 +225,7 @@
       "willpower": 16,
       "essence": 4
     },
-    "illarion:agriculturist": {
+    "illarion:attribute_pack_6": {
       "metadata": {
         "attributePackId": 6
       },

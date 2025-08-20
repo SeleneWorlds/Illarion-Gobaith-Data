@@ -1,111 +1,111 @@
 {
   "entries": {
-    "illarion:knight": {
+    "illarion:starter_pack_1": {
       "nameGerman": "Ritter",
       "nameEnglish": "Knight",
       "metadata": {
         "starterPackId": 1
       }
     },
-    "illarion:barbarian": {
+    "illarion:starter_pack_2": {
       "nameGerman": "Barbar",
       "nameEnglish": "Barbarian",
       "metadata": {
         "starterPackId": 2
       }
     },
-    "illarion:rogue": {
+    "illarion:starter_pack_3": {
       "nameGerman": "Schurke",
       "nameEnglish": "Rogue",
       "metadata": {
         "starterPackId": 3
       }
     },
-    "illarion:hunter": {
+    "illarion:starter_pack_4": {
       "nameGerman": "Jäger",
       "nameEnglish": "Hunter",
       "metadata": {
         "starterPackId": 4
       }
     },
-    "illarion:druid": {
+    "illarion:starter_pack_7": {
       "nameGerman": "Druide",
       "nameEnglish": "Druid",
       "metadata": {
         "starterPackId": 7
       }
     },
-    "illarion:ranger": {
+    "illarion:starter_pack_8": {
       "nameGerman": "Waldläufer",
       "nameEnglish": "Ranger",
       "metadata": {
         "starterPackId": 8
       }
     },
-    "illarion:mage": {
+    "illarion:starter_pack_9": {
       "nameGerman": "Magier",
       "nameEnglish": "Mage",
       "metadata": {
         "starterPackId": 9
       }
     },
-    "illarion:battlemage": {
+    "illarion:starter_pack_10": {
       "nameGerman": "Kampfmagier",
       "nameEnglish": "Battlemage",
       "metadata": {
         "starterPackId": 10
       }
     },
-    "illarion:priest": {
+    "illarion:starter_pack_11": {
       "nameGerman": "Priester",
       "nameEnglish": "Priest",
       "metadata": {
         "starterPackId": 11
       }
     },
-    "illarion:paladin": {
+    "illarion:starter_pack_12": {
       "nameGerman": "Paladin",
       "nameEnglish": "Paladin",
       "metadata": {
         "starterPackId": 12
       }
     },
-    "illarion:smith": {
+    "illarion:starter_pack_5": {
       "nameGerman": "Schmied",
       "nameEnglish": "Smith",
       "metadata": {
         "starterPackId": 5
       }
     },
-    "illarion:agriculturist": {
+    "illarion:starter_pack_6": {
       "nameGerman": "Agronom",
       "nameEnglish": "Agriculturist",
       "metadata": {
         "starterPackId": 6
       }
     },
-    "illarion:resourceExtractor": {
+    "illarion:starter_pack_13": {
       "nameGerman": "Rohstoffsammler",
       "nameEnglish": "Resource Extractor",
       "metadata": {
         "starterPackId": 13
       }
     },
-    "illarion:animalWrangler": {
+    "illarion:starter_pack_14": {
       "nameGerman": "Tierbändiger",
       "nameEnglish": "Animal Wrangler",
       "metadata": {
         "starterPackId": 14
       }
     },
-    "illarion:artisan": {
+    "illarion:starter_pack_16": {
       "nameGerman": "Kunsthandwerker",
       "nameEnglish": "Artisan",
       "metadata": {
         "starterPackId": 16
       }
     },
-    "illarion:culinarianOrCarpenter": {
+    "illarion:starter_pack_15": {
       "nameGerman": "Koch/Tischler",
       "nameEnglish": "Culinarian/Carpenter",
       "metadata": {

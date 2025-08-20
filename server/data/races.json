@@ -1,6 +1,6 @@
 {
   "entries": {
-    "illarion:human": {
+    "illarion:race_0": {
       "raceType": 1,
       "minAge": 18,
       "maxAge": 100,
@@ -30,7 +30,7 @@
         "raceId": 0
       }
     },
-    "illarion:dwarf": {
+    "illarion:race_1": {
       "raceType": 1,
       "minAge": 30,
       "maxAge": 300,
@@ -61,7 +61,7 @@
         "raceId": 1
       }
     },
-    "illarion:halfling": {
+    "illarion:race_2": {
       "raceType": 1,
       "minAge": 33,
       "maxAge": 130,
@@ -91,7 +91,7 @@
         "raceId": 2
       }
     },
-    "illarion:elf": {
+    "illarion:race_3": {
       "raceType": 1,
       "minAge": 100,
       "maxAge": 6000,
@@ -121,7 +121,7 @@
         "raceId": 3
       }
     },
-    "illarion:orc": {
+    "illarion:race_4": {
       "raceType": 1,
       "minAge": 18,
       "maxAge": 80,
@@ -151,7 +151,7 @@
         "raceId": 4
       }
     },
-    "illarion:lizard": {
+    "illarion:race_5": {
       "raceType": 1,
       "minAge": 20,
       "maxAge": 700,
@@ -181,13 +181,37 @@
         "raceId": 5
       }
     },
-    "illarion:columnOfResurrection": {
+    "illarion:race_7": {
+      "raceType": 0,
+      "minAge": 18,
+      "maxAge": 80,
+      "minWeight": 40000,
+      "maxWeight": 120000,
+      "minHeight": 55,
+      "maxHeight": 87,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "maxAttributePoints": 84,
       "metadata": {
         "name": "columnOfResurrection",
         "raceId": 7
       }
     },
-    "illarion:forestTroll": {
+    "illarion:race_9": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -220,7 +244,7 @@
         "raceId": 9
       }
     },
-    "illarion:mummy": {
+    "illarion:race_10": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -253,7 +277,7 @@
         "raceId": 10
       }
     },
-    "illarion:skeleton": {
+    "illarion:race_11": {
       "raceType": 1,
       "minAge": 18,
       "maxAge": 80,
@@ -286,7 +310,7 @@
         "raceId": 11
       }
     },
-    "illarion:floatingEye": {
+    "illarion:race_12": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -319,37 +343,7 @@
         "raceId": 12
       }
     },
-    "illarion:healer": {
-      "raceType": 0,
-      "minAge": 18,
-      "maxAge": 80,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "maxAttributePoints": 84,
-      "metadata": {
-        "name": "columnOfResurrection",
-        "raceId": 7
-      }
-    },
-    "illarion:sheep": {
+    "illarion:race_18": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -379,7 +373,7 @@
         "raceId": 18
       }
     },
-    "illarion:spider": {
+    "illarion:race_19": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -412,7 +406,7 @@
         "raceId": 19
       }
     },
-    "illarion:pig": {
+    "illarion:race_24": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -442,7 +436,7 @@
         "raceId": 24
       }
     },
-    "illarion:wasp": {
+    "illarion:race_27": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -475,7 +469,7 @@
         "raceId": 27
       }
     },
-    "illarion:golem": {
+    "illarion:race_30": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -508,7 +502,7 @@
         "raceId": 30
       }
     },
-    "illarion:cow": {
+    "illarion:race_37": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -541,7 +535,7 @@
         "raceId": 37
       }
     },
-    "illarion:wolf": {
+    "illarion:race_39": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -574,7 +568,7 @@
         "raceId": 39
       }
     },
-    "illarion:bear": {
+    "illarion:race_51": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -604,7 +598,7 @@
         "raceId": 51
       }
     },
-    "illarion:raptor": {
+    "illarion:race_52": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -634,7 +628,7 @@
         "raceId": 52
       }
     },
-    "illarion:zombie": {
+    "illarion:race_53": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -664,7 +658,7 @@
         "raceId": 53
       }
     },
-    "illarion:hellhound": {
+    "illarion:race_54": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -694,7 +688,7 @@
         "raceId": 54
       }
     },
-    "illarion:imp": {
+    "illarion:race_55": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -724,7 +718,7 @@
         "raceId": 55
       }
     },
-    "illarion:ironGolem": {
+    "illarion:race_56": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -754,7 +748,7 @@
         "raceId": 56
       }
     },
-    "illarion:ratman": {
+    "illarion:race_57": {
       "raceType": 1,
       "minAge": 18,
       "maxAge": 80,
@@ -784,7 +778,7 @@
         "raceId": 57
       }
     },
-    "illarion:dog": {
+    "illarion:race_58": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -814,7 +808,7 @@
         "raceId": 58
       }
     },
-    "illarion:beetle": {
+    "illarion:race_59": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -844,7 +838,7 @@
         "raceId": 59
       }
     },
-    "illarion:fox": {
+    "illarion:race_60": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -874,7 +868,7 @@
         "raceId": 60
       }
     },
-    "illarion:slime": {
+    "illarion:race_61": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -904,7 +898,7 @@
         "raceId": 61
       }
     },
-    "illarion:chicken": {
+    "illarion:race_62": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -934,7 +928,7 @@
         "raceId": 62
       }
     },
-    "illarion:boneDragon": {
+    "illarion:race_63": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -964,7 +958,7 @@
         "raceId": 63
       }
     },
-    "illarion:rat": {
+    "illarion:race_111": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -997,7 +991,7 @@
         "raceId": 111
       }
     },
-    "illarion:fleshDragon": {
+    "illarion:race_112": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -1027,7 +1021,7 @@
         "raceId": 112
       }
     },
-    "illarion:rabbit": {
+    "illarion:race_113": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -1057,7 +1051,7 @@
         "raceId": 113
       }
     },
-    "illarion:akaltut": {
+    "illarion:race_114": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -1087,7 +1081,7 @@
         "raceId": 114
       }
     },
-    "illarion:fairy": {
+    "illarion:race_115": {
       "raceType": 1,
       "minAge": 18,
       "maxAge": 80,
@@ -1117,7 +1111,7 @@
         "raceId": 115
       }
     },
-    "illarion:deer": {
+    "illarion:race_116": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
@@ -1147,7 +1141,7 @@
         "raceId": 116
       }
     },
-    "illarion:ettin": {
+    "illarion:race_117": {
       "raceType": 0,
       "minAge": 18,
       "maxAge": 80,
