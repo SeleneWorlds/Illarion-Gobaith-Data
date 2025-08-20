@@ -1,0 +1,110 @@
+{
+  "illarion:gaia": {
+    "script": "scheduled.gaia",
+    "minCycleTime": 100,
+    "maxCycleTime": 100,
+    "functionName": "plantdrop"
+  },
+  "illarion:skeleton_forest": {
+    "script": "scheduled.scs_skeleton_forest",
+    "minCycleTime": 3000,
+    "maxCycleTime": 9000,
+    "functionName": "ForestSkells"
+  },
+  "illarion:faction_leader": {
+    "script": "scheduled.factionLeader",
+    "minCycleTime": 3000,
+    "maxCycleTime": 3000,
+    "functionName": "checkFactionLeader"
+  },
+  "illarion:gfx": {
+    "script": "scheduled.showGFX",
+    "minCycleTime": 100,
+    "maxCycleTime": 100,
+    "functionName": "CreateGFX"
+  },
+  "illarion:reset_map_items": {
+    "script": "scheduled.mapitemreset",
+    "minCycleTime": 300,
+    "maxCycleTime": 300,
+    "functionName": "resetMapitem"
+  },
+  "illarion:item_effects": {
+    "script": "scheduled.itemEffects",
+    "minCycleTime": 10,
+    "maxCycleTime": 10,
+    "functionName": "itemEffects"
+  },
+  "illarion:proxy": {
+    "script": "scheduled.scheduledFunction_proxy",
+    "minCycleTime": 10,
+    "maxCycleTime": 10,
+    "functionName": "onExecute"
+  },
+  "illarion:market": {
+    "script": "scheduled.market",
+    "minCycleTime": 600,
+    "maxCycleTime": 600,
+    "functionName": "market"
+  },
+  "illarion:gods": {
+    "script": "scheduled.gods_events",
+    "minCycleTime": 36000,
+    "maxCycleTime": 36000,
+    "functionName": "tick"
+  },
+  "illarion:noobia_rat": {
+    "script": "scheduled.noobia_rat",
+    "minCycleTime": 300,
+    "maxCycleTime": 300,
+    "functionName": "spawnRat"
+  },
+  "illarion:spawn_treasure": {
+    "script": "scheduled.spawn_treasure",
+    "minCycleTime": 3000,
+    "maxCycleTime": 3000,
+    "functionName": "spawnTreasure"
+  },
+  "illarion:akaltut_spawner": {
+    "script": "scheduled.akaltutSpawner",
+    "minCycleTime": 6000,
+    "maxCycleTime": 18000,
+    "functionName": "spawnAkaltut"
+  },
+  "illarion:safe_zones": {
+    "script": "scheduled.safe_zones",
+    "minCycleTime": 300,
+    "maxCycleTime": 600,
+    "functionName": "sweepMonsters"
+  },
+  "illarion:rent": {
+    "script": "scheduled.rent",
+    "minCycleTime": 600,
+    "maxCycleTime": 600,
+    "functionName": "rent"
+  },
+  "illarion:property_stakes": {
+    "script": "scheduled.propertyStakes",
+    "minCycleTime": 86400,
+    "maxCycleTime": 86400,
+    "functionName": "checkForAndPlaceMissingStakes"
+  },
+  "illarion:delete_preview_items": {
+    "script": "housing.utility",
+    "minCycleTime": 300,
+    "maxCycleTime": 300,
+    "functionName": "scheduledDeletionOfPreviewItems"
+  },
+  "illarion:spawn_shards": {
+    "script": "magic.arcane.enchanting.core.spawn_shards",
+    "minCycleTime": 65570,
+    "maxCycleTime": 65570,
+    "functionName": "dropShard"
+  },
+  "illarion:housing_demolition": {
+    "script": "scheduled.housing_demolition",
+    "minCycleTime": 100,
+    "maxCycleTime": 100,
+    "functionName": "demolish"
+  }
+}
