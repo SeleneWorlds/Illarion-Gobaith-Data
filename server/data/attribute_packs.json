@@ -13,7 +13,7 @@
       "perception": 10,
       "intelligence": 14,
       "willpower": 18,
-      "ess": 16
+      "essence": 16
     },
     "illarion:paladin": {
       "metadata": {
@@ -28,7 +28,7 @@
       "perception": 4,
       "intelligence": 8,
       "willpower": 16,
-      "ess": 14
+      "essence": 14
     },
     "illarion:druid": {
       "metadata": {
@@ -43,7 +43,7 @@
       "perception": 18,
       "intelligence": 12,
       "willpower": 10,
-      "ess": 18
+      "essence": 18
     },
     "illarion:knight": {
       "metadata": {
@@ -58,7 +58,7 @@
       "perception": 6,
       "intelligence": 6,
       "willpower": 12,
-      "ess": 4
+      "essence": 4
     },
     "illarion:barbarian": {
       "metadata": {
@@ -73,7 +73,7 @@
       "perception": 8,
       "intelligence": 4,
       "willpower": 8,
-      "ess": 8
+      "essence": 8
     },
     "illarion:rogue": {
       "metadata": {
@@ -88,7 +88,7 @@
       "perception": 8,
       "intelligence": 6,
       "willpower": 10,
-      "ess": 8
+      "essence": 8
     },
     "illarion:hunter": {
       "metadata": {
@@ -103,7 +103,7 @@
       "perception": 18,
       "intelligence": 6,
       "willpower": 10,
-      "ess": 4
+      "essence": 4
     },
     "illarion:ranger": {
       "metadata": {
@@ -118,7 +118,7 @@
       "perception": 18,
       "intelligence": 6,
       "willpower": 14,
-      "ess": 4
+      "essence": 4
     },
     "illarion:mage": {
       "metadata": {
@@ -133,7 +133,7 @@
       "perception": 10,
       "intelligence": 18,
       "willpower": 16,
-      "ess": 14
+      "essence": 14
     },
     "illarion:battlemage": {
       "metadata": {
@@ -148,7 +148,7 @@
       "perception": 6,
       "intelligence": 18,
       "willpower": 14,
-      "ess": 8
+      "essence": 8
     },
     "illarion:smith": {
       "metadata": {
@@ -163,7 +163,7 @@
       "perception": 4,
       "intelligence": 4,
       "willpower": 4,
-      "ess": 16
+      "essence": 16
     },
     "illarion:resourceExtractor": {
       "metadata": {
@@ -178,7 +178,7 @@
       "perception": 10,
       "intelligence": 6,
       "willpower": 4,
-      "ess": 4
+      "essence": 4
     },
     "illarion:animalWrangler": {
       "metadata": {
@@ -193,7 +193,7 @@
       "perception": 8,
       "intelligence": 13,
       "willpower": 13,
-      "ess": 13
+      "essence": 13
     },
     "illarion:culinarian/Carpenter": {
       "metadata": {
@@ -208,7 +208,7 @@
       "perception": 16,
       "intelligence": 8,
       "willpower": 14,
-      "ess": 6
+      "essence": 6
     },
     "illarion:artisan": {
       "metadata": {
@@ -223,7 +223,7 @@
       "perception": 4,
       "intelligence": 16,
       "willpower": 16,
-      "ess": 4
+      "essence": 4
     },
     "illarion:agriculturist": {
       "metadata": {
@@ -238,7 +238,7 @@
       "perception": 13,
       "intelligence": 4,
       "willpower": 4,
-      "ess": 13
+      "essence": 13
     }
   }
 }
