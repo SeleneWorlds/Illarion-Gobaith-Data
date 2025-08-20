@@ -1,115 +1,1416 @@
 {
   "entries": {
     "illarion:starter_pack_1": {
-      "nameGerman": "Ritter",
-      "nameEnglish": "Knight",
+      "skills": {
+        "illarion:skill_24": {
+          "value": 5
+        },
+        "illarion:skill_45": {
+          "value": 10
+        },
+        "illarion:skill_27": {
+          "value": 5
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_1429",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_1441",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_325",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_2445",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_2776",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_2117",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1513",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_2723",
+          "count": 1,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_27",
+          "count": 1,
+          "quality": 599
+        }
+      },
       "metadata": {
-        "starterPackId": 1
+        "id": 1
       }
     },
     "illarion:starter_pack_2": {
-      "nameGerman": "Barbar",
-      "nameEnglish": "Barbarian",
+      "skills": {
+        "illarion:skill_43": {
+          "value": 5
+        },
+        "illarion:skill_24": {
+          "value": 5
+        },
+        "illarion:skill_27": {
+          "value": 10
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_356",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_1433",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1453",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_2445",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_25",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_1478",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1500",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_27",
+          "count": 1,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_88",
+          "count": 1,
+          "quality": 599
+        }
+      },
       "metadata": {
-        "starterPackId": 2
+        "id": 2
       }
     },
     "illarion:starter_pack_3": {
-      "nameGerman": "Schurke",
-      "nameEnglish": "Rogue",
+      "skills": {
+        "illarion:skill_44": {
+          "value": 5
+        },
+        "illarion:skill_24": {
+          "value": 5
+        },
+        "illarion:skill_28": {
+          "value": 10
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_324",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_101",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1460",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_2445",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_189",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_1485",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1507",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_2776",
+          "count": 1,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_1038",
+          "count": 1,
+          "quality": 599
+        }
+      },
       "metadata": {
-        "starterPackId": 3
+        "id": 3
       }
     },
     "illarion:starter_pack_4": {
-      "nameGerman": "Jäger",
-      "nameEnglish": "Hunter",
+      "skills": {
+        "illarion:skill_12": {
+          "value": 5
+        },
+        "illarion:skill_29": {
+          "value": 10
+        },
+        "illarion:skill_43": {
+          "value": 5
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_356",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_1433",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1453",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_64",
+          "count": 100,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_65",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_1478",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1500",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_227",
+          "count": 1,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_27",
+          "count": 1,
+          "quality": 599
+        }
+      },
       "metadata": {
-        "starterPackId": 4
-      }
-    },
-    "illarion:starter_pack_7": {
-      "nameGerman": "Druide",
-      "nameEnglish": "Druid",
-      "metadata": {
-        "starterPackId": 7
-      }
-    },
-    "illarion:starter_pack_8": {
-      "nameGerman": "Waldläufer",
-      "nameEnglish": "Ranger",
-      "metadata": {
-        "starterPackId": 8
-      }
-    },
-    "illarion:starter_pack_9": {
-      "nameGerman": "Magier",
-      "nameEnglish": "Mage",
-      "metadata": {
-        "starterPackId": 9
-      }
-    },
-    "illarion:starter_pack_10": {
-      "nameGerman": "Kampfmagier",
-      "nameEnglish": "Battlemage",
-      "metadata": {
-        "starterPackId": 10
-      }
-    },
-    "illarion:starter_pack_11": {
-      "nameGerman": "Priester",
-      "nameEnglish": "Priest",
-      "metadata": {
-        "starterPackId": 11
-      }
-    },
-    "illarion:starter_pack_12": {
-      "nameGerman": "Paladin",
-      "nameEnglish": "Paladin",
-      "metadata": {
-        "starterPackId": 12
+        "id": 4
       }
     },
     "illarion:starter_pack_5": {
-      "nameGerman": "Schmied",
-      "nameEnglish": "Smith",
+      "skills": {
+        "illarion:skill_15": {
+          "value": 10
+        },
+        "illarion:skill_10": {
+          "value": 5
+        },
+        "illarion:skill_50": {
+          "value": 5
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_356",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_816",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1447",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_2140",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_23",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_823",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1500",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_2709",
+          "count": 1,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_122",
+          "count": 1,
+          "quality": 599
+        }
+      },
       "metadata": {
-        "starterPackId": 5
+        "id": 5
       }
     },
     "illarion:starter_pack_6": {
-      "nameGerman": "Agronom",
-      "nameEnglish": "Agriculturist",
+      "skills": {
+        "illarion:skill_17": {
+          "value": 10
+        },
+        "illarion:skill_16": {
+          "value": 5
+        },
+        "illarion:skill_48": {
+          "value": 5
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_356",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_816",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1447",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_126",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_271",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_823",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1500",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_258",
+          "count": 1,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_312",
+          "count": 1,
+          "quality": 599
+        }
+      },
       "metadata": {
-        "starterPackId": 6
+        "id": 6
+      }
+    },
+    "illarion:starter_pack_7": {
+      "skills": {
+        "illarion:skill_20": {
+          "value": 10
+        },
+        "illarion:skill_16": {
+          "value": 5
+        },
+        "illarion:skill_18": {
+          "value": 5
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_356",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_816",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1447",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_126",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_2622",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_823",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1500",
+          "count": 1,
+          "quality": 599
+        },
+        "12": {
+          "itemId": "illarion:item_196",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_164",
+          "count": 5,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_51",
+          "count": 1,
+          "quality": 599
+        }
+      },
+      "metadata": {
+        "id": 7
+      }
+    },
+    "illarion:starter_pack_8": {
+      "skills": {
+        "illarion:skill_24": {
+          "value": 5
+        },
+        "illarion:skill_29": {
+          "value": 10
+        },
+        "illarion:skill_44": {
+          "value": 5
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_324",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_101",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1460",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_64",
+          "count": 100,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_65",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_1485",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1507",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_27",
+          "count": 1,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_2445",
+          "count": 1,
+          "quality": 599
+        }
+      },
+      "metadata": {
+        "id": 8
+      }
+    },
+    "illarion:starter_pack_9": {
+      "skills": {
+        "illarion:skill_66": {
+          "value": 5
+        },
+        "illarion:skill_46": {
+          "value": 5
+        },
+        "illarion:skill_42": {
+          "value": 10
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_1415",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_820",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_2295",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_4820",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_228",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_827",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1500",
+          "count": 1,
+          "quality": 599
+        },
+        "12": {
+          "itemId": "illarion:item_2421",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        }
+      },
+      "metadata": {
+        "id": 9
+      }
+    },
+    "illarion:starter_pack_10": {
+      "skills": {
+        "illarion:skill_26": {
+          "value": 5
+        },
+        "illarion:skill_44": {
+          "value": 5
+        },
+        "illarion:skill_42": {
+          "value": 10
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_324",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_101",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1460",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_228",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_4820",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_1485",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1507",
+          "count": 1,
+          "quality": 599
+        },
+        "12": {
+          "itemId": "illarion:item_2421",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 7,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 6,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_1090",
+          "count": 1,
+          "quality": 599
+        }
+      },
+      "metadata": {
+        "id": 10
+      }
+    },
+    "illarion:starter_pack_11": {
+      "skills": {
+        "illarion:skill_24": {
+          "value": 10
+        },
+        "illarion:skill_26": {
+          "value": 5
+        },
+        "illarion:skill_51": {
+          "value": 5
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_830",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_816",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1447",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_17",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_2664",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_823",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1500",
+          "count": 1,
+          "quality": 599
+        },
+        "12": {
+          "itemId": "illarion:item_2418",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_227",
+          "count": 1,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_27",
+          "count": 1,
+          "quality": 599
+        }
+      },
+      "metadata": {
+        "id": 11
+      }
+    },
+    "illarion:starter_pack_12": {
+      "skills": {
+        "illarion:skill_24": {
+          "value": 10
+        },
+        "illarion:skill_26": {
+          "value": 5
+        },
+        "illarion:skill_45": {
+          "value": 5
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_202",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_4",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1470",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_17",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_2664",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_1492",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1520",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_2776",
+          "count": 1,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_1090",
+          "count": 1,
+          "quality": 599
+        }
+      },
+      "metadata": {
+        "id": 12
       }
     },
     "illarion:starter_pack_13": {
-      "nameGerman": "Rohstoffsammler",
-      "nameEnglish": "Resource Extractor",
+      "skills": {
+        "illarion:skill_9": {
+          "value": 10
+        },
+        "illarion:skill_11": {
+          "value": 5
+        },
+        "illarion:skill_47": {
+          "value": 5
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_356",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_816",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1447",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_2763",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_24",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_823",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1500",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_74",
+          "count": 1,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_9",
+          "count": 1,
+          "quality": 599
+        }
+      },
       "metadata": {
-        "starterPackId": 13
+        "id": 13
       }
     },
     "illarion:starter_pack_14": {
-      "nameGerman": "Tierbändiger",
-      "nameEnglish": "Animal Wrangler",
+      "skills": {
+        "illarion:skill_19": {
+          "value": 5
+        },
+        "illarion:skill_49": {
+          "value": 5
+        },
+        "illarion:skill_48": {
+          "value": 10
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_356",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_816",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1447",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_72",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_4337",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_823",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1500",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_6",
+          "count": 1,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_2781",
+          "count": 1,
+          "quality": 599
+        }
+      },
       "metadata": {
-        "starterPackId": 14
-      }
-    },
-    "illarion:starter_pack_16": {
-      "nameGerman": "Kunsthandwerker",
-      "nameEnglish": "Artisan",
-      "metadata": {
-        "starterPackId": 16
+        "id": 14
       }
     },
     "illarion:starter_pack_15": {
-      "nameGerman": "Koch/Tischler",
-      "nameEnglish": "Culinarian/Carpenter",
+      "skills": {
+        "illarion:skill_13": {
+          "value": 5
+        },
+        "illarion:skill_51": {
+          "value": 5
+        },
+        "illarion:skill_12": {
+          "value": 10
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_356",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_816",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1447",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_121",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_227",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_823",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1500",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_2715",
+          "count": 1,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_2752",
+          "count": 1,
+          "quality": 599
+        }
+      },
       "metadata": {
-        "starterPackId": 15
+        "id": 15
+      }
+    },
+    "illarion:starter_pack_16": {
+      "skills": {
+        "illarion:skill_8": {
+          "value": 5
+        },
+        "illarion:skill_36": {
+          "value": 5
+        },
+        "illarion:skill_14": {
+          "value": 10
+        }
+      },
+      "items": {
+        "1": {
+          "itemId": "illarion:item_97",
+          "count": 1,
+          "quality": 599
+        },
+        "2": {
+          "itemId": "illarion:item_356",
+          "count": 1,
+          "quality": 599
+        },
+        "4": {
+          "itemId": "illarion:item_816",
+          "count": 1,
+          "quality": 599
+        },
+        "5": {
+          "itemId": "illarion:item_1447",
+          "count": 1,
+          "quality": 599
+        },
+        "6": {
+          "itemId": "illarion:item_6",
+          "count": 1,
+          "quality": 599
+        },
+        "7": {
+          "itemId": "illarion:item_47",
+          "count": 1,
+          "quality": 599
+        },
+        "10": {
+          "itemId": "illarion:item_823",
+          "count": 1,
+          "quality": 599
+        },
+        "11": {
+          "itemId": "illarion:item_1500",
+          "count": 1,
+          "quality": 599
+        },
+        "13": {
+          "itemId": "illarion:item_3077",
+          "count": 40,
+          "quality": 599
+        },
+        "14": {
+          "itemId": "illarion:item_391",
+          "count": 1,
+          "quality": 599
+        },
+        "15": {
+          "itemId": "illarion:item_306",
+          "count": 5,
+          "quality": 599
+        },
+        "16": {
+          "itemId": "illarion:item_191",
+          "count": 5,
+          "quality": 599
+        },
+        "17": {
+          "itemId": "illarion:item_311",
+          "count": 1,
+          "quality": 599
+        },
+        "18": {
+          "itemId": "illarion:item_2140",
+          "count": 1,
+          "quality": 599
+        }
+      },
+      "metadata": {
+        "id": 16
       }
     }
   }

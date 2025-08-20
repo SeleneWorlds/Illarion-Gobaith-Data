@@ -1,723 +1,708 @@
 {
   "entries": {
-    "illarion:human_male": {
-      "tags": ["illarion:character"],
+    "illarion:race_0_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/human_male"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Man"
-          }
+          "visual": "illarion:race_0_0"
         }
+      },
+      "metadata": {
+        "raceId": 0,
+        "typeId": 0
       }
     },
-    "illarion:human_female": {
-      "tags": ["illarion:character"],
+    "illarion:race_0_1": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/human_female"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Woman"
-          }
+          "visual": "illarion:race_0_1"
         }
+      },
+      "metadata": {
+        "raceId": 0,
+        "typeId": 1
       }
     },
-    "illarion:dwarf_male": {
-      "tags": ["illarion:character"],
+    "illarion:race_1_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/dwarf_male"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Dwarf"
-          }
+          "visual": "illarion:race_1_0"
         }
+      },
+      "metadata": {
+        "raceId": 1,
+        "typeId": 0
       }
     },
-    "illarion:dwarf_female": {
-      "tags": ["illarion:character"],
+    "illarion:race_1_1": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/dwarf_female"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Dwarfess"
-          }
+          "visual": "illarion:race_1_1"
         }
+      },
+      "metadata": {
+        "raceId": 1,
+        "typeId": 1
       }
     },
-    "illarion:halfling_male": {
-      "tags": ["illarion:character"],
+    "illarion:race_2_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/halfling_male"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Halfling"
-          }
+          "visual": "illarion:race_2_0"
         }
+      },
+      "metadata": {
+        "raceId": 2,
+        "typeId": 0
       }
     },
-    "illarion:halfling_female": {
-      "tags": ["illarion:character"],
+    "illarion:race_2_1": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/halfling_feale"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Halfling Woman"
-          }
+          "visual": "illarion:race_2_1"
         }
+      },
+      "metadata": {
+        "raceId": 2,
+        "typeId": 1
       }
     },
-    "illarion:elf_male": {
-      "tags": ["illarion:character"],
+    "illarion:race_3_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/elf_male"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Elf"
-          }
+          "visual": "illarion:race_3_0"
         }
+      },
+      "metadata": {
+        "raceId": 3,
+        "typeId": 0
       }
     },
-    "illarion:elf_female": {
-      "tags": ["illarion:character"],
+    "illarion:race_3_1": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/elf_female"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Elfess"
-          }
+          "visual": "illarion:race_3_1"
         }
+      },
+      "metadata": {
+        "raceId": 3,
+        "typeId": 1
       }
     },
-    "illarion:orc_male": {
-      "tags": ["illarion:character"],
+    "illarion:race_4_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/orc_male"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Orc"
-          }
+          "visual": "illarion:race_4_0"
         }
+      },
+      "metadata": {
+        "raceId": 4,
+        "typeId": 0
       }
     },
-    "illarion:orc_female": {
-      "tags": ["illarion:character"],
+    "illarion:race_4_1": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/orc_female"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Orcess"
-          }
+          "visual": "illarion:race_4_1"
         }
+      },
+      "metadata": {
+        "raceId": 4,
+        "typeId": 1
       }
     },
-    "illarion:lizard": {
-      "tags": ["illarion:character"],
+    "illarion:race_5_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/lizard"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Lizard"
-          }
+          "visual": "illarion:race_5_0"
         }
+      },
+      "metadata": {
+        "raceId": 5,
+        "typeId": 0
       }
     },
-    "illarion:drow_male": {
-      "tags": ["illarion:character"],
+    "illarion:race_5_1": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/drow_male"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Drow"
-          }
+          "visual": "illarion:race_5_1"
         }
+      },
+      "metadata": {
+        "raceId": 5,
+        "typeId": 1
       }
     },
-    "illarion:drow_female": {
-      "tags": ["illarion:character"],
+    "illarion:race_7_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/drow_female"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Drowess"
-          }
+          "visual": "illarion:race_7_0"
         }
+      },
+      "metadata": {
+        "raceId": 7,
+        "typeId": 0
       }
     },
-    "illarion:gnoll": {
-      "tags": ["illarion:character"],
+    "illarion:race_9_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/gnoll"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Gnoll"
-          }
+          "visual": "illarion:race_9_0"
         }
+      },
+      "metadata": {
+        "raceId": 9,
+        "typeId": 0
       }
     },
-    "illarion:spider": {
-      "tags": ["illarion:character"],
+    "illarion:race_10_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/spider"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Spider"
-          }
+          "visual": "illarion:race_10_0"
         }
+      },
+      "metadata": {
+        "raceId": 10,
+        "typeId": 0
       }
     },
-    "illarion:skeleton": {
-      "tags": ["illarion:character"],
+    "illarion:race_11_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/skeleton"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Skeleton"
-          }
+          "visual": "illarion:race_11_0"
         }
+      },
+      "metadata": {
+        "raceId": 11,
+        "typeId": 0
       }
     },
-    "illarion:red_skeleton": {
-      "tags": ["illarion:character"],
+    "illarion:race_11_1": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/red_skeleton"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Red Skeleton"
-          }
+          "visual": "illarion:race_11_1"
         }
+      },
+      "metadata": {
+        "raceId": 11,
+        "typeId": 1
       }
     },
-    "illarion:sheep": {
-      "tags": ["illarion:character"],
+    "illarion:race_12_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/sheep"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Sheep"
-          }
+          "visual": "illarion:race_12_0"
         }
+      },
+      "metadata": {
+        "raceId": 12,
+        "typeId": 0
       }
     },
-    "illarion:pig": {
-      "tags": ["illarion:character"],
+    "illarion:race_18_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/pig"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Pig"
-          }
+          "visual": "illarion:race_18_0"
         }
+      },
+      "metadata": {
+        "raceId": 18,
+        "typeId": 0
       }
     },
-    "illarion:zombie": {
-      "tags": ["illarion:character"],
+    "illarion:race_19_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/zombie"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Zombie"
-          }
+          "visual": "illarion:race_19_0"
         }
+      },
+      "metadata": {
+        "raceId": 19,
+        "typeId": 0
       }
     },
-    "illarion:ghost": {
-      "tags": ["illarion:character"],
+    "illarion:race_24_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/ghost"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Ghost"
-          }
+          "visual": "illarion:race_24_0"
         }
+      },
+      "metadata": {
+        "raceId": 24,
+        "typeId": 0
       }
     },
-    "illarion:demon": {
-      "tags": ["illarion:character"],
+    "illarion:race_27_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/demon"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Demon"
-          }
+          "visual": "illarion:race_27_0"
         }
+      },
+      "metadata": {
+        "raceId": 27,
+        "typeId": 0
       }
     },
-    "illarion:dragon": {
-      "tags": ["illarion:character"],
+    "illarion:race_30_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/dragon"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Dragon"
-          }
+          "visual": "illarion:race_30_0"
         }
+      },
+      "metadata": {
+        "raceId": 30,
+        "typeId": 0
       }
     },
-    "illarion:healer": {
-      "tags": ["illarion:character"],
+    "illarion:race_37_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/healer"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Healer"
-          }
+          "visual": "illarion:race_37_0"
         }
+      },
+      "metadata": {
+        "raceId": 37,
+        "typeId": 0
       }
     },
-    "illarion:forest_troll": {
-      "tags": ["illarion:character"],
+    "illarion:race_39_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/forest_troll"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Troll"
-          }
+          "visual": "illarion:race_39_0"
         }
+      },
+      "metadata": {
+        "raceId": 39,
+        "typeId": 0
       }
     },
-    "illarion:goblin_male": {
-      "tags": ["illarion:character"],
+    "illarion:race_51_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/goblin_male"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Goblin"
-          }
+          "visual": "illarion:race_51_0"
         }
+      },
+      "metadata": {
+        "raceId": 51,
+        "typeId": 0
       }
     },
-    "illarion:goblin_female": {
-      "tags": ["illarion:character"],
+    "illarion:race_52_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/goblin_female"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Goblin Woman"
-          }
+          "visual": "illarion:race_52_0"
         }
+      },
+      "metadata": {
+        "raceId": 52,
+        "typeId": 0
       }
     },
-    "illarion:lesser_demon": {
-      "tags": ["illarion:character"],
+    "illarion:race_53_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/lesser_demon"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Demon"
-          }
+          "visual": "illarion:race_53_0"
         }
+      },
+      "metadata": {
+        "raceId": 53,
+        "typeId": 0
       }
     },
-    "illarion:cave_troll": {
-      "tags": ["illarion:character"],
+    "illarion:race_54_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/cave_troll"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Troll"
-          }
+          "visual": "illarion:race_54_0"
         }
+      },
+      "metadata": {
+        "raceId": 54,
+        "typeId": 0
       }
     },
-    "illarion:scorpion": {
-      "tags": ["illarion:character"],
+    "illarion:race_55_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/scorpion"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Scorpion"
-          }
+          "visual": "illarion:race_55_0"
         }
+      },
+      "metadata": {
+        "raceId": 55,
+        "typeId": 0
       }
     },
-    "illarion:insects": {
-      "tags": ["illarion:character"],
+    "illarion:race_56_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/insects"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Insects"
-          }
+          "visual": "illarion:race_56_0"
         }
+      },
+      "metadata": {
+        "raceId": 56,
+        "typeId": 0
       }
     },
-    "illarion:worm": {
-      "tags": ["illarion:character"],
+    "illarion:race_57_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/worm"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Worm"
-          }
+          "visual": "illarion:race_57_0"
         }
+      },
+      "metadata": {
+        "raceId": 57,
+        "typeId": 0
       }
     },
-    "illarion:wraith": {
-      "tags": ["illarion:character"],
+    "illarion:race_57_1": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/wraith"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Wraith"
-          }
+          "visual": "illarion:race_57_1"
         }
+      },
+      "metadata": {
+        "raceId": 57,
+        "typeId": 1
       }
     },
-    "illarion:beholder": {
-      "tags": ["illarion:character"],
+    "illarion:race_58_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/beholder"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Beholder"
-          }
+          "visual": "illarion:race_58_0"
         }
+      },
+      "metadata": {
+        "raceId": 58,
+        "typeId": 0
       }
     },
-    "illarion:skull": {
-      "tags": ["illarion:character"],
+    "illarion:race_59_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/skull"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Skull"
-          }
+          "visual": "illarion:race_59_0"
         }
+      },
+      "metadata": {
+        "raceId": 59,
+        "typeId": 0
       }
     },
-    "illarion:wasp": {
-      "tags": ["illarion:character"],
+    "illarion:race_60_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/wasp"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Wasp"
-          }
+          "visual": "illarion:race_60_0"
         }
+      },
+      "metadata": {
+        "raceId": 60,
+        "typeId": 0
       }
     },
-    "illarion:panther": {
-      "tags": ["illarion:character"],
+    "illarion:race_61_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/panther"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Panther"
-          }
+          "visual": "illarion:race_61_0"
         }
+      },
+      "metadata": {
+        "raceId": 61,
+        "typeId": 0
       }
     },
-    "illarion:rabbit": {
-      "tags": ["illarion:character"],
+    "illarion:race_62_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/rabbit"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Rabbit"
-          }
+          "visual": "illarion:race_62_0"
         }
+      },
+      "metadata": {
+        "raceId": 62,
+        "typeId": 0
       }
     },
-    "illarion:invisible": {
-      "tags": ["illarion:character"],
+    "illarion:race_63_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/invisible"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Invisible"
-          }
+          "visual": "illarion:race_63_0"
         }
+      },
+      "metadata": {
+        "raceId": 63,
+        "typeId": 0
       }
     },
-    "illarion:fairy": {
-      "tags": ["illarion:character"],
+    "illarion:race_111_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/fairy"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Pixie"
-          }
+          "visual": "illarion:race_111_0"
         }
+      },
+      "metadata": {
+        "raceId": 111,
+        "typeId": 0
       }
     },
-    "illarion:gnome_male": {
-      "tags": ["illarion:character"],
+    "illarion:race_112_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/gnome_male"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Gnome"
-          }
+          "visual": "illarion:race_112_0"
         }
+      },
+      "metadata": {
+        "raceId": 112,
+        "typeId": 0
       }
     },
-    "illarion:gnome_female": {
-      "tags": ["illarion:character"],
+    "illarion:race_113_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/gnome_female"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Gnome Woman"
-          }
+          "visual": "illarion:race_113_0"
         }
+      },
+      "metadata": {
+        "raceId": 113,
+        "typeId": 0
       }
     },
-    "illarion:fallen": {
-      "tags": ["illarion:character"],
+    "illarion:race_114_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/fallen"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Undead"
-          }
+          "visual": "illarion:race_114_0"
         }
+      },
+      "metadata": {
+        "raceId": 114,
+        "typeId": 0
       }
     },
-    "illarion:donkey": {
-      "tags": ["illarion:character"],
+    "illarion:race_115_0": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/donkey"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Donkey"
-          }
+          "visual": "illarion:race_115_0"
         }
+      },
+      "metadata": {
+        "raceId": 115,
+        "typeId": 0
       }
     },
-    "illarion:ice_dragon": {
-      "tags": ["illarion:character"],
+    "illarion:race_115_1": {
+      "tags": [
+        "illarion:character"
+      ],
       "components": {
-        "illarion:body": {
+        "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:chars/ice_dragon"
-        },
-        "illarion:name": {
-          "type": "visual",
-          "visual": "illarion:labels/character",
-          "properties": {
-            "label": "Ice Dragon"
-          }
+          "visual": "illarion:race_115_1"
         }
+      },
+      "metadata": {
+        "raceId": 115,
+        "typeId": 1
+      }
+    },
+    "illarion:race_116_0": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race_116_0"
+        }
+      },
+      "metadata": {
+        "raceId": 116,
+        "typeId": 0
+      }
+    },
+    "illarion:race_117_0": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race_117_0"
+        }
+      },
+      "metadata": {
+        "raceId": 117,
+        "typeId": 0
       }
     }
   }

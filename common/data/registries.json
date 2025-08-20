@@ -1,19 +1,11 @@
 {
     "entries": {
-        "illarion:armors": {
-            "suffix": "armors",
+        "illarion:effects": {
+            "suffix": "effects",
             "platform": "server"
         },
-        "illarion:attribute_packs": {
-            "suffix": "attribute_packs",
-            "platform": "server"
-        },
-        "illarion:containers": {
-            "suffix": "containers",
-            "platform": "server"
-        },
-        "illarion:lte": {
-            "suffix": "lte",
+        "illarion:items": {
+            "suffix": "items",
             "platform": "server"
         },
         "illarion:monster_spawns": {
@@ -54,10 +46,6 @@
         },
         "illarion:trigger_fields": {
             "suffix": "trigger_fields",
-            "platform": "server"
-        },
-        "illarion:weapons": {
-            "suffix": "weapons",
             "platform": "server"
         }
     }

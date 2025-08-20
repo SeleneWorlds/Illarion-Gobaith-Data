@@ -1,0 +1,484 @@
+{
+  "entries": {
+    "illarion:effect_1": {
+      "name": "magicDoT",
+      "script": "magic.arcane.magicDoT",
+      "metadata": {
+        "id": 1,
+        "name": "magicDoT"
+      }
+    },
+    "illarion:effect_2": {
+      "name": "char_reg",
+      "script": "lte.chr_reg",
+      "metadata": {
+        "id": 2,
+        "name": "char_reg"
+      }
+    },
+    "illarion:effect_3": {
+      "name": "lifesteal",
+      "script": "magic.arcane.lifesteal",
+      "metadata": {
+        "id": 3,
+        "name": "lifesteal"
+      }
+    },
+    "illarion:effect_4": {
+      "name": "percBoost",
+      "script": "lte.perc_boost",
+      "metadata": {
+        "id": 4,
+        "name": "percBoost"
+      }
+    },
+    "illarion:effect_5": {
+      "name": "AttribBoost",
+      "script": "lte.attrib_boost",
+      "metadata": {
+        "id": 5,
+        "name": "AttribBoost"
+      }
+    },
+    "illarion:effect_6": {
+      "name": "Lif Granors punishment",
+      "script": "lte.liftGranorsPunishment",
+      "metadata": {
+        "id": 6,
+        "name": "Lif Granors punishment"
+      }
+    },
+    "illarion:effect_7": {
+      "name": "delayedMagicAttack",
+      "script": "magic.arcane.delayedAttack",
+      "metadata": {
+        "id": 7,
+        "name": "delayedMagicAttack"
+      }
+    },
+    "illarion:effect_8": {
+      "name": "fire",
+      "script": "lte.fire",
+      "metadata": {
+        "id": 8,
+        "name": "fire"
+      }
+    },
+    "illarion:effect_9": {
+      "name": "reduceMana",
+      "script": "magic.arcane.reduceMana",
+      "metadata": {
+        "id": 9,
+        "name": "reduceMana"
+      }
+    },
+    "illarion:effect_10": {
+      "name": "reduceFood",
+      "script": "magic.arcane.reduceFood",
+      "metadata": {
+        "id": 10,
+        "name": "reduceFood"
+      }
+    },
+    "illarion:effect_11": {
+      "name": "diminishingReturns",
+      "script": "magic.arcane.diminishingReturns",
+      "metadata": {
+        "id": 11,
+        "name": "diminishingReturns"
+      }
+    },
+    "illarion:effect_12": {
+      "name": "diet",
+      "script": "lte.diet",
+      "metadata": {
+        "id": 12,
+        "name": "diet"
+      }
+    },
+    "illarion:effect_13": {
+      "name": "inlineTutorial",
+      "script": "lte.inlinetutorial",
+      "metadata": {
+        "id": 13,
+        "name": "inlineTutorial"
+      }
+    },
+    "illarion:effect_14": {
+      "name": "fighting",
+      "script": "lte.fighting",
+      "metadata": {
+        "id": 14,
+        "name": "fighting"
+      }
+    },
+    "illarion:effect_15": {
+      "name": "snare",
+      "script": "magic.arcane.snare",
+      "metadata": {
+        "id": 15,
+        "name": "snare"
+      }
+    },
+    "illarion:effect_16": {
+      "name": "plantRoot",
+      "script": "magic.arcane.plantRoot",
+      "metadata": {
+        "id": 16,
+        "name": "plantRoot"
+      }
+    },
+    "illarion:effect_17": {
+      "name": "stallMana",
+      "script": "magic.arcane.stallMana",
+      "metadata": {
+        "id": 17,
+        "name": "stallMana"
+      }
+    },
+    "illarion:effect_18": {
+      "name": "arena",
+      "script": "lte.arena_timer",
+      "metadata": {
+        "id": 18,
+        "name": "arena"
+      }
+    },
+    "illarion:effect_19": {
+      "name": "diamondGolemAura",
+      "script": "lte.diamondGolemAura",
+      "metadata": {
+        "id": 19,
+        "name": "diamondGolemAura"
+      }
+    },
+    "illarion:effect_20": {
+      "name": "cursed_ring",
+      "script": "lte.cursed_ring",
+      "metadata": {
+        "id": 20,
+        "name": "cursed_ring"
+      }
+    },
+    "illarion:effect_21": {
+      "name": "bleeding",
+      "script": "lte.bleeding",
+      "metadata": {
+        "id": 21,
+        "name": "bleeding"
+      }
+    },
+    "illarion:effect_22": {
+      "name": "teachmagic",
+      "script": "lte.teachmagic",
+      "metadata": {
+        "id": 22,
+        "name": "teachmagic"
+      }
+    },
+    "illarion:effect_23": {
+      "name": "paralysis",
+      "script": "lte.paralysis",
+      "metadata": {
+        "id": 23,
+        "name": "paralysis"
+      }
+    },
+    "illarion:effect_25": {
+      "name": "blessing",
+      "script": "lte.blessing",
+      "metadata": {
+        "id": 25,
+        "name": "blessing"
+      }
+    },
+    "illarion:effect_27": {
+      "name": "snareTwo",
+      "script": "magic.arcane.snare",
+      "metadata": {
+        "id": 27,
+        "name": "snareTwo"
+      }
+    },
+    "illarion:effect_28": {
+      "name": "plantRootTwo",
+      "script": "magic.arcane.plantRoot",
+      "metadata": {
+        "id": 28,
+        "name": "plantRootTwo"
+      }
+    },
+    "illarion:effect_29": {
+      "name": "parish_nargun",
+      "script": "lte.parish_nargun",
+      "metadata": {
+        "id": 29,
+        "name": "parish_nargun"
+      }
+    },
+    "illarion:effect_30": {
+      "name": "snareThree",
+      "script": "magic.arcane.snare",
+      "metadata": {
+        "id": 30,
+        "name": "snareThree"
+      }
+    },
+    "illarion:effect_31": {
+      "name": "plantRootThree",
+      "script": "magic.arcane.plantRoot",
+      "metadata": {
+        "id": 31,
+        "name": "plantRootThree"
+      }
+    },
+    "illarion:effect_32": {
+      "name": "druidsescape",
+      "script": "lte.druids_escape",
+      "metadata": {
+        "id": 32,
+        "name": "druidsescape"
+      }
+    },
+    "illarion:effect_33": {
+      "name": "Longterm Cooldown",
+      "script": "lte.longterm_cooldown",
+      "metadata": {
+        "id": 33,
+        "name": "Longterm Cooldown"
+      }
+    },
+    "illarion:effect_36": {
+      "name": "DeathAfterTime",
+      "script": "lte.deathaftertime",
+      "metadata": {
+        "id": 36,
+        "name": "DeathAfterTime"
+      }
+    },
+    "illarion:effect_37": {
+      "name": "introduction",
+      "script": "lte.introduction",
+      "metadata": {
+        "id": 37,
+        "name": "introduction"
+      }
+    },
+    "illarion:effect_59": {
+      "name": "alchemy_attribs",
+      "script": "alchemy.lte.id_59_attribs",
+      "metadata": {
+        "id": 59,
+        "name": "alchemy_attribs"
+      }
+    },
+    "illarion:effect_60": {
+      "name": "fireSpitting",
+      "script": "lte.fireSpitting",
+      "metadata": {
+        "id": 60,
+        "name": "fireSpitting"
+      }
+    },
+    "illarion:effect_70": {
+      "name": "weakenedLich",
+      "script": "lte.weakenedLich",
+      "metadata": {
+        "id": 70,
+        "name": "weakenedLich"
+      }
+    },
+    "illarion:effect_83": {
+      "name": "Vision",
+      "script": "lte.vision",
+      "metadata": {
+        "id": 83,
+        "name": "Vision"
+      }
+    },
+    "illarion:effect_84": {
+      "name": "activity_tracker",
+      "script": "lte.activity_tracker",
+      "metadata": {
+        "id": 84,
+        "name": "activity_tracker"
+      }
+    },
+    "illarion:effect_100": {
+      "name": "Perception debuff",
+      "script": "lte.debuff_perception",
+      "metadata": {
+        "id": 100,
+        "name": "Perception debuff"
+      }
+    },
+    "illarion:effect_101": {
+      "name": "Constitution debuff",
+      "script": "lte.debuff_constitution",
+      "metadata": {
+        "id": 101,
+        "name": "Constitution debuff"
+      }
+    },
+    "illarion:effect_110": {
+      "name": "Damagefield Fire",
+      "script": "lte.damagefield_firefield",
+      "metadata": {
+        "id": 110,
+        "name": "Damagefield Fire"
+      }
+    },
+    "illarion:effect_111": {
+      "name": "Damagefield Ice",
+      "script": "lte.damagefield_icefield",
+      "metadata": {
+        "id": 111,
+        "name": "Damagefield Ice"
+      }
+    },
+    "illarion:effect_112": {
+      "name": "Damagefield Poison",
+      "script": "lte.damagefield_poisoncloud",
+      "metadata": {
+        "id": 112,
+        "name": "Damagefield Poison"
+      }
+    },
+    "illarion:effect_120": {
+      "name": "Monterhunter Timer",
+      "script": "lte.monsterhunter_timer",
+      "metadata": {
+        "id": 120,
+        "name": "Monterhunter Timer"
+      }
+    },
+    "illarion:effect_166": {
+      "name": "alchemy_secattribs",
+      "script": "alchemy.lte.id_166_secattribs",
+      "metadata": {
+        "id": 166,
+        "name": "alchemy_secattribs"
+      }
+    },
+    "illarion:effect_328": {
+      "name": "alchemy_immunity",
+      "script": "alchemy.lte.id_328_immunity",
+      "metadata": {
+        "id": 328,
+        "name": "alchemy_immunity"
+      }
+    },
+    "illarion:effect_329": {
+      "name": "alchemy_transformation",
+      "script": "alchemy.lte.id_329_transformation",
+      "metadata": {
+        "id": 329,
+        "name": "alchemy_transformation"
+      }
+    },
+    "illarion:effect_330": {
+      "name": "alchemy_language",
+      "script": "alchemy.lte.id_330_language",
+      "metadata": {
+        "id": 330,
+        "name": "alchemy_language"
+      }
+    },
+    "illarion:effect_331": {
+      "name": "alchemy_potionspam",
+      "script": "alchemy.lte.id_331_potionspam",
+      "metadata": {
+        "id": 331,
+        "name": "alchemy_potionspam"
+      }
+    },
+    "illarion:effect_400": {
+      "name": "resurrection",
+      "script": "lte.resurrected",
+      "metadata": {
+        "id": 400,
+        "name": "resurrection"
+      }
+    },
+    "illarion:effect_401": {
+      "name": "Milking",
+      "script": "lte.milking",
+      "metadata": {
+        "id": 401,
+        "name": "Milking"
+      }
+    },
+    "illarion:effect_402": {
+      "name": "Shearing",
+      "script": "lte.shearing",
+      "metadata": {
+        "id": 402,
+        "name": "Shearing"
+      }
+    },
+    "illarion:effect_403": {
+      "name": "glyph_equip_inform",
+      "script": "lte.glyph_equip_inform",
+      "metadata": {
+        "id": 403,
+        "name": "glyph_equip_inform"
+      }
+    },
+    "illarion:effect_404": {
+      "name": "drinkEffect",
+      "script": "lte.drinkEffect",
+      "metadata": {
+        "id": 404,
+        "name": "drinkEffect"
+      }
+    },
+    "illarion:effect_405": {
+      "name": "bindNPC",
+      "script": "lte.bindNPC",
+      "metadata": {
+        "id": 405,
+        "name": "bindNPC"
+      }
+    },
+    "illarion:effect_500": {
+      "name": "magicparalyse",
+      "script": "lte.magic_paralyse",
+      "metadata": {
+        "id": 500,
+        "name": "magicparalyse"
+      }
+    },
+    "illarion:effect_501": {
+      "name": "magicmovepointlimit",
+      "script": "lte.magic_movepoint_limit",
+      "metadata": {
+        "id": 501,
+        "name": "magicmovepointlimit"
+      }
+    },
+    "illarion:effect_502": {
+      "name": "magicdamage",
+      "script": "lte.magic_damage",
+      "metadata": {
+        "id": 502,
+        "name": "magicdamage"
+      }
+    },
+    "illarion:effect_600": {
+      "name": "Gods cooldowns",
+      "script": "lte.gods_cooldowns",
+      "metadata": {
+        "id": 600,
+        "name": "Gods cooldowns"
+      }
+    },
+    "illarion:effect_2701": {
+      "name": "BlessedHeal",
+      "script": "lte.blessedheal",
+      "metadata": {
+        "id": 2701,
+        "name": "BlessedHeal"
+      }
+    }
+  }
+}

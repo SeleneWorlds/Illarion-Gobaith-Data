@@ -1,616 +1,548 @@
 {
   "entries": {
     "illarion:skill_0": {
-      "nameGerman": "Allgemeine Sprache",
-      "nameEnglish": "Common Language",
-      "skillGroup": 0,
+      "name": "commonLanguage",
       "metadata": {
-        "skillId": 0,
+        "id": 0,
         "name": "commonLanguage"
-      }
+      },
+      "group": "illarion:skill_group_0"
     },
     "illarion:skill_1": {
-      "nameGerman": "Sprache der Menschen",
-      "nameEnglish": "Human Language",
-      "skillGroup": 0,
+      "name": "humanLanguage",
       "metadata": {
-        "skillId": 1,
+        "id": 1,
         "name": "humanLanguage"
-      }
+      },
+      "group": "illarion:skill_group_0"
     },
     "illarion:skill_2": {
-      "nameGerman": "Sprache der Zwerge",
-      "nameEnglish": "Dwarf Language",
-      "skillGroup": 0,
+      "name": "dwarfLanguage",
       "metadata": {
-        "skillId": 2,
+        "id": 2,
         "name": "dwarfLanguage"
-      }
+      },
+      "group": "illarion:skill_group_0"
     },
     "illarion:skill_3": {
-      "nameGerman": "Sprache der Elfen",
-      "nameEnglish": "Elf Language",
-      "skillGroup": 0,
+      "name": "elfLanguage",
       "metadata": {
-        "skillId": 3,
+        "id": 3,
         "name": "elfLanguage"
-      }
+      },
+      "group": "illarion:skill_group_0"
     },
     "illarion:skill_4": {
-      "nameGerman": "Sprache der Halblinge",
-      "nameEnglish": "Halfling Language",
-      "skillGroup": 0,
+      "name": "halflingLanguage",
       "metadata": {
-        "skillId": 4,
+        "id": 4,
         "name": "halflingLanguage"
-      }
+      },
+      "group": "illarion:skill_group_0"
     },
     "illarion:skill_5": {
-      "nameGerman": "Sprache der Orks",
-      "nameEnglish": "Orc Language",
-      "skillGroup": 0,
+      "name": "orcLanguage",
       "metadata": {
-        "skillId": 5,
+        "id": 5,
         "name": "orcLanguage"
-      }
+      },
+      "group": "illarion:skill_group_0"
     },
     "illarion:skill_6": {
-      "nameGerman": "Sprache der Echsen",
-      "nameEnglish": "Lizard Language",
-      "skillGroup": 0,
+      "name": "lizardLanguage",
       "metadata": {
-        "skillId": 6,
+        "id": 6,
         "name": "lizardLanguage"
-      }
-    },
-    "illarion:skill_8": {
-      "nameGerman": "Glasblasen",
-      "nameEnglish": "Glass Blowing",
-      "skillGroup": 1,
-      "metadata": {
-        "skillId": 8,
-        "name": "glassBlowing"
-      }
-    },
-    "illarion:skill_9": {
-      "nameGerman": "Bergbau",
-      "nameEnglish": "Mining",
-      "skillGroup": 1,
-      "metadata": {
-        "skillId": 9,
-        "name": "mining"
-      }
-    },
-    "illarion:skill_13": {
-      "nameGerman": "Schreinern",
-      "nameEnglish": "Carpentry",
-      "skillGroup": 1,
-      "metadata": {
-        "skillId": 13,
-        "name": "carpentry"
-      }
-    },
-    "illarion:skill_14": {
-      "nameGerman": "Schneidern",
-      "nameEnglish": "Tailoring",
-      "skillGroup": 1,
-      "metadata": {
-        "skillId": 14,
-        "name": "tailoring"
-      }
-    },
-    "illarion:skill_18": {
-      "nameGerman": "Edelsteinschleifen",
-      "nameEnglish": "Gem Cutting",
-      "skillGroup": 1,
-      "metadata": {
-        "skillId": 18,
-        "name": "gemcutting"
-      }
-    },
-    "illarion:skill_19": {
-      "nameGerman": "Angeln",
-      "nameEnglish": "Fishing",
-      "skillGroup": 1,
-      "metadata": {
-        "skillId": 19,
-        "name": "fishing"
-      }
-    },
-    "illarion:skill_21": {
-      "nameGerman": "Ringen",
-      "nameEnglish": "Wrestling",
-      "skillGroup": 4,
-      "metadata": {
-        "skillId": 21,
-        "name": "wrestling"
-      }
-    },
-    "illarion:skill_23": {
-      "nameGerman": "Ausweichen",
-      "nameEnglish": "Dodging",
-      "skillGroup": 4,
-      "metadata": {
-        "skillId": 23,
-        "name": "dodge"
-      }
-    },
-    "illarion:skill_25": {
-      "nameGerman": "Taktik",
-      "nameEnglish": "Tactics",
-      "skillGroup": 4,
-      "metadata": {
-        "skillId": 25,
-        "name": "tactics"
-      }
-    },
-    "illarion:skill_27": {
-      "nameGerman": "Hiebwaffen",
-      "nameEnglish": "Slashing Weapons",
-      "skillGroup": 4,
-      "metadata": {
-        "skillId": 27,
-        "name": "slashingWeapons"
-      }
-    },
-    "illarion:skill_30": {
-      "nameGerman": "Laute",
-      "nameEnglish": "Lute",
-      "skillGroup": 7,
-      "metadata": {
-        "skillId": 30,
-        "name": "lute"
-      }
-    },
-    "illarion:skill_31": {
-      "nameGerman": "Flöte",
-      "nameEnglish": "Flute",
-      "skillGroup": 7,
-      "metadata": {
-        "skillId": 31,
-        "name": "flute"
-      }
-    },
-    "illarion:skill_32": {
-      "nameGerman": "Horn",
-      "nameEnglish": "Horn",
-      "skillGroup": 7,
-      "metadata": {
-        "skillId": 32,
-        "name": "horn"
-      }
-    },
-    "illarion:skill_33": {
-      "nameGerman": "Trommel",
-      "nameEnglish": "Drum",
-      "skillGroup": 7,
-      "metadata": {
-        "skillId": 33,
-        "name": "drum"
-      }
-    },
-    "illarion:skill_34": {
-      "nameGerman": "Harfe",
-      "nameEnglish": "Harp",
-      "skillGroup": 7,
-      "metadata": {
-        "skillId": 34,
-        "name": "harp"
-      }
-    },
-    "illarion:skill_35": {
-      "nameGerman": "Panflöte",
-      "nameEnglish": "Panpipe",
-      "skillGroup": 7,
-      "metadata": {
-        "skillId": 35,
-        "name": "panpipe"
-      }
-    },
-    "illarion:skill_20": {
-      "nameGerman": "Alchemie",
-      "nameEnglish": "Alchemy",
-      "skillGroup": 5,
-      "metadata": {
-        "skillId": 20,
-        "name": "alchemy"
-      }
+      },
+      "group": "illarion:skill_group_0"
     },
     "illarion:skill_7": {
-      "nameGerman": "Antike Sprache",
-      "nameEnglish": "Ancient Language",
-      "skillGroup": 0,
+      "name": "ancientLanguage",
       "metadata": {
-        "skillId": 7,
+        "id": 7,
         "name": "ancientLanguage"
-      }
+      },
+      "group": "illarion:skill_group_0"
     },
-    "illarion:skill_11": {
-      "nameGerman": "Holzfällen",
-      "nameEnglish": "Woodcutting",
-      "skillGroup": 1,
+    "illarion:skill_8": {
+      "name": "glassBlowing",
       "metadata": {
-        "skillId": 11,
-        "name": "woodcutting"
-      }
+        "id": 8,
+        "name": "glassBlowing"
+      },
+      "group": "illarion:skill_group_1"
     },
-    "illarion:skill_17": {
-      "nameGerman": "Ackerbau",
-      "nameEnglish": "Farming",
-      "skillGroup": 1,
+    "illarion:skill_9": {
+      "name": "mining",
       "metadata": {
-        "skillId": 17,
-        "name": "farming"
-      }
-    },
-    "illarion:skill_37": {
-      "nameGerman": "Magieresistenz",
-      "nameEnglish": "Magic Resistance",
-      "skillGroup": 2,
-      "metadata": {
-        "skillId": 37,
-        "name": "magicResistance"
-      }
-    },
-    "illarion:skill_12": {
-      "nameGerman": "Kochen und Backen",
-      "nameEnglish": "Cooking and Baking",
-      "skillGroup": 1,
-      "metadata": {
-        "skillId": 12,
-        "name": "cookingAndBaking"
-      }
-    },
-    "illarion:skill_24": {
-      "nameGerman": "Parieren",
-      "nameEnglish": "Parrying",
-      "skillGroup": 4,
-      "metadata": {
-        "skillId": 24,
-        "name": "parry"
-      }
-    },
-    "illarion:skill_26": {
-      "nameGerman": "Schlagwaffen",
-      "nameEnglish": "Blunt Weapons",
-      "skillGroup": 4,
-      "metadata": {
-        "skillId": 26,
-        "name": "concussionWeapons"
-      }
-    },
-    "illarion:skill_28": {
-      "nameGerman": "Stichwaffen",
-      "nameEnglish": "Stabbing Weapons",
-      "skillGroup": 4,
-      "metadata": {
-        "skillId": 28,
-        "name": "punctureWeapons"
-      }
-    },
-    "illarion:skill_29": {
-      "nameGerman": "Distanzwaffen",
-      "nameEnglish": "Ranged Weapons",
-      "skillGroup": 4,
-      "metadata": {
-        "skillId": 29,
-        "name": "distanceWeapons"
-      }
-    },
-    "illarion:skill_16": {
-      "nameGerman": "Kräuterkunde",
-      "nameEnglish": "Herblore",
-      "skillGroup": 1,
-      "metadata": {
-        "skillId": 16,
-        "name": "herblore"
-      }
-    },
-    "illarion:skill_43": {
-      "nameGerman": "Leichte Rüstungen",
-      "nameEnglish": "Light Armour",
-      "skillGroup": 4,
-      "metadata": {
-        "skillId": 43,
-        "name": "lightArmour"
-      }
-    },
-    "illarion:skill_44": {
-      "nameGerman": "Mittlere Rüstungen",
-      "nameEnglish": "Medium Armour",
-      "skillGroup": 4,
-      "metadata": {
-        "skillId": 44,
-        "name": "mediumArmour"
-      }
-    },
-    "illarion:skill_45": {
-      "nameGerman": "Schwere Rüstungen",
-      "nameEnglish": "Heavy Armour",
-      "skillGroup": 4,
-      "metadata": {
-        "skillId": 45,
-        "name": "heavyArmour"
-      }
-    },
-    "illarion:skill_47": {
-      "nameGerman": "Graben",
-      "nameEnglish": "Digging",
-      "skillGroup": 1,
-      "metadata": {
-        "skillId": 47,
-        "name": "digging"
-      }
-    },
-    "illarion:skill_48": {
-      "nameGerman": "Landwirtschaft",
-      "nameEnglish": "Husbandry",
-      "skillGroup": 1,
-      "metadata": {
-        "skillId": 48,
-        "name": "husbandry"
-      }
-    },
-    "illarion:skill_50": {
-      "nameGerman": "Rüstschmied",
-      "nameEnglish": "Armourer",
-      "skillGroup": 1,
-      "metadata": {
-        "skillId": 50,
-        "name": "armourer"
-      }
-    },
-    "illarion:skill_51": {
-      "nameGerman": "Brauen",
-      "nameEnglish": "Brewing",
-      "skillGroup": 1,
-      "metadata": {
-        "skillId": 51,
-        "name": "brewing"
-      }
-    },
-    "illarion:skill_36": {
-      "nameGerman": "Töpfern",
-      "nameEnglish": "Pottery",
-      "skillGroup": 1,
-      "metadata": {
-        "skillId": 36,
-        "name": "pottery"
-      }
+        "id": 9,
+        "name": "mining"
+      },
+      "group": "illarion:skill_group_1"
     },
     "illarion:skill_10": {
-      "nameGerman": "Feinschmieden",
-      "nameEnglish": "Finesmithing",
-      "skillGroup": 1,
+      "name": "finesmithing",
       "metadata": {
-        "skillId": 10,
+        "id": 10,
         "name": "finesmithing"
-      }
+      },
+      "group": "illarion:skill_group_1"
+    },
+    "illarion:skill_11": {
+      "name": "woodcutting",
+      "metadata": {
+        "id": 11,
+        "name": "woodcutting"
+      },
+      "group": "illarion:skill_group_1"
+    },
+    "illarion:skill_12": {
+      "name": "cookingAndBaking",
+      "metadata": {
+        "id": 12,
+        "name": "cookingAndBaking"
+      },
+      "group": "illarion:skill_group_1"
+    },
+    "illarion:skill_13": {
+      "name": "carpentry",
+      "metadata": {
+        "id": 13,
+        "name": "carpentry"
+      },
+      "group": "illarion:skill_group_1"
+    },
+    "illarion:skill_14": {
+      "name": "tailoring",
+      "metadata": {
+        "id": 14,
+        "name": "tailoring"
+      },
+      "group": "illarion:skill_group_1"
     },
     "illarion:skill_15": {
-      "nameGerman": "Schmieden",
-      "nameEnglish": "Blacksmithing",
-      "skillGroup": 1,
+      "name": "blacksmithing",
       "metadata": {
-        "skillId": 15,
+        "id": 15,
         "name": "blacksmithing"
-      }
+      },
+      "group": "illarion:skill_group_1"
     },
-    "illarion:skill_52": {
-      "nameGerman": "Stabmagie",
-      "nameEnglish": "Wand Magic",
-      "skillGroup": 2,
+    "illarion:skill_16": {
+      "name": "herblore",
       "metadata": {
-        "skillId": 52,
-        "name": "wandMagic"
-      }
+        "id": 16,
+        "name": "herblore"
+      },
+      "group": "illarion:skill_group_1"
     },
-    "illarion:skill_39": {
-      "nameGerman": "Erdmagie",
-      "nameEnglish": "Earth Magic",
-      "skillGroup": 2,
+    "illarion:skill_17": {
+      "name": "farming",
       "metadata": {
-        "skillId": 39,
-        "name": "earthMagic"
-      }
+        "id": 17,
+        "name": "farming"
+      },
+      "group": "illarion:skill_group_1"
     },
-    "illarion:skill_40": {
-      "nameGerman": "Windmagie",
-      "nameEnglish": "Wind Magic",
-      "skillGroup": 2,
+    "illarion:skill_18": {
+      "name": "gemcutting",
       "metadata": {
-        "skillId": 40,
-        "name": "windMagic"
-      }
+        "id": 18,
+        "name": "gemcutting"
+      },
+      "group": "illarion:skill_group_1"
     },
-    "illarion:skill_42": {
-      "nameGerman": "Feuermagie",
-      "nameEnglish": "Fire Magic",
-      "skillGroup": 2,
+    "illarion:skill_19": {
+      "name": "fishing",
       "metadata": {
-        "skillId": 42,
-        "name": "fireMagic"
-      }
+        "id": 19,
+        "name": "fishing"
+      },
+      "group": "illarion:skill_group_1"
     },
-    "illarion:skill_41": {
-      "nameGerman": "Geistesmagie",
-      "nameEnglish": "Spirit Magic",
-      "skillGroup": 2,
+    "illarion:skill_20": {
+      "name": "alchemy",
       "metadata": {
-        "skillId": 41,
-        "name": "spiritMagic"
-      }
+        "id": 20,
+        "name": "alchemy"
+      },
+      "group": "illarion:skill_group_5"
     },
-    "illarion:skill_38": {
-      "nameGerman": "Wassermagie",
-      "nameEnglish": "Water Magic",
-      "skillGroup": 2,
+    "illarion:skill_21": {
+      "name": "wrestling",
       "metadata": {
-        "skillId": 38,
-        "name": "waterMagic"
-      }
-    },
-    "illarion:skill_54": {
-      "nameGerman": "Segnen",
-      "nameEnglish": "Blessing",
-      "skillGroup": 6,
-      "metadata": {
-        "skillId": 54,
-        "name": "blessing"
-      }
-    },
-    "illarion:skill_55": {
-      "nameGerman": "Beten",
-      "nameEnglish": "Praying",
-      "skillGroup": 6,
-      "metadata": {
-        "skillId": 55,
-        "name": "praying"
-      }
-    },
-    "illarion:skill_56": {
-      "nameGerman": "Geloben",
-      "nameEnglish": "Vowing",
-      "skillGroup": 6,
-      "metadata": {
-        "skillId": 56,
-        "name": "vowing"
-      }
-    },
-    "illarion:skill_57": {
-      "nameGerman": "Beichten",
-      "nameEnglish": "Confessing",
-      "skillGroup": 6,
-      "metadata": {
-        "skillId": 57,
-        "name": "confessing"
-      }
-    },
-    "illarion:skill_58": {
-      "nameGerman": "Zeremonie",
-      "nameEnglish": "Ceremony",
-      "skillGroup": 6,
-      "metadata": {
-        "skillId": 58,
-        "name": "ceremony"
-      }
-    },
-    "illarion:skill_59": {
-      "nameGerman": "Waffenweihe",
-      "nameEnglish": "Consecrate Weapons",
-      "skillGroup": 6,
-      "metadata": {
-        "skillId": 59,
-        "name": "consecrateWeapons"
-      }
-    },
-    "illarion:skill_60": {
-      "nameGerman": "Rüstungsweihe",
-      "nameEnglish": "Consecrate Armours",
-      "skillGroup": 6,
-      "metadata": {
-        "skillId": 60,
-        "name": "consecrateArmours"
-      }
-    },
-    "illarion:skill_61": {
-      "nameGerman": "Trankkunde",
-      "nameEnglish": "Potion Lore",
-      "skillGroup": 5,
-      "metadata": {
-        "skillId": 61,
-        "name": "potionLore"
-      }
-    },
-    "illarion:skill_63": {
-      "nameGerman": "Beschwören",
-      "nameEnglish": "Summoning",
-      "skillGroup": 5,
-      "metadata": {
-        "skillId": 63,
-        "name": "summoning"
-      }
-    },
-    "illarion:skill_64": {
-      "nameGerman": "Naturkunde",
-      "nameEnglish": "Nature Lore",
-      "skillGroup": 5,
-      "metadata": {
-        "skillId": 64,
-        "name": "natureLore"
-      }
+        "id": 21,
+        "name": "wrestling"
+      },
+      "group": "illarion:skill_group_4"
     },
     "illarion:skill_22": {
-      "nameGerman": "Vergiften",
-      "nameEnglish": "Poisoning",
-      "skillGroup": 5,
+      "name": "poisoning",
       "metadata": {
-        "skillId": 22,
+        "id": 22,
         "name": "poisoning"
-      }
+      },
+      "group": "illarion:skill_group_5"
     },
-    "illarion:skill_65": {
-      "nameGerman": "Kesselkunde",
-      "nameEnglish": "Cauldron Lore",
-      "skillGroup": 5,
+    "illarion:skill_23": {
+      "name": "dodge",
       "metadata": {
-        "skillId": 65,
-        "name": "cauldronLore"
-      }
+        "id": 23,
+        "name": "dodge"
+      },
+      "group": "illarion:skill_group_4"
     },
-    "illarion:skill_62": {
-      "nameGerman": "Tierzähmen",
-      "nameEnglish": "Animal Taming",
-      "skillGroup": 5,
+    "illarion:skill_24": {
+      "name": "parry",
       "metadata": {
-        "skillId": 62,
-        "name": "animalTaming"
-      }
+        "id": 24,
+        "name": "parry"
+      },
+      "group": "illarion:skill_group_4"
     },
-    "illarion:skill_49": {
-      "nameGerman": "Gerben und Weben",
-      "nameEnglish": "Tanning and Weaving",
-      "skillGroup": 1,
+    "illarion:skill_25": {
+      "name": "tactics",
       "metadata": {
-        "skillId": 49,
-        "name": "tanningAndWeaving"
-      }
+        "id": 25,
+        "name": "tactics"
+      },
+      "group": "illarion:skill_group_4"
     },
-    "illarion:skill_53": {
-      "nameGerman": "Amulettverzauberung",
-      "nameEnglish": "Enchanting of Amulets",
-      "skillGroup": 2,
+    "illarion:skill_26": {
+      "name": "concussionWeapons",
       "metadata": {
-        "skillId": 53,
-        "name": "enchantingOfAmulets"
-      }
+        "id": 26,
+        "name": "concussionWeapons"
+      },
+      "group": "illarion:skill_group_4"
     },
-    "illarion:skill_66": {
-      "nameGerman": "Teleportmagie",
-      "nameEnglish": "Spatial Magic",
-      "skillGroup": 2,
+    "illarion:skill_27": {
+      "name": "slashingWeapons",
       "metadata": {
-        "skillId": 66,
-        "name": "spatialMagic"
-      }
+        "id": 27,
+        "name": "slashingWeapons"
+      },
+      "group": "illarion:skill_group_4"
+    },
+    "illarion:skill_28": {
+      "name": "punctureWeapons",
+      "metadata": {
+        "id": 28,
+        "name": "punctureWeapons"
+      },
+      "group": "illarion:skill_group_4"
+    },
+    "illarion:skill_29": {
+      "name": "distanceWeapons",
+      "metadata": {
+        "id": 29,
+        "name": "distanceWeapons"
+      },
+      "group": "illarion:skill_group_4"
+    },
+    "illarion:skill_30": {
+      "name": "lute",
+      "metadata": {
+        "id": 30,
+        "name": "lute"
+      },
+      "group": "illarion:skill_group_7"
+    },
+    "illarion:skill_31": {
+      "name": "flute",
+      "metadata": {
+        "id": 31,
+        "name": "flute"
+      },
+      "group": "illarion:skill_group_7"
+    },
+    "illarion:skill_32": {
+      "name": "horn",
+      "metadata": {
+        "id": 32,
+        "name": "horn"
+      },
+      "group": "illarion:skill_group_7"
+    },
+    "illarion:skill_33": {
+      "name": "drum",
+      "metadata": {
+        "id": 33,
+        "name": "drum"
+      },
+      "group": "illarion:skill_group_7"
+    },
+    "illarion:skill_34": {
+      "name": "harp",
+      "metadata": {
+        "id": 34,
+        "name": "harp"
+      },
+      "group": "illarion:skill_group_7"
+    },
+    "illarion:skill_35": {
+      "name": "panpipe",
+      "metadata": {
+        "id": 35,
+        "name": "panpipe"
+      },
+      "group": "illarion:skill_group_7"
+    },
+    "illarion:skill_36": {
+      "name": "pottery",
+      "metadata": {
+        "id": 36,
+        "name": "pottery"
+      },
+      "group": "illarion:skill_group_1"
+    },
+    "illarion:skill_37": {
+      "name": "magicResistance",
+      "metadata": {
+        "id": 37,
+        "name": "magicResistance"
+      },
+      "group": "illarion:skill_group_2"
+    },
+    "illarion:skill_38": {
+      "name": "waterMagic",
+      "metadata": {
+        "id": 38,
+        "name": "waterMagic"
+      },
+      "group": "illarion:skill_group_2"
+    },
+    "illarion:skill_39": {
+      "name": "earthMagic",
+      "metadata": {
+        "id": 39,
+        "name": "earthMagic"
+      },
+      "group": "illarion:skill_group_2"
+    },
+    "illarion:skill_40": {
+      "name": "windMagic",
+      "metadata": {
+        "id": 40,
+        "name": "windMagic"
+      },
+      "group": "illarion:skill_group_2"
+    },
+    "illarion:skill_41": {
+      "name": "spiritMagic",
+      "metadata": {
+        "id": 41,
+        "name": "spiritMagic"
+      },
+      "group": "illarion:skill_group_2"
+    },
+    "illarion:skill_42": {
+      "name": "fireMagic",
+      "metadata": {
+        "id": 42,
+        "name": "fireMagic"
+      },
+      "group": "illarion:skill_group_2"
+    },
+    "illarion:skill_43": {
+      "name": "lightArmour",
+      "metadata": {
+        "id": 43,
+        "name": "lightArmour"
+      },
+      "group": "illarion:skill_group_4"
+    },
+    "illarion:skill_44": {
+      "name": "mediumArmour",
+      "metadata": {
+        "id": 44,
+        "name": "mediumArmour"
+      },
+      "group": "illarion:skill_group_4"
+    },
+    "illarion:skill_45": {
+      "name": "heavyArmour",
+      "metadata": {
+        "id": 45,
+        "name": "heavyArmour"
+      },
+      "group": "illarion:skill_group_4"
     },
     "illarion:skill_46": {
-      "nameGerman": "Verzauberung",
-      "nameEnglish": "Enchanting",
-      "skillGroup": 2,
+      "name": "enchanting",
       "metadata": {
-        "skillId": 46,
+        "id": 46,
         "name": "enchanting"
-      }
+      },
+      "group": "illarion:skill_group_2"
+    },
+    "illarion:skill_47": {
+      "name": "digging",
+      "metadata": {
+        "id": 47,
+        "name": "digging"
+      },
+      "group": "illarion:skill_group_1"
+    },
+    "illarion:skill_48": {
+      "name": "husbandry",
+      "metadata": {
+        "id": 48,
+        "name": "husbandry"
+      },
+      "group": "illarion:skill_group_1"
+    },
+    "illarion:skill_49": {
+      "name": "tanningAndWeaving",
+      "metadata": {
+        "id": 49,
+        "name": "tanningAndWeaving"
+      },
+      "group": "illarion:skill_group_1"
+    },
+    "illarion:skill_50": {
+      "name": "armourer",
+      "metadata": {
+        "id": 50,
+        "name": "armourer"
+      },
+      "group": "illarion:skill_group_1"
+    },
+    "illarion:skill_51": {
+      "name": "brewing",
+      "metadata": {
+        "id": 51,
+        "name": "brewing"
+      },
+      "group": "illarion:skill_group_1"
+    },
+    "illarion:skill_52": {
+      "name": "wandMagic",
+      "metadata": {
+        "id": 52,
+        "name": "wandMagic"
+      },
+      "group": "illarion:skill_group_2"
+    },
+    "illarion:skill_53": {
+      "name": "enchantingOfAmulets",
+      "metadata": {
+        "id": 53,
+        "name": "enchantingOfAmulets"
+      },
+      "group": "illarion:skill_group_2"
+    },
+    "illarion:skill_54": {
+      "name": "blessing",
+      "metadata": {
+        "id": 54,
+        "name": "blessing"
+      },
+      "group": "illarion:skill_group_6"
+    },
+    "illarion:skill_55": {
+      "name": "praying",
+      "metadata": {
+        "id": 55,
+        "name": "praying"
+      },
+      "group": "illarion:skill_group_6"
+    },
+    "illarion:skill_56": {
+      "name": "vowing",
+      "metadata": {
+        "id": 56,
+        "name": "vowing"
+      },
+      "group": "illarion:skill_group_6"
+    },
+    "illarion:skill_57": {
+      "name": "confessing",
+      "metadata": {
+        "id": 57,
+        "name": "confessing"
+      },
+      "group": "illarion:skill_group_6"
+    },
+    "illarion:skill_58": {
+      "name": "ceremony",
+      "metadata": {
+        "id": 58,
+        "name": "ceremony"
+      },
+      "group": "illarion:skill_group_6"
+    },
+    "illarion:skill_59": {
+      "name": "consecrateWeapons",
+      "metadata": {
+        "id": 59,
+        "name": "consecrateWeapons"
+      },
+      "group": "illarion:skill_group_6"
+    },
+    "illarion:skill_60": {
+      "name": "consecrateArmours",
+      "metadata": {
+        "id": 60,
+        "name": "consecrateArmours"
+      },
+      "group": "illarion:skill_group_6"
+    },
+    "illarion:skill_61": {
+      "name": "potionLore",
+      "metadata": {
+        "id": 61,
+        "name": "potionLore"
+      },
+      "group": "illarion:skill_group_5"
+    },
+    "illarion:skill_62": {
+      "name": "animalTaming",
+      "metadata": {
+        "id": 62,
+        "name": "animalTaming"
+      },
+      "group": "illarion:skill_group_5"
+    },
+    "illarion:skill_63": {
+      "name": "summoning",
+      "metadata": {
+        "id": 63,
+        "name": "summoning"
+      },
+      "group": "illarion:skill_group_5"
+    },
+    "illarion:skill_64": {
+      "name": "natureLore",
+      "metadata": {
+        "id": 64,
+        "name": "natureLore"
+      },
+      "group": "illarion:skill_group_5"
+    },
+    "illarion:skill_65": {
+      "name": "cauldronLore",
+      "metadata": {
+        "id": 65,
+        "name": "cauldronLore"
+      },
+      "group": "illarion:skill_group_5"
+    },
+    "illarion:skill_66": {
+      "name": "spatialMagic",
+      "metadata": {
+        "id": 66,
+        "name": "spatialMagic"
+      },
+      "group": "illarion:skill_group_2"
     },
     "illarion:skill_67": {
-      "nameGerman": "Klavichord",
-      "nameEnglish": "Clavichord",
-      "skillGroup": 7,
+      "name": "clavichord",
       "metadata": {
-        "skillId": 67,
+        "id": 67,
         "name": "clavichord"
-      }
+      },
+      "group": "illarion:skill_group_7"
     }
   }
 }

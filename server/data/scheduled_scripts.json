@@ -1,112 +1,112 @@
 {
   "entries": {
-    "illarion:gaia": {
+    "illarion:scheduled_script_scheduled.gaia_plantdrop": {
       "script": "scheduled.gaia",
-      "minCycleTime": 100,
-      "maxCycleTime": 100,
-      "functionName": "plantdrop"
+      "function": "plantdrop",
+      "minInterval": 100,
+      "maxInterval": 100
     },
-    "illarion:skeleton_forest": {
+    "illarion:scheduled_script_scheduled.scs_skeleton_forest_ForestSkells": {
       "script": "scheduled.scs_skeleton_forest",
-      "minCycleTime": 3000,
-      "maxCycleTime": 9000,
-      "functionName": "ForestSkells"
+      "function": "ForestSkells",
+      "minInterval": 3000,
+      "maxInterval": 9000
     },
-    "illarion:faction_leader": {
+    "illarion:scheduled_script_scheduled.factionLeader_checkFactionLeader": {
       "script": "scheduled.factionLeader",
-      "minCycleTime": 3000,
-      "maxCycleTime": 3000,
-      "functionName": "checkFactionLeader"
+      "function": "checkFactionLeader",
+      "minInterval": 3000,
+      "maxInterval": 3000
     },
-    "illarion:gfx": {
+    "illarion:scheduled_script_scheduled.showGFX_CreateGFX": {
       "script": "scheduled.showGFX",
-      "minCycleTime": 100,
-      "maxCycleTime": 100,
-      "functionName": "CreateGFX"
+      "function": "CreateGFX",
+      "minInterval": 100,
+      "maxInterval": 100
     },
-    "illarion:reset_map_items": {
+    "illarion:scheduled_script_scheduled.mapitemreset_resetMapitem": {
       "script": "scheduled.mapitemreset",
-      "minCycleTime": 300,
-      "maxCycleTime": 300,
-      "functionName": "resetMapitem"
+      "function": "resetMapitem",
+      "minInterval": 300,
+      "maxInterval": 300
     },
-    "illarion:item_effects": {
+    "illarion:scheduled_script_scheduled.itemEffects_itemEffects": {
       "script": "scheduled.itemEffects",
-      "minCycleTime": 10,
-      "maxCycleTime": 10,
-      "functionName": "itemEffects"
+      "function": "itemEffects",
+      "minInterval": 10,
+      "maxInterval": 10
     },
-    "illarion:proxy": {
+    "illarion:scheduled_script_scheduled.scheduledFunction_proxy_onExecute": {
       "script": "scheduled.scheduledFunction_proxy",
-      "minCycleTime": 10,
-      "maxCycleTime": 10,
-      "functionName": "onExecute"
+      "function": "onExecute",
+      "minInterval": 10,
+      "maxInterval": 10
     },
-    "illarion:market": {
+    "illarion:scheduled_script_scheduled.market_market": {
       "script": "scheduled.market",
-      "minCycleTime": 600,
-      "maxCycleTime": 600,
-      "functionName": "market"
+      "function": "market",
+      "minInterval": 600,
+      "maxInterval": 600
     },
-    "illarion:gods": {
+    "illarion:scheduled_script_scheduled.gods_events_tick": {
       "script": "scheduled.gods_events",
-      "minCycleTime": 36000,
-      "maxCycleTime": 36000,
-      "functionName": "tick"
+      "function": "tick",
+      "minInterval": 36000,
+      "maxInterval": 36000
     },
-    "illarion:noobia_rat": {
+    "illarion:scheduled_script_scheduled.noobia_rat_spawnRat": {
       "script": "scheduled.noobia_rat",
-      "minCycleTime": 300,
-      "maxCycleTime": 300,
-      "functionName": "spawnRat"
+      "function": "spawnRat",
+      "minInterval": 300,
+      "maxInterval": 300
     },
-    "illarion:spawn_treasure": {
+    "illarion:scheduled_script_scheduled.spawn_treasure_spawnTreasure": {
       "script": "scheduled.spawn_treasure",
-      "minCycleTime": 3000,
-      "maxCycleTime": 3000,
-      "functionName": "spawnTreasure"
+      "function": "spawnTreasure",
+      "minInterval": 3000,
+      "maxInterval": 3000
     },
-    "illarion:akaltut_spawner": {
+    "illarion:scheduled_script_scheduled.akaltutSpawner_spawnAkaltut": {
       "script": "scheduled.akaltutSpawner",
-      "minCycleTime": 6000,
-      "maxCycleTime": 18000,
-      "functionName": "spawnAkaltut"
+      "function": "spawnAkaltut",
+      "minInterval": 6000,
+      "maxInterval": 18000
     },
-    "illarion:safe_zones": {
+    "illarion:scheduled_script_scheduled.safe_zones_sweepMonsters": {
       "script": "scheduled.safe_zones",
-      "minCycleTime": 300,
-      "maxCycleTime": 600,
-      "functionName": "sweepMonsters"
+      "function": "sweepMonsters",
+      "minInterval": 300,
+      "maxInterval": 600
     },
-    "illarion:rent": {
+    "illarion:scheduled_script_scheduled.rent_rent": {
       "script": "scheduled.rent",
-      "minCycleTime": 600,
-      "maxCycleTime": 600,
-      "functionName": "rent"
+      "function": "rent",
+      "minInterval": 600,
+      "maxInterval": 600
     },
-    "illarion:property_stakes": {
+    "illarion:scheduled_script_scheduled.propertyStakes_checkForAndPlaceMissingStakes": {
       "script": "scheduled.propertyStakes",
-      "minCycleTime": 86400,
-      "maxCycleTime": 86400,
-      "functionName": "checkForAndPlaceMissingStakes"
+      "function": "checkForAndPlaceMissingStakes",
+      "minInterval": 86400,
+      "maxInterval": 86400
     },
-    "illarion:delete_preview_items": {
+    "illarion:scheduled_script_housing.utility_scheduledDeletionOfPreviewItems": {
       "script": "housing.utility",
-      "minCycleTime": 300,
-      "maxCycleTime": 300,
-      "functionName": "scheduledDeletionOfPreviewItems"
+      "function": "scheduledDeletionOfPreviewItems",
+      "minInterval": 300,
+      "maxInterval": 300
     },
-    "illarion:spawn_shards": {
+    "illarion:scheduled_script_magic.arcane.enchanting.core.spawn_shards_dropShard": {
       "script": "magic.arcane.enchanting.core.spawn_shards",
-      "minCycleTime": 65570,
-      "maxCycleTime": 65570,
-      "functionName": "dropShard"
+      "function": "dropShard",
+      "minInterval": 65570,
+      "maxInterval": 65570
     },
-    "illarion:housing_demolition": {
+    "illarion:scheduled_script_scheduled.housing_demolition_demolish": {
       "script": "scheduled.housing_demolition",
-      "minCycleTime": 100,
-      "maxCycleTime": 100,
-      "functionName": "demolish"
+      "function": "demolish",
+      "minInterval": 100,
+      "maxInterval": 100
     }
   }
 }

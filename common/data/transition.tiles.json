@@ -1,1123 +1,2244 @@
 {
   "entries": {
-    "illarion:transitions/sand1/1": {
-      "visual": "illarion:transitions/sand1/1",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/2": {
-      "visual": "illarion:transitions/sand1/2",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/3": {
-      "visual": "illarion:transitions/sand1/3",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/4": {
-      "visual": "illarion:transitions/sand1/4",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/5": {
-      "visual": "illarion:transitions/sand1/5",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/6": {
-      "visual": "illarion:transitions/sand1/6",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/7": {
-      "visual": "illarion:transitions/sand1/7",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/8": {
-      "visual": "illarion:transitions/sand1/8",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/9": {
-      "visual": "illarion:transitions/sand1/9",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/10": {
-      "visual": "illarion:transitions/sand1/10",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/11": {
-      "visual": "illarion:transitions/sand1/11",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/12": {
-      "visual": "illarion:transitions/sand1/12",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/13": {
-      "visual": "illarion:transitions/sand1/13",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/14": {
-      "visual": "illarion:transitions/sand1/14",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/15": {
-      "visual": "illarion:transitions/sand1/15",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/16": {
-      "visual": "illarion:transitions/sand1/16",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/17": {
-      "visual": "illarion:transitions/sand1/17",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/18": {
-      "visual": "illarion:transitions/sand1/18",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/19": {
-      "visual": "illarion:transitions/sand1/19",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/20": {
-      "visual": "illarion:transitions/sand1/20",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/21": {
-      "visual": "illarion:transitions/sand1/21",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/22": {
-      "visual": "illarion:transitions/sand1/22",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/23": {
-      "visual": "illarion:transitions/sand1/23",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/24": {
-      "visual": "illarion:transitions/sand1/24",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/25": {
-      "visual": "illarion:transitions/sand1/25",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/26": {
-      "visual": "illarion:transitions/sand1/26",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/27": {
-      "visual": "illarion:transitions/sand1/27",
-      "passableAbove": true
-    },
-    "illarion:transitions/sand1/28": {
-      "visual": "illarion:transitions/sand1/28",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/1": {
-      "visual": "illarion:transitions/farmland/1",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/2": {
-      "visual": "illarion:transitions/farmland/2",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/3": {
-      "visual": "illarion:transitions/farmland/3",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/4": {
-      "visual": "illarion:transitions/farmland/4",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/5": {
-      "visual": "illarion:transitions/farmland/5",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/6": {
-      "visual": "illarion:transitions/farmland/6",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/7": {
-      "visual": "illarion:transitions/farmland/7",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/8": {
-      "visual": "illarion:transitions/farmland/8",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/9": {
-      "visual": "illarion:transitions/farmland/9",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/10": {
-      "visual": "illarion:transitions/farmland/10",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/11": {
-      "visual": "illarion:transitions/farmland/11",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/12": {
-      "visual": "illarion:transitions/farmland/12",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/13": {
-      "visual": "illarion:transitions/farmland/13",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/14": {
-      "visual": "illarion:transitions/farmland/14",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/15": {
-      "visual": "illarion:transitions/farmland/15",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/16": {
-      "visual": "illarion:transitions/farmland/16",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/17": {
-      "visual": "illarion:transitions/farmland/17",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/18": {
-      "visual": "illarion:transitions/farmland/18",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/19": {
-      "visual": "illarion:transitions/farmland/19",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/20": {
-      "visual": "illarion:transitions/farmland/20",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/21": {
-      "visual": "illarion:transitions/farmland/21",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/22": {
-      "visual": "illarion:transitions/farmland/22",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/23": {
-      "visual": "illarion:transitions/farmland/23",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/24": {
-      "visual": "illarion:transitions/farmland/24",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/25": {
-      "visual": "illarion:transitions/farmland/25",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/26": {
-      "visual": "illarion:transitions/farmland/26",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/27": {
-      "visual": "illarion:transitions/farmland/27",
-      "passableAbove": true
-    },
-    "illarion:transitions/farmland/28": {
-      "visual": "illarion:transitions/farmland/28",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/1": {
-      "visual": "illarion:transitions/dirt/1",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/2": {
-      "visual": "illarion:transitions/dirt/2",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/3": {
-      "visual": "illarion:transitions/dirt/3",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/4": {
-      "visual": "illarion:transitions/dirt/4",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/5": {
-      "visual": "illarion:transitions/dirt/5",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/6": {
-      "visual": "illarion:transitions/dirt/6",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/7": {
-      "visual": "illarion:transitions/dirt/7",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/8": {
-      "visual": "illarion:transitions/dirt/8",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/9": {
-      "visual": "illarion:transitions/dirt/9",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/10": {
-      "visual": "illarion:transitions/dirt/10",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/11": {
-      "visual": "illarion:transitions/dirt/11",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/12": {
-      "visual": "illarion:transitions/dirt/12",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/13": {
-      "visual": "illarion:transitions/dirt/13",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/14": {
-      "visual": "illarion:transitions/dirt/14",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/15": {
-      "visual": "illarion:transitions/dirt/15",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/16": {
-      "visual": "illarion:transitions/dirt/16",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/17": {
-      "visual": "illarion:transitions/dirt/17",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/18": {
-      "visual": "illarion:transitions/dirt/18",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/19": {
-      "visual": "illarion:transitions/dirt/19",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/20": {
-      "visual": "illarion:transitions/dirt/20",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/21": {
-      "visual": "illarion:transitions/dirt/21",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/22": {
-      "visual": "illarion:transitions/dirt/22",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/23": {
-      "visual": "illarion:transitions/dirt/23",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/24": {
-      "visual": "illarion:transitions/dirt/24",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/25": {
-      "visual": "illarion:transitions/dirt/25",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/26": {
-      "visual": "illarion:transitions/dirt/26",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/27": {
-      "visual": "illarion:transitions/dirt/27",
-      "passableAbove": true
-    },
-    "illarion:transitions/dirt/28": {
-      "visual": "illarion:transitions/dirt/28",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/1": {
-      "visual": "illarion:transitions/dungeonFloor/1",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/2": {
-      "visual": "illarion:transitions/dungeonFloor/2",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/3": {
-      "visual": "illarion:transitions/dungeonFloor/3",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/4": {
-      "visual": "illarion:transitions/dungeonFloor/4",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/5": {
-      "visual": "illarion:transitions/dungeonFloor/5",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/6": {
-      "visual": "illarion:transitions/dungeonFloor/6",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/7": {
-      "visual": "illarion:transitions/dungeonFloor/7",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/8": {
-      "visual": "illarion:transitions/dungeonFloor/8",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/9": {
-      "visual": "illarion:transitions/dungeonFloor/9",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/10": {
-      "visual": "illarion:transitions/dungeonFloor/10",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/11": {
-      "visual": "illarion:transitions/dungeonFloor/11",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/12": {
-      "visual": "illarion:transitions/dungeonFloor/12",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/13": {
-      "visual": "illarion:transitions/dungeonFloor/13",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/14": {
-      "visual": "illarion:transitions/dungeonFloor/14",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/15": {
-      "visual": "illarion:transitions/dungeonFloor/15",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/16": {
-      "visual": "illarion:transitions/dungeonFloor/16",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/17": {
-      "visual": "illarion:transitions/dungeonFloor/17",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/18": {
-      "visual": "illarion:transitions/dungeonFloor/18",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/19": {
-      "visual": "illarion:transitions/dungeonFloor/19",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/20": {
-      "visual": "illarion:transitions/dungeonFloor/20",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/21": {
-      "visual": "illarion:transitions/dungeonFloor/21",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/22": {
-      "visual": "illarion:transitions/dungeonFloor/22",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/23": {
-      "visual": "illarion:transitions/dungeonFloor/23",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/24": {
-      "visual": "illarion:transitions/dungeonFloor/24",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/25": {
-      "visual": "illarion:transitions/dungeonFloor/25",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/26": {
-      "visual": "illarion:transitions/dungeonFloor/26",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/27": {
-      "visual": "illarion:transitions/dungeonFloor/27",
-      "passableAbove": true
-    },
-    "illarion:transitions/dungeonFloor/28": {
-      "visual": "illarion:transitions/dungeonFloor/28",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/1": {
-      "visual": "illarion:transitions/stones/1",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/2": {
-      "visual": "illarion:transitions/stones/2",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/3": {
-      "visual": "illarion:transitions/stones/3",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/4": {
-      "visual": "illarion:transitions/stones/4",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/5": {
-      "visual": "illarion:transitions/stones/5",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/6": {
-      "visual": "illarion:transitions/stones/6",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/7": {
-      "visual": "illarion:transitions/stones/7",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/8": {
-      "visual": "illarion:transitions/stones/8",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/9": {
-      "visual": "illarion:transitions/stones/9",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/10": {
-      "visual": "illarion:transitions/stones/10",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/11": {
-      "visual": "illarion:transitions/stones/11",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/12": {
-      "visual": "illarion:transitions/stones/12",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/13": {
-      "visual": "illarion:transitions/stones/13",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/14": {
-      "visual": "illarion:transitions/stones/14",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/15": {
-      "visual": "illarion:transitions/stones/15",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/16": {
-      "visual": "illarion:transitions/stones/16",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/17": {
-      "visual": "illarion:transitions/stones/17",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/18": {
-      "visual": "illarion:transitions/stones/18",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/19": {
-      "visual": "illarion:transitions/stones/19",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/20": {
-      "visual": "illarion:transitions/stones/20",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/21": {
-      "visual": "illarion:transitions/stones/21",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/22": {
-      "visual": "illarion:transitions/stones/22",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/23": {
-      "visual": "illarion:transitions/stones/23",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/24": {
-      "visual": "illarion:transitions/stones/24",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/25": {
-      "visual": "illarion:transitions/stones/25",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/26": {
-      "visual": "illarion:transitions/stones/26",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/27": {
-      "visual": "illarion:transitions/stones/27",
-      "passableAbove": true
-    },
-    "illarion:transitions/stones/28": {
-      "visual": "illarion:transitions/stones/28",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/1": {
-      "visual": "illarion:transitions/lava/1",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/2": {
-      "visual": "illarion:transitions/lava/2",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/3": {
-      "visual": "illarion:transitions/lava/3",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/4": {
-      "visual": "illarion:transitions/lava/4",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/5": {
-      "visual": "illarion:transitions/lava/5",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/6": {
-      "visual": "illarion:transitions/lava/6",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/7": {
-      "visual": "illarion:transitions/lava/7",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/8": {
-      "visual": "illarion:transitions/lava/8",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/9": {
-      "visual": "illarion:transitions/lava/9",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/10": {
-      "visual": "illarion:transitions/lava/10",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/11": {
-      "visual": "illarion:transitions/lava/11",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/12": {
-      "visual": "illarion:transitions/lava/12",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/13": {
-      "visual": "illarion:transitions/lava/13",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/14": {
-      "visual": "illarion:transitions/lava/14",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/15": {
-      "visual": "illarion:transitions/lava/15",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/16": {
-      "visual": "illarion:transitions/lava/16",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/17": {
-      "visual": "illarion:transitions/lava/17",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/18": {
-      "visual": "illarion:transitions/lava/18",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/19": {
-      "visual": "illarion:transitions/lava/19",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/20": {
-      "visual": "illarion:transitions/lava/20",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/21": {
-      "visual": "illarion:transitions/lava/21",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/22": {
-      "visual": "illarion:transitions/lava/22",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/23": {
-      "visual": "illarion:transitions/lava/23",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/24": {
-      "visual": "illarion:transitions/lava/24",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/25": {
-      "visual": "illarion:transitions/lava/25",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/26": {
-      "visual": "illarion:transitions/lava/26",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/27": {
-      "visual": "illarion:transitions/lava/27",
-      "passableAbove": true
-    },
-    "illarion:transitions/lava/28": {
-      "visual": "illarion:transitions/lava/28",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/1": {
-      "visual": "illarion:transitions/snow/1",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/2": {
-      "visual": "illarion:transitions/snow/2",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/3": {
-      "visual": "illarion:transitions/snow/3",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/4": {
-      "visual": "illarion:transitions/snow/4",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/5": {
-      "visual": "illarion:transitions/snow/5",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/6": {
-      "visual": "illarion:transitions/snow/6",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/7": {
-      "visual": "illarion:transitions/snow/7",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/8": {
-      "visual": "illarion:transitions/snow/8",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/9": {
-      "visual": "illarion:transitions/snow/9",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/10": {
-      "visual": "illarion:transitions/snow/10",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/11": {
-      "visual": "illarion:transitions/snow/11",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/12": {
-      "visual": "illarion:transitions/snow/12",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/13": {
-      "visual": "illarion:transitions/snow/13",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/14": {
-      "visual": "illarion:transitions/snow/14",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/15": {
-      "visual": "illarion:transitions/snow/15",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/16": {
-      "visual": "illarion:transitions/snow/16",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/17": {
-      "visual": "illarion:transitions/snow/17",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/18": {
-      "visual": "illarion:transitions/snow/18",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/19": {
-      "visual": "illarion:transitions/snow/19",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/20": {
-      "visual": "illarion:transitions/snow/20",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/21": {
-      "visual": "illarion:transitions/snow/21",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/22": {
-      "visual": "illarion:transitions/snow/22",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/23": {
-      "visual": "illarion:transitions/snow/23",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/24": {
-      "visual": "illarion:transitions/snow/24",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/25": {
-      "visual": "illarion:transitions/snow/25",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/26": {
-      "visual": "illarion:transitions/snow/26",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/27": {
-      "visual": "illarion:transitions/snow/27",
-      "passableAbove": true
-    },
-    "illarion:transitions/snow/28": {
-      "visual": "illarion:transitions/snow/28",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/1": {
-      "visual": "illarion:transitions/street1/1",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/2": {
-      "visual": "illarion:transitions/street1/2",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/3": {
-      "visual": "illarion:transitions/street1/3",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/4": {
-      "visual": "illarion:transitions/street1/4",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/5": {
-      "visual": "illarion:transitions/street1/5",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/6": {
-      "visual": "illarion:transitions/street1/6",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/7": {
-      "visual": "illarion:transitions/street1/7",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/8": {
-      "visual": "illarion:transitions/street1/8",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/9": {
-      "visual": "illarion:transitions/street1/9",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/10": {
-      "visual": "illarion:transitions/street1/10",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/11": {
-      "visual": "illarion:transitions/street1/11",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/12": {
-      "visual": "illarion:transitions/street1/12",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/13": {
-      "visual": "illarion:transitions/street1/13",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/14": {
-      "visual": "illarion:transitions/street1/14",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/15": {
-      "visual": "illarion:transitions/street1/15",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/16": {
-      "visual": "illarion:transitions/street1/16",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/17": {
-      "visual": "illarion:transitions/street1/17",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/18": {
-      "visual": "illarion:transitions/street1/18",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/19": {
-      "visual": "illarion:transitions/street1/19",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/20": {
-      "visual": "illarion:transitions/street1/20",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/21": {
-      "visual": "illarion:transitions/street1/21",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/22": {
-      "visual": "illarion:transitions/street1/22",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/23": {
-      "visual": "illarion:transitions/street1/23",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/24": {
-      "visual": "illarion:transitions/street1/24",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/25": {
-      "visual": "illarion:transitions/street1/25",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/26": {
-      "visual": "illarion:transitions/street1/26",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/27": {
-      "visual": "illarion:transitions/street1/27",
-      "passableAbove": true
-    },
-    "illarion:transitions/street1/28": {
-      "visual": "illarion:transitions/street1/28",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/1": {
-      "visual": "illarion:transitions/forestGround/1",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/2": {
-      "visual": "illarion:transitions/forestGround/2",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/3": {
-      "visual": "illarion:transitions/forestGround/3",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/4": {
-      "visual": "illarion:transitions/forestGround/4",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/5": {
-      "visual": "illarion:transitions/forestGround/5",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/6": {
-      "visual": "illarion:transitions/forestGround/6",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/7": {
-      "visual": "illarion:transitions/forestGround/7",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/8": {
-      "visual": "illarion:transitions/forestGround/8",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/9": {
-      "visual": "illarion:transitions/forestGround/9",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/10": {
-      "visual": "illarion:transitions/forestGround/10",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/11": {
-      "visual": "illarion:transitions/forestGround/11",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/12": {
-      "visual": "illarion:transitions/forestGround/12",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/13": {
-      "visual": "illarion:transitions/forestGround/13",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/14": {
-      "visual": "illarion:transitions/forestGround/14",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/15": {
-      "visual": "illarion:transitions/forestGround/15",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/16": {
-      "visual": "illarion:transitions/forestGround/16",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/17": {
-      "visual": "illarion:transitions/forestGround/17",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/18": {
-      "visual": "illarion:transitions/forestGround/18",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/19": {
-      "visual": "illarion:transitions/forestGround/19",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/20": {
-      "visual": "illarion:transitions/forestGround/20",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/21": {
-      "visual": "illarion:transitions/forestGround/21",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/22": {
-      "visual": "illarion:transitions/forestGround/22",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/23": {
-      "visual": "illarion:transitions/forestGround/23",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/24": {
-      "visual": "illarion:transitions/forestGround/24",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/25": {
-      "visual": "illarion:transitions/forestGround/25",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/26": {
-      "visual": "illarion:transitions/forestGround/26",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/27": {
-      "visual": "illarion:transitions/forestGround/27",
-      "passableAbove": true
-    },
-    "illarion:transitions/forestGround/28": {
-      "visual": "illarion:transitions/forestGround/28",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/1": {
-      "visual": "illarion:transitions/grass/1",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/2": {
-      "visual": "illarion:transitions/grass/2",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/3": {
-      "visual": "illarion:transitions/grass/3",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/4": {
-      "visual": "illarion:transitions/grass/4",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/5": {
-      "visual": "illarion:transitions/grass/5",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/6": {
-      "visual": "illarion:transitions/grass/6",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/7": {
-      "visual": "illarion:transitions/grass/7",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/8": {
-      "visual": "illarion:transitions/grass/8",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/9": {
-      "visual": "illarion:transitions/grass/9",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/10": {
-      "visual": "illarion:transitions/grass/10",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/11": {
-      "visual": "illarion:transitions/grass/11",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/12": {
-      "visual": "illarion:transitions/grass/12",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/13": {
-      "visual": "illarion:transitions/grass/13",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/14": {
-      "visual": "illarion:transitions/grass/14",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/15": {
-      "visual": "illarion:transitions/grass/15",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/16": {
-      "visual": "illarion:transitions/grass/16",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/17": {
-      "visual": "illarion:transitions/grass/17",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/18": {
-      "visual": "illarion:transitions/grass/18",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/19": {
-      "visual": "illarion:transitions/grass/19",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/20": {
-      "visual": "illarion:transitions/grass/20",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/21": {
-      "visual": "illarion:transitions/grass/21",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/22": {
-      "visual": "illarion:transitions/grass/22",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/23": {
-      "visual": "illarion:transitions/grass/23",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/24": {
-      "visual": "illarion:transitions/grass/24",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/25": {
-      "visual": "illarion:transitions/grass/25",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/26": {
-      "visual": "illarion:transitions/grass/26",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/27": {
-      "visual": "illarion:transitions/grass/27",
-      "passableAbove": true
-    },
-    "illarion:transitions/grass/28": {
-      "visual": "illarion:transitions/grass/28"
+    "illarion:transition_2_1": {
+      "visual": "illarion:transition_2_1",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 1
+      }
+    },
+    "illarion:transition_2_2": {
+      "visual": "illarion:transition_2_2",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 2
+      }
+    },
+    "illarion:transition_2_3": {
+      "visual": "illarion:transition_2_3",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 3
+      }
+    },
+    "illarion:transition_2_4": {
+      "visual": "illarion:transition_2_4",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 4
+      }
+    },
+    "illarion:transition_2_5": {
+      "visual": "illarion:transition_2_5",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 5
+      }
+    },
+    "illarion:transition_2_6": {
+      "visual": "illarion:transition_2_6",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 6
+      }
+    },
+    "illarion:transition_2_7": {
+      "visual": "illarion:transition_2_7",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 7
+      }
+    },
+    "illarion:transition_2_8": {
+      "visual": "illarion:transition_2_8",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 8
+      }
+    },
+    "illarion:transition_2_9": {
+      "visual": "illarion:transition_2_9",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 9
+      }
+    },
+    "illarion:transition_2_10": {
+      "visual": "illarion:transition_2_10",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 10
+      }
+    },
+    "illarion:transition_2_11": {
+      "visual": "illarion:transition_2_11",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 11
+      }
+    },
+    "illarion:transition_2_12": {
+      "visual": "illarion:transition_2_12",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 12
+      }
+    },
+    "illarion:transition_2_13": {
+      "visual": "illarion:transition_2_13",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 13
+      }
+    },
+    "illarion:transition_2_14": {
+      "visual": "illarion:transition_2_14",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 14
+      }
+    },
+    "illarion:transition_2_15": {
+      "visual": "illarion:transition_2_15",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 15
+      }
+    },
+    "illarion:transition_2_16": {
+      "visual": "illarion:transition_2_16",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 16
+      }
+    },
+    "illarion:transition_2_17": {
+      "visual": "illarion:transition_2_17",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 17
+      }
+    },
+    "illarion:transition_2_18": {
+      "visual": "illarion:transition_2_18",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 18
+      }
+    },
+    "illarion:transition_2_19": {
+      "visual": "illarion:transition_2_19",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 19
+      }
+    },
+    "illarion:transition_2_20": {
+      "visual": "illarion:transition_2_20",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 20
+      }
+    },
+    "illarion:transition_2_21": {
+      "visual": "illarion:transition_2_21",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 21
+      }
+    },
+    "illarion:transition_2_22": {
+      "visual": "illarion:transition_2_22",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 22
+      }
+    },
+    "illarion:transition_2_23": {
+      "visual": "illarion:transition_2_23",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 23
+      }
+    },
+    "illarion:transition_2_24": {
+      "visual": "illarion:transition_2_24",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 24
+      }
+    },
+    "illarion:transition_2_25": {
+      "visual": "illarion:transition_2_25",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 25
+      }
+    },
+    "illarion:transition_2_26": {
+      "visual": "illarion:transition_2_26",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 26
+      }
+    },
+    "illarion:transition_2_27": {
+      "visual": "illarion:transition_2_27",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 27
+      }
+    },
+    "illarion:transition_2_28": {
+      "visual": "illarion:transition_2_28",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 2,
+        "overlayId": 28
+      }
+    },
+    "illarion:transition_3_1": {
+      "visual": "illarion:transition_3_1",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 1
+      }
+    },
+    "illarion:transition_3_2": {
+      "visual": "illarion:transition_3_2",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 2
+      }
+    },
+    "illarion:transition_3_3": {
+      "visual": "illarion:transition_3_3",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 3
+      }
+    },
+    "illarion:transition_3_4": {
+      "visual": "illarion:transition_3_4",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 4
+      }
+    },
+    "illarion:transition_3_5": {
+      "visual": "illarion:transition_3_5",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 5
+      }
+    },
+    "illarion:transition_3_6": {
+      "visual": "illarion:transition_3_6",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 6
+      }
+    },
+    "illarion:transition_3_7": {
+      "visual": "illarion:transition_3_7",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 7
+      }
+    },
+    "illarion:transition_3_8": {
+      "visual": "illarion:transition_3_8",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 8
+      }
+    },
+    "illarion:transition_3_9": {
+      "visual": "illarion:transition_3_9",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 9
+      }
+    },
+    "illarion:transition_3_10": {
+      "visual": "illarion:transition_3_10",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 10
+      }
+    },
+    "illarion:transition_3_11": {
+      "visual": "illarion:transition_3_11",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 11
+      }
+    },
+    "illarion:transition_3_12": {
+      "visual": "illarion:transition_3_12",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 12
+      }
+    },
+    "illarion:transition_3_13": {
+      "visual": "illarion:transition_3_13",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 13
+      }
+    },
+    "illarion:transition_3_14": {
+      "visual": "illarion:transition_3_14",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 14
+      }
+    },
+    "illarion:transition_3_15": {
+      "visual": "illarion:transition_3_15",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 15
+      }
+    },
+    "illarion:transition_3_16": {
+      "visual": "illarion:transition_3_16",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 16
+      }
+    },
+    "illarion:transition_3_17": {
+      "visual": "illarion:transition_3_17",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 17
+      }
+    },
+    "illarion:transition_3_18": {
+      "visual": "illarion:transition_3_18",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 18
+      }
+    },
+    "illarion:transition_3_19": {
+      "visual": "illarion:transition_3_19",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 19
+      }
+    },
+    "illarion:transition_3_20": {
+      "visual": "illarion:transition_3_20",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 20
+      }
+    },
+    "illarion:transition_3_21": {
+      "visual": "illarion:transition_3_21",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 21
+      }
+    },
+    "illarion:transition_3_22": {
+      "visual": "illarion:transition_3_22",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 22
+      }
+    },
+    "illarion:transition_3_23": {
+      "visual": "illarion:transition_3_23",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 23
+      }
+    },
+    "illarion:transition_3_24": {
+      "visual": "illarion:transition_3_24",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 24
+      }
+    },
+    "illarion:transition_3_25": {
+      "visual": "illarion:transition_3_25",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 25
+      }
+    },
+    "illarion:transition_3_26": {
+      "visual": "illarion:transition_3_26",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 26
+      }
+    },
+    "illarion:transition_3_27": {
+      "visual": "illarion:transition_3_27",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 27
+      }
+    },
+    "illarion:transition_3_28": {
+      "visual": "illarion:transition_3_28",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 3,
+        "overlayId": 28
+      }
+    },
+    "illarion:transition_4_1": {
+      "visual": "illarion:transition_4_1",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 1
+      }
+    },
+    "illarion:transition_4_2": {
+      "visual": "illarion:transition_4_2",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 2
+      }
+    },
+    "illarion:transition_4_3": {
+      "visual": "illarion:transition_4_3",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 3
+      }
+    },
+    "illarion:transition_4_4": {
+      "visual": "illarion:transition_4_4",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 4
+      }
+    },
+    "illarion:transition_4_5": {
+      "visual": "illarion:transition_4_5",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 5
+      }
+    },
+    "illarion:transition_4_6": {
+      "visual": "illarion:transition_4_6",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 6
+      }
+    },
+    "illarion:transition_4_7": {
+      "visual": "illarion:transition_4_7",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 7
+      }
+    },
+    "illarion:transition_4_8": {
+      "visual": "illarion:transition_4_8",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 8
+      }
+    },
+    "illarion:transition_4_9": {
+      "visual": "illarion:transition_4_9",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 9
+      }
+    },
+    "illarion:transition_4_10": {
+      "visual": "illarion:transition_4_10",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 10
+      }
+    },
+    "illarion:transition_4_11": {
+      "visual": "illarion:transition_4_11",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 11
+      }
+    },
+    "illarion:transition_4_12": {
+      "visual": "illarion:transition_4_12",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 12
+      }
+    },
+    "illarion:transition_4_13": {
+      "visual": "illarion:transition_4_13",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 13
+      }
+    },
+    "illarion:transition_4_14": {
+      "visual": "illarion:transition_4_14",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 14
+      }
+    },
+    "illarion:transition_4_15": {
+      "visual": "illarion:transition_4_15",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 15
+      }
+    },
+    "illarion:transition_4_16": {
+      "visual": "illarion:transition_4_16",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 16
+      }
+    },
+    "illarion:transition_4_17": {
+      "visual": "illarion:transition_4_17",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 17
+      }
+    },
+    "illarion:transition_4_18": {
+      "visual": "illarion:transition_4_18",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 18
+      }
+    },
+    "illarion:transition_4_19": {
+      "visual": "illarion:transition_4_19",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 19
+      }
+    },
+    "illarion:transition_4_20": {
+      "visual": "illarion:transition_4_20",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 20
+      }
+    },
+    "illarion:transition_4_21": {
+      "visual": "illarion:transition_4_21",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 21
+      }
+    },
+    "illarion:transition_4_22": {
+      "visual": "illarion:transition_4_22",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 22
+      }
+    },
+    "illarion:transition_4_23": {
+      "visual": "illarion:transition_4_23",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 23
+      }
+    },
+    "illarion:transition_4_24": {
+      "visual": "illarion:transition_4_24",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 24
+      }
+    },
+    "illarion:transition_4_25": {
+      "visual": "illarion:transition_4_25",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 25
+      }
+    },
+    "illarion:transition_4_26": {
+      "visual": "illarion:transition_4_26",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 26
+      }
+    },
+    "illarion:transition_4_27": {
+      "visual": "illarion:transition_4_27",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 27
+      }
+    },
+    "illarion:transition_4_28": {
+      "visual": "illarion:transition_4_28",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 4,
+        "overlayId": 28
+      }
+    },
+    "illarion:transition_5_1": {
+      "visual": "illarion:transition_5_1",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 1
+      }
+    },
+    "illarion:transition_5_2": {
+      "visual": "illarion:transition_5_2",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 2
+      }
+    },
+    "illarion:transition_5_3": {
+      "visual": "illarion:transition_5_3",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 3
+      }
+    },
+    "illarion:transition_5_4": {
+      "visual": "illarion:transition_5_4",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 4
+      }
+    },
+    "illarion:transition_5_5": {
+      "visual": "illarion:transition_5_5",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 5
+      }
+    },
+    "illarion:transition_5_6": {
+      "visual": "illarion:transition_5_6",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 6
+      }
+    },
+    "illarion:transition_5_7": {
+      "visual": "illarion:transition_5_7",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 7
+      }
+    },
+    "illarion:transition_5_8": {
+      "visual": "illarion:transition_5_8",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 8
+      }
+    },
+    "illarion:transition_5_9": {
+      "visual": "illarion:transition_5_9",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 9
+      }
+    },
+    "illarion:transition_5_10": {
+      "visual": "illarion:transition_5_10",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 10
+      }
+    },
+    "illarion:transition_5_11": {
+      "visual": "illarion:transition_5_11",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 11
+      }
+    },
+    "illarion:transition_5_12": {
+      "visual": "illarion:transition_5_12",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 12
+      }
+    },
+    "illarion:transition_5_13": {
+      "visual": "illarion:transition_5_13",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 13
+      }
+    },
+    "illarion:transition_5_14": {
+      "visual": "illarion:transition_5_14",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 14
+      }
+    },
+    "illarion:transition_5_15": {
+      "visual": "illarion:transition_5_15",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 15
+      }
+    },
+    "illarion:transition_5_16": {
+      "visual": "illarion:transition_5_16",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 16
+      }
+    },
+    "illarion:transition_5_17": {
+      "visual": "illarion:transition_5_17",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 17
+      }
+    },
+    "illarion:transition_5_18": {
+      "visual": "illarion:transition_5_18",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 18
+      }
+    },
+    "illarion:transition_5_19": {
+      "visual": "illarion:transition_5_19",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 19
+      }
+    },
+    "illarion:transition_5_20": {
+      "visual": "illarion:transition_5_20",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 20
+      }
+    },
+    "illarion:transition_5_21": {
+      "visual": "illarion:transition_5_21",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 21
+      }
+    },
+    "illarion:transition_5_22": {
+      "visual": "illarion:transition_5_22",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 22
+      }
+    },
+    "illarion:transition_5_23": {
+      "visual": "illarion:transition_5_23",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 23
+      }
+    },
+    "illarion:transition_5_24": {
+      "visual": "illarion:transition_5_24",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 24
+      }
+    },
+    "illarion:transition_5_25": {
+      "visual": "illarion:transition_5_25",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 25
+      }
+    },
+    "illarion:transition_5_26": {
+      "visual": "illarion:transition_5_26",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 26
+      }
+    },
+    "illarion:transition_5_27": {
+      "visual": "illarion:transition_5_27",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 27
+      }
+    },
+    "illarion:transition_5_28": {
+      "visual": "illarion:transition_5_28",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 5,
+        "overlayId": 28
+      }
+    },
+    "illarion:transition_7_1": {
+      "visual": "illarion:transition_7_1",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 1
+      }
+    },
+    "illarion:transition_7_2": {
+      "visual": "illarion:transition_7_2",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 2
+      }
+    },
+    "illarion:transition_7_3": {
+      "visual": "illarion:transition_7_3",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 3
+      }
+    },
+    "illarion:transition_7_4": {
+      "visual": "illarion:transition_7_4",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 4
+      }
+    },
+    "illarion:transition_7_5": {
+      "visual": "illarion:transition_7_5",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 5
+      }
+    },
+    "illarion:transition_7_6": {
+      "visual": "illarion:transition_7_6",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 6
+      }
+    },
+    "illarion:transition_7_7": {
+      "visual": "illarion:transition_7_7",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 7
+      }
+    },
+    "illarion:transition_7_8": {
+      "visual": "illarion:transition_7_8",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 8
+      }
+    },
+    "illarion:transition_7_9": {
+      "visual": "illarion:transition_7_9",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 9
+      }
+    },
+    "illarion:transition_7_10": {
+      "visual": "illarion:transition_7_10",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 10
+      }
+    },
+    "illarion:transition_7_11": {
+      "visual": "illarion:transition_7_11",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 11
+      }
+    },
+    "illarion:transition_7_12": {
+      "visual": "illarion:transition_7_12",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 12
+      }
+    },
+    "illarion:transition_7_13": {
+      "visual": "illarion:transition_7_13",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 13
+      }
+    },
+    "illarion:transition_7_14": {
+      "visual": "illarion:transition_7_14",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 14
+      }
+    },
+    "illarion:transition_7_15": {
+      "visual": "illarion:transition_7_15",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 15
+      }
+    },
+    "illarion:transition_7_16": {
+      "visual": "illarion:transition_7_16",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 16
+      }
+    },
+    "illarion:transition_7_17": {
+      "visual": "illarion:transition_7_17",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 17
+      }
+    },
+    "illarion:transition_7_18": {
+      "visual": "illarion:transition_7_18",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 18
+      }
+    },
+    "illarion:transition_7_19": {
+      "visual": "illarion:transition_7_19",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 19
+      }
+    },
+    "illarion:transition_7_20": {
+      "visual": "illarion:transition_7_20",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 20
+      }
+    },
+    "illarion:transition_7_21": {
+      "visual": "illarion:transition_7_21",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 21
+      }
+    },
+    "illarion:transition_7_22": {
+      "visual": "illarion:transition_7_22",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 22
+      }
+    },
+    "illarion:transition_7_23": {
+      "visual": "illarion:transition_7_23",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 23
+      }
+    },
+    "illarion:transition_7_24": {
+      "visual": "illarion:transition_7_24",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 24
+      }
+    },
+    "illarion:transition_7_25": {
+      "visual": "illarion:transition_7_25",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 25
+      }
+    },
+    "illarion:transition_7_26": {
+      "visual": "illarion:transition_7_26",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 26
+      }
+    },
+    "illarion:transition_7_27": {
+      "visual": "illarion:transition_7_27",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 27
+      }
+    },
+    "illarion:transition_7_28": {
+      "visual": "illarion:transition_7_28",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 7,
+        "overlayId": 28
+      }
+    },
+    "illarion:transition_8_1": {
+      "visual": "illarion:transition_8_1",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 1
+      }
+    },
+    "illarion:transition_8_2": {
+      "visual": "illarion:transition_8_2",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 2
+      }
+    },
+    "illarion:transition_8_3": {
+      "visual": "illarion:transition_8_3",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 3
+      }
+    },
+    "illarion:transition_8_4": {
+      "visual": "illarion:transition_8_4",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 4
+      }
+    },
+    "illarion:transition_8_5": {
+      "visual": "illarion:transition_8_5",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 5
+      }
+    },
+    "illarion:transition_8_6": {
+      "visual": "illarion:transition_8_6",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 6
+      }
+    },
+    "illarion:transition_8_7": {
+      "visual": "illarion:transition_8_7",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 7
+      }
+    },
+    "illarion:transition_8_8": {
+      "visual": "illarion:transition_8_8",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 8
+      }
+    },
+    "illarion:transition_8_9": {
+      "visual": "illarion:transition_8_9",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 9
+      }
+    },
+    "illarion:transition_8_10": {
+      "visual": "illarion:transition_8_10",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 10
+      }
+    },
+    "illarion:transition_8_11": {
+      "visual": "illarion:transition_8_11",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 11
+      }
+    },
+    "illarion:transition_8_12": {
+      "visual": "illarion:transition_8_12",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 12
+      }
+    },
+    "illarion:transition_8_13": {
+      "visual": "illarion:transition_8_13",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 13
+      }
+    },
+    "illarion:transition_8_14": {
+      "visual": "illarion:transition_8_14",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 14
+      }
+    },
+    "illarion:transition_8_15": {
+      "visual": "illarion:transition_8_15",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 15
+      }
+    },
+    "illarion:transition_8_16": {
+      "visual": "illarion:transition_8_16",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 16
+      }
+    },
+    "illarion:transition_8_17": {
+      "visual": "illarion:transition_8_17",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 17
+      }
+    },
+    "illarion:transition_8_18": {
+      "visual": "illarion:transition_8_18",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 18
+      }
+    },
+    "illarion:transition_8_19": {
+      "visual": "illarion:transition_8_19",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 19
+      }
+    },
+    "illarion:transition_8_20": {
+      "visual": "illarion:transition_8_20",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 20
+      }
+    },
+    "illarion:transition_8_21": {
+      "visual": "illarion:transition_8_21",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 21
+      }
+    },
+    "illarion:transition_8_22": {
+      "visual": "illarion:transition_8_22",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 22
+      }
+    },
+    "illarion:transition_8_23": {
+      "visual": "illarion:transition_8_23",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 23
+      }
+    },
+    "illarion:transition_8_24": {
+      "visual": "illarion:transition_8_24",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 24
+      }
+    },
+    "illarion:transition_8_25": {
+      "visual": "illarion:transition_8_25",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 25
+      }
+    },
+    "illarion:transition_8_26": {
+      "visual": "illarion:transition_8_26",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 26
+      }
+    },
+    "illarion:transition_8_27": {
+      "visual": "illarion:transition_8_27",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 27
+      }
+    },
+    "illarion:transition_8_28": {
+      "visual": "illarion:transition_8_28",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 8,
+        "overlayId": 28
+      }
+    },
+    "illarion:transition_9_1": {
+      "visual": "illarion:transition_9_1",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 1
+      }
+    },
+    "illarion:transition_9_2": {
+      "visual": "illarion:transition_9_2",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 2
+      }
+    },
+    "illarion:transition_9_3": {
+      "visual": "illarion:transition_9_3",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 3
+      }
+    },
+    "illarion:transition_9_4": {
+      "visual": "illarion:transition_9_4",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 4
+      }
+    },
+    "illarion:transition_9_5": {
+      "visual": "illarion:transition_9_5",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 5
+      }
+    },
+    "illarion:transition_9_6": {
+      "visual": "illarion:transition_9_6",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 6
+      }
+    },
+    "illarion:transition_9_7": {
+      "visual": "illarion:transition_9_7",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 7
+      }
+    },
+    "illarion:transition_9_8": {
+      "visual": "illarion:transition_9_8",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 8
+      }
+    },
+    "illarion:transition_9_9": {
+      "visual": "illarion:transition_9_9",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 9
+      }
+    },
+    "illarion:transition_9_10": {
+      "visual": "illarion:transition_9_10",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 10
+      }
+    },
+    "illarion:transition_9_11": {
+      "visual": "illarion:transition_9_11",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 11
+      }
+    },
+    "illarion:transition_9_12": {
+      "visual": "illarion:transition_9_12",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 12
+      }
+    },
+    "illarion:transition_9_13": {
+      "visual": "illarion:transition_9_13",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 13
+      }
+    },
+    "illarion:transition_9_14": {
+      "visual": "illarion:transition_9_14",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 14
+      }
+    },
+    "illarion:transition_9_15": {
+      "visual": "illarion:transition_9_15",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 15
+      }
+    },
+    "illarion:transition_9_16": {
+      "visual": "illarion:transition_9_16",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 16
+      }
+    },
+    "illarion:transition_9_17": {
+      "visual": "illarion:transition_9_17",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 17
+      }
+    },
+    "illarion:transition_9_18": {
+      "visual": "illarion:transition_9_18",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 18
+      }
+    },
+    "illarion:transition_9_19": {
+      "visual": "illarion:transition_9_19",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 19
+      }
+    },
+    "illarion:transition_9_20": {
+      "visual": "illarion:transition_9_20",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 20
+      }
+    },
+    "illarion:transition_9_21": {
+      "visual": "illarion:transition_9_21",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 21
+      }
+    },
+    "illarion:transition_9_22": {
+      "visual": "illarion:transition_9_22",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 22
+      }
+    },
+    "illarion:transition_9_23": {
+      "visual": "illarion:transition_9_23",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 23
+      }
+    },
+    "illarion:transition_9_24": {
+      "visual": "illarion:transition_9_24",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 24
+      }
+    },
+    "illarion:transition_9_25": {
+      "visual": "illarion:transition_9_25",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 25
+      }
+    },
+    "illarion:transition_9_26": {
+      "visual": "illarion:transition_9_26",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 26
+      }
+    },
+    "illarion:transition_9_27": {
+      "visual": "illarion:transition_9_27",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 27
+      }
+    },
+    "illarion:transition_9_28": {
+      "visual": "illarion:transition_9_28",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 9,
+        "overlayId": 28
+      }
+    },
+    "illarion:transition_10_1": {
+      "visual": "illarion:transition_10_1",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 1
+      }
+    },
+    "illarion:transition_10_2": {
+      "visual": "illarion:transition_10_2",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 2
+      }
+    },
+    "illarion:transition_10_3": {
+      "visual": "illarion:transition_10_3",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 3
+      }
+    },
+    "illarion:transition_10_4": {
+      "visual": "illarion:transition_10_4",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 4
+      }
+    },
+    "illarion:transition_10_5": {
+      "visual": "illarion:transition_10_5",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 5
+      }
+    },
+    "illarion:transition_10_6": {
+      "visual": "illarion:transition_10_6",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 6
+      }
+    },
+    "illarion:transition_10_7": {
+      "visual": "illarion:transition_10_7",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 7
+      }
+    },
+    "illarion:transition_10_8": {
+      "visual": "illarion:transition_10_8",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 8
+      }
+    },
+    "illarion:transition_10_9": {
+      "visual": "illarion:transition_10_9",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 9
+      }
+    },
+    "illarion:transition_10_10": {
+      "visual": "illarion:transition_10_10",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 10
+      }
+    },
+    "illarion:transition_10_11": {
+      "visual": "illarion:transition_10_11",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 11
+      }
+    },
+    "illarion:transition_10_12": {
+      "visual": "illarion:transition_10_12",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 12
+      }
+    },
+    "illarion:transition_10_13": {
+      "visual": "illarion:transition_10_13",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 13
+      }
+    },
+    "illarion:transition_10_14": {
+      "visual": "illarion:transition_10_14",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 14
+      }
+    },
+    "illarion:transition_10_15": {
+      "visual": "illarion:transition_10_15",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 15
+      }
+    },
+    "illarion:transition_10_16": {
+      "visual": "illarion:transition_10_16",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 16
+      }
+    },
+    "illarion:transition_10_17": {
+      "visual": "illarion:transition_10_17",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 17
+      }
+    },
+    "illarion:transition_10_18": {
+      "visual": "illarion:transition_10_18",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 18
+      }
+    },
+    "illarion:transition_10_19": {
+      "visual": "illarion:transition_10_19",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 19
+      }
+    },
+    "illarion:transition_10_20": {
+      "visual": "illarion:transition_10_20",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 20
+      }
+    },
+    "illarion:transition_10_21": {
+      "visual": "illarion:transition_10_21",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 21
+      }
+    },
+    "illarion:transition_10_22": {
+      "visual": "illarion:transition_10_22",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 22
+      }
+    },
+    "illarion:transition_10_23": {
+      "visual": "illarion:transition_10_23",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 23
+      }
+    },
+    "illarion:transition_10_24": {
+      "visual": "illarion:transition_10_24",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 24
+      }
+    },
+    "illarion:transition_10_25": {
+      "visual": "illarion:transition_10_25",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 25
+      }
+    },
+    "illarion:transition_10_26": {
+      "visual": "illarion:transition_10_26",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 26
+      }
+    },
+    "illarion:transition_10_27": {
+      "visual": "illarion:transition_10_27",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 27
+      }
+    },
+    "illarion:transition_10_28": {
+      "visual": "illarion:transition_10_28",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 10,
+        "overlayId": 28
+      }
+    },
+    "illarion:transition_11_1": {
+      "visual": "illarion:transition_11_1",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 1
+      }
+    },
+    "illarion:transition_11_2": {
+      "visual": "illarion:transition_11_2",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 2
+      }
+    },
+    "illarion:transition_11_3": {
+      "visual": "illarion:transition_11_3",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 3
+      }
+    },
+    "illarion:transition_11_4": {
+      "visual": "illarion:transition_11_4",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 4
+      }
+    },
+    "illarion:transition_11_5": {
+      "visual": "illarion:transition_11_5",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 5
+      }
+    },
+    "illarion:transition_11_6": {
+      "visual": "illarion:transition_11_6",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 6
+      }
+    },
+    "illarion:transition_11_7": {
+      "visual": "illarion:transition_11_7",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 7
+      }
+    },
+    "illarion:transition_11_8": {
+      "visual": "illarion:transition_11_8",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 8
+      }
+    },
+    "illarion:transition_11_9": {
+      "visual": "illarion:transition_11_9",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 9
+      }
+    },
+    "illarion:transition_11_10": {
+      "visual": "illarion:transition_11_10",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 10
+      }
+    },
+    "illarion:transition_11_11": {
+      "visual": "illarion:transition_11_11",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 11
+      }
+    },
+    "illarion:transition_11_12": {
+      "visual": "illarion:transition_11_12",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 12
+      }
+    },
+    "illarion:transition_11_13": {
+      "visual": "illarion:transition_11_13",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 13
+      }
+    },
+    "illarion:transition_11_14": {
+      "visual": "illarion:transition_11_14",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 14
+      }
+    },
+    "illarion:transition_11_15": {
+      "visual": "illarion:transition_11_15",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 15
+      }
+    },
+    "illarion:transition_11_16": {
+      "visual": "illarion:transition_11_16",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 16
+      }
+    },
+    "illarion:transition_11_17": {
+      "visual": "illarion:transition_11_17",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 17
+      }
+    },
+    "illarion:transition_11_18": {
+      "visual": "illarion:transition_11_18",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 18
+      }
+    },
+    "illarion:transition_11_19": {
+      "visual": "illarion:transition_11_19",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 19
+      }
+    },
+    "illarion:transition_11_20": {
+      "visual": "illarion:transition_11_20",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 20
+      }
+    },
+    "illarion:transition_11_21": {
+      "visual": "illarion:transition_11_21",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 21
+      }
+    },
+    "illarion:transition_11_22": {
+      "visual": "illarion:transition_11_22",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 22
+      }
+    },
+    "illarion:transition_11_23": {
+      "visual": "illarion:transition_11_23",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 23
+      }
+    },
+    "illarion:transition_11_24": {
+      "visual": "illarion:transition_11_24",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 24
+      }
+    },
+    "illarion:transition_11_25": {
+      "visual": "illarion:transition_11_25",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 25
+      }
+    },
+    "illarion:transition_11_26": {
+      "visual": "illarion:transition_11_26",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 26
+      }
+    },
+    "illarion:transition_11_27": {
+      "visual": "illarion:transition_11_27",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 27
+      }
+    },
+    "illarion:transition_11_28": {
+      "visual": "illarion:transition_11_28",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 11,
+        "overlayId": 28
+      }
+    },
+    "illarion:transition_15_1": {
+      "visual": "illarion:transition_15_1",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 1
+      }
+    },
+    "illarion:transition_15_2": {
+      "visual": "illarion:transition_15_2",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 2
+      }
+    },
+    "illarion:transition_15_3": {
+      "visual": "illarion:transition_15_3",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 3
+      }
+    },
+    "illarion:transition_15_4": {
+      "visual": "illarion:transition_15_4",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 4
+      }
+    },
+    "illarion:transition_15_5": {
+      "visual": "illarion:transition_15_5",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 5
+      }
+    },
+    "illarion:transition_15_6": {
+      "visual": "illarion:transition_15_6",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 6
+      }
+    },
+    "illarion:transition_15_7": {
+      "visual": "illarion:transition_15_7",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 7
+      }
+    },
+    "illarion:transition_15_8": {
+      "visual": "illarion:transition_15_8",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 8
+      }
+    },
+    "illarion:transition_15_9": {
+      "visual": "illarion:transition_15_9",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 9
+      }
+    },
+    "illarion:transition_15_10": {
+      "visual": "illarion:transition_15_10",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 10
+      }
+    },
+    "illarion:transition_15_11": {
+      "visual": "illarion:transition_15_11",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 11
+      }
+    },
+    "illarion:transition_15_12": {
+      "visual": "illarion:transition_15_12",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 12
+      }
+    },
+    "illarion:transition_15_13": {
+      "visual": "illarion:transition_15_13",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 13
+      }
+    },
+    "illarion:transition_15_14": {
+      "visual": "illarion:transition_15_14",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 14
+      }
+    },
+    "illarion:transition_15_15": {
+      "visual": "illarion:transition_15_15",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 15
+      }
+    },
+    "illarion:transition_15_16": {
+      "visual": "illarion:transition_15_16",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 16
+      }
+    },
+    "illarion:transition_15_17": {
+      "visual": "illarion:transition_15_17",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 17
+      }
+    },
+    "illarion:transition_15_18": {
+      "visual": "illarion:transition_15_18",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 18
+      }
+    },
+    "illarion:transition_15_19": {
+      "visual": "illarion:transition_15_19",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 19
+      }
+    },
+    "illarion:transition_15_20": {
+      "visual": "illarion:transition_15_20",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 20
+      }
+    },
+    "illarion:transition_15_21": {
+      "visual": "illarion:transition_15_21",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 21
+      }
+    },
+    "illarion:transition_15_22": {
+      "visual": "illarion:transition_15_22",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 22
+      }
+    },
+    "illarion:transition_15_23": {
+      "visual": "illarion:transition_15_23",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 23
+      }
+    },
+    "illarion:transition_15_24": {
+      "visual": "illarion:transition_15_24",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 24
+      }
+    },
+    "illarion:transition_15_25": {
+      "visual": "illarion:transition_15_25",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 25
+      }
+    },
+    "illarion:transition_15_26": {
+      "visual": "illarion:transition_15_26",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 26
+      }
+    },
+    "illarion:transition_15_27": {
+      "visual": "illarion:transition_15_27",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 27
+      }
+    },
+    "illarion:transition_15_28": {
+      "visual": "illarion:transition_15_28",
+      "passableAbove": true,
+      "metadata": {
+        "tileId": 15,
+        "overlayId": 28
+      }
     }
   }
 }

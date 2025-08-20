@@ -1,136 +1,396 @@
 {
   "entries": {
-    "illarion:stones": {
-      "visual": "illarion:tiles/stones",
-      "color": "#9b785a",
-      "slowFactor": 7
-    },
-    "illarion:farmland": {
-      "visual": "illarion:tiles/farmland",
-      "color": "#9b785a",
-      "slowFactor": 7
-    },
-    "illarion:dirt": {
-      "visual": "illarion:tiles/dirt",
-      "color": "#9b785a",
-      "slowFactor": 7
-    },
-    "illarion:forestGround": {
-      "visual": "illarion:tiles/forestGround",
-      "color": "#8ca064",
-      "slowFactor": 6
-    },
-    "illarion:sand1": {
-      "visual": "illarion:tiles/sand1",
-      "color": "#ffff00",
-      "slowFactor": 6
-    },
-    "illarion:dungeonFloor": {
-      "visual": "illarion:tiles/dungeonFloor",
-      "color": "#9b785a",
-      "slowFactor": 6
-    },
-    "illarion:street1": {
-      "visual": "illarion:tiles/street1",
-      "color": "#afb7a5",
-      "slowFactor": 5
-    },
-    "illarion:roof1": {
-      "visual": "illarion:tiles/roof1",
-      "color": "#cd6565",
-      "slowFactor": 5
-    },
-    "illarion:roof2": {
-      "visual": "illarion:tiles/roof2",
-      "color": "#cd6565",
-      "slowFactor": 5
-    },
-    "illarion:roof3": {
-      "visual": "illarion:tiles/roof3",
-      "color": "#cd6565",
-      "slowFactor": 5
-    },
-    "illarion:wall": {
-      "visual": "illarion:tiles/wall",
-      "color": "#afb7a5",
+    "illarion:tile_0": {
       "impassable": true,
-      "slowFactor": 5
+      "metadata": {
+        "tileId": 0
+      },
+      "visual": "illarion:tile_0"
     },
-    "illarion:carpet1": {
-      "visual": "illarion:tiles/carpet1",
-      "color": "#ffffcc",
-      "slowFactor": 5
+    "illarion:tile_1": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 1
+      },
+      "visual": "illarion:tile_1"
     },
-    "illarion:carpet2": {
-      "visual": "illarion:tiles/carpet2",
-      "color": "#ffffcc",
-      "slowFactor": 5
+    "illarion:tile_2": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 2
+      },
+      "visual": "illarion:tile_2"
     },
-    "illarion:carpet3": {
-      "visual": "illarion:tiles/carpet3",
-      "color": "#ffffcc",
-      "slowFactor": 5
+    "illarion:tile_3": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 3
+      },
+      "visual": "illarion:tile_3"
     },
-    "illarion:carpet4": {
-      "visual": "illarion:tiles/carpet4",
-      "color": "#ffffcc",
-      "slowFactor": 5
+    "illarion:tile_4": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 4
+      },
+      "visual": "illarion:tile_4"
     },
-    "illarion:carpet5": {
-      "visual": "illarion:tiles/carpet5",
-      "color": "#ffffcc",
-      "slowFactor": 5
+    "illarion:tile_5": {
+      "impassable": true,
+      "metadata": {
+        "tileId": 5
+      },
+      "visual": "illarion:tile_5"
     },
-    "illarion:carpet6": {
-      "visual": "illarion:tiles/carpet6",
-      "color": "#ffffcc",
-      "slowFactor": 5
+    "illarion:tile_6": {
+      "impassable": true,
+      "metadata": {
+        "tileId": 6
+      },
+      "visual": "illarion:tile_6"
     },
-    "illarion:carpet7": {
-      "visual": "illarion:tiles/carpet7",
-      "color": "#ffffcc",
-      "slowFactor": 5
+    "illarion:tile_7": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 7
+      },
+      "visual": "illarion:tile_7"
     },
-    "illarion:carpet8": {
-      "visual": "illarion:tiles/carpet8",
-      "color": "#ffffcc",
-      "slowFactor": 5
+    "illarion:tile_8": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 8
+      },
+      "visual": "illarion:tile_8"
     },
-    "illarion:carpet9": {
-      "visual": "illarion:tiles/carpet9",
-      "color": "#ffffcc",
-      "slowFactor": 5
+    "illarion:tile_9": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 9
+      },
+      "visual": "illarion:tile_9"
     },
-    "illarion:parquet1": {
-      "visual": "illarion:tiles/parquet1",
-      "color": "#cd6565",
-      "slowFactor": 5
+    "illarion:tile_10": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 10
+      },
+      "visual": "illarion:tile_10"
     },
-    "illarion:marble": {
-      "visual": "illarion:tiles/marble",
-      "color": "#ffffcc",
-      "slowFactor": 5
+    "illarion:tile_11": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 11
+      },
+      "visual": "illarion:tile_11"
     },
-    "illarion:lava": {
-      "visual": "illarion:tiles/lava",
-      "color": "#cd6565",
-      "slowFactor": 7
+    "illarion:tile_12": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 12
+      },
+      "visual": "illarion:tile_12"
     },
-    "illarion:snow": {
-      "visual": "illarion:tiles/snow",
-      "color": "#ffffff",
-      "slowFactor": 6
+    "illarion:tile_13": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 13
+      },
+      "visual": "illarion:tile_13"
     },
-    "illarion:grass": {
-      "visual": "illarion:tiles/grass",
-      "color": "#b6d69e",
-      "slowFactor": 6
+    "illarion:tile_14": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 14
+      },
+      "visual": "illarion:tile_14"
     },
-    "illarion:water": {
-      "visual": "illarion:tiles/water",
-      "color": "#7ec1ee",
-      "slowFactor": 5,
-      "impassable": true
+    "illarion:tile_15": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 15
+      },
+      "visual": "illarion:tile_15"
+    },
+    "illarion:tile_16": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 16
+      },
+      "visual": "illarion:tile_16"
+    },
+    "illarion:tile_17": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 17
+      },
+      "visual": "illarion:tile_17"
+    },
+    "illarion:tile_18": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 18
+      },
+      "visual": "illarion:tile_18"
+    },
+    "illarion:tile_19": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 19
+      },
+      "visual": "illarion:tile_19"
+    },
+    "illarion:tile_20": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 20
+      },
+      "visual": "illarion:tile_20"
+    },
+    "illarion:tile_34": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 34
+      },
+      "visual": "illarion:tile_34"
+    },
+    "illarion:tile_40": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 40
+      },
+      "visual": "illarion:tile_40"
+    },
+    "illarion:tile_41": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 41
+      },
+      "visual": "illarion:tile_41"
+    },
+    "illarion:tile_42": {
+      "impassable": true,
+      "metadata": {
+        "tileId": 42
+      },
+      "visual": "illarion:tile_42"
+    },
+    "illarion:tile_43": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 43
+      },
+      "visual": "illarion:tile_43"
+    },
+    "illarion:tile_45": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 45
+      },
+      "visual": "illarion:tile_45"
+    },
+    "illarion:tile_46": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 46
+      },
+      "visual": "illarion:tile_46"
+    },
+    "illarion:tile_47": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 47
+      },
+      "visual": "illarion:tile_47"
+    },
+    "illarion:tile_48": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 48
+      },
+      "visual": "illarion:tile_48"
+    },
+    "illarion:tile_49": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 49
+      },
+      "visual": "illarion:tile_49"
+    },
+    "illarion:tile_50": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 50
+      },
+      "visual": "illarion:tile_50"
+    },
+    "illarion:tile_51": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 51
+      },
+      "visual": "illarion:tile_51"
+    },
+    "illarion:tile_52": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 52
+      },
+      "visual": "illarion:tile_52"
+    },
+    "illarion:tile_53": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 53
+      },
+      "visual": "illarion:tile_53"
+    },
+    "illarion:tile_55": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 55
+      },
+      "visual": "illarion:tile_55"
+    },
+    "illarion:tile_56": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 56
+      },
+      "visual": "illarion:tile_56"
+    },
+    "illarion:tile_57": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 57
+      },
+      "visual": "illarion:tile_57"
+    },
+    "illarion:tile_58": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 58
+      },
+      "visual": "illarion:tile_58"
+    },
+    "illarion:tile_59": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 59
+      },
+      "visual": "illarion:tile_59"
+    },
+    "illarion:tile_60": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 60
+      },
+      "visual": "illarion:tile_60"
+    },
+    "illarion:tile_61": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 61
+      },
+      "visual": "illarion:tile_61"
+    },
+    "illarion:tile_62": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 62
+      },
+      "visual": "illarion:tile_62"
+    },
+    "illarion:tile_63": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 63
+      },
+      "visual": "illarion:tile_63"
+    },
+    "illarion:tile_64": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 64
+      },
+      "visual": "illarion:tile_64"
+    },
+    "illarion:tile_65": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 65
+      },
+      "visual": "illarion:tile_65"
+    },
+    "illarion:tile_66": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 66
+      },
+      "visual": "illarion:tile_66"
+    },
+    "illarion:tile_67": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 67
+      },
+      "visual": "illarion:tile_67"
+    },
+    "illarion:tile_68": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 68
+      },
+      "visual": "illarion:tile_68"
+    },
+    "illarion:tile_69": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 69
+      },
+      "visual": "illarion:tile_69"
+    },
+    "illarion:tile_70": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 70
+      },
+      "visual": "illarion:tile_70"
+    },
+    "illarion:tile_71": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 71
+      },
+      "visual": "illarion:tile_71"
+    },
+    "illarion:tile_72": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 72
+      },
+      "visual": "illarion:tile_72"
+    },
+    "illarion:tile_73": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 73
+      },
+      "visual": "illarion:tile_73"
+    },
+    "illarion:tile_74": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 74
+      },
+      "visual": "illarion:tile_74"
+    },
+    "illarion:tile_75": {
+      "impassable": false,
+      "metadata": {
+        "tileId": 75
+      },
+      "visual": "illarion:tile_75"
     }
   }
 }

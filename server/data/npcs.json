@@ -2,7 +2,8 @@
   "entries": {
     "illarion:npc_396": {
       "metadata": {
-        "npcId": 396
+        "npcId": 396,
+        "name": "Borgate Northoff"
       },
       "type": 1,
       "x": -86,
@@ -12,6 +13,8 @@
       "healer": false,
       "name": "Borgate Northoff",
       "script": "npc.borgate_northoff",
+      "race": "illarion:race_1",
+      "entity": "illarion:race_1_0",
       "sex": 0,
       "hair": 2,
       "beard": 3,

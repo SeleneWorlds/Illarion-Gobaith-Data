@@ -1,9 +1,27 @@
 {
   "entries": {
-    "illarion:sound_8": {
-      "audio": "illarion:sound_8",
+    "illarion:sound_1": {
+      "audio": "illarion:sound_1",
       "metadata": {
-        "soundId": 8
+        "soundId": 1
+      }
+    },
+    "illarion:sound_2": {
+      "audio": "illarion:sound_2",
+      "metadata": {
+        "soundId": 2
+      }
+    },
+    "illarion:sound_3": {
+      "audio": "illarion:sound_3",
+      "metadata": {
+        "soundId": 3
+      }
+    },
+    "illarion:sound_4": {
+      "audio": "illarion:sound_4",
+      "metadata": {
+        "soundId": 4
       }
     },
     "illarion:sound_5": {
@@ -12,64 +30,10 @@
         "soundId": 5
       }
     },
-    "illarion:sound_30": {
-      "audio": "illarion:sound_30",
-      "metadata": {
-        "soundId": 30
-      }
-    },
-    "illarion:sound_23": {
-      "audio": "illarion:sound_23",
-      "metadata": {
-        "soundId": 23
-      }
-    },
-    "illarion:sound_14": {
-      "audio": "illarion:sound_14",
-      "metadata": {
-        "soundId": 14
-      }
-    },
     "illarion:sound_6": {
       "audio": "illarion:sound_6",
       "metadata": {
         "soundId": 6
-      }
-    },
-    "illarion:sound_22": {
-      "audio": "illarion:sound_22",
-      "metadata": {
-        "soundId": 22
-      }
-    },
-    "illarion:sound_24": {
-      "audio": "illarion:sound_24",
-      "metadata": {
-        "soundId": 24
-      }
-    },
-    "illarion:sound_15": {
-      "audio": "illarion:sound_15",
-      "metadata": {
-        "soundId": 15
-      }
-    },
-    "illarion:sound_21": {
-      "audio": "illarion:sound_21",
-      "metadata": {
-        "soundId": 21
-      }
-    },
-    "illarion:sound_12": {
-      "audio": "illarion:sound_12",
-      "metadata": {
-        "soundId": 12
-      }
-    },
-    "illarion:sound_25": {
-      "audio": "illarion:sound_25",
-      "metadata": {
-        "soundId": 25
       }
     },
     "illarion:sound_7": {
@@ -78,16 +42,136 @@
         "soundId": 7
       }
     },
+    "illarion:sound_8": {
+      "audio": "illarion:sound_8",
+      "metadata": {
+        "soundId": 8
+      }
+    },
+    "illarion:sound_9": {
+      "audio": "illarion:sound_9",
+      "metadata": {
+        "soundId": 9
+      }
+    },
+    "illarion:sound_10": {
+      "audio": "illarion:sound_10",
+      "metadata": {
+        "soundId": 10
+      }
+    },
+    "illarion:sound_11": {
+      "audio": "illarion:sound_11",
+      "metadata": {
+        "soundId": 11
+      }
+    },
+    "illarion:sound_12": {
+      "audio": "illarion:sound_12",
+      "metadata": {
+        "soundId": 12
+      }
+    },
+    "illarion:sound_13": {
+      "audio": "illarion:sound_13",
+      "metadata": {
+        "soundId": 13
+      }
+    },
+    "illarion:sound_14": {
+      "audio": "illarion:sound_14",
+      "metadata": {
+        "soundId": 14
+      }
+    },
+    "illarion:sound_15": {
+      "audio": "illarion:sound_15",
+      "metadata": {
+        "soundId": 15
+      }
+    },
+    "illarion:sound_16": {
+      "audio": "illarion:sound_16",
+      "metadata": {
+        "soundId": 16
+      }
+    },
     "illarion:sound_17": {
       "audio": "illarion:sound_17",
       "metadata": {
         "soundId": 17
       }
     },
-    "illarion:sound_3": {
-      "audio": "illarion:sound_3",
+    "illarion:sound_18": {
+      "audio": "illarion:sound_18",
       "metadata": {
-        "soundId": 3
+        "soundId": 18
+      }
+    },
+    "illarion:sound_19": {
+      "audio": "illarion:sound_19",
+      "metadata": {
+        "soundId": 19
+      }
+    },
+    "illarion:sound_20": {
+      "audio": "illarion:sound_20",
+      "metadata": {
+        "soundId": 20
+      }
+    },
+    "illarion:sound_21": {
+      "audio": "illarion:sound_21",
+      "metadata": {
+        "soundId": 21
+      }
+    },
+    "illarion:sound_22": {
+      "audio": "illarion:sound_22",
+      "metadata": {
+        "soundId": 22
+      }
+    },
+    "illarion:sound_23": {
+      "audio": "illarion:sound_23",
+      "metadata": {
+        "soundId": 23
+      }
+    },
+    "illarion:sound_24": {
+      "audio": "illarion:sound_24",
+      "metadata": {
+        "soundId": 24
+      }
+    },
+    "illarion:sound_25": {
+      "audio": "illarion:sound_25",
+      "metadata": {
+        "soundId": 25
+      }
+    },
+    "illarion:sound_26": {
+      "audio": "illarion:sound_26",
+      "metadata": {
+        "soundId": 26
+      }
+    },
+    "illarion:sound_27": {
+      "audio": "illarion:sound_27",
+      "metadata": {
+        "soundId": 27
+      }
+    },
+    "illarion:sound_28": {
+      "audio": "illarion:sound_28",
+      "metadata": {
+        "soundId": 28
+      }
+    },
+    "illarion:sound_30": {
+      "audio": "illarion:sound_30",
+      "metadata": {
+        "soundId": 30
       }
     },
     "illarion:sound_31": {
@@ -106,18 +190,6 @@
       "audio": "illarion:sound_33",
       "metadata": {
         "soundId": 33
-      }
-    },
-    "illarion:sound_19": {
-      "audio": "illarion:sound_19",
-      "metadata": {
-        "soundId": 19
-      }
-    },
-    "illarion:sound_18": {
-      "audio": "illarion:sound_18",
-      "metadata": {
-        "soundId": 18
       }
     },
     "illarion:sound_40": {
@@ -148,78 +220,6 @@
       "audio": "illarion:sound_44",
       "metadata": {
         "soundId": 44
-      }
-    },
-    "illarion:sound_16": {
-      "audio": "illarion:sound_16",
-      "metadata": {
-        "soundId": 16
-      }
-    },
-    "illarion:sound_26": {
-      "audio": "illarion:sound_26",
-      "metadata": {
-        "soundId": 26
-      }
-    },
-    "illarion:sound_11": {
-      "audio": "illarion:sound_11",
-      "metadata": {
-        "soundId": 11
-      }
-    },
-    "illarion:sound_1": {
-      "audio": "illarion:sound_1",
-      "metadata": {
-        "soundId": 1
-      }
-    },
-    "illarion:sound_2": {
-      "audio": "illarion:sound_2",
-      "metadata": {
-        "soundId": 2
-      }
-    },
-    "illarion:sound_13": {
-      "audio": "illarion:sound_13",
-      "metadata": {
-        "soundId": 13
-      }
-    },
-    "illarion:sound_4": {
-      "audio": "illarion:sound_4",
-      "metadata": {
-        "soundId": 4
-      }
-    },
-    "illarion:sound_20": {
-      "audio": "illarion:sound_20",
-      "metadata": {
-        "soundId": 20
-      }
-    },
-    "illarion:sound_10": {
-      "audio": "illarion:sound_10",
-      "metadata": {
-        "soundId": 10
-      }
-    },
-    "illarion:sound_9": {
-      "audio": "illarion:sound_9",
-      "metadata": {
-        "soundId": 9
-      }
-    },
-    "illarion:sound_27": {
-      "audio": "illarion:sound_27",
-      "metadata": {
-        "soundId": 27
-      }
-    },
-    "illarion:sound_28": {
-      "audio": "illarion:sound_28",
-      "metadata": {
-        "soundId": 28
       }
     }
   }

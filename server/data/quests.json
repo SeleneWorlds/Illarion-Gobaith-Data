@@ -1,807 +1,807 @@
 {
   "entries": {
-    "illarion:quest_525": {
-      "script": "quest.akaltuts_chamber_525_dungeon",
-      "metadata": {
-        "questId": 525
-      }
-    },
-    "illarion:quest_81": {
-      "script": "quest.saren_eisenfaust_81_galmair",
-      "metadata": {
-        "questId": 81
-      }
-    },
-    "illarion:quest_713": {
-      "script": "quest.daniel_brock_713_runewick",
-      "metadata": {
-        "questId": 713
-      }
-    },
-    "illarion:quest_716": {
-      "script": "quest.thomas_weste_716_runewick",
-      "metadata": {
-        "questId": 716
-      }
-    },
-    "illarion:quest_701": {
-      "script": "quest.zassaria_riverbank_701_runewick",
-      "metadata": {
-        "questId": 701
-      }
-    },
-    "illarion:quest_702": {
-      "script": "quest.charwis_irongate_702_galmair",
-      "metadata": {
-        "questId": 702
-      }
-    },
-    "illarion:quest_707": {
-      "script": "quest.zlatxhol_707_cadomyr",
-      "metadata": {
-        "questId": 707
-      }
-    },
-    "illarion:quest_705": {
-      "script": "quest.lilli_gallfing_705_cadomyr",
-      "metadata": {
-        "questId": 705
-      }
-    },
-    "illarion:quest_709": {
-      "script": "quest.seleseth_709_galmair",
-      "metadata": {
-        "questId": 709
-      }
-    },
-    "illarion:quest_710": {
-      "script": "quest.tony_spirotelli_710_galmair",
-      "metadata": {
-        "questId": 710
-      }
-    },
-    "illarion:quest_600": {
-      "script": "quest.sir_fludnar_yednos_600_runewick",
-      "metadata": {
-        "questId": 600
-      }
-    },
-    "illarion:quest_612": {
-      "script": "quest.wonderland_612",
-      "metadata": {
-        "questId": 612
-      }
-    },
-    "illarion:quest_620": {
-      "script": "quest.elesil_daelwon_620_runewick",
-      "metadata": {
-        "questId": 620
-      }
-    },
-    "illarion:quest_622": {
-      "script": "quest.numila_irunnleh_622_runewick",
-      "metadata": {
-        "questId": 622
-      }
-    },
-    "illarion:quest_630": {
-      "script": "quest.iradona_goldschein_630_galmair",
-      "metadata": {
-        "questId": 630
-      }
-    },
-    "illarion:quest_632": {
-      "script": "quest.lotta_medborgar_632_galmair",
-      "metadata": {
-        "questId": 632
-      }
-    },
-    "illarion:quest_640": {
-      "script": "quest.frizza_640_cadomyr",
-      "metadata": {
-        "questId": 640
-      }
-    },
-    "illarion:quest_650": {
-      "script": "quest.wulfgorda_650",
-      "metadata": {
-        "questId": 650
-      }
-    },
-    "illarion:quest_652": {
-      "script": "quest.wulfgorda_652",
-      "metadata": {
-        "questId": 652
-      }
-    },
-    "illarion:quest_642": {
-      "script": "quest.ruzusss_642_cadomyr",
-      "metadata": {
-        "questId": 642
-      }
-    },
-    "illarion:quest_603": {
-      "script": "quest.nobarg_603",
-      "metadata": {
-        "questId": 603
-      }
-    },
-    "illarion:quest_526": {
-      "script": "quest.akaltuts_chamber_526_dungeon",
-      "metadata": {
-        "questId": 526
-      }
-    },
-    "illarion:quest_320": {
-      "script": "quest.explorerguild_320_questlog",
-      "metadata": {
-        "questId": 320
-      }
-    },
-    "illarion:quest_624": {
-      "script": "quest.numila_irunnleh_624_runewick",
-      "metadata": {
-        "questId": 624
-      }
-    },
-    "illarion:quest_634": {
-      "script": "quest.lotta_medborgar_634_galmair",
-      "metadata": {
-        "questId": 634
-      }
-    },
-    "illarion:quest_644": {
-      "script": "quest.ruzusss_644_cadomyr",
-      "metadata": {
-        "questId": 644
-      }
-    },
-    "illarion:quest_670": {
-      "script": "quest.truciolo_pialla_670_galmair",
-      "metadata": {
-        "questId": 670
-      }
-    },
     "illarion:quest_3": {
       "script": "quest.graznok_3",
       "metadata": {
-        "questId": 3
-      }
-    },
-    "illarion:quest_76": {
-      "script": "quest.zaida_76_runewick",
-      "metadata": {
-        "questId": 76
-      }
-    },
-    "illarion:quest_307": {
-      "script": "quest.uriel_urch_307_runewick",
-      "metadata": {
-        "questId": 307
-      }
-    },
-    "illarion:quest_105": {
-      "script": "quest.gregor_remethar_105_runewick",
-      "metadata": {
-        "questId": 105
-      }
-    },
-    "illarion:quest_106": {
-      "script": "quest.milo_deepdelver_106_runewick",
-      "metadata": {
-        "questId": 106
-      }
-    },
-    "illarion:quest_527": {
-      "script": "quest.akaltuts_chamber_527_dungeon",
-      "metadata": {
-        "questId": 527
-      }
-    },
-    "illarion:quest_74": {
-      "script": "quest.cormac_74_galmair",
-      "metadata": {
-        "questId": 74
-      }
-    },
-    "illarion:quest_79": {
-      "script": "quest.myrthe_mildthorn_79_runewick",
-      "metadata": {
-        "questId": 79
-      }
-    },
-    "illarion:quest_64": {
-      "script": "quest.henry_darter_64_runewick",
-      "metadata": {
-        "questId": 64
-      }
-    },
-    "illarion:quest_118": {
-      "script": "quest.baldo_proudtoe_118_runewick",
-      "metadata": {
-        "questId": 118
-      }
-    },
-    "illarion:quest_73": {
-      "script": "quest.lilith_needlehand_73_runewick",
-      "metadata": {
-        "questId": 73
-      }
-    },
-    "illarion:quest_70": {
-      "script": "quest.nana_winterbutter_70_runewick",
-      "metadata": {
-        "questId": 70
-      }
-    },
-    "illarion:quest_205": {
-      "script": "quest.neiran_el_nyarale_205_runewick",
-      "metadata": {
-        "questId": 205
-      }
-    },
-    "illarion:quest_679": {
-      "script": "quest.xiao_dongzou_679",
-      "metadata": {
-        "questId": 679
-      }
-    },
-    "illarion:quest_528": {
-      "script": "quest.akaltuts_chamber_528_dungeon",
-      "metadata": {
-        "questId": 528
-      }
-    },
-    "illarion:quest_113": {
-      "script": "quest.bathelor_113_wilderness",
-      "metadata": {
-        "questId": 113
-      }
-    },
-    "illarion:quest_125": {
-      "script": "quest.alexis_dostas_125_cadomyr",
-      "metadata": {
-        "questId": 125
-      }
-    },
-    "illarion:quest_108": {
-      "script": "quest.hector_valerion_108_cadomyr",
-      "metadata": {
-        "questId": 108
-      }
-    },
-    "illarion:quest_335": {
-      "script": "quest.kaitza_335_wilderness",
-      "metadata": {
-        "questId": 335
-      }
-    },
-    "illarion:quest_69": {
-      "script": "quest.valandil_elensar_69_wilderness",
-      "metadata": {
-        "questId": 69
-      }
-    },
-    "illarion:quest_67": {
-      "script": "quest.rutrus_67_cadomyr_wilderness",
-      "metadata": {
-        "questId": 67
-      }
-    },
-    "illarion:quest_66": {
-      "script": "quest.raban_66_wilderness",
-      "metadata": {
-        "questId": 66
-      }
-    },
-    "illarion:quest_317": {
-      "script": "quest.mirarie_bragolin_317_cadomyr",
-      "metadata": {
-        "questId": 317
-      }
-    },
-    "illarion:quest_150": {
-      "script": "quest.reret_odohir_150_cadomyr",
-      "metadata": {
-        "questId": 150
-      }
-    },
-    "illarion:quest_126": {
-      "script": "quest.linda_rabon_126_cadomyr",
-      "metadata": {
-        "questId": 126
-      }
-    },
-    "illarion:quest_77": {
-      "script": "quest.miggs_77_galmair",
-      "metadata": {
-        "questId": 77
-      }
-    },
-    "illarion:quest_529": {
-      "script": "quest.akaltuts_chamber_529_dungeon",
-      "metadata": {
-        "questId": 529
-      }
-    },
-    "illarion:quest_530": {
-      "script": "quest.akaltuts_chamber_530_dungeon",
-      "metadata": {
-        "questId": 530
-      }
-    },
-    "illarion:quest_65": {
-      "script": "quest.bruno_blackhole_65_galmair",
-      "metadata": {
-        "questId": 65
+        "id": 3
       }
     },
     "illarion:quest_4": {
       "script": "quest.eugene_burton_4_wildness",
       "metadata": {
-        "questId": 4
-      }
-    },
-    "illarion:quest_107": {
-      "script": "quest.groktan_flintsplit_107_galmair",
-      "metadata": {
-        "questId": 107
-      }
-    },
-    "illarion:quest_68": {
-      "script": "quest.daerbur_wimbert_68_galmair",
-      "metadata": {
-        "questId": 68
-      }
-    },
-    "illarion:quest_206": {
-      "script": "quest.gretel_goldhair_206_galmair",
-      "metadata": {
-        "questId": 206
-      }
-    },
-    "illarion:quest_334": {
-      "script": "quest.madeline_clarbelis_334_runewick",
-      "metadata": {
-        "questId": 334
-      }
-    },
-    "illarion:quest_75": {
-      "script": "quest.hassan_75_cadomyr",
-      "metadata": {
-        "questId": 75
-      }
-    },
-    "illarion:quest_78": {
-      "script": "quest.grakamesh_78_cadomyr",
-      "metadata": {
-        "questId": 78
-      }
-    },
-    "illarion:quest_111": {
-      "script": "quest.beror_oakaxe_111_cadomyr",
-      "metadata": {
-        "questId": 111
-      }
-    },
-    "illarion:quest_112": {
-      "script": "quest.madoquar_112_wildness",
-      "metadata": {
-        "questId": 112
-      }
-    },
-    "illarion:quest_104": {
-      "script": "quest.arenius_batavius_104_cadomyr",
-      "metadata": {
-        "questId": 104
-      }
-    },
-    "illarion:quest_151": {
-      "script": "quest.ioannes_faber_151_cadomyr",
-      "metadata": {
-        "questId": 151
-      }
-    },
-    "illarion:quest_671": {
-      "script": "quest.bear_671_galmair",
-      "metadata": {
-        "questId": 671
-      }
-    },
-    "illarion:quest_672": {
-      "script": "quest.lotte_silberstreif_672",
-      "metadata": {
-        "questId": 672
-      }
-    },
-    "illarion:quest_708": {
-      "script": "quest.thorgrem_silverbeard_708_galmair",
-      "metadata": {
-        "questId": 708
-      }
-    },
-    "illarion:quest_500": {
-      "script": "quest.melanie_meadowlark_500_wilderness",
-      "metadata": {
-        "questId": 500
-      }
-    },
-    "illarion:quest_71": {
-      "script": "quest.zerarisa_71_galmair",
-      "metadata": {
-        "questId": 71
-      }
-    },
-    "illarion:quest_119": {
-      "script": "quest.anthar_vilicon_119_cadomyr",
-      "metadata": {
-        "questId": 119
-      }
-    },
-    "illarion:quest_162": {
-      "script": "quest.palis_nestros_162_cadomyr",
-      "metadata": {
-        "questId": 162
-      }
-    },
-    "illarion:quest_520": {
-      "script": "quest.gorgophone_520_wilderness",
-      "metadata": {
-        "questId": 520
-      }
-    },
-    "illarion:quest_181": {
-      "script": "quest.bula_glasha_181_galmair",
-      "metadata": {
-        "questId": 181
-      }
-    },
-    "illarion:quest_184": {
-      "script": "quest.maelyrra_umrielyth_184_runewick",
-      "metadata": {
-        "questId": 184
-      }
-    },
-    "illarion:quest_152": {
-      "script": "quest.gurzad_gutri_152_galmair",
-      "metadata": {
-        "questId": 152
-      }
-    },
-    "illarion:quest_160": {
-      "script": "quest.decius_cerasus_160_runewick",
-      "metadata": {
-        "questId": 160
-      }
-    },
-    "illarion:quest_187": {
-      "script": "quest.jeremiah_horanfeld_187_cadomyr",
-      "metadata": {
-        "questId": 187
-      }
-    },
-    "illarion:quest_188": {
-      "script": "quest.cilivren_itiireae_188_runewick",
-      "metadata": {
-        "questId": 188
-      }
-    },
-    "illarion:quest_189": {
-      "script": "quest.fokous_onyxbrow_189_galmair",
-      "metadata": {
-        "questId": 189
-      }
-    },
-    "illarion:quest_521": {
-      "script": "quest.scavangerhunt_521_wilderness",
-      "metadata": {
-        "questId": 521
-      }
-    },
-    "illarion:quest_504": {
-      "script": "quest.granor_bergenhieb_504",
-      "metadata": {
-        "questId": 504
-      }
-    },
-    "illarion:quest_501": {
-      "script": "quest.ssalva_501_wilderness",
-      "metadata": {
-        "questId": 501
-      }
-    },
-    "illarion:quest_502": {
-      "script": "quest.zenia_502_wilderness",
-      "metadata": {
-        "questId": 502
-      }
-    },
-    "illarion:quest_532": {
-      "script": "quest.marcus_steinholden_532",
-      "metadata": {
-        "questId": 532
-      }
-    },
-    "illarion:quest_718": {
-      "script": "quest.alwin_sommerkorn_718_runewick",
-      "metadata": {
-        "questId": 718
-      }
-    },
-    "illarion:quest_109": {
-      "script": "quest.brassius_meres_109_runewick",
-      "metadata": {
-        "questId": 109
-      }
-    },
-    "illarion:quest_539": {
-      "script": "quest.pasinn_539_wilderness",
-      "metadata": {
-        "questId": 539
-      }
-    },
-    "illarion:quest_543": {
-      "script": "quest.brigette_russ_543_wilderness",
-      "metadata": {
-        "questId": 543
-      }
-    },
-    "illarion:quest_171": {
-      "script": "quest.ssiguss_171_wilderness",
-      "metadata": {
-        "questId": 171
-      }
-    },
-    "illarion:quest_510": {
-      "script": "quest.obsidimine_510_wilderness",
-      "metadata": {
-        "questId": 510
-      }
-    },
-    "illarion:quest_72": {
-      "script": "quest.ehrom_goldhammer_72_wilderness",
-      "metadata": {
-        "questId": 72
-      }
-    },
-    "illarion:quest_674": {
-      "script": "quest.alberto_dicker_674_runewick",
-      "metadata": {
-        "questId": 674
-      }
-    },
-    "illarion:quest_155": {
-      "script": "quest.boumaug_firesmash_155_galmair",
-      "metadata": {
-        "questId": 155
-      }
-    },
-    "illarion:quest_717": {
-      "script": "quest.nadime_717_cadomyr",
-      "metadata": {
-        "questId": 717
-      }
-    },
-    "illarion:quest_127": {
-      "script": "quest.philipp_molitor_127_cadomyr",
-      "metadata": {
-        "questId": 127
-      }
-    },
-    "illarion:quest_210": {
-      "script": "quest.anthony_devries_210_galmair",
-      "metadata": {
-        "questId": 210
-      }
-    },
-    "illarion:quest_213": {
-      "script": "quest.pesnar_rolemnes_213_runewick",
-      "metadata": {
-        "questId": 213
-      }
-    },
-    "illarion:quest_513": {
-      "script": "quest.metylda_lockleigh_513_wilderness",
-      "metadata": {
-        "questId": 513
-      }
-    },
-    "illarion:quest_514": {
-      "script": "quest.eleanor_fairbanks_514_Yewdale",
-      "metadata": {
-        "questId": 514
-      }
-    },
-    "illarion:quest_515": {
-      "script": "quest.aelfinn_515_wilderness",
-      "metadata": {
-        "questId": 515
-      }
-    },
-    "illarion:quest_677": {
-      "script": "quest.calida_677_runewick",
-      "metadata": {
-        "questId": 677
-      }
-    },
-    "illarion:quest_685": {
-      "script": "quest.god_book_685_all",
-      "metadata": {
-        "questId": 685
-      }
-    },
-    "illarion:quest_714": {
-      "script": "quest.francine_leonard_714_runewick",
-      "metadata": {
-        "questId": 714
-      }
-    },
-    "illarion:quest_305": {
-      "script": "quest.corporal_piero_305_cadomyr",
-      "metadata": {
-        "questId": 305
-      }
-    },
-    "illarion:quest_223": {
-      "script": "quest.elesil_daelwon_223_runewick",
-      "metadata": {
-        "questId": 223
+        "id": 4
       }
     },
     "illarion:quest_46": {
       "script": "quest.introduction_46",
       "metadata": {
-        "questId": 46
+        "id": 46
       }
     },
-    "illarion:quest_330": {
-      "script": "quest.henry_cunnigan_330_noobia",
+    "illarion:quest_64": {
+      "script": "quest.henry_darter_64_runewick",
       "metadata": {
-        "questId": 330
+        "id": 64
       }
     },
-    "illarion:quest_331": {
-      "script": "quest.nimbur_goldbrew_331_noobia",
+    "illarion:quest_65": {
+      "script": "quest.bruno_blackhole_65_galmair",
       "metadata": {
-        "questId": 331
+        "id": 65
       }
     },
-    "illarion:quest_356": {
-      "script": "quest.tutorial_henry_356_wilderness",
+    "illarion:quest_66": {
+      "script": "quest.raban_66_wilderness",
       "metadata": {
-        "questId": 356
+        "id": 66
       }
     },
-    "illarion:quest_357": {
-      "script": "quest.tutorial_nimbur_357_wilderness",
+    "illarion:quest_67": {
+      "script": "quest.rutrus_67_cadomyr_wilderness",
       "metadata": {
-        "questId": 357
+        "id": 67
       }
     },
-    "illarion:quest_353": {
-      "script": "quest.tutorial_gathering_353_wilderness",
+    "illarion:quest_68": {
+      "script": "quest.daerbur_wimbert_68_galmair",
       "metadata": {
-        "questId": 353
+        "id": 68
       }
     },
-    "illarion:quest_341": {
-      "script": "quest.tutorial_market_341_wilderness",
+    "illarion:quest_69": {
+      "script": "quest.valandil_elensar_69_wilderness",
       "metadata": {
-        "questId": 341
+        "id": 69
       }
     },
-    "illarion:quest_336": {
-      "script": "quest.tutorial_brewery_336_wilderness",
+    "illarion:quest_70": {
+      "script": "quest.nana_winterbutter_70_runewick",
       "metadata": {
-        "questId": 336
+        "id": 70
       }
     },
-    "illarion:quest_345": {
-      "script": "quest.tutorial_depot_345_wilderness",
+    "illarion:quest_71": {
+      "script": "quest.zerarisa_71_galmair",
       "metadata": {
-        "questId": 345
+        "id": 71
       }
     },
-    "illarion:quest_346": {
-      "script": "quest.tutorial_glyph_forging_346_wilderness",
+    "illarion:quest_72": {
+      "script": "quest.ehrom_goldhammer_72_wilderness",
       "metadata": {
-        "questId": 346
+        "id": 72
       }
     },
-    "illarion:quest_337": {
-      "script": "quest.tutorial_quests_337_wilderness",
+    "illarion:quest_73": {
+      "script": "quest.lilith_needlehand_73_runewick",
       "metadata": {
-        "questId": 337
+        "id": 73
       }
     },
-    "illarion:quest_339": {
-      "script": "quest.tutorial_ferries_339_wilderness",
+    "illarion:quest_74": {
+      "script": "quest.cormac_74_galmair",
       "metadata": {
-        "questId": 339
+        "id": 74
       }
     },
-    "illarion:quest_332": {
-      "script": "quest.tutorial_roleplaying_332_wilderness",
+    "illarion:quest_75": {
+      "script": "quest.hassan_75_cadomyr",
       "metadata": {
-        "questId": 332
+        "id": 75
       }
     },
-    "illarion:quest_354": {
-      "script": "quest.tutorial_fighting_354_wilderness",
+    "illarion:quest_76": {
+      "script": "quest.zaida_76_runewick",
       "metadata": {
-        "questId": 354
+        "id": 76
       }
     },
-    "illarion:quest_348": {
-      "script": "quest.tutorial_teleporter_348_wilderness",
+    "illarion:quest_77": {
+      "script": "quest.miggs_77_galmair",
       "metadata": {
-        "questId": 348
+        "id": 77
       }
     },
-    "illarion:quest_355": {
-      "script": "quest.tutorial_informs_355_wilderness",
+    "illarion:quest_78": {
+      "script": "quest.grakamesh_78_cadomyr",
       "metadata": {
-        "questId": 355
+        "id": 78
       }
     },
-    "illarion:quest_344": {
-      "script": "quest.tutorial_religion_344_wilderness",
+    "illarion:quest_79": {
+      "script": "quest.myrthe_mildthorn_79_runewick",
       "metadata": {
-        "questId": 344
+        "id": 79
       }
     },
-    "illarion:quest_338": {
-      "script": "quest.tutorial_realms_338_wilderness",
+    "illarion:quest_81": {
+      "script": "quest.saren_eisenfaust_81_galmair",
       "metadata": {
-        "questId": 338
+        "id": 81
       }
     },
-    "illarion:quest_347": {
-      "script": "quest.tutorial_wilderness_347_wilderness",
+    "illarion:quest_104": {
+      "script": "quest.arenius_batavius_104_cadomyr",
       "metadata": {
-        "questId": 347
+        "id": 104
       }
     },
-    "illarion:quest_329": {
-      "script": "quest.tutorial_first_encounter_329_wilderness",
+    "illarion:quest_105": {
+      "script": "quest.gregor_remethar_105_runewick",
       "metadata": {
-        "questId": 329
+        "id": 105
       }
     },
-    "illarion:quest_340": {
-      "script": "quest.tutorial_crafting_menu_340_wilderness",
+    "illarion:quest_106": {
+      "script": "quest.milo_deepdelver_106_runewick",
       "metadata": {
-        "questId": 340
+        "id": 106
       }
     },
-    "illarion:quest_358": {
-      "script": "quest.tutorial_moving_358_wilderness",
+    "illarion:quest_107": {
+      "script": "quest.groktan_flintsplit_107_galmair",
       "metadata": {
-        "questId": 358
+        "id": 107
       }
     },
-    "illarion:quest_241": {
-      "script": "quest.terry_ogg_enchanting_tutorial",
+    "illarion:quest_108": {
+      "script": "quest.hector_valerion_108_cadomyr",
       "metadata": {
-        "questId": 241
+        "id": 108
       }
     },
-    "illarion:quest_568": {
-      "script": "quest.terry_ogg_magic_introduction",
+    "illarion:quest_109": {
+      "script": "quest.brassius_meres_109_runewick",
       "metadata": {
-        "questId": 568
+        "id": 109
       }
     },
-    "illarion:quest_240": {
-      "script": "quest.terry_ogg_240",
+    "illarion:quest_111": {
+      "script": "quest.beror_oakaxe_111_cadomyr",
       "metadata": {
-        "questId": 240
+        "id": 111
+      }
+    },
+    "illarion:quest_112": {
+      "script": "quest.madoquar_112_wildness",
+      "metadata": {
+        "id": 112
+      }
+    },
+    "illarion:quest_113": {
+      "script": "quest.bathelor_113_wilderness",
+      "metadata": {
+        "id": 113
+      }
+    },
+    "illarion:quest_118": {
+      "script": "quest.baldo_proudtoe_118_runewick",
+      "metadata": {
+        "id": 118
+      }
+    },
+    "illarion:quest_119": {
+      "script": "quest.anthar_vilicon_119_cadomyr",
+      "metadata": {
+        "id": 119
+      }
+    },
+    "illarion:quest_125": {
+      "script": "quest.alexis_dostas_125_cadomyr",
+      "metadata": {
+        "id": 125
+      }
+    },
+    "illarion:quest_126": {
+      "script": "quest.linda_rabon_126_cadomyr",
+      "metadata": {
+        "id": 126
+      }
+    },
+    "illarion:quest_127": {
+      "script": "quest.philipp_molitor_127_cadomyr",
+      "metadata": {
+        "id": 127
+      }
+    },
+    "illarion:quest_150": {
+      "script": "quest.reret_odohir_150_cadomyr",
+      "metadata": {
+        "id": 150
+      }
+    },
+    "illarion:quest_151": {
+      "script": "quest.ioannes_faber_151_cadomyr",
+      "metadata": {
+        "id": 151
+      }
+    },
+    "illarion:quest_152": {
+      "script": "quest.gurzad_gutri_152_galmair",
+      "metadata": {
+        "id": 152
+      }
+    },
+    "illarion:quest_155": {
+      "script": "quest.boumaug_firesmash_155_galmair",
+      "metadata": {
+        "id": 155
+      }
+    },
+    "illarion:quest_160": {
+      "script": "quest.decius_cerasus_160_runewick",
+      "metadata": {
+        "id": 160
+      }
+    },
+    "illarion:quest_162": {
+      "script": "quest.palis_nestros_162_cadomyr",
+      "metadata": {
+        "id": 162
+      }
+    },
+    "illarion:quest_171": {
+      "script": "quest.ssiguss_171_wilderness",
+      "metadata": {
+        "id": 171
+      }
+    },
+    "illarion:quest_181": {
+      "script": "quest.bula_glasha_181_galmair",
+      "metadata": {
+        "id": 181
+      }
+    },
+    "illarion:quest_184": {
+      "script": "quest.maelyrra_umrielyth_184_runewick",
+      "metadata": {
+        "id": 184
+      }
+    },
+    "illarion:quest_187": {
+      "script": "quest.jeremiah_horanfeld_187_cadomyr",
+      "metadata": {
+        "id": 187
+      }
+    },
+    "illarion:quest_188": {
+      "script": "quest.cilivren_itiireae_188_runewick",
+      "metadata": {
+        "id": 188
+      }
+    },
+    "illarion:quest_189": {
+      "script": "quest.fokous_onyxbrow_189_galmair",
+      "metadata": {
+        "id": 189
+      }
+    },
+    "illarion:quest_205": {
+      "script": "quest.neiran_el_nyarale_205_runewick",
+      "metadata": {
+        "id": 205
+      }
+    },
+    "illarion:quest_206": {
+      "script": "quest.gretel_goldhair_206_galmair",
+      "metadata": {
+        "id": 206
+      }
+    },
+    "illarion:quest_210": {
+      "script": "quest.anthony_devries_210_galmair",
+      "metadata": {
+        "id": 210
+      }
+    },
+    "illarion:quest_213": {
+      "script": "quest.pesnar_rolemnes_213_runewick",
+      "metadata": {
+        "id": 213
+      }
+    },
+    "illarion:quest_223": {
+      "script": "quest.elesil_daelwon_223_runewick",
+      "metadata": {
+        "id": 223
       }
     },
     "illarion:quest_237": {
       "script": "quest.terry_ogg_237",
       "metadata": {
-        "questId": 237
+        "id": 237
+      }
+    },
+    "illarion:quest_240": {
+      "script": "quest.terry_ogg_240",
+      "metadata": {
+        "id": 240
+      }
+    },
+    "illarion:quest_241": {
+      "script": "quest.terry_ogg_enchanting_tutorial",
+      "metadata": {
+        "id": 241
+      }
+    },
+    "illarion:quest_305": {
+      "script": "quest.corporal_piero_305_cadomyr",
+      "metadata": {
+        "id": 305
+      }
+    },
+    "illarion:quest_307": {
+      "script": "quest.uriel_urch_307_runewick",
+      "metadata": {
+        "id": 307
+      }
+    },
+    "illarion:quest_317": {
+      "script": "quest.mirarie_bragolin_317_cadomyr",
+      "metadata": {
+        "id": 317
+      }
+    },
+    "illarion:quest_320": {
+      "script": "quest.explorerguild_320_questlog",
+      "metadata": {
+        "id": 320
+      }
+    },
+    "illarion:quest_329": {
+      "script": "quest.tutorial_first_encounter_329_wilderness",
+      "metadata": {
+        "id": 329
+      }
+    },
+    "illarion:quest_330": {
+      "script": "quest.henry_cunnigan_330_noobia",
+      "metadata": {
+        "id": 330
+      }
+    },
+    "illarion:quest_331": {
+      "script": "quest.nimbur_goldbrew_331_noobia",
+      "metadata": {
+        "id": 331
+      }
+    },
+    "illarion:quest_332": {
+      "script": "quest.tutorial_roleplaying_332_wilderness",
+      "metadata": {
+        "id": 332
+      }
+    },
+    "illarion:quest_334": {
+      "script": "quest.madeline_clarbelis_334_runewick",
+      "metadata": {
+        "id": 334
+      }
+    },
+    "illarion:quest_335": {
+      "script": "quest.kaitza_335_wilderness",
+      "metadata": {
+        "id": 335
+      }
+    },
+    "illarion:quest_336": {
+      "script": "quest.tutorial_brewery_336_wilderness",
+      "metadata": {
+        "id": 336
+      }
+    },
+    "illarion:quest_337": {
+      "script": "quest.tutorial_quests_337_wilderness",
+      "metadata": {
+        "id": 337
+      }
+    },
+    "illarion:quest_338": {
+      "script": "quest.tutorial_realms_338_wilderness",
+      "metadata": {
+        "id": 338
+      }
+    },
+    "illarion:quest_339": {
+      "script": "quest.tutorial_ferries_339_wilderness",
+      "metadata": {
+        "id": 339
+      }
+    },
+    "illarion:quest_340": {
+      "script": "quest.tutorial_crafting_menu_340_wilderness",
+      "metadata": {
+        "id": 340
+      }
+    },
+    "illarion:quest_341": {
+      "script": "quest.tutorial_market_341_wilderness",
+      "metadata": {
+        "id": 341
+      }
+    },
+    "illarion:quest_344": {
+      "script": "quest.tutorial_religion_344_wilderness",
+      "metadata": {
+        "id": 344
+      }
+    },
+    "illarion:quest_345": {
+      "script": "quest.tutorial_depot_345_wilderness",
+      "metadata": {
+        "id": 345
+      }
+    },
+    "illarion:quest_346": {
+      "script": "quest.tutorial_glyph_forging_346_wilderness",
+      "metadata": {
+        "id": 346
+      }
+    },
+    "illarion:quest_347": {
+      "script": "quest.tutorial_wilderness_347_wilderness",
+      "metadata": {
+        "id": 347
+      }
+    },
+    "illarion:quest_348": {
+      "script": "quest.tutorial_teleporter_348_wilderness",
+      "metadata": {
+        "id": 348
+      }
+    },
+    "illarion:quest_353": {
+      "script": "quest.tutorial_gathering_353_wilderness",
+      "metadata": {
+        "id": 353
+      }
+    },
+    "illarion:quest_354": {
+      "script": "quest.tutorial_fighting_354_wilderness",
+      "metadata": {
+        "id": 354
+      }
+    },
+    "illarion:quest_355": {
+      "script": "quest.tutorial_informs_355_wilderness",
+      "metadata": {
+        "id": 355
+      }
+    },
+    "illarion:quest_356": {
+      "script": "quest.tutorial_henry_356_wilderness",
+      "metadata": {
+        "id": 356
+      }
+    },
+    "illarion:quest_357": {
+      "script": "quest.tutorial_nimbur_357_wilderness",
+      "metadata": {
+        "id": 357
+      }
+    },
+    "illarion:quest_358": {
+      "script": "quest.tutorial_moving_358_wilderness",
+      "metadata": {
+        "id": 358
+      }
+    },
+    "illarion:quest_500": {
+      "script": "quest.melanie_meadowlark_500_wilderness",
+      "metadata": {
+        "id": 500
+      }
+    },
+    "illarion:quest_501": {
+      "script": "quest.ssalva_501_wilderness",
+      "metadata": {
+        "id": 501
+      }
+    },
+    "illarion:quest_502": {
+      "script": "quest.zenia_502_wilderness",
+      "metadata": {
+        "id": 502
+      }
+    },
+    "illarion:quest_504": {
+      "script": "quest.granor_bergenhieb_504",
+      "metadata": {
+        "id": 504
+      }
+    },
+    "illarion:quest_510": {
+      "script": "quest.obsidimine_510_wilderness",
+      "metadata": {
+        "id": 510
+      }
+    },
+    "illarion:quest_513": {
+      "script": "quest.metylda_lockleigh_513_wilderness",
+      "metadata": {
+        "id": 513
+      }
+    },
+    "illarion:quest_514": {
+      "script": "quest.eleanor_fairbanks_514_Yewdale",
+      "metadata": {
+        "id": 514
+      }
+    },
+    "illarion:quest_515": {
+      "script": "quest.aelfinn_515_wilderness",
+      "metadata": {
+        "id": 515
+      }
+    },
+    "illarion:quest_520": {
+      "script": "quest.gorgophone_520_wilderness",
+      "metadata": {
+        "id": 520
+      }
+    },
+    "illarion:quest_521": {
+      "script": "quest.scavangerhunt_521_wilderness",
+      "metadata": {
+        "id": 521
+      }
+    },
+    "illarion:quest_525": {
+      "script": "quest.akaltuts_chamber_525_dungeon",
+      "metadata": {
+        "id": 525
+      }
+    },
+    "illarion:quest_526": {
+      "script": "quest.akaltuts_chamber_526_dungeon",
+      "metadata": {
+        "id": 526
+      }
+    },
+    "illarion:quest_527": {
+      "script": "quest.akaltuts_chamber_527_dungeon",
+      "metadata": {
+        "id": 527
+      }
+    },
+    "illarion:quest_528": {
+      "script": "quest.akaltuts_chamber_528_dungeon",
+      "metadata": {
+        "id": 528
+      }
+    },
+    "illarion:quest_529": {
+      "script": "quest.akaltuts_chamber_529_dungeon",
+      "metadata": {
+        "id": 529
+      }
+    },
+    "illarion:quest_530": {
+      "script": "quest.akaltuts_chamber_530_dungeon",
+      "metadata": {
+        "id": 530
+      }
+    },
+    "illarion:quest_532": {
+      "script": "quest.marcus_steinholden_532",
+      "metadata": {
+        "id": 532
+      }
+    },
+    "illarion:quest_539": {
+      "script": "quest.pasinn_539_wilderness",
+      "metadata": {
+        "id": 539
+      }
+    },
+    "illarion:quest_543": {
+      "script": "quest.brigette_russ_543_wilderness",
+      "metadata": {
+        "id": 543
+      }
+    },
+    "illarion:quest_568": {
+      "script": "quest.terry_ogg_magic_introduction",
+      "metadata": {
+        "id": 568
+      }
+    },
+    "illarion:quest_600": {
+      "script": "quest.sir_fludnar_yednos_600_runewick",
+      "metadata": {
+        "id": 600
+      }
+    },
+    "illarion:quest_603": {
+      "script": "quest.nobarg_603",
+      "metadata": {
+        "id": 603
+      }
+    },
+    "illarion:quest_612": {
+      "script": "quest.wonderland_612",
+      "metadata": {
+        "id": 612
+      }
+    },
+    "illarion:quest_620": {
+      "script": "quest.elesil_daelwon_620_runewick",
+      "metadata": {
+        "id": 620
+      }
+    },
+    "illarion:quest_622": {
+      "script": "quest.numila_irunnleh_622_runewick",
+      "metadata": {
+        "id": 622
+      }
+    },
+    "illarion:quest_624": {
+      "script": "quest.numila_irunnleh_624_runewick",
+      "metadata": {
+        "id": 624
+      }
+    },
+    "illarion:quest_630": {
+      "script": "quest.iradona_goldschein_630_galmair",
+      "metadata": {
+        "id": 630
+      }
+    },
+    "illarion:quest_632": {
+      "script": "quest.lotta_medborgar_632_galmair",
+      "metadata": {
+        "id": 632
+      }
+    },
+    "illarion:quest_634": {
+      "script": "quest.lotta_medborgar_634_galmair",
+      "metadata": {
+        "id": 634
+      }
+    },
+    "illarion:quest_640": {
+      "script": "quest.frizza_640_cadomyr",
+      "metadata": {
+        "id": 640
+      }
+    },
+    "illarion:quest_642": {
+      "script": "quest.ruzusss_642_cadomyr",
+      "metadata": {
+        "id": 642
+      }
+    },
+    "illarion:quest_644": {
+      "script": "quest.ruzusss_644_cadomyr",
+      "metadata": {
+        "id": 644
+      }
+    },
+    "illarion:quest_650": {
+      "script": "quest.wulfgorda_650",
+      "metadata": {
+        "id": 650
+      }
+    },
+    "illarion:quest_652": {
+      "script": "quest.wulfgorda_652",
+      "metadata": {
+        "id": 652
+      }
+    },
+    "illarion:quest_670": {
+      "script": "quest.truciolo_pialla_670_galmair",
+      "metadata": {
+        "id": 670
+      }
+    },
+    "illarion:quest_671": {
+      "script": "quest.bear_671_galmair",
+      "metadata": {
+        "id": 671
+      }
+    },
+    "illarion:quest_672": {
+      "script": "quest.lotte_silberstreif_672",
+      "metadata": {
+        "id": 672
+      }
+    },
+    "illarion:quest_674": {
+      "script": "quest.alberto_dicker_674_runewick",
+      "metadata": {
+        "id": 674
+      }
+    },
+    "illarion:quest_677": {
+      "script": "quest.calida_677_runewick",
+      "metadata": {
+        "id": 677
+      }
+    },
+    "illarion:quest_679": {
+      "script": "quest.xiao_dongzou_679",
+      "metadata": {
+        "id": 679
+      }
+    },
+    "illarion:quest_685": {
+      "script": "quest.god_book_685_all",
+      "metadata": {
+        "id": 685
+      }
+    },
+    "illarion:quest_701": {
+      "script": "quest.zassaria_riverbank_701_runewick",
+      "metadata": {
+        "id": 701
+      }
+    },
+    "illarion:quest_702": {
+      "script": "quest.charwis_irongate_702_galmair",
+      "metadata": {
+        "id": 702
+      }
+    },
+    "illarion:quest_705": {
+      "script": "quest.lilli_gallfing_705_cadomyr",
+      "metadata": {
+        "id": 705
+      }
+    },
+    "illarion:quest_707": {
+      "script": "quest.zlatxhol_707_cadomyr",
+      "metadata": {
+        "id": 707
+      }
+    },
+    "illarion:quest_708": {
+      "script": "quest.thorgrem_silverbeard_708_galmair",
+      "metadata": {
+        "id": 708
+      }
+    },
+    "illarion:quest_709": {
+      "script": "quest.seleseth_709_galmair",
+      "metadata": {
+        "id": 709
+      }
+    },
+    "illarion:quest_710": {
+      "script": "quest.tony_spirotelli_710_galmair",
+      "metadata": {
+        "id": 710
+      }
+    },
+    "illarion:quest_713": {
+      "script": "quest.daniel_brock_713_runewick",
+      "metadata": {
+        "id": 713
+      }
+    },
+    "illarion:quest_714": {
+      "script": "quest.francine_leonard_714_runewick",
+      "metadata": {
+        "id": 714
+      }
+    },
+    "illarion:quest_716": {
+      "script": "quest.thomas_weste_716_runewick",
+      "metadata": {
+        "id": 716
+      }
+    },
+    "illarion:quest_717": {
+      "script": "quest.nadime_717_cadomyr",
+      "metadata": {
+        "id": 717
+      }
+    },
+    "illarion:quest_718": {
+      "script": "quest.alwin_sommerkorn_718_runewick",
+      "metadata": {
+        "id": 718
       }
     }
   }
