@@ -1,0 +1,6166 @@
+{
+  "entries": {
+    "illarion:spawn_3": {
+      "metadata": {
+        "monsterSpawnId": 3
+      },
+      "x": 929,
+      "y": 186,
+      "z": 1,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_4": {
+      "metadata": {
+        "monsterSpawnId": 4
+      },
+      "x": 963,
+      "y": 207,
+      "z": 1,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_5": {
+      "metadata": {
+        "monsterSpawnId": 5
+      },
+      "x": 964,
+      "y": 207,
+      "z": 1,
+      "range": 10,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_6": {
+      "metadata": {
+        "monsterSpawnId": 6
+      },
+      "x": 695,
+      "y": 892,
+      "z": -4,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_7": {
+      "metadata": {
+        "monsterSpawnId": 7
+      },
+      "x": 694,
+      "y": 892,
+      "z": -4,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_8": {
+      "metadata": {
+        "monsterSpawnId": 8
+      },
+      "x": 825,
+      "y": 960,
+      "z": -4,
+      "range": 40,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 40
+    },
+    "illarion:spawn_9": {
+      "metadata": {
+        "monsterSpawnId": 9
+      },
+      "x": 824,
+      "y": 960,
+      "z": -4,
+      "range": 30,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_10": {
+      "metadata": {
+        "monsterSpawnId": 10
+      },
+      "x": 776,
+      "y": 961,
+      "z": -4,
+      "range": 50,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 50
+    },
+    "illarion:spawn_11": {
+      "metadata": {
+        "monsterSpawnId": 11
+      },
+      "x": 775,
+      "y": 961,
+      "z": -4,
+      "range": 50,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 50
+    },
+    "illarion:spawn_12": {
+      "metadata": {
+        "monsterSpawnId": 12
+      },
+      "x": 735,
+      "y": 966,
+      "z": -4,
+      "range": 50,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 50
+    },
+    "illarion:spawn_13": {
+      "metadata": {
+        "monsterSpawnId": 13
+      },
+      "x": 736,
+      "y": 966,
+      "z": -4,
+      "range": 50,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 50
+    },
+    "illarion:spawn_14": {
+      "metadata": {
+        "monsterSpawnId": 14
+      },
+      "x": 340,
+      "y": 378,
+      "z": 1,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_15": {
+      "metadata": {
+        "monsterSpawnId": 15
+      },
+      "x": 312,
+      "y": 375,
+      "z": 1,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_16": {
+      "metadata": {
+        "monsterSpawnId": 16
+      },
+      "x": 317,
+      "y": 375,
+      "z": 1,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_17": {
+      "metadata": {
+        "monsterSpawnId": 17
+      },
+      "x": 289,
+      "y": 376,
+      "z": 1,
+      "range": 10,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_18": {
+      "metadata": {
+        "monsterSpawnId": 18
+      },
+      "x": 248,
+      "y": 757,
+      "z": -3,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_19": {
+      "metadata": {
+        "monsterSpawnId": 19
+      },
+      "x": 249,
+      "y": 757,
+      "z": -3,
+      "range": 15,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_20": {
+      "metadata": {
+        "monsterSpawnId": 20
+      },
+      "x": 281,
+      "y": 809,
+      "z": -3,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_21": {
+      "metadata": {
+        "monsterSpawnId": 21
+      },
+      "x": 282,
+      "y": 809,
+      "z": -3,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_22": {
+      "metadata": {
+        "monsterSpawnId": 22
+      },
+      "x": 293,
+      "y": 759,
+      "z": -3,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_24": {
+      "metadata": {
+        "monsterSpawnId": 24
+      },
+      "x": 209,
+      "y": 806,
+      "z": -6,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_27": {
+      "metadata": {
+        "monsterSpawnId": 27
+      },
+      "x": 929,
+      "y": 361,
+      "z": -3,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_28": {
+      "metadata": {
+        "monsterSpawnId": 28
+      },
+      "x": 935,
+      "y": 390,
+      "z": -3,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_29": {
+      "metadata": {
+        "monsterSpawnId": 29
+      },
+      "x": 936,
+      "y": 390,
+      "z": -3,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_30": {
+      "metadata": {
+        "monsterSpawnId": 30
+      },
+      "x": 895,
+      "y": 365,
+      "z": -3,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_31": {
+      "metadata": {
+        "monsterSpawnId": 31
+      },
+      "x": 896,
+      "y": 393,
+      "z": -3,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_32": {
+      "metadata": {
+        "monsterSpawnId": 32
+      },
+      "x": 897,
+      "y": 414,
+      "z": -3,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_33": {
+      "metadata": {
+        "monsterSpawnId": 33
+      },
+      "x": 908,
+      "y": 422,
+      "z": -3,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_34": {
+      "metadata": {
+        "monsterSpawnId": 34
+      },
+      "x": 928,
+      "y": 417,
+      "z": -3,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_35": {
+      "metadata": {
+        "monsterSpawnId": 35
+      },
+      "x": 929,
+      "y": 417,
+      "z": -3,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_36": {
+      "metadata": {
+        "monsterSpawnId": 36
+      },
+      "x": 596,
+      "y": 319,
+      "z": 1,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_37": {
+      "metadata": {
+        "monsterSpawnId": 37
+      },
+      "x": 596,
+      "y": 319,
+      "z": 2,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_38": {
+      "metadata": {
+        "monsterSpawnId": 38
+      },
+      "x": 596,
+      "y": 319,
+      "z": 3,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_39": {
+      "metadata": {
+        "monsterSpawnId": 39
+      },
+      "x": 613,
+      "y": 330,
+      "z": 1,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_40": {
+      "metadata": {
+        "monsterSpawnId": 40
+      },
+      "x": 566,
+      "y": 364,
+      "z": 1,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_41": {
+      "metadata": {
+        "monsterSpawnId": 41
+      },
+      "x": 554,
+      "y": 336,
+      "z": 1,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_42": {
+      "metadata": {
+        "monsterSpawnId": 42
+      },
+      "x": 575,
+      "y": 330,
+      "z": 1,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_43": {
+      "metadata": {
+        "monsterSpawnId": 43
+      },
+      "x": 575,
+      "y": 330,
+      "z": 2,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_44": {
+      "metadata": {
+        "monsterSpawnId": 44
+      },
+      "x": 576,
+      "y": 330,
+      "z": 2,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_60": {
+      "metadata": {
+        "monsterSpawnId": 60
+      },
+      "x": 549,
+      "y": 551,
+      "z": -3,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_61": {
+      "metadata": {
+        "monsterSpawnId": 61
+      },
+      "x": 559,
+      "y": 550,
+      "z": -6,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_62": {
+      "metadata": {
+        "monsterSpawnId": 62
+      },
+      "x": 558,
+      "y": 550,
+      "z": -6,
+      "range": 15,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_63": {
+      "metadata": {
+        "monsterSpawnId": 63
+      },
+      "x": 284,
+      "y": 541,
+      "z": -3,
+      "range": 50,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 50
+    },
+    "illarion:spawn_64": {
+      "metadata": {
+        "monsterSpawnId": 64
+      },
+      "x": 288,
+      "y": 537,
+      "z": -6,
+      "range": 50,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 50
+    },
+    "illarion:spawn_65": {
+      "metadata": {
+        "monsterSpawnId": 65
+      },
+      "x": 288,
+      "y": 537,
+      "z": -9,
+      "range": 50,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 50
+    },
+    "illarion:spawn_66": {
+      "metadata": {
+        "monsterSpawnId": 66
+      },
+      "x": 288,
+      "y": 537,
+      "z": -12,
+      "range": 50,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 50
+    },
+    "illarion:spawn_67": {
+      "metadata": {
+        "monsterSpawnId": 67
+      },
+      "x": 288,
+      "y": 537,
+      "z": -15,
+      "range": 50,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 50
+    },
+    "illarion:spawn_68": {
+      "metadata": {
+        "monsterSpawnId": 68
+      },
+      "x": 254,
+      "y": 563,
+      "z": -15,
+      "range": 15,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_78": {
+      "metadata": {
+        "monsterSpawnId": 78
+      },
+      "x": 417,
+      "y": 607,
+      "z": -3,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_79": {
+      "metadata": {
+        "monsterSpawnId": 79
+      },
+      "x": 420,
+      "y": 640,
+      "z": -3,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_80": {
+      "metadata": {
+        "monsterSpawnId": 80
+      },
+      "x": 417,
+      "y": 619,
+      "z": -6,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_81": {
+      "metadata": {
+        "monsterSpawnId": 81
+      },
+      "x": 417,
+      "y": 649,
+      "z": -6,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_82": {
+      "metadata": {
+        "monsterSpawnId": 82
+      },
+      "x": 401,
+      "y": 615,
+      "z": -9,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_83": {
+      "metadata": {
+        "monsterSpawnId": 83
+      },
+      "x": 424,
+      "y": 663,
+      "z": -9,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_84": {
+      "metadata": {
+        "monsterSpawnId": 84
+      },
+      "x": 425,
+      "y": 620,
+      "z": -9,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_85": {
+      "metadata": {
+        "monsterSpawnId": 85
+      },
+      "x": 423,
+      "y": 605,
+      "z": -12,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_86": {
+      "metadata": {
+        "monsterSpawnId": 86
+      },
+      "x": 405,
+      "y": 605,
+      "z": -12,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_87": {
+      "metadata": {
+        "monsterSpawnId": 87
+      },
+      "x": 389,
+      "y": 642,
+      "z": -12,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_88": {
+      "metadata": {
+        "monsterSpawnId": 88
+      },
+      "x": 424,
+      "y": 668,
+      "z": -12,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_89": {
+      "metadata": {
+        "monsterSpawnId": 89
+      },
+      "x": 423,
+      "y": 668,
+      "z": -12,
+      "range": 10,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_90": {
+      "metadata": {
+        "monsterSpawnId": 90
+      },
+      "x": 390,
+      "y": 670,
+      "z": -12,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_91": {
+      "metadata": {
+        "monsterSpawnId": 91
+      },
+      "x": 410,
+      "y": 641,
+      "z": -12,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_103": {
+      "metadata": {
+        "monsterSpawnId": 103
+      },
+      "x": 679,
+      "y": 441,
+      "z": -3,
+      "range": 10,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_111": {
+      "metadata": {
+        "monsterSpawnId": 111
+      },
+      "x": 10,
+      "y": 525,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_113": {
+      "metadata": {
+        "monsterSpawnId": 113
+      },
+      "x": 45,
+      "y": 610,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_118": {
+      "metadata": {
+        "monsterSpawnId": 118
+      },
+      "x": 90,
+      "y": 760,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_119": {
+      "metadata": {
+        "monsterSpawnId": 119
+      },
+      "x": 110,
+      "y": 810,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_120": {
+      "metadata": {
+        "monsterSpawnId": 120
+      },
+      "x": 125,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_123": {
+      "metadata": {
+        "monsterSpawnId": 123
+      },
+      "x": 126,
+      "y": 775,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_125": {
+      "metadata": {
+        "monsterSpawnId": 125
+      },
+      "x": 160,
+      "y": 835,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_126": {
+      "metadata": {
+        "monsterSpawnId": 126
+      },
+      "x": 170,
+      "y": 470,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_127": {
+      "metadata": {
+        "monsterSpawnId": 127
+      },
+      "x": 175,
+      "y": 375,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_128": {
+      "metadata": {
+        "monsterSpawnId": 128
+      },
+      "x": 175,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_129": {
+      "metadata": {
+        "monsterSpawnId": 129
+      },
+      "x": 225,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_130": {
+      "metadata": {
+        "monsterSpawnId": 130
+      },
+      "x": 175,
+      "y": 675,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_132": {
+      "metadata": {
+        "monsterSpawnId": 132
+      },
+      "x": 176,
+      "y": 375,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_133": {
+      "metadata": {
+        "monsterSpawnId": 133
+      },
+      "x": 176,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_136": {
+      "metadata": {
+        "monsterSpawnId": 136
+      },
+      "x": 176,
+      "y": 775,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_1": {
+      "metadata": {
+        "monsterSpawnId": 1
+      },
+      "x": 862,
+      "y": 788,
+      "z": -3,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_102": {
+      "metadata": {
+        "monsterSpawnId": 102
+      },
+      "x": 157,
+      "y": 666,
+      "z": -4,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_100": {
+      "metadata": {
+        "monsterSpawnId": 100
+      },
+      "x": 120,
+      "y": 655,
+      "z": -4,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_101": {
+      "metadata": {
+        "monsterSpawnId": 101
+      },
+      "x": 121,
+      "y": 655,
+      "z": -4,
+      "range": 30,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_98": {
+      "metadata": {
+        "monsterSpawnId": 98
+      },
+      "x": 150,
+      "y": 662,
+      "z": -4,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_99": {
+      "metadata": {
+        "monsterSpawnId": 99
+      },
+      "x": 151,
+      "y": 662,
+      "z": -4,
+      "range": 15,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_94": {
+      "metadata": {
+        "monsterSpawnId": 94
+      },
+      "x": 327,
+      "y": 311,
+      "z": -6,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_77": {
+      "metadata": {
+        "monsterSpawnId": 77
+      },
+      "x": 218,
+      "y": 492,
+      "z": -3,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_95": {
+      "metadata": {
+        "monsterSpawnId": 95
+      },
+      "x": 327,
+      "y": 331,
+      "z": -6,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_96": {
+      "metadata": {
+        "monsterSpawnId": 96
+      },
+      "x": 298,
+      "y": 341,
+      "z": -6,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_97": {
+      "metadata": {
+        "monsterSpawnId": 97
+      },
+      "x": 298,
+      "y": 303,
+      "z": -6,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_2": {
+      "metadata": {
+        "monsterSpawnId": 2
+      },
+      "x": 863,
+      "y": 815,
+      "z": -3,
+      "range": 15,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_105": {
+      "metadata": {
+        "monsterSpawnId": 105
+      },
+      "x": 715,
+      "y": 405,
+      "z": -3,
+      "range": 50,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 50
+    },
+    "illarion:spawn_106": {
+      "metadata": {
+        "monsterSpawnId": 106
+      },
+      "x": 716,
+      "y": 405,
+      "z": -3,
+      "range": 50,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 50
+    },
+    "illarion:spawn_108": {
+      "metadata": {
+        "monsterSpawnId": 108
+      },
+      "x": 730,
+      "y": 410,
+      "z": -3,
+      "range": 25,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 25
+    },
+    "illarion:spawn_109": {
+      "metadata": {
+        "monsterSpawnId": 109
+      },
+      "x": 731,
+      "y": 410,
+      "z": -3,
+      "range": 25,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 25
+    },
+    "illarion:spawn_55": {
+      "metadata": {
+        "monsterSpawnId": 55
+      },
+      "x": 201,
+      "y": 390,
+      "z": -3,
+      "range": 30,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_137": {
+      "metadata": {
+        "monsterSpawnId": 137
+      },
+      "x": 180,
+      "y": 555,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_138": {
+      "metadata": {
+        "monsterSpawnId": 138
+      },
+      "x": 190,
+      "y": 810,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_139": {
+      "metadata": {
+        "monsterSpawnId": 139
+      },
+      "x": 220,
+      "y": 825,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_140": {
+      "metadata": {
+        "monsterSpawnId": 140
+      },
+      "x": 225,
+      "y": 375,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_141": {
+      "metadata": {
+        "monsterSpawnId": 141
+      },
+      "x": 225,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_142": {
+      "metadata": {
+        "monsterSpawnId": 142
+      },
+      "x": 225,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_144": {
+      "metadata": {
+        "monsterSpawnId": 144
+      },
+      "x": 225,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_145": {
+      "metadata": {
+        "monsterSpawnId": 145
+      },
+      "x": 226,
+      "y": 375,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_146": {
+      "metadata": {
+        "monsterSpawnId": 146
+      },
+      "x": 226,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_147": {
+      "metadata": {
+        "monsterSpawnId": 147
+      },
+      "x": 226,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_149": {
+      "metadata": {
+        "monsterSpawnId": 149
+      },
+      "x": 226,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_150": {
+      "metadata": {
+        "monsterSpawnId": 150
+      },
+      "x": 235,
+      "y": 785,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_151": {
+      "metadata": {
+        "monsterSpawnId": 151
+      },
+      "x": 236,
+      "y": 785,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_152": {
+      "metadata": {
+        "monsterSpawnId": 152
+      },
+      "x": 240,
+      "y": 825,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_153": {
+      "metadata": {
+        "monsterSpawnId": 153
+      },
+      "x": 265,
+      "y": 715,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_154": {
+      "metadata": {
+        "monsterSpawnId": 154
+      },
+      "x": 265,
+      "y": 780,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_155": {
+      "metadata": {
+        "monsterSpawnId": 155
+      },
+      "x": 266,
+      "y": 715,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_46": {
+      "metadata": {
+        "monsterSpawnId": 46
+      },
+      "x": 640,
+      "y": 380,
+      "z": 1,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_47": {
+      "metadata": {
+        "monsterSpawnId": 47
+      },
+      "x": 630,
+      "y": 430,
+      "z": 1,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_49": {
+      "metadata": {
+        "monsterSpawnId": 49
+      },
+      "x": 690,
+      "y": 450,
+      "z": 1,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_117": {
+      "metadata": {
+        "monsterSpawnId": 117
+      },
+      "x": 75,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_23": {
+      "metadata": {
+        "monsterSpawnId": 23
+      },
+      "x": 230,
+      "y": 800,
+      "z": -6,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_25": {
+      "metadata": {
+        "monsterSpawnId": 25
+      },
+      "x": 226,
+      "y": 798,
+      "z": -8,
+      "range": 40,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 40
+    },
+    "illarion:spawn_26": {
+      "metadata": {
+        "monsterSpawnId": 26
+      },
+      "x": 225,
+      "y": 798,
+      "z": -8,
+      "range": 40,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 40
+    },
+    "illarion:spawn_104": {
+      "metadata": {
+        "monsterSpawnId": 104
+      },
+      "x": 689,
+      "y": 392,
+      "z": -3,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_107": {
+      "metadata": {
+        "monsterSpawnId": 107
+      },
+      "x": 728,
+      "y": 428,
+      "z": -3,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_110": {
+      "metadata": {
+        "monsterSpawnId": 110
+      },
+      "x": 742,
+      "y": 406,
+      "z": -3,
+      "range": 25,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 25
+    },
+    "illarion:spawn_156": {
+      "metadata": {
+        "monsterSpawnId": 156
+      },
+      "x": 266,
+      "y": 780,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_157": {
+      "metadata": {
+        "monsterSpawnId": 157
+      },
+      "x": 275,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_158": {
+      "metadata": {
+        "monsterSpawnId": 158
+      },
+      "x": 275,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_159": {
+      "metadata": {
+        "monsterSpawnId": 159
+      },
+      "x": 275,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_161": {
+      "metadata": {
+        "monsterSpawnId": 161
+      },
+      "x": 275,
+      "y": 825,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_163": {
+      "metadata": {
+        "monsterSpawnId": 163
+      },
+      "x": 276,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_165": {
+      "metadata": {
+        "monsterSpawnId": 165
+      },
+      "x": 276,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_166": {
+      "metadata": {
+        "monsterSpawnId": 166
+      },
+      "x": 276,
+      "y": 825,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_168": {
+      "metadata": {
+        "monsterSpawnId": 168
+      },
+      "x": 325,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_169": {
+      "metadata": {
+        "monsterSpawnId": 169
+      },
+      "x": 325,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_170": {
+      "metadata": {
+        "monsterSpawnId": 170
+      },
+      "x": 325,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_171": {
+      "metadata": {
+        "monsterSpawnId": 171
+      },
+      "x": 325,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_172": {
+      "metadata": {
+        "monsterSpawnId": 172
+      },
+      "x": 326,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_174": {
+      "metadata": {
+        "monsterSpawnId": 174
+      },
+      "x": 326,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_175": {
+      "metadata": {
+        "monsterSpawnId": 175
+      },
+      "x": 326,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_176": {
+      "metadata": {
+        "monsterSpawnId": 176
+      },
+      "x": 326,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_177": {
+      "metadata": {
+        "monsterSpawnId": 177
+      },
+      "x": 360,
+      "y": 70,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_180": {
+      "metadata": {
+        "monsterSpawnId": 180
+      },
+      "x": 375,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_115": {
+      "metadata": {
+        "monsterSpawnId": 115
+      },
+      "x": 51,
+      "y": 970,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_182": {
+      "metadata": {
+        "monsterSpawnId": 182
+      },
+      "x": 375,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_183": {
+      "metadata": {
+        "monsterSpawnId": 183
+      },
+      "x": 375,
+      "y": 775,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_184": {
+      "metadata": {
+        "monsterSpawnId": 184
+      },
+      "x": 376,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_185": {
+      "metadata": {
+        "monsterSpawnId": 185
+      },
+      "x": 376,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_186": {
+      "metadata": {
+        "monsterSpawnId": 186
+      },
+      "x": 376,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_188": {
+      "metadata": {
+        "monsterSpawnId": 188
+      },
+      "x": 405,
+      "y": 580,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_189": {
+      "metadata": {
+        "monsterSpawnId": 189
+      },
+      "x": 420,
+      "y": 65,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_190": {
+      "metadata": {
+        "monsterSpawnId": 190
+      },
+      "x": 425,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_191": {
+      "metadata": {
+        "monsterSpawnId": 191
+      },
+      "x": 425,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_192": {
+      "metadata": {
+        "monsterSpawnId": 192
+      },
+      "x": 425,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_193": {
+      "metadata": {
+        "monsterSpawnId": 193
+      },
+      "x": 425,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_194": {
+      "metadata": {
+        "monsterSpawnId": 194
+      },
+      "x": 425,
+      "y": 660,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_195": {
+      "metadata": {
+        "monsterSpawnId": 195
+      },
+      "x": 425,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_196": {
+      "metadata": {
+        "monsterSpawnId": 196
+      },
+      "x": 426,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_197": {
+      "metadata": {
+        "monsterSpawnId": 197
+      },
+      "x": 426,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_198": {
+      "metadata": {
+        "monsterSpawnId": 198
+      },
+      "x": 426,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_199": {
+      "metadata": {
+        "monsterSpawnId": 199
+      },
+      "x": 426,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_200": {
+      "metadata": {
+        "monsterSpawnId": 200
+      },
+      "x": 426,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_201": {
+      "metadata": {
+        "monsterSpawnId": 201
+      },
+      "x": 430,
+      "y": 580,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_202": {
+      "metadata": {
+        "monsterSpawnId": 202
+      },
+      "x": 435,
+      "y": 560,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_203": {
+      "metadata": {
+        "monsterSpawnId": 203
+      },
+      "x": 440,
+      "y": 125,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_204": {
+      "metadata": {
+        "monsterSpawnId": 204
+      },
+      "x": 450,
+      "y": 770,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_205": {
+      "metadata": {
+        "monsterSpawnId": 205
+      },
+      "x": 455,
+      "y": 705,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_207": {
+      "metadata": {
+        "monsterSpawnId": 207
+      },
+      "x": 475,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_208": {
+      "metadata": {
+        "monsterSpawnId": 208
+      },
+      "x": 475,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_209": {
+      "metadata": {
+        "monsterSpawnId": 209
+      },
+      "x": 475,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_210": {
+      "metadata": {
+        "monsterSpawnId": 210
+      },
+      "x": 475,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_211": {
+      "metadata": {
+        "monsterSpawnId": 211
+      },
+      "x": 476,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_212": {
+      "metadata": {
+        "monsterSpawnId": 212
+      },
+      "x": 476,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_214": {
+      "metadata": {
+        "monsterSpawnId": 214
+      },
+      "x": 476,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_215": {
+      "metadata": {
+        "monsterSpawnId": 215
+      },
+      "x": 485,
+      "y": 125,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_216": {
+      "metadata": {
+        "monsterSpawnId": 216
+      },
+      "x": 486,
+      "y": 125,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_217": {
+      "metadata": {
+        "monsterSpawnId": 217
+      },
+      "x": 490,
+      "y": 20,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_218": {
+      "metadata": {
+        "monsterSpawnId": 218
+      },
+      "x": 501,
+      "y": 107,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_220": {
+      "metadata": {
+        "monsterSpawnId": 220
+      },
+      "x": 525,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_221": {
+      "metadata": {
+        "monsterSpawnId": 221
+      },
+      "x": 525,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_223": {
+      "metadata": {
+        "monsterSpawnId": 223
+      },
+      "x": 525,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_224": {
+      "metadata": {
+        "monsterSpawnId": 224
+      },
+      "x": 525,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_225": {
+      "metadata": {
+        "monsterSpawnId": 225
+      },
+      "x": 525,
+      "y": 675,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_226": {
+      "metadata": {
+        "monsterSpawnId": 226
+      },
+      "x": 525,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_228": {
+      "metadata": {
+        "monsterSpawnId": 228
+      },
+      "x": 526,
+      "y": 225,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_229": {
+      "metadata": {
+        "monsterSpawnId": 229
+      },
+      "x": 526,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_230": {
+      "metadata": {
+        "monsterSpawnId": 230
+      },
+      "x": 526,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_231": {
+      "metadata": {
+        "monsterSpawnId": 231
+      },
+      "x": 526,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_232": {
+      "metadata": {
+        "monsterSpawnId": 232
+      },
+      "x": 526,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_233": {
+      "metadata": {
+        "monsterSpawnId": 233
+      },
+      "x": 526,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_234": {
+      "metadata": {
+        "monsterSpawnId": 234
+      },
+      "x": 526,
+      "y": 675,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_235": {
+      "metadata": {
+        "monsterSpawnId": 235
+      },
+      "x": 526,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_240": {
+      "metadata": {
+        "monsterSpawnId": 240
+      },
+      "x": 575,
+      "y": 330,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_241": {
+      "metadata": {
+        "monsterSpawnId": 241
+      },
+      "x": 575,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_243": {
+      "metadata": {
+        "monsterSpawnId": 243
+      },
+      "x": 575,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_246": {
+      "metadata": {
+        "monsterSpawnId": 246
+      },
+      "x": 576,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_247": {
+      "metadata": {
+        "monsterSpawnId": 247
+      },
+      "x": 576,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_248": {
+      "metadata": {
+        "monsterSpawnId": 248
+      },
+      "x": 576,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_249": {
+      "metadata": {
+        "monsterSpawnId": 249
+      },
+      "x": 576,
+      "y": 775,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_250": {
+      "metadata": {
+        "monsterSpawnId": 250
+      },
+      "x": 585,
+      "y": 335,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_251": {
+      "metadata": {
+        "monsterSpawnId": 251
+      },
+      "x": 590,
+      "y": 390,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_252": {
+      "metadata": {
+        "monsterSpawnId": 252
+      },
+      "x": 595,
+      "y": 320,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_256": {
+      "metadata": {
+        "monsterSpawnId": 256
+      },
+      "x": 610,
+      "y": 885,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_257": {
+      "metadata": {
+        "monsterSpawnId": 257
+      },
+      "x": 611,
+      "y": 885,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_260": {
+      "metadata": {
+        "monsterSpawnId": 260
+      },
+      "x": 625,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_263": {
+      "metadata": {
+        "monsterSpawnId": 263
+      },
+      "x": 626,
+      "y": 225,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_266": {
+      "metadata": {
+        "monsterSpawnId": 266
+      },
+      "x": 650,
+      "y": 490,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_269": {
+      "metadata": {
+        "monsterSpawnId": 269
+      },
+      "x": 670,
+      "y": 420,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_270": {
+      "metadata": {
+        "monsterSpawnId": 270
+      },
+      "x": 671,
+      "y": 420,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_271": {
+      "metadata": {
+        "monsterSpawnId": 271
+      },
+      "x": 675,
+      "y": 125,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_179": {
+      "metadata": {
+        "monsterSpawnId": 179
+      },
+      "x": 365,
+      "y": 535,
+      "z": 0,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_268": {
+      "metadata": {
+        "monsterSpawnId": 268
+      },
+      "x": 656,
+      "y": 408,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_253": {
+      "metadata": {
+        "monsterSpawnId": 253
+      },
+      "x": 450,
+      "y": 275,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_237": {
+      "metadata": {
+        "monsterSpawnId": 237
+      },
+      "x": 550,
+      "y": 375,
+      "z": 0,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_258": {
+      "metadata": {
+        "monsterSpawnId": 258
+      },
+      "x": 636,
+      "y": 126,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_262": {
+      "metadata": {
+        "monsterSpawnId": 262
+      },
+      "x": 636,
+      "y": 127,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_273": {
+      "metadata": {
+        "monsterSpawnId": 273
+      },
+      "x": 675,
+      "y": 225,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_276": {
+      "metadata": {
+        "monsterSpawnId": 276
+      },
+      "x": 676,
+      "y": 225,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_278": {
+      "metadata": {
+        "monsterSpawnId": 278
+      },
+      "x": 690,
+      "y": 935,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_279": {
+      "metadata": {
+        "monsterSpawnId": 279
+      },
+      "x": 691,
+      "y": 935,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_280": {
+      "metadata": {
+        "monsterSpawnId": 280
+      },
+      "x": 710,
+      "y": 260,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_281": {
+      "metadata": {
+        "monsterSpawnId": 281
+      },
+      "x": 725,
+      "y": 25,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_283": {
+      "metadata": {
+        "monsterSpawnId": 283
+      },
+      "x": 725,
+      "y": 125,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_285": {
+      "metadata": {
+        "monsterSpawnId": 285
+      },
+      "x": 725,
+      "y": 365,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_286": {
+      "metadata": {
+        "monsterSpawnId": 286
+      },
+      "x": 725,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_287": {
+      "metadata": {
+        "monsterSpawnId": 287
+      },
+      "x": 725,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_288": {
+      "metadata": {
+        "monsterSpawnId": 288
+      },
+      "x": 725,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_289": {
+      "metadata": {
+        "monsterSpawnId": 289
+      },
+      "x": 725,
+      "y": 575,
+      "z": 0,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_290": {
+      "metadata": {
+        "monsterSpawnId": 290
+      },
+      "x": 726,
+      "y": 25,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_291": {
+      "metadata": {
+        "monsterSpawnId": 291
+      },
+      "x": 726,
+      "y": 75,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_292": {
+      "metadata": {
+        "monsterSpawnId": 292
+      },
+      "x": 726,
+      "y": 125,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_293": {
+      "metadata": {
+        "monsterSpawnId": 293
+      },
+      "x": 726,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_265": {
+      "metadata": {
+        "monsterSpawnId": 265
+      },
+      "x": 640,
+      "y": 690,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "t",
+      "spawnRange": 10
+    },
+    "illarion:spawn_294": {
+      "metadata": {
+        "monsterSpawnId": 294
+      },
+      "x": 726,
+      "y": 365,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_296": {
+      "metadata": {
+        "monsterSpawnId": 296
+      },
+      "x": 726,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_297": {
+      "metadata": {
+        "monsterSpawnId": 297
+      },
+      "x": 726,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_298": {
+      "metadata": {
+        "monsterSpawnId": 298
+      },
+      "x": 740,
+      "y": 260,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_301": {
+      "metadata": {
+        "monsterSpawnId": 301
+      },
+      "x": 761,
+      "y": 710,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_307": {
+      "metadata": {
+        "monsterSpawnId": 307
+      },
+      "x": 775,
+      "y": 300,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_308": {
+      "metadata": {
+        "monsterSpawnId": 308
+      },
+      "x": 775,
+      "y": 365,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_311": {
+      "metadata": {
+        "monsterSpawnId": 311
+      },
+      "x": 775,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_312": {
+      "metadata": {
+        "monsterSpawnId": 312
+      },
+      "x": 775,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_315": {
+      "metadata": {
+        "monsterSpawnId": 315
+      },
+      "x": 776,
+      "y": 25,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_316": {
+      "metadata": {
+        "monsterSpawnId": 316
+      },
+      "x": 776,
+      "y": 75,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_318": {
+      "metadata": {
+        "monsterSpawnId": 318
+      },
+      "x": 776,
+      "y": 225,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_319": {
+      "metadata": {
+        "monsterSpawnId": 319
+      },
+      "x": 776,
+      "y": 300,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_320": {
+      "metadata": {
+        "monsterSpawnId": 320
+      },
+      "x": 776,
+      "y": 365,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_324": {
+      "metadata": {
+        "monsterSpawnId": 324
+      },
+      "x": 776,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_325": {
+      "metadata": {
+        "monsterSpawnId": 325
+      },
+      "x": 786,
+      "y": 705,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_327": {
+      "metadata": {
+        "monsterSpawnId": 327
+      },
+      "x": 790,
+      "y": 350,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_328": {
+      "metadata": {
+        "monsterSpawnId": 328
+      },
+      "x": 800,
+      "y": 450,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_333": {
+      "metadata": {
+        "monsterSpawnId": 333
+      },
+      "x": 825,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_335": {
+      "metadata": {
+        "monsterSpawnId": 335
+      },
+      "x": 825,
+      "y": 275,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_336": {
+      "metadata": {
+        "monsterSpawnId": 336
+      },
+      "x": 825,
+      "y": 325,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_338": {
+      "metadata": {
+        "monsterSpawnId": 338
+      },
+      "x": 825,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_339": {
+      "metadata": {
+        "monsterSpawnId": 339
+      },
+      "x": 825,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_341": {
+      "metadata": {
+        "monsterSpawnId": 341
+      },
+      "x": 826,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_342": {
+      "metadata": {
+        "monsterSpawnId": 342
+      },
+      "x": 826,
+      "y": 225,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_344": {
+      "metadata": {
+        "monsterSpawnId": 344
+      },
+      "x": 826,
+      "y": 325,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_346": {
+      "metadata": {
+        "monsterSpawnId": 346
+      },
+      "x": 826,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_347": {
+      "metadata": {
+        "monsterSpawnId": 347
+      },
+      "x": 826,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_348": {
+      "metadata": {
+        "monsterSpawnId": 348
+      },
+      "x": 840,
+      "y": 140,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_351": {
+      "metadata": {
+        "monsterSpawnId": 351
+      },
+      "x": 851,
+      "y": 875,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_352": {
+      "metadata": {
+        "monsterSpawnId": 352
+      },
+      "x": 860,
+      "y": 440,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_353": {
+      "metadata": {
+        "monsterSpawnId": 353
+      },
+      "x": 875,
+      "y": 25,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_355": {
+      "metadata": {
+        "monsterSpawnId": 355
+      },
+      "x": 875,
+      "y": 75,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_356": {
+      "metadata": {
+        "monsterSpawnId": 356
+      },
+      "x": 875,
+      "y": 930,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_360": {
+      "metadata": {
+        "monsterSpawnId": 360
+      },
+      "x": 875,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_361": {
+      "metadata": {
+        "monsterSpawnId": 361
+      },
+      "x": 875,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_363": {
+      "metadata": {
+        "monsterSpawnId": 363
+      },
+      "x": 876,
+      "y": 25,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_365": {
+      "metadata": {
+        "monsterSpawnId": 365
+      },
+      "x": 876,
+      "y": 75,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_366": {
+      "metadata": {
+        "monsterSpawnId": 366
+      },
+      "x": 876,
+      "y": 125,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_367": {
+      "metadata": {
+        "monsterSpawnId": 367
+      },
+      "x": 876,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_368": {
+      "metadata": {
+        "monsterSpawnId": 368
+      },
+      "x": 876,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_371": {
+      "metadata": {
+        "monsterSpawnId": 371
+      },
+      "x": 885,
+      "y": 360,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_372": {
+      "metadata": {
+        "monsterSpawnId": 372
+      },
+      "x": 886,
+      "y": 360,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_373": {
+      "metadata": {
+        "monsterSpawnId": 373
+      },
+      "x": 900,
+      "y": 365,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_376": {
+      "metadata": {
+        "monsterSpawnId": 376
+      },
+      "x": 915,
+      "y": 935,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_377": {
+      "metadata": {
+        "monsterSpawnId": 377
+      },
+      "x": 925,
+      "y": 25,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_378": {
+      "metadata": {
+        "monsterSpawnId": 378
+      },
+      "x": 925,
+      "y": 75,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_379": {
+      "metadata": {
+        "monsterSpawnId": 379
+      },
+      "x": 925,
+      "y": 125,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_380": {
+      "metadata": {
+        "monsterSpawnId": 380
+      },
+      "x": 925,
+      "y": 225,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_381": {
+      "metadata": {
+        "monsterSpawnId": 381
+      },
+      "x": 935,
+      "y": 335,
+      "z": 0,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_382": {
+      "metadata": {
+        "monsterSpawnId": 382
+      },
+      "x": 925,
+      "y": 375,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_383": {
+      "metadata": {
+        "monsterSpawnId": 383
+      },
+      "x": 925,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_384": {
+      "metadata": {
+        "monsterSpawnId": 384
+      },
+      "x": 940,
+      "y": 460,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_385": {
+      "metadata": {
+        "monsterSpawnId": 385
+      },
+      "x": 920,
+      "y": 460,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_386": {
+      "metadata": {
+        "monsterSpawnId": 386
+      },
+      "x": 926,
+      "y": 25,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_387": {
+      "metadata": {
+        "monsterSpawnId": 387
+      },
+      "x": 926,
+      "y": 75,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_388": {
+      "metadata": {
+        "monsterSpawnId": 388
+      },
+      "x": 926,
+      "y": 225,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_389": {
+      "metadata": {
+        "monsterSpawnId": 389
+      },
+      "x": 926,
+      "y": 375,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_390": {
+      "metadata": {
+        "monsterSpawnId": 390
+      },
+      "x": 926,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_391": {
+      "metadata": {
+        "monsterSpawnId": 391
+      },
+      "x": 926,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_392": {
+      "metadata": {
+        "monsterSpawnId": 392
+      },
+      "x": 940,
+      "y": 190,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_393": {
+      "metadata": {
+        "monsterSpawnId": 393
+      },
+      "x": 945,
+      "y": 440,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_395": {
+      "metadata": {
+        "monsterSpawnId": 395
+      },
+      "x": 975,
+      "y": 25,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_396": {
+      "metadata": {
+        "monsterSpawnId": 396
+      },
+      "x": 975,
+      "y": 75,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_397": {
+      "metadata": {
+        "monsterSpawnId": 397
+      },
+      "x": 975,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_398": {
+      "metadata": {
+        "monsterSpawnId": 398
+      },
+      "x": 975,
+      "y": 225,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_400": {
+      "metadata": {
+        "monsterSpawnId": 400
+      },
+      "x": 975,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_401": {
+      "metadata": {
+        "monsterSpawnId": 401
+      },
+      "x": 976,
+      "y": 25,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_402": {
+      "metadata": {
+        "monsterSpawnId": 402
+      },
+      "x": 976,
+      "y": 75,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_403": {
+      "metadata": {
+        "monsterSpawnId": 403
+      },
+      "x": 976,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_404": {
+      "metadata": {
+        "monsterSpawnId": 404
+      },
+      "x": 976,
+      "y": 225,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_406": {
+      "metadata": {
+        "monsterSpawnId": 406
+      },
+      "x": 976,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_407": {
+      "metadata": {
+        "monsterSpawnId": 407
+      },
+      "x": 320,
+      "y": 360,
+      "z": 1,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_306": {
+      "metadata": {
+        "monsterSpawnId": 306
+      },
+      "x": 543,
+      "y": 181,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_112": {
+      "metadata": {
+        "monsterSpawnId": 112
+      },
+      "x": 50,
+      "y": 575,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_178": {
+      "metadata": {
+        "monsterSpawnId": 178
+      },
+      "x": 360,
+      "y": 490,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_428": {
+      "metadata": {
+        "monsterSpawnId": 428
+      },
+      "x": 625,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_431": {
+      "metadata": {
+        "monsterSpawnId": 431
+      },
+      "x": 76,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_430": {
+      "metadata": {
+        "monsterSpawnId": 430
+      },
+      "x": 76,
+      "y": 675,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_432": {
+      "metadata": {
+        "monsterSpawnId": 432
+      },
+      "x": 462,
+      "y": 758,
+      "z": -3,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_433": {
+      "metadata": {
+        "monsterSpawnId": 433
+      },
+      "x": 499,
+      "y": 776,
+      "z": -6,
+      "range": 60,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 60
+    },
+    "illarion:spawn_435": {
+      "metadata": {
+        "monsterSpawnId": 435
+      },
+      "x": 504,
+      "y": 757,
+      "z": -9,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_437": {
+      "metadata": {
+        "monsterSpawnId": 437
+      },
+      "x": 438,
+      "y": 815,
+      "z": -9,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_438": {
+      "metadata": {
+        "monsterSpawnId": 438
+      },
+      "x": 436,
+      "y": 768,
+      "z": -9,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_116": {
+      "metadata": {
+        "monsterSpawnId": 116
+      },
+      "x": 75,
+      "y": 675,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_326": {
+      "metadata": {
+        "monsterSpawnId": 326
+      },
+      "x": 766,
+      "y": 800,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_349": {
+      "metadata": {
+        "monsterSpawnId": 349
+      },
+      "x": 850,
+      "y": 775,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_410": {
+      "metadata": {
+        "monsterSpawnId": 410
+      },
+      "x": 31,
+      "y": 48,
+      "z": 100,
+      "range": 5,
+      "minSpawnTime": 1,
+      "maxSpawnTime": 1,
+      "spawnAll": "t",
+      "spawnRange": 5
+    },
+    "illarion:spawn_434": {
+      "metadata": {
+        "monsterSpawnId": 434
+      },
+      "x": 514,
+      "y": 802,
+      "z": -9,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_439": {
+      "metadata": {
+        "monsterSpawnId": 439
+      },
+      "x": 488,
+      "y": 897,
+      "z": -9,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_441": {
+      "metadata": {
+        "monsterSpawnId": 441
+      },
+      "x": 440,
+      "y": 841,
+      "z": -10,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_267": {
+      "metadata": {
+        "monsterSpawnId": 267
+      },
+      "x": 655,
+      "y": 408,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_442": {
+      "metadata": {
+        "monsterSpawnId": 442
+      },
+      "x": 505,
+      "y": 836,
+      "z": -9,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_444": {
+      "metadata": {
+        "monsterSpawnId": 444
+      },
+      "x": 476,
+      "y": 250,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_446": {
+      "metadata": {
+        "monsterSpawnId": 446
+      },
+      "x": 776,
+      "y": 750,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_448": {
+      "metadata": {
+        "monsterSpawnId": 448
+      },
+      "x": 826,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_409": {
+      "metadata": {
+        "monsterSpawnId": 409
+      },
+      "x": 661,
+      "y": 410,
+      "z": 2,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_408": {
+      "metadata": {
+        "monsterSpawnId": 408
+      },
+      "x": 660,
+      "y": 410,
+      "z": 2,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_411": {
+      "metadata": {
+        "monsterSpawnId": 411
+      },
+      "x": 912,
+      "y": 536,
+      "z": -6,
+      "range": 13,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 13
+    },
+    "illarion:spawn_412": {
+      "metadata": {
+        "monsterSpawnId": 412
+      },
+      "x": 866,
+      "y": 514,
+      "z": -6,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_413": {
+      "metadata": {
+        "monsterSpawnId": 413
+      },
+      "x": 899,
+      "y": 480,
+      "z": -6,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_414": {
+      "metadata": {
+        "monsterSpawnId": 414
+      },
+      "x": 860,
+      "y": 480,
+      "z": -6,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_449": {
+      "metadata": {
+        "monsterSpawnId": 449
+      },
+      "x": 551,
+      "y": 127,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_450": {
+      "metadata": {
+        "monsterSpawnId": 450
+      },
+      "x": 550,
+      "y": 538,
+      "z": -6,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_451": {
+      "metadata": {
+        "monsterSpawnId": 451
+      },
+      "x": 816,
+      "y": 513,
+      "z": -12,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_452": {
+      "metadata": {
+        "monsterSpawnId": 452
+      },
+      "x": 719,
+      "y": 280,
+      "z": -9,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_453": {
+      "metadata": {
+        "monsterSpawnId": 453
+      },
+      "x": 767,
+      "y": 279,
+      "z": -9,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_454": {
+      "metadata": {
+        "monsterSpawnId": 454
+      },
+      "x": 557,
+      "y": 263,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_455": {
+      "metadata": {
+        "monsterSpawnId": 455
+      },
+      "x": 712,
+      "y": 196,
+      "z": -9,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_456": {
+      "metadata": {
+        "monsterSpawnId": 456
+      },
+      "x": 15,
+      "y": 685,
+      "z": 2,
+      "range": 3,
+      "minSpawnTime": 2,
+      "maxSpawnTime": 2,
+      "spawnAll": "f",
+      "spawnRange": 3
+    },
+    "illarion:spawn_50": {
+      "metadata": {
+        "monsterSpawnId": 50
+      },
+      "x": 376,
+      "y": 288,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 2
+    },
+    "illarion:spawn_457": {
+      "metadata": {
+        "monsterSpawnId": 457
+      },
+      "x": 804,
+      "y": 633,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_458": {
+      "metadata": {
+        "monsterSpawnId": 458
+      },
+      "x": 795,
+      "y": 651,
+      "z": -3,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_459": {
+      "metadata": {
+        "monsterSpawnId": 459
+      },
+      "x": 766,
+      "y": 619,
+      "z": -3,
+      "range": 10,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_460": {
+      "metadata": {
+        "monsterSpawnId": 460
+      },
+      "x": 720,
+      "y": 676,
+      "z": -3,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_461": {
+      "metadata": {
+        "monsterSpawnId": 461
+      },
+      "x": 733,
+      "y": 625,
+      "z": -3,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_463": {
+      "metadata": {
+        "monsterSpawnId": 463
+      },
+      "x": 708,
+      "y": 649,
+      "z": -6,
+      "range": 10,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_464": {
+      "metadata": {
+        "monsterSpawnId": 464
+      },
+      "x": 703,
+      "y": 619,
+      "z": -6,
+      "range": 10,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_465": {
+      "metadata": {
+        "monsterSpawnId": 465
+      },
+      "x": 687,
+      "y": 638,
+      "z": -6,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_466": {
+      "metadata": {
+        "monsterSpawnId": 466
+      },
+      "x": 793,
+      "y": 641,
+      "z": 2,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_462": {
+      "metadata": {
+        "monsterSpawnId": 462
+      },
+      "x": 680,
+      "y": 635,
+      "z": -3,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_70": {
+      "metadata": {
+        "monsterSpawnId": 70
+      },
+      "x": 705,
+      "y": 282,
+      "z": -10,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_436": {
+      "metadata": {
+        "monsterSpawnId": 436
+      },
+      "x": 458,
+      "y": 849,
+      "z": -9,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_93": {
+      "metadata": {
+        "monsterSpawnId": 93
+      },
+      "x": 291,
+      "y": 296,
+      "z": -6,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_56": {
+      "metadata": {
+        "monsterSpawnId": 56
+      },
+      "x": 324,
+      "y": 647,
+      "z": -9,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_57": {
+      "metadata": {
+        "monsterSpawnId": 57
+      },
+      "x": 325,
+      "y": 647,
+      "z": -9,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_58": {
+      "metadata": {
+        "monsterSpawnId": 58
+      },
+      "x": 324,
+      "y": 647,
+      "z": -8,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_59": {
+      "metadata": {
+        "monsterSpawnId": 59
+      },
+      "x": 325,
+      "y": 647,
+      "z": -8,
+      "range": 30,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_71": {
+      "metadata": {
+        "monsterSpawnId": 71
+      },
+      "x": 550,
+      "y": 190,
+      "z": -3,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_72": {
+      "metadata": {
+        "monsterSpawnId": 72
+      },
+      "x": 575,
+      "y": 190,
+      "z": -3,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_73": {
+      "metadata": {
+        "monsterSpawnId": 73
+      },
+      "x": 612,
+      "y": 193,
+      "z": -3,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_74": {
+      "metadata": {
+        "monsterSpawnId": 74
+      },
+      "x": 577,
+      "y": 174,
+      "z": -3,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_52": {
+      "metadata": {
+        "monsterSpawnId": 52
+      },
+      "x": 60,
+      "y": 425,
+      "z": -6,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_53": {
+      "metadata": {
+        "monsterSpawnId": 53
+      },
+      "x": 60,
+      "y": 426,
+      "z": -6,
+      "range": 30,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_75": {
+      "metadata": {
+        "monsterSpawnId": 75
+      },
+      "x": 250,
+      "y": 810,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_76": {
+      "metadata": {
+        "monsterSpawnId": 76
+      },
+      "x": 280,
+      "y": 780,
+      "z": 0,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_45": {
+      "metadata": {
+        "monsterSpawnId": 45
+      },
+      "x": 670,
+      "y": 408,
+      "z": 1,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_48": {
+      "metadata": {
+        "monsterSpawnId": 48
+      },
+      "x": 671,
+      "y": 408,
+      "z": 1,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_467": {
+      "metadata": {
+        "monsterSpawnId": 467
+      },
+      "x": 905,
+      "y": 580,
+      "z": -3,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_468": {
+      "metadata": {
+        "monsterSpawnId": 468
+      },
+      "x": 900,
+      "y": 590,
+      "z": -6,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_469": {
+      "metadata": {
+        "monsterSpawnId": 469
+      },
+      "x": 897,
+      "y": 577,
+      "z": -9,
+      "range": 10,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_470": {
+      "metadata": {
+        "monsterSpawnId": 470
+      },
+      "x": 900,
+      "y": 592,
+      "z": -9,
+      "range": 15,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_471": {
+      "metadata": {
+        "monsterSpawnId": 471
+      },
+      "x": 760,
+      "y": 234,
+      "z": -3,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_302": {
+      "metadata": {
+        "monsterSpawnId": 302
+      },
+      "x": 760,
+      "y": 140,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "t",
+      "spawnRange": 10
+    },
+    "illarion:spawn_474": {
+      "metadata": {
+        "monsterSpawnId": 474
+      },
+      "x": 800,
+      "y": 440,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_475": {
+      "metadata": {
+        "monsterSpawnId": 475
+      },
+      "x": 810,
+      "y": 70,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_476": {
+      "metadata": {
+        "monsterSpawnId": 476
+      },
+      "x": 860,
+      "y": 870,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_477": {
+      "metadata": {
+        "monsterSpawnId": 477
+      },
+      "x": 420,
+      "y": 470,
+      "z": 2,
+      "range": 30,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_394": {
+      "metadata": {
+        "monsterSpawnId": 394
+      },
+      "x": 955,
+      "y": 332,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_405": {
+      "metadata": {
+        "monsterSpawnId": 405
+      },
+      "x": 976,
+      "y": 375,
+      "z": 0,
+      "range": 12,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 12
+    },
+    "illarion:spawn_479": {
+      "metadata": {
+        "monsterSpawnId": 479
+      },
+      "x": 440,
+      "y": 440,
+      "z": 2,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_340": {
+      "metadata": {
+        "monsterSpawnId": 340
+      },
+      "x": 826,
+      "y": 40,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_478": {
+      "metadata": {
+        "monsterSpawnId": 478
+      },
+      "x": 436,
+      "y": 460,
+      "z": 2,
+      "range": 5,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_480": {
+      "metadata": {
+        "monsterSpawnId": 480
+      },
+      "x": 390,
+      "y": 440,
+      "z": 2,
+      "range": 5,
+      "minSpawnTime": 60,
+      "maxSpawnTime": 180,
+      "spawnAll": "f",
+      "spawnRange": 5
+    },
+    "illarion:spawn_399": {
+      "metadata": {
+        "monsterSpawnId": 399
+      },
+      "x": 975,
+      "y": 375,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 10,
+      "maxSpawnTime": 30,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_122": {
+      "metadata": {
+        "monsterSpawnId": 122
+      },
+      "x": 126,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_124": {
+      "metadata": {
+        "monsterSpawnId": 124
+      },
+      "x": 160,
+      "y": 725,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_134": {
+      "metadata": {
+        "monsterSpawnId": 134
+      },
+      "x": 226,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_135": {
+      "metadata": {
+        "monsterSpawnId": 135
+      },
+      "x": 176,
+      "y": 675,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_54": {
+      "metadata": {
+        "monsterSpawnId": 54
+      },
+      "x": 200,
+      "y": 390,
+      "z": -3,
+      "range": 30,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 30
+    },
+    "illarion:spawn_148": {
+      "metadata": {
+        "monsterSpawnId": 148
+      },
+      "x": 226,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_114": {
+      "metadata": {
+        "monsterSpawnId": 114
+      },
+      "x": 50,
+      "y": 970,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_121": {
+      "metadata": {
+        "monsterSpawnId": 121
+      },
+      "x": 125,
+      "y": 775,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_131": {
+      "metadata": {
+        "monsterSpawnId": 131
+      },
+      "x": 175,
+      "y": 775,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_143": {
+      "metadata": {
+        "monsterSpawnId": 143
+      },
+      "x": 225,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_160": {
+      "metadata": {
+        "monsterSpawnId": 160
+      },
+      "x": 275,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_162": {
+      "metadata": {
+        "monsterSpawnId": 162
+      },
+      "x": 276,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_164": {
+      "metadata": {
+        "monsterSpawnId": 164
+      },
+      "x": 276,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_167": {
+      "metadata": {
+        "monsterSpawnId": 167
+      },
+      "x": 325,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_173": {
+      "metadata": {
+        "monsterSpawnId": 173
+      },
+      "x": 326,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_181": {
+      "metadata": {
+        "monsterSpawnId": 181
+      },
+      "x": 375,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_213": {
+      "metadata": {
+        "monsterSpawnId": 213
+      },
+      "x": 476,
+      "y": 575,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_222": {
+      "metadata": {
+        "monsterSpawnId": 222
+      },
+      "x": 525,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_238": {
+      "metadata": {
+        "monsterSpawnId": 238
+      },
+      "x": 560,
+      "y": 690,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_239": {
+      "metadata": {
+        "monsterSpawnId": 239
+      },
+      "x": 575,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_242": {
+      "metadata": {
+        "monsterSpawnId": 242
+      },
+      "x": 575,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_244": {
+      "metadata": {
+        "monsterSpawnId": 244
+      },
+      "x": 575,
+      "y": 775,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_245": {
+      "metadata": {
+        "monsterSpawnId": 245
+      },
+      "x": 576,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_254": {
+      "metadata": {
+        "monsterSpawnId": 254
+      },
+      "x": 610,
+      "y": 425,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_255": {
+      "metadata": {
+        "monsterSpawnId": 255
+      },
+      "x": 610,
+      "y": 460,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_259": {
+      "metadata": {
+        "monsterSpawnId": 259
+      },
+      "x": 625,
+      "y": 225,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_261": {
+      "metadata": {
+        "monsterSpawnId": 261
+      },
+      "x": 615,
+      "y": 765,
+      "z": 0,
+      "range": 15,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_264": {
+      "metadata": {
+        "monsterSpawnId": 264
+      },
+      "x": 626,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_272": {
+      "metadata": {
+        "monsterSpawnId": 272
+      },
+      "x": 675,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_274": {
+      "metadata": {
+        "monsterSpawnId": 274
+      },
+      "x": 676,
+      "y": 125,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_275": {
+      "metadata": {
+        "monsterSpawnId": 275
+      },
+      "x": 676,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_277": {
+      "metadata": {
+        "monsterSpawnId": 277
+      },
+      "x": 690,
+      "y": 25,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_282": {
+      "metadata": {
+        "monsterSpawnId": 282
+      },
+      "x": 725,
+      "y": 75,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_284": {
+      "metadata": {
+        "monsterSpawnId": 284
+      },
+      "x": 725,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_187": {
+      "metadata": {
+        "monsterSpawnId": 187
+      },
+      "x": 376,
+      "y": 775,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_219": {
+      "metadata": {
+        "monsterSpawnId": 219
+      },
+      "x": 525,
+      "y": 225,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_236": {
+      "metadata": {
+        "monsterSpawnId": 236
+      },
+      "x": 526,
+      "y": 775,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_295": {
+      "metadata": {
+        "monsterSpawnId": 295
+      },
+      "x": 726,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_299": {
+      "metadata": {
+        "monsterSpawnId": 299
+      },
+      "x": 750,
+      "y": 660,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_300": {
+      "metadata": {
+        "monsterSpawnId": 300
+      },
+      "x": 760,
+      "y": 710,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_303": {
+      "metadata": {
+        "monsterSpawnId": 303
+      },
+      "x": 775,
+      "y": 25,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_305": {
+      "metadata": {
+        "monsterSpawnId": 305
+      },
+      "x": 775,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_313": {
+      "metadata": {
+        "monsterSpawnId": 313
+      },
+      "x": 785,
+      "y": 705,
+      "z": 0,
+      "range": 15,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_317": {
+      "metadata": {
+        "monsterSpawnId": 317
+      },
+      "x": 776,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_321": {
+      "metadata": {
+        "monsterSpawnId": 321
+      },
+      "x": 776,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_322": {
+      "metadata": {
+        "monsterSpawnId": 322
+      },
+      "x": 776,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_323": {
+      "metadata": {
+        "monsterSpawnId": 323
+      },
+      "x": 776,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_331": {
+      "metadata": {
+        "monsterSpawnId": 331
+      },
+      "x": 810,
+      "y": 390,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_334": {
+      "metadata": {
+        "monsterSpawnId": 334
+      },
+      "x": 825,
+      "y": 225,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_337": {
+      "metadata": {
+        "monsterSpawnId": 337
+      },
+      "x": 825,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_343": {
+      "metadata": {
+        "monsterSpawnId": 343
+      },
+      "x": 826,
+      "y": 275,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_345": {
+      "metadata": {
+        "monsterSpawnId": 345
+      },
+      "x": 826,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_357": {
+      "metadata": {
+        "monsterSpawnId": 357
+      },
+      "x": 875,
+      "y": 125,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_358": {
+      "metadata": {
+        "monsterSpawnId": 358
+      },
+      "x": 875,
+      "y": 490,
+      "z": 0,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_359": {
+      "metadata": {
+        "monsterSpawnId": 359
+      },
+      "x": 875,
+      "y": 525,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_364": {
+      "metadata": {
+        "monsterSpawnId": 364
+      },
+      "x": 826,
+      "y": 75,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_418": {
+      "metadata": {
+        "monsterSpawnId": 418
+      },
+      "x": 126,
+      "y": 582,
+      "z": -6,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_419": {
+      "metadata": {
+        "monsterSpawnId": 419
+      },
+      "x": 138,
+      "y": 555,
+      "z": -6,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_420": {
+      "metadata": {
+        "monsterSpawnId": 420
+      },
+      "x": 115,
+      "y": 549,
+      "z": -6,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_421": {
+      "metadata": {
+        "monsterSpawnId": 421
+      },
+      "x": 363,
+      "y": 459,
+      "z": -6,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_422": {
+      "metadata": {
+        "monsterSpawnId": 422
+      },
+      "x": 377,
+      "y": 454,
+      "z": -6,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_423": {
+      "metadata": {
+        "monsterSpawnId": 423
+      },
+      "x": 376,
+      "y": 485,
+      "z": -6,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_424": {
+      "metadata": {
+        "monsterSpawnId": 424
+      },
+      "x": 385,
+      "y": 469,
+      "z": -6,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_425": {
+      "metadata": {
+        "monsterSpawnId": 425
+      },
+      "x": 833,
+      "y": 832,
+      "z": -3,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_426": {
+      "metadata": {
+        "monsterSpawnId": 426
+      },
+      "x": 845,
+      "y": 831,
+      "z": -6,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_427": {
+      "metadata": {
+        "monsterSpawnId": 427
+      },
+      "x": 847,
+      "y": 848,
+      "z": -6,
+      "range": 10,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 10
+    },
+    "illarion:spawn_429": {
+      "metadata": {
+        "monsterSpawnId": 429
+      },
+      "x": 626,
+      "y": 175,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_304": {
+      "metadata": {
+        "monsterSpawnId": 304
+      },
+      "x": 775,
+      "y": 75,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_309": {
+      "metadata": {
+        "monsterSpawnId": 309
+      },
+      "x": 775,
+      "y": 425,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_310": {
+      "metadata": {
+        "monsterSpawnId": 310
+      },
+      "x": 775,
+      "y": 475,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_350": {
+      "metadata": {
+        "monsterSpawnId": 350
+      },
+      "x": 850,
+      "y": 875,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_354": {
+      "metadata": {
+        "monsterSpawnId": 354
+      },
+      "x": 825,
+      "y": 75,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_362": {
+      "metadata": {
+        "monsterSpawnId": 362
+      },
+      "x": 875,
+      "y": 700,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_369": {
+      "metadata": {
+        "monsterSpawnId": 369
+      },
+      "x": 876,
+      "y": 625,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_370": {
+      "metadata": {
+        "monsterSpawnId": 370
+      },
+      "x": 876,
+      "y": 700,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_374": {
+      "metadata": {
+        "monsterSpawnId": 374
+      },
+      "x": 900,
+      "y": 675,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_375": {
+      "metadata": {
+        "monsterSpawnId": 375
+      },
+      "x": 901,
+      "y": 675,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 30,
+      "maxSpawnTime": 90,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_332": {
+      "metadata": {
+        "monsterSpawnId": 332
+      },
+      "x": 825,
+      "y": 40,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 20
+    },
+    "illarion:spawn_69": {
+      "metadata": {
+        "monsterSpawnId": 69
+      },
+      "x": 387,
+      "y": 149,
+      "z": 1,
+      "range": 5,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 5
+    },
+    "illarion:spawn_206": {
+      "metadata": {
+        "monsterSpawnId": 206
+      },
+      "x": 613,
+      "y": 277,
+      "z": 0,
+      "range": 15,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 15
+    },
+    "illarion:spawn_227": {
+      "metadata": {
+        "monsterSpawnId": 227
+      },
+      "x": 525,
+      "y": 775,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_314": {
+      "metadata": {
+        "monsterSpawnId": 314
+      },
+      "x": 765,
+      "y": 800,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_445": {
+      "metadata": {
+        "monsterSpawnId": 445
+      },
+      "x": 775,
+      "y": 750,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_447": {
+      "metadata": {
+        "monsterSpawnId": 447
+      },
+      "x": 825,
+      "y": 725,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_51": {
+      "metadata": {
+        "monsterSpawnId": 51
+      },
+      "x": 800,
+      "y": 120,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_472": {
+      "metadata": {
+        "monsterSpawnId": 472
+      },
+      "x": 900,
+      "y": 600,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_473": {
+      "metadata": {
+        "monsterSpawnId": 473
+      },
+      "x": 250,
+      "y": 540,
+      "z": 0,
+      "range": 20,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 20
+    },
+    "illarion:spawn_92": {
+      "metadata": {
+        "monsterSpawnId": 92
+      },
+      "x": 772,
+      "y": 707,
+      "z": 1,
+      "range": 15,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "f",
+      "spawnRange": 15
+    },
+    "illarion:spawn_443": {
+      "metadata": {
+        "monsterSpawnId": 443
+      },
+      "x": 451,
+      "y": 236,
+      "z": 0,
+      "range": 15,
+      "minSpawnTime": 5,
+      "maxSpawnTime": 15,
+      "spawnAll": "t",
+      "spawnRange": 15
+    }
+  }
+}

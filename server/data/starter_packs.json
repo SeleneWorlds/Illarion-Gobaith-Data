@@ -1,0 +1,116 @@
+{
+  "entries": {
+    "illarion:knight": {
+      "nameGerman": "Ritter",
+      "nameEnglish": "Knight",
+      "metadata": {
+        "starterPackId": 1
+      }
+    },
+    "illarion:barbarian": {
+      "nameGerman": "Barbar",
+      "nameEnglish": "Barbarian",
+      "metadata": {
+        "starterPackId": 2
+      }
+    },
+    "illarion:rogue": {
+      "nameGerman": "Schurke",
+      "nameEnglish": "Rogue",
+      "metadata": {
+        "starterPackId": 3
+      }
+    },
+    "illarion:hunter": {
+      "nameGerman": "Jäger",
+      "nameEnglish": "Hunter",
+      "metadata": {
+        "starterPackId": 4
+      }
+    },
+    "illarion:druid": {
+      "nameGerman": "Druide",
+      "nameEnglish": "Druid",
+      "metadata": {
+        "starterPackId": 7
+      }
+    },
+    "illarion:ranger": {
+      "nameGerman": "Waldläufer",
+      "nameEnglish": "Ranger",
+      "metadata": {
+        "starterPackId": 8
+      }
+    },
+    "illarion:mage": {
+      "nameGerman": "Magier",
+      "nameEnglish": "Mage",
+      "metadata": {
+        "starterPackId": 9
+      }
+    },
+    "illarion:battlemage": {
+      "nameGerman": "Kampfmagier",
+      "nameEnglish": "Battlemage",
+      "metadata": {
+        "starterPackId": 10
+      }
+    },
+    "illarion:priest": {
+      "nameGerman": "Priester",
+      "nameEnglish": "Priest",
+      "metadata": {
+        "starterPackId": 11
+      }
+    },
+    "illarion:paladin": {
+      "nameGerman": "Paladin",
+      "nameEnglish": "Paladin",
+      "metadata": {
+        "starterPackId": 12
+      }
+    },
+    "illarion:smith": {
+      "nameGerman": "Schmied",
+      "nameEnglish": "Smith",
+      "metadata": {
+        "starterPackId": 5
+      }
+    },
+    "illarion:agriculturist": {
+      "nameGerman": "Agronom",
+      "nameEnglish": "Agriculturist",
+      "metadata": {
+        "starterPackId": 6
+      }
+    },
+    "illarion:resourceExtractor": {
+      "nameGerman": "Rohstoffsammler",
+      "nameEnglish": "Resource Extractor",
+      "metadata": {
+        "starterPackId": 13
+      }
+    },
+    "illarion:animalWrangler": {
+      "nameGerman": "Tierbändiger",
+      "nameEnglish": "Animal Wrangler",
+      "metadata": {
+        "starterPackId": 14
+      }
+    },
+    "illarion:artisan": {
+      "nameGerman": "Kunsthandwerker",
+      "nameEnglish": "Artisan",
+      "metadata": {
+        "starterPackId": 16
+      }
+    },
+    "illarion:culinarianOrCarpenter": {
+      "nameGerman": "Koch/Tischler",
+      "nameEnglish": "Culinarian/Carpenter",
+      "metadata": {
+        "starterPackId": 15
+      }
+    }
+  }
+}

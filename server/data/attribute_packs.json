@@ -2,7 +2,7 @@
   "entries": {
     "illarion:priest": {
       "metadata": {
-        "id": 11
+        "attributePackId": 11
       },
       "nameGerman": "Priester",
       "nameEnglish": "Priest",
@@ -17,7 +17,7 @@
     },
     "illarion:paladin": {
       "metadata": {
-        "id": 12
+        "attributePackId": 12
       },
       "nameGerman": "Paladin",
       "nameEnglish": "Paladin",
@@ -32,7 +32,7 @@
     },
     "illarion:druid": {
       "metadata": {
-        "id": 7
+        "attributePackId": 7
       },
       "nameGerman": "Druide",
       "nameEnglish": "Druid",
@@ -47,7 +47,7 @@
     },
     "illarion:knight": {
       "metadata": {
-        "id": 1
+        "attributePackId": 1
       },
       "nameGerman": "Ritter",
       "nameEnglish": "Knight",
@@ -62,7 +62,7 @@
     },
     "illarion:barbarian": {
       "metadata": {
-        "id": 2
+        "attributePackId": 2
       },
       "nameGerman": "Barbar",
       "nameEnglish": "Barbarian",
@@ -77,7 +77,7 @@
     },
     "illarion:rogue": {
       "metadata": {
-        "id": 3
+        "attributePackId": 3
       },
       "nameGerman": "Schurke",
       "nameEnglish": "Rogue",
@@ -92,7 +92,7 @@
     },
     "illarion:hunter": {
       "metadata": {
-        "id": 4
+        "attributePackId": 4
       },
       "nameGerman": "Jäger",
       "nameEnglish": "Hunter",
@@ -107,7 +107,7 @@
     },
     "illarion:ranger": {
       "metadata": {
-        "id": 8
+        "attributePackId": 8
       },
       "nameGerman": "Waldläufer",
       "nameEnglish": "Ranger",
@@ -122,7 +122,7 @@
     },
     "illarion:mage": {
       "metadata": {
-        "id": 9
+        "attributePackId": 9
       },
       "nameGerman": "Magier",
       "nameEnglish": "Mage",
@@ -137,7 +137,7 @@
     },
     "illarion:battlemage": {
       "metadata": {
-        "id": 10
+        "attributePackId": 10
       },
       "nameGerman": "Kampfmagier",
       "nameEnglish": "Battlemage",
@@ -152,7 +152,7 @@
     },
     "illarion:smith": {
       "metadata": {
-        "id": 5
+        "attributePackId": 5
       },
       "nameGerman": "Schmied",
       "nameEnglish": "Smith",
@@ -167,7 +167,7 @@
     },
     "illarion:resourceExtractor": {
       "metadata": {
-        "id": 13
+        "attributePackId": 13
       },
       "nameGerman": "Rohstoffsammler",
       "nameEnglish": "Resource Extractor",
@@ -182,7 +182,7 @@
     },
     "illarion:animalWrangler": {
       "metadata": {
-        "id": 14
+        "attributePackId": 14
       },
       "nameGerman": "Tierbändiger",
       "nameEnglish": "Animal Wrangler",
@@ -195,9 +195,9 @@
       "willpower": 13,
       "essence": 13
     },
-    "illarion:culinarian/Carpenter": {
+    "illarion:culinarian_or_carpenter": {
       "metadata": {
-        "id": 15
+        "attributePackId": 15
       },
       "nameGerman": "Koch/Tischler",
       "nameEnglish": "Culinarian/Carpenter",
@@ -212,7 +212,7 @@
     },
     "illarion:artisan": {
       "metadata": {
-        "id": 16
+        "attributePackId": 16
       },
       "nameGerman": "Kunsthandwerker",
       "nameEnglish": "Artisan",
@@ -227,7 +227,7 @@
     },
     "illarion:agriculturist": {
       "metadata": {
-        "id": 6
+        "attributePackId": 6
       },
       "nameGerman": "Agronom",
       "nameEnglish": "Agriculturist",
