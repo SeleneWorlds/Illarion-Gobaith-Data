@@ -1,223 +1,223 @@
 {
   "entries": {
-    "illarion:anvil": {
-      "audio": "illarion:anvil",
+    "illarion:sound_8": {
+      "audio": "illarion:sound_8",
       "metadata": {
         "soundId": 8
       }
     },
-    "illarion:bang": {
-      "audio": "illarion:bang",
+    "illarion:sound_5": {
+      "audio": "illarion:sound_5",
       "metadata": {
         "soundId": 5
       }
     },
-    "illarion:bow": {
-      "audio": "illarion:bow",
+    "illarion:sound_30": {
+      "audio": "illarion:sound_30",
       "metadata": {
         "soundId": 30
       }
     },
-    "illarion:burp": {
-      "audio": "illarion:burp",
+    "illarion:sound_23": {
+      "audio": "illarion:sound_23",
       "metadata": {
         "soundId": 23
       }
     },
-    "illarion:carving": {
-      "audio": "illarion:carving",
+    "illarion:sound_14": {
+      "audio": "illarion:sound_14",
       "metadata": {
         "soundId": 14
       }
     },
-    "illarion:chopping": {
-      "audio": "illarion:chopping",
+    "illarion:sound_6": {
+      "audio": "illarion:sound_6",
       "metadata": {
         "soundId": 6
       }
     },
-    "illarion:click": {
-      "audio": "illarion:click",
+    "illarion:sound_22": {
+      "audio": "illarion:sound_22",
       "metadata": {
         "soundId": 22
       }
     },
-    "illarion:coins": {
-      "audio": "illarion:coins",
+    "illarion:sound_24": {
+      "audio": "illarion:sound_24",
       "metadata": {
         "soundId": 24
       }
     },
-    "illarion:cooking": {
-      "audio": "illarion:cooking",
+    "illarion:sound_15": {
+      "audio": "illarion:sound_15",
       "metadata": {
         "soundId": 15
       }
     },
-    "illarion:door": {
-      "audio": "illarion:door",
+    "illarion:sound_21": {
+      "audio": "illarion:sound_21",
       "metadata": {
         "soundId": 21
       }
     },
-    "illarion:drink": {
-      "audio": "illarion:drink",
+    "illarion:sound_12": {
+      "audio": "illarion:sound_12",
       "metadata": {
         "soundId": 12
       }
     },
-    "illarion:evil_laugh": {
-      "audio": "illarion:evil_laugh",
+    "illarion:sound_25": {
+      "audio": "illarion:sound_25",
       "metadata": {
         "soundId": 25
       }
     },
-    "illarion:fire": {
-      "audio": "illarion:fire",
+    "illarion:sound_7": {
+      "audio": "illarion:sound_7",
       "metadata": {
         "soundId": 7
       }
     },
-    "illarion:goldsmithing": {
-      "audio": "illarion:goldsmithing",
+    "illarion:sound_17": {
+      "audio": "illarion:sound_17",
       "metadata": {
         "soundId": 17
       }
     },
-    "illarion:hit": {
-      "audio": "illarion:hit",
+    "illarion:sound_3": {
+      "audio": "illarion:sound_3",
       "metadata": {
         "soundId": 3
       }
     },
-    "illarion:hit_arrow": {
-      "audio": "illarion:hit_arrow",
+    "illarion:sound_31": {
+      "audio": "illarion:sound_31",
       "metadata": {
         "soundId": 31
       }
     },
-    "illarion:hit_staff_plate": {
-      "audio": "illarion:hit_staff_plate",
+    "illarion:sound_32": {
+      "audio": "illarion:sound_32",
       "metadata": {
         "soundId": 32
       }
     },
-    "illarion:hit_sword_plate": {
-      "audio": "illarion:hit_sword_plate",
+    "illarion:sound_33": {
+      "audio": "illarion:sound_33",
       "metadata": {
         "soundId": 33
       }
     },
-    "illarion:lock": {
-      "audio": "illarion:lock",
+    "illarion:sound_19": {
+      "audio": "illarion:sound_19",
       "metadata": {
         "soundId": 19
       }
     },
-    "illarion:mining": {
-      "audio": "illarion:mining",
+    "illarion:sound_18": {
+      "audio": "illarion:sound_18",
       "metadata": {
         "soundId": 18
       }
     },
-    "illarion:parry_axe_shield": {
-      "audio": "illarion:parry_axe_shield",
+    "illarion:sound_40": {
+      "audio": "illarion:sound_40",
       "metadata": {
         "soundId": 40
       }
     },
-    "illarion:parry_staff": {
-      "audio": "illarion:parry_staff",
+    "illarion:sound_41": {
+      "audio": "illarion:sound_41",
       "metadata": {
         "soundId": 41
       }
     },
-    "illarion:parry_sword": {
-      "audio": "illarion:parry_sword",
+    "illarion:sound_42": {
+      "audio": "illarion:sound_42",
       "metadata": {
         "soundId": 42
       }
     },
-    "illarion:parry_sword_shield": {
-      "audio": "illarion:parry_sword_shield",
+    "illarion:sound_43": {
+      "audio": "illarion:sound_43",
       "metadata": {
         "soundId": 43
       }
     },
-    "illarion:parry_sword_staff": {
-      "audio": "illarion:parry_sword_staff",
+    "illarion:sound_44": {
+      "audio": "illarion:sound_44",
       "metadata": {
         "soundId": 44
       }
     },
-    "illarion:rasp": {
-      "audio": "illarion:rasp",
+    "illarion:sound_16": {
+      "audio": "illarion:sound_16",
       "metadata": {
         "soundId": 16
       }
     },
-    "illarion:roar": {
-      "audio": "illarion:roar",
+    "illarion:sound_26": {
+      "audio": "illarion:sound_26",
       "metadata": {
         "soundId": 26
       }
     },
-    "illarion:saw": {
-      "audio": "illarion:saw",
+    "illarion:sound_11": {
+      "audio": "illarion:sound_11",
       "metadata": {
         "soundId": 11
       }
     },
-    "illarion:scream": {
-      "audio": "illarion:scream",
+    "illarion:sound_1": {
+      "audio": "illarion:sound_1",
       "metadata": {
         "soundId": 1
       }
     },
-    "illarion:sheep": {
-      "audio": "illarion:sheep",
+    "illarion:sound_2": {
+      "audio": "illarion:sound_2",
       "metadata": {
         "soundId": 2
       }
     },
-    "illarion:snaring": {
-      "audio": "illarion:snaring",
+    "illarion:sound_13": {
+      "audio": "illarion:sound_13",
       "metadata": {
         "soundId": 13
       }
     },
-    "illarion:thunder": {
-      "audio": "illarion:thunder",
+    "illarion:sound_4": {
+      "audio": "illarion:sound_4",
       "metadata": {
         "soundId": 4
       }
     },
-    "illarion:unlock": {
-      "audio": "illarion:unlock",
+    "illarion:sound_20": {
+      "audio": "illarion:sound_20",
       "metadata": {
         "soundId": 20
       }
     },
-    "illarion:water_pour": {
-      "audio": "illarion:water_pour",
+    "illarion:sound_10": {
+      "audio": "illarion:sound_10",
       "metadata": {
         "soundId": 10
       }
     },
-    "illarion:water_splash": {
-      "audio": "illarion:water_splash",
+    "illarion:sound_9": {
+      "audio": "illarion:sound_9",
       "metadata": {
         "soundId": 9
       }
     },
-    "illarion:wind": {
-      "audio": "illarion:wind",
+    "illarion:sound_27": {
+      "audio": "illarion:sound_27",
       "metadata": {
         "soundId": 27
       }
     },
-    "illarion:wind2": {
-      "audio": "illarion:wind2",
+    "illarion:sound_28": {
+      "audio": "illarion:sound_28",
       "metadata": {
         "soundId": 28
       }
