@@ -1,27 +1,63 @@
 {
     "entries": {
-        "illarion:races": {
-            "suffix": "races",
+        "illarion:armors": {
+            "suffix": "armors",
             "platform": "server"
         },
-        "illarion:skills": {
-            "suffix": "skills",
+        "illarion:attribute_packs": {
+            "suffix": "attribute_packs",
+            "platform": "server"
+        },
+        "illarion:containers": {
+            "suffix": "containers",
             "platform": "server"
         },
         "illarion:lte": {
             "suffix": "lte",
             "platform": "server"
         },
-        "illarion:weapons": {
-            "suffix": "weapons",
+        "illarion:monster_spawns": {
+            "suffix": "monster_spawns",
             "platform": "server"
         },
-        "illarion:armors": {
-            "suffix": "armors",
+        "illarion:monsters": {
+            "suffix": "monsters",
             "platform": "server"
         },
         "illarion:npcs": {
             "suffix": "npcs",
+            "platform": "server"
+        },
+        "illarion:quests": {
+            "suffix": "quests",
+            "platform": "server"
+        },
+        "illarion:races": {
+            "suffix": "races",
+            "platform": "server"
+        },
+        "illarion:scheduled_scripts": {
+            "suffix": "scheduled_scripts",
+            "platform": "server"
+        },
+        "illarion:skill_groups": {
+            "suffix": "skill_groups",
+            "platform": "server"
+        },
+        "illarion:skills": {
+            "suffix": "skills",
+            "platform": "server"
+        },
+        "illarion:starter_packs": {
+            "suffix": "starter_packs",
+            "platform": "server"
+        },
+        "illarion:trigger_fields": {
+            "suffix": "trigger_fields",
+            "platform": "server"
+        },
+        "illarion:weapons": {
+            "suffix": "weapons",
             "platform": "server"
         }
     }
