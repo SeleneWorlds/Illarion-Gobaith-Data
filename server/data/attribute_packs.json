@@ -1,0 +1,244 @@
+{
+  "entries": {
+    "illarion:priest": {
+      "metadata": {
+        "id": 11
+      },
+      "nameGerman": "Priester",
+      "nameEnglish": "Priest",
+      "strength": 8,
+      "dexterity": 6,
+      "agility": 4,
+      "constitution": 8,
+      "perception": 10,
+      "intelligence": 14,
+      "willpower": 18,
+      "ess": 16
+    },
+    "illarion:paladin": {
+      "metadata": {
+        "id": 12
+      },
+      "nameGerman": "Paladin",
+      "nameEnglish": "Paladin",
+      "strength": 18,
+      "dexterity": 6,
+      "agility": 8,
+      "constitution": 10,
+      "perception": 4,
+      "intelligence": 8,
+      "willpower": 16,
+      "ess": 14
+    },
+    "illarion:druid": {
+      "metadata": {
+        "id": 7
+      },
+      "nameGerman": "Druide",
+      "nameEnglish": "Druid",
+      "strength": 6,
+      "dexterity": 8,
+      "agility": 4,
+      "constitution": 8,
+      "perception": 18,
+      "intelligence": 12,
+      "willpower": 10,
+      "ess": 18
+    },
+    "illarion:knight": {
+      "metadata": {
+        "id": 1
+      },
+      "nameGerman": "Ritter",
+      "nameEnglish": "Knight",
+      "strength": 18,
+      "dexterity": 8,
+      "agility": 16,
+      "constitution": 14,
+      "perception": 6,
+      "intelligence": 6,
+      "willpower": 12,
+      "ess": 4
+    },
+    "illarion:barbarian": {
+      "metadata": {
+        "id": 2
+      },
+      "nameGerman": "Barbar",
+      "nameEnglish": "Barbarian",
+      "strength": 16,
+      "dexterity": 8,
+      "agility": 14,
+      "constitution": 18,
+      "perception": 8,
+      "intelligence": 4,
+      "willpower": 8,
+      "ess": 8
+    },
+    "illarion:rogue": {
+      "metadata": {
+        "id": 3
+      },
+      "nameGerman": "Schurke",
+      "nameEnglish": "Rogue",
+      "strength": 14,
+      "dexterity": 10,
+      "agility": 18,
+      "constitution": 10,
+      "perception": 8,
+      "intelligence": 6,
+      "willpower": 10,
+      "ess": 8
+    },
+    "illarion:hunter": {
+      "metadata": {
+        "id": 4
+      },
+      "nameGerman": "Jäger",
+      "nameEnglish": "Hunter",
+      "strength": 16,
+      "dexterity": 6,
+      "agility": 14,
+      "constitution": 10,
+      "perception": 18,
+      "intelligence": 6,
+      "willpower": 10,
+      "ess": 4
+    },
+    "illarion:ranger": {
+      "metadata": {
+        "id": 8
+      },
+      "nameGerman": "Waldläufer",
+      "nameEnglish": "Ranger",
+      "strength": 16,
+      "dexterity": 8,
+      "agility": 10,
+      "constitution": 8,
+      "perception": 18,
+      "intelligence": 6,
+      "willpower": 14,
+      "ess": 4
+    },
+    "illarion:mage": {
+      "metadata": {
+        "id": 9
+      },
+      "nameGerman": "Magier",
+      "nameEnglish": "Mage",
+      "strength": 4,
+      "dexterity": 8,
+      "agility": 8,
+      "constitution": 6,
+      "perception": 10,
+      "intelligence": 18,
+      "willpower": 16,
+      "ess": 14
+    },
+    "illarion:battlemage": {
+      "metadata": {
+        "id": 10
+      },
+      "nameGerman": "Kampfmagier",
+      "nameEnglish": "Battlemage",
+      "strength": 16,
+      "dexterity": 4,
+      "agility": 8,
+      "constitution": 10,
+      "perception": 6,
+      "intelligence": 18,
+      "willpower": 14,
+      "ess": 8
+    },
+    "illarion:smith": {
+      "metadata": {
+        "id": 5
+      },
+      "nameGerman": "Schmied",
+      "nameEnglish": "Smith",
+      "strength": 16,
+      "dexterity": 18,
+      "agility": 6,
+      "constitution": 16,
+      "perception": 4,
+      "intelligence": 4,
+      "willpower": 4,
+      "ess": 16
+    },
+    "illarion:resourceExtractor": {
+      "metadata": {
+        "id": 13
+      },
+      "nameGerman": "Rohstoffsammler",
+      "nameEnglish": "Resource Extractor",
+      "strength": 18,
+      "dexterity": 6,
+      "agility": 18,
+      "constitution": 18,
+      "perception": 10,
+      "intelligence": 6,
+      "willpower": 4,
+      "ess": 4
+    },
+    "illarion:animalWrangler": {
+      "metadata": {
+        "id": 14
+      },
+      "nameGerman": "Tierbändiger",
+      "nameEnglish": "Animal Wrangler",
+      "strength": 13,
+      "dexterity": 4,
+      "agility": 4,
+      "constitution": 16,
+      "perception": 8,
+      "intelligence": 13,
+      "willpower": 13,
+      "ess": 13
+    },
+    "illarion:culinarian/Carpenter": {
+      "metadata": {
+        "id": 15
+      },
+      "nameGerman": "Koch/Tischler",
+      "nameEnglish": "Culinarian/Carpenter",
+      "strength": 7,
+      "dexterity": 18,
+      "agility": 7,
+      "constitution": 8,
+      "perception": 16,
+      "intelligence": 8,
+      "willpower": 14,
+      "ess": 6
+    },
+    "illarion:artisan": {
+      "metadata": {
+        "id": 16
+      },
+      "nameGerman": "Kunsthandwerker",
+      "nameEnglish": "Artisan",
+      "strength": 4,
+      "dexterity": 18,
+      "agility": 16,
+      "constitution": 6,
+      "perception": 4,
+      "intelligence": 16,
+      "willpower": 16,
+      "ess": 4
+    },
+    "illarion:agriculturist": {
+      "metadata": {
+        "id": 6
+      },
+      "nameGerman": "Agronom",
+      "nameEnglish": "Agriculturist",
+      "strength": 14,
+      "dexterity": 14,
+      "agility": 4,
+      "constitution": 18,
+      "perception": 13,
+      "intelligence": 4,
+      "willpower": 4,
+      "ess": 13
+    }
+  }
+}
