@@ -44,8 +44,8 @@
             "suffix": "starter_packs",
             "platform": "server"
         },
-        "illarion:trigger_fields": {
-            "suffix": "trigger_fields",
+        "illarion:triggerfields": {
+            "suffix": "triggerfields",
             "platform": "server"
         }
     }
