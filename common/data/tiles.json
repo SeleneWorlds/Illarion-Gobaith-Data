@@ -1,12 +1,5 @@
 {
   "entries": {
-    "illarion:tile_0": {
-      "impassable": true,
-      "metadata": {
-        "tileId": 0
-      },
-      "visual": "illarion:tile_0"
-    },
     "illarion:tile_1": {
       "impassable": false,
       "metadata": {
