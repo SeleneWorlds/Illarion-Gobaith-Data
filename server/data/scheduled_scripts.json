@@ -101,12 +101,6 @@
       "function": "dropShard",
       "minInterval": 65570,
       "maxInterval": 65570
-    },
-    "illarion:scheduled_script_scheduled.housing_demolition_demolish": {
-      "script": "scheduled.housing_demolition",
-      "function": "demolish",
-      "minInterval": 100,
-      "maxInterval": 100
     }
   }
 }
