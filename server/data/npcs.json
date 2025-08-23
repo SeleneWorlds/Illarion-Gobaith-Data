@@ -2,7 +2,7 @@
   "entries": {
     "illarion:npc_396": {
       "metadata": {
-        "npcId": 396,
+        "id": 396,
         "name": "Borgate Northoff"
       },
       "type": 1,
