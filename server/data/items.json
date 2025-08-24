@@ -1981,6 +1981,10 @@
       "level": 0,
       "metadata": {
         "id": 86
+      },
+      "door": {
+        "status": "open",
+        "closed": "illarion:item_497"
       }
     },
     "illarion:item_87": {
@@ -1999,6 +2003,10 @@
       "level": 0,
       "metadata": {
         "id": 87
+      },
+      "door": {
+        "status": "open",
+        "closed": "illarion:item_922"
       }
     },
     "illarion:item_88": {
@@ -10666,6 +10674,10 @@
       "passableAbove": false,
       "metadata": {
         "id": 497
+      },
+      "door": {
+        "status": "closed",
+        "open": "illarion:item_86"
       }
     },
     "illarion:item_498": {
@@ -19622,6 +19634,10 @@
       "passableAbove": false,
       "metadata": {
         "id": 922
+      },
+      "door": {
+        "status": "closed",
+        "open": "illarion:item_87"
       }
     },
     "illarion:item_923": {
