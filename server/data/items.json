@@ -347,6 +347,13 @@
       "rareness": 1,
       "name": "apple",
       "level": 0,
+      "food": {
+        "value": 2000,
+        "dietValue": -20,
+        "dietValueByRace": {
+          "fairy": 20
+        }
+      },
       "metadata": {
         "id": 15
       }
