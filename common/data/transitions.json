@@ -1,50 +1,50 @@
 {
   "entries": {
-    "illarion:tile_40": {
+    "illarion:tile/parquet": {
       "priority": 999,
       "transitions": []
     },
-    "illarion:tile_55": {
+    "illarion:tile/marble": {
       "priority": 999,
       "transitions": []
     },
-    "illarion:tile_45": {
+    "illarion:tile/carpet_07": {
       "priority": 999,
       "transitions": []
     },
-    "illarion:tile_46": {
+    "illarion:tile/carpet_08": {
       "priority": 999,
       "transitions": []
     },
-    "illarion:tile_47": {
+    "illarion:tile/carpet_09": {
       "priority": 999,
       "transitions": []
     },
-    "illarion:tile_48": {
+    "illarion:tile/carpet_04": {
       "priority": 999,
       "transitions": []
     },
-    "illarion:tile_49": {
+    "illarion:tile/carpet_05": {
       "priority": 999,
       "transitions": []
     },
-    "illarion:tile_50": {
+    "illarion:tile/carpet_06": {
       "priority": 999,
       "transitions": []
     },
-    "illarion:tile_51": {
+    "illarion:tile/carpet_01": {
       "priority": 999,
       "transitions": []
     },
-    "illarion:tile_52": {
+    "illarion:tile/carpet_02": {
       "priority": 999,
       "transitions": []
     },
-    "illarion:tile_53": {
+    "illarion:tile/carpet_03": {
       "priority": 999,
       "transitions": []
     },
-    "illarion:tile_2": {
+    "illarion:tile/rock": {
       "priority": 60,
       "transitions": [
         {
@@ -273,7 +273,7 @@
         }
       ]
     },
-    "illarion:tile_3": {
+    "illarion:tile/sand": {
       "priority": 20,
       "transitions": [
         {
@@ -502,7 +502,7 @@
         }
       ]
     },
-    "illarion:tile_4": {
+    "illarion:tile/farmland": {
       "priority": 50,
       "transitions": [
         {
@@ -731,7 +731,7 @@
         }
       ]
     },
-    "illarion:tile_5": {
+    "illarion:tile/lava": {
       "priority": 10,
       "transitions": [
         {
@@ -960,7 +960,7 @@
         }
       ]
     },
-    "illarion:tile_7": {
+    "illarion:tile/street": {
       "priority": 40,
       "transitions": [
         {
@@ -1189,7 +1189,7 @@
         }
       ]
     },
-    "illarion:tile_8": {
+    "illarion:tile/dirt": {
       "priority": 70,
       "transitions": [
         {
@@ -1418,7 +1418,7 @@
         }
       ]
     },
-    "illarion:tile_9": {
+    "illarion:tile/forest": {
       "priority": 80,
       "transitions": [
         {
@@ -1647,7 +1647,7 @@
         }
       ]
     },
-    "illarion:tile_10": {
+    "illarion:tile/snow": {
       "priority": 100,
       "transitions": [
         {
@@ -1876,7 +1876,7 @@
         }
       ]
     },
-    "illarion:tile_11": {
+    "illarion:tile/grass": {
       "priority": 90,
       "transitions": [
         {
@@ -2105,7 +2105,7 @@
         }
       ]
     },
-    "illarion:tile_15": {
+    "illarion:tile/dungeon": {
       "priority": 85,
       "transitions": [
         {

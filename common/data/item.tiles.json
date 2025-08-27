@@ -104,8 +104,8 @@
         "itemId": 14
       }
     },
-    "illarion:item_15": {
-      "visual": "illarion:item_15",
+    "illarion:item/apple": {
+      "visual": "illarion:item/apple",
       "metadata": {
         "itemId": 15
       }

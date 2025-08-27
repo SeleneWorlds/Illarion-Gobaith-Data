@@ -1,81 +1,88 @@
 {
   "entries": {
-    "illarion:tile_1": {
+    "illarion:tile/unknown": {
+      "impassable": true,
+      "metadata": {
+        "tileId": 0
+      },
+      "visual": "illarion:tile/unknown"
+    },
+    "illarion:tile/invisible": {
       "impassable": false,
       "metadata": {
-        "tileId": 1
+        "tileId": 34
       },
-      "visual": "illarion:tile_1"
+      "visual": "illarion:tile/invisible"
     },
-    "illarion:tile_2": {
+    "illarion:tile/rock": {
       "impassable": false,
       "metadata": {
         "tileId": 2
       },
-      "visual": "illarion:tile_2"
+      "visual": "illarion:tile/rock"
     },
-    "illarion:tile_3": {
+    "illarion:tile/sand": {
       "impassable": false,
       "metadata": {
         "tileId": 3
       },
-      "visual": "illarion:tile_3"
+      "visual": "illarion:tile/sand"
     },
-    "illarion:tile_4": {
+    "illarion:tile/farmland": {
       "impassable": false,
       "metadata": {
         "tileId": 4
       },
-      "visual": "illarion:tile_4"
+      "visual": "illarion:tile/farmland"
     },
-    "illarion:tile_5": {
+    "illarion:tile/lava": {
       "impassable": true,
       "metadata": {
         "tileId": 5
       },
-      "visual": "illarion:tile_5"
+      "visual": "illarion:tile/lava"
     },
-    "illarion:tile_6": {
+    "illarion:tile/water": {
       "impassable": true,
       "metadata": {
         "tileId": 6
       },
-      "visual": "illarion:tile_6"
+      "visual": "illarion:tile/water"
     },
-    "illarion:tile_7": {
+    "illarion:tile/street": {
       "impassable": false,
       "metadata": {
         "tileId": 7
       },
-      "visual": "illarion:tile_7"
+      "visual": "illarion:tile/street"
     },
-    "illarion:tile_8": {
+    "illarion:tile/dirt": {
       "impassable": false,
       "metadata": {
         "tileId": 8
       },
-      "visual": "illarion:tile_8"
+      "visual": "illarion:tile/dirt"
     },
-    "illarion:tile_9": {
+    "illarion:tile/forest": {
       "impassable": false,
       "metadata": {
         "tileId": 9
       },
-      "visual": "illarion:tile_9"
+      "visual": "illarion:tile/forest"
     },
-    "illarion:tile_10": {
+    "illarion:tile/snow": {
       "impassable": false,
       "metadata": {
         "tileId": 10
       },
-      "visual": "illarion:tile_10"
+      "visual": "illarion:tile/snow"
     },
-    "illarion:tile_11": {
+    "illarion:tile/grass": {
       "impassable": false,
       "metadata": {
         "tileId": 11
       },
-      "visual": "illarion:tile_11"
+      "visual": "illarion:tile/grass"
     },
     "illarion:tile_12": {
       "impassable": false,
@@ -98,12 +105,12 @@
       },
       "visual": "illarion:tile_14"
     },
-    "illarion:tile_15": {
+    "illarion:tile/dungeon": {
       "impassable": false,
       "metadata": {
         "tileId": 15
       },
-      "visual": "illarion:tile_15"
+      "visual": "illarion:tile/dungeon"
     },
     "illarion:tile_16": {
       "impassable": false,
@@ -140,117 +147,110 @@
       },
       "visual": "illarion:tile_20"
     },
-    "illarion:tile_34": {
-      "impassable": false,
-      "metadata": {
-        "tileId": 34
-      },
-      "visual": "illarion:tile_34"
-    },
-    "illarion:tile_40": {
+    "illarion:tile/parquet": {
       "impassable": false,
       "metadata": {
         "tileId": 40
       },
-      "visual": "illarion:tile_40"
+      "visual": "illarion:tile/parquet"
     },
-    "illarion:tile_41": {
+    "illarion:tile/roof": {
       "impassable": false,
       "metadata": {
         "tileId": 41
       },
-      "visual": "illarion:tile_41"
+      "visual": "illarion:tile/roof"
     },
-    "illarion:tile_42": {
+    "illarion:tile/wall": {
       "impassable": true,
       "metadata": {
         "tileId": 42
       },
-      "visual": "illarion:tile_42"
+      "visual": "illarion:tile/wall"
     },
-    "illarion:tile_43": {
+    "illarion:tile/roof_02": {
       "impassable": false,
       "metadata": {
         "tileId": 43
       },
-      "visual": "illarion:tile_43"
+      "visual": "illarion:tile/roof_02"
     },
-    "illarion:tile_45": {
+    "illarion:tile/carpet_07": {
       "impassable": false,
       "metadata": {
         "tileId": 45
       },
-      "visual": "illarion:tile_45"
+      "visual": "illarion:tile/carpet_07"
     },
-    "illarion:tile_46": {
+    "illarion:tile/carpet_08": {
       "impassable": false,
       "metadata": {
         "tileId": 46
       },
-      "visual": "illarion:tile_46"
+      "visual": "illarion:tile/carpet_08"
     },
-    "illarion:tile_47": {
+    "illarion:tile/carpet_09": {
       "impassable": false,
       "metadata": {
         "tileId": 47
       },
-      "visual": "illarion:tile_47"
+      "visual": "illarion:tile/carpet_09"
     },
-    "illarion:tile_48": {
+    "illarion:tile/carpet_04": {
       "impassable": false,
       "metadata": {
         "tileId": 48
       },
-      "visual": "illarion:tile_48"
+      "visual": "illarion:tile/carpet_04"
     },
-    "illarion:tile_49": {
+    "illarion:tile/carpet_05": {
       "impassable": false,
       "metadata": {
         "tileId": 49
       },
-      "visual": "illarion:tile_49"
+      "visual": "illarion:tile/carpet_05"
     },
-    "illarion:tile_50": {
+    "illarion:tile/carpet_06": {
       "impassable": false,
       "metadata": {
         "tileId": 50
       },
-      "visual": "illarion:tile_50"
+      "visual": "illarion:tile/carpet_06"
     },
-    "illarion:tile_51": {
+    "illarion:tile/carpet_01": {
       "impassable": false,
       "metadata": {
         "tileId": 51
       },
-      "visual": "illarion:tile_51"
+      "visual": "illarion:tile/carpet_01"
     },
-    "illarion:tile_52": {
+    "illarion:tile/carpet_02": {
       "impassable": false,
       "metadata": {
         "tileId": 52
       },
-      "visual": "illarion:tile_52"
+      "visual": "illarion:tile/carpet_02"
     },
-    "illarion:tile_53": {
+    "illarion:tile/carpet_03": {
       "impassable": false,
       "metadata": {
         "tileId": 53
       },
-      "visual": "illarion:tile_53"
+      "visual": "illarion:tile/carpet_03"
     },
-    "illarion:tile_55": {
+    "illarion:tile/marble": {
       "impassable": false,
       "metadata": {
         "tileId": 55
       },
-      "visual": "illarion:tile_55"
+      "visual": "illarion:tile/marble"
     },
-    "illarion:tile_56": {
+    "illarion:tile/roof_03": {
       "impassable": false,
       "metadata": {
         "tileId": 56
       },
-      "visual": "illarion:tile_56"
+      "visual": "illarion:tile/roof_03"
     },
     "illarion:tile_57": {
       "impassable": false,

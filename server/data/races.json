@@ -1,6 +1,6 @@
 {
   "entries": {
-    "illarion:race_0": {
+    "illarion:race/human": {
       "minAge": 18,
       "maxAge": 100,
       "minHeight": 55,
@@ -929,7 +929,7 @@
         "name": "human"
       }
     },
-    "illarion:race_1": {
+    "illarion:race/dwarf": {
       "minAge": 30,
       "maxAge": 300,
       "minHeight": 39,
@@ -1852,7 +1852,7 @@
         "name": "dwarf"
       }
     },
-    "illarion:race_2": {
+    "illarion:race/halfling": {
       "minAge": 33,
       "maxAge": 130,
       "minHeight": 35,
@@ -2761,7 +2761,7 @@
         "name": "halfling"
       }
     },
-    "illarion:race_3": {
+    "illarion:race/elf": {
       "minAge": 100,
       "maxAge": 6000,
       "minHeight": 63,
@@ -3670,7 +3670,7 @@
         "name": "elf"
       }
     },
-    "illarion:race_4": {
+    "illarion:race/orc": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 51,
@@ -4591,7 +4591,7 @@
         "name": "orc"
       }
     },
-    "illarion:race_5": {
+    "illarion:race/lizard": {
       "minAge": 20,
       "maxAge": 700,
       "minHeight": 59,
@@ -5502,7 +5502,7 @@
         "name": "lizardman"
       }
     },
-    "illarion:race_7": {
+    "illarion:race/healer": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -5574,7 +5574,7 @@
         "name": "forestTroll"
       }
     },
-    "illarion:race_10": {
+    "illarion:race/zombie": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -5610,7 +5610,7 @@
         "name": "mummy"
       }
     },
-    "illarion:race_11": {
+    "illarion:race/red_skeleton": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -5647,7 +5647,7 @@
         "name": "skeleton"
       }
     },
-    "illarion:race_12": {
+    "illarion:race/beholder": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -5683,7 +5683,7 @@
         "name": "floatingEye"
       }
     },
-    "illarion:race_18": {
+    "illarion:race/sheep": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -5716,7 +5716,7 @@
         "name": "sheep"
       }
     },
-    "illarion:race_19": {
+    "illarion:race/spider": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -5752,7 +5752,7 @@
         "name": "spider"
       }
     },
-    "illarion:race_24": {
+    "illarion:race/pig": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -5798,7 +5798,7 @@
         "name": "pig"
       }
     },
-    "illarion:race_27": {
+    "illarion:race/wasp": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -5834,7 +5834,7 @@
         "name": "wasp"
       }
     },
-    "illarion:race_30": {
+    "illarion:race/golem": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -5870,7 +5870,7 @@
         "name": "golem"
       }
     },
-    "illarion:race_37": {
+    "illarion:race/cow": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -5919,7 +5919,7 @@
         "name": "cow"
       }
     },
-    "illarion:race_39": {
+    "illarion:race/wolf": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -6021,7 +6021,7 @@
         "name": "raptor"
       }
     },
-    "illarion:race_53": {
+    "illarion:race/ice_dragon": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,

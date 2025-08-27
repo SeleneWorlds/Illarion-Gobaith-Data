@@ -333,11 +333,11 @@
         "id": 14
       }
     },
-    "illarion:item_15": {
+    "illarion:item/apple": {
       "volume": 1,
       "weight": 5,
       "agingSpeed": 254,
-      "objectAfterRot": "illarion:item_15",
+      "objectAfterRot": "illarion:item/apple",
       "script": "item.food",
       "rotsInInventory": false,
       "brightness": 0,

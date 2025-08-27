@@ -1,10 +1,10 @@
 {
   "entries": {
-    "illarion:gfx_2": {
+    "illarion:gfx/lightning": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_2"
+          "visual": "illarion:gfx/lightning"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -15,11 +15,11 @@
         "gfxId": 2
       }
     },
-    "illarion:gfx_3": {
+    "illarion:gfx/ice": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_3"
+          "visual": "illarion:gfx/ice"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -30,11 +30,11 @@
         "gfxId": 3
       }
     },
-    "illarion:gfx_4": {
+    "illarion:gfx/elf_fire": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_4"
+          "visual": "illarion:gfx/elf_fire"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -45,11 +45,11 @@
         "gfxId": 4
       }
     },
-    "illarion:gfx_5": {
+    "illarion:gfx/demon_fire": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_5"
+          "visual": "illarion:gfx/demon_fire"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -60,11 +60,11 @@
         "gfxId": 5
       }
     },
-    "illarion:gfx_6": {
+    "illarion:gfx/spell": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_6"
+          "visual": "illarion:gfx/spell"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -75,11 +75,11 @@
         "gfxId": 6
       }
     },
-    "illarion:gfx_7": {
+    "illarion:gfx/wind": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_7"
+          "visual": "illarion:gfx/wind"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -90,11 +90,11 @@
         "gfxId": 7
       }
     },
-    "illarion:gfx_8": {
+    "illarion:gfx/poison_cloud": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_8"
+          "visual": "illarion:gfx/poison_cloud"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -105,11 +105,11 @@
         "gfxId": 8
       }
     },
-    "illarion:gfx_9": {
+    "illarion:gfx/fireball": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_9"
+          "visual": "illarion:gfx/fireball"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -120,11 +120,11 @@
         "gfxId": 9
       }
     },
-    "illarion:gfx_11": {
+    "illarion:gfx/water_splash": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_11"
+          "visual": "illarion:gfx/water_splash"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -135,11 +135,11 @@
         "gfxId": 11
       }
     },
-    "illarion:gfx_12": {
+    "illarion:gfx/fizzle": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_12"
+          "visual": "illarion:gfx/fizzle"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -150,11 +150,11 @@
         "gfxId": 12
       }
     },
-    "illarion:gfx_13": {
+    "illarion:gfx/blood": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_13"
+          "visual": "illarion:gfx/blood"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -165,11 +165,11 @@
         "gfxId": 13
       }
     },
-    "illarion:gfx_15": {
+    "illarion:gfx/bow": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_15"
+          "visual": "illarion:gfx/bow"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -180,11 +180,11 @@
         "gfxId": 15
       }
     },
-    "illarion:gfx_16": {
+    "illarion:gfx/rain": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_16"
+          "visual": "illarion:gfx/rain"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -195,11 +195,11 @@
         "gfxId": 16
       }
     },
-    "illarion:gfx_17": {
+    "illarion:gfx/sword": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_17"
+          "visual": "illarion:gfx/sword"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -210,11 +210,11 @@
         "gfxId": 17
       }
     },
-    "illarion:gfx_18": {
+    "illarion:gfx/shield": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_18"
+          "visual": "illarion:gfx/shield"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -225,11 +225,11 @@
         "gfxId": 18
       }
     },
-    "illarion:gfx_19": {
+    "illarion:gfx/mace": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_19"
+          "visual": "illarion:gfx/mace"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -240,11 +240,11 @@
         "gfxId": 19
       }
     },
-    "illarion:gfx_20": {
+    "illarion:gfx/dagger": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_20"
+          "visual": "illarion:gfx/dagger"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -255,11 +255,11 @@
         "gfxId": 20
       }
     },
-    "illarion:gfx_21": {
+    "illarion:gfx/claw": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_21"
+          "visual": "illarion:gfx/claw"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -270,11 +270,11 @@
         "gfxId": 21
       }
     },
-    "illarion:gfx_22": {
+    "illarion:gfx/boxing": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_22"
+          "visual": "illarion:gfx/boxing"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -285,11 +285,11 @@
         "gfxId": 22
       }
     },
-    "illarion:gfx_31": {
+    "illarion:gfx/glowing": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_31"
+          "visual": "illarion:gfx/glowing"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -300,11 +300,11 @@
         "gfxId": 31
       }
     },
-    "illarion:gfx_32": {
+    "illarion:gfx/fall": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_32"
+          "visual": "illarion:gfx/fall"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -315,11 +315,11 @@
         "gfxId": 32
       }
     },
-    "illarion:gfx_36": {
+    "illarion:gfx/flamestrike": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_36"
+          "visual": "illarion:gfx/flamestrike"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -330,11 +330,11 @@
         "gfxId": 36
       }
     },
-    "illarion:gfx_37": {
+    "illarion:gfx/light": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_37"
+          "visual": "illarion:gfx/light"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -345,11 +345,11 @@
         "gfxId": 37
       }
     },
-    "illarion:gfx_38": {
+    "illarion:gfx/fire_field": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_38"
+          "visual": "illarion:gfx/fire_field"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -360,11 +360,11 @@
         "gfxId": 38
       }
     },
-    "illarion:gfx_41": {
+    "illarion:gfx/stars": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_41"
+          "visual": "illarion:gfx/stars"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -375,11 +375,11 @@
         "gfxId": 41
       }
     },
-    "illarion:gfx_44": {
+    "illarion:gfx/explosion": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_44"
+          "visual": "illarion:gfx/explosion"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -390,11 +390,11 @@
         "gfxId": 44
       }
     },
-    "illarion:gfx_45": {
+    "illarion:gfx/splash": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_45"
+          "visual": "illarion:gfx/splash"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -405,11 +405,11 @@
         "gfxId": 45
       }
     },
-    "illarion:gfx_46": {
+    "illarion:gfx/sun": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_46"
+          "visual": "illarion:gfx/sun"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -420,11 +420,11 @@
         "gfxId": 46
       }
     },
-    "illarion:gfx_51": {
+    "illarion:gfx/violet": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_51"
+          "visual": "illarion:gfx/violet"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -435,11 +435,11 @@
         "gfxId": 51
       }
     },
-    "illarion:gfx_52": {
+    "illarion:gfx/sprinkle": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_52"
+          "visual": "illarion:gfx/sprinkle"
         },
         "illarion:client_script": {
           "type": "client_script",
@@ -450,11 +450,11 @@
         "gfxId": 52
       }
     },
-    "illarion:gfx_53": {
+    "illarion:gfx/scotty": {
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:gfx_53"
+          "visual": "illarion:gfx/scotty"
         },
         "illarion:client_script": {
           "type": "client_script",
