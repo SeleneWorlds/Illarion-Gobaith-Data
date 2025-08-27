@@ -180,14 +180,14 @@
         "typeId": 1
       }
     },
-    "illarion:race_7_0": {
+    "illarion:race/healer": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_7_0"
+          "visual": "illarion:race/healer"
         }
       },
       "metadata": {
@@ -195,29 +195,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_9_0": {
+    "illarion:race/zombie": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_9_0"
-        }
-      },
-      "metadata": {
-        "raceId": 9,
-        "typeId": 0
-      }
-    },
-    "illarion:race_10_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_10_0"
+          "visual": "illarion:race/zombie"
         }
       },
       "metadata": {
@@ -225,14 +210,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_11_0": {
+    "illarion:race/skeleton": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_11_0"
+          "visual": "illarion:race/skeleton"
         }
       },
       "metadata": {
@@ -240,14 +225,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_11_1": {
+    "illarion:race/red_skeleton": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_11_1"
+          "visual": "illarion:race/red_skeleton"
         }
       },
       "metadata": {
@@ -255,14 +240,14 @@
         "typeId": 1
       }
     },
-    "illarion:race_12_0": {
+    "illarion:race/beholder": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_12_0"
+          "visual": "illarion:race/beholder"
         }
       },
       "metadata": {
@@ -270,14 +255,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_18_0": {
+    "illarion:race/sheep": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_18_0"
+          "visual": "illarion:race/sheep"
         }
       },
       "metadata": {
@@ -285,14 +270,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_19_0": {
+    "illarion:race/spider": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_19_0"
+          "visual": "illarion:race/spider"
         }
       },
       "metadata": {
@@ -300,14 +285,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_24_0": {
+    "illarion:race/pig": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_24_0"
+          "visual": "illarion:race/pig"
         }
       },
       "metadata": {
@@ -315,14 +300,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_27_0": {
+    "illarion:race/wasp": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_27_0"
+          "visual": "illarion:race/wasp"
         }
       },
       "metadata": {
@@ -330,14 +315,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_30_0": {
+    "illarion:race/golem": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_30_0"
+          "visual": "illarion:race/golem"
         }
       },
       "metadata": {
@@ -345,14 +330,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_37_0": {
+    "illarion:race/cow": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_37_0"
+          "visual": "illarion:race/cow"
         }
       },
       "metadata": {
@@ -360,14 +345,14 @@
         "typeId": 0
       }
     },
-    "illarion:race_39_0": {
+    "illarion:race/wolf": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_39_0"
+          "visual": "illarion:race/wolf"
         }
       },
       "metadata": {
@@ -375,333 +360,63 @@
         "typeId": 0
       }
     },
-    "illarion:race_51_0": {
+    "illarion:race/deer": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_51_0"
+          "visual": "illarion:race/deer"
         }
       },
       "metadata": {
-        "raceId": 51,
+        "raceId": 41,
         "typeId": 0
       }
     },
-    "illarion:race_52_0": {
+    "illarion:race/rabbit": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_52_0"
+          "visual": "illarion:race/rabbit"
         }
       },
       "metadata": {
-        "raceId": 52,
+        "raceId": 44,
         "typeId": 0
       }
     },
-    "illarion:race_53_0": {
+    "illarion:race/fairy": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race_53_0"
+          "visual": "illarion:race/fairy"
+        }
+      },
+      "metadata": {
+        "raceId": 45,
+        "typeId": 0
+      }
+    },
+    "illarion:race/ice_dragon": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/ice_dragon"
         }
       },
       "metadata": {
         "raceId": 53,
-        "typeId": 0
-      }
-    },
-    "illarion:race_54_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_54_0"
-        }
-      },
-      "metadata": {
-        "raceId": 54,
-        "typeId": 0
-      }
-    },
-    "illarion:race_55_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_55_0"
-        }
-      },
-      "metadata": {
-        "raceId": 55,
-        "typeId": 0
-      }
-    },
-    "illarion:race_56_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_56_0"
-        }
-      },
-      "metadata": {
-        "raceId": 56,
-        "typeId": 0
-      }
-    },
-    "illarion:race_57_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_57_0"
-        }
-      },
-      "metadata": {
-        "raceId": 57,
-        "typeId": 0
-      }
-    },
-    "illarion:race_57_1": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_57_1"
-        }
-      },
-      "metadata": {
-        "raceId": 57,
-        "typeId": 1
-      }
-    },
-    "illarion:race_58_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_58_0"
-        }
-      },
-      "metadata": {
-        "raceId": 58,
-        "typeId": 0
-      }
-    },
-    "illarion:race_59_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_59_0"
-        }
-      },
-      "metadata": {
-        "raceId": 59,
-        "typeId": 0
-      }
-    },
-    "illarion:race_60_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_60_0"
-        }
-      },
-      "metadata": {
-        "raceId": 60,
-        "typeId": 0
-      }
-    },
-    "illarion:race_61_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_61_0"
-        }
-      },
-      "metadata": {
-        "raceId": 61,
-        "typeId": 0
-      }
-    },
-    "illarion:race_62_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_62_0"
-        }
-      },
-      "metadata": {
-        "raceId": 62,
-        "typeId": 0
-      }
-    },
-    "illarion:race_63_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_63_0"
-        }
-      },
-      "metadata": {
-        "raceId": 63,
-        "typeId": 0
-      }
-    },
-    "illarion:race_111_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_111_0"
-        }
-      },
-      "metadata": {
-        "raceId": 111,
-        "typeId": 0
-      }
-    },
-    "illarion:race_112_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_112_0"
-        }
-      },
-      "metadata": {
-        "raceId": 112,
-        "typeId": 0
-      }
-    },
-    "illarion:race_113_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_113_0"
-        }
-      },
-      "metadata": {
-        "raceId": 113,
-        "typeId": 0
-      }
-    },
-    "illarion:race_114_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_114_0"
-        }
-      },
-      "metadata": {
-        "raceId": 114,
-        "typeId": 0
-      }
-    },
-    "illarion:race_115_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_115_0"
-        }
-      },
-      "metadata": {
-        "raceId": 115,
-        "typeId": 0
-      }
-    },
-    "illarion:race_115_1": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_115_1"
-        }
-      },
-      "metadata": {
-        "raceId": 115,
-        "typeId": 1
-      }
-    },
-    "illarion:race_116_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_116_0"
-        }
-      },
-      "metadata": {
-        "raceId": 116,
-        "typeId": 0
-      }
-    },
-    "illarion:race_117_0": {
-      "tags": [
-        "illarion:character"
-      ],
-      "components": {
-        "illarion:visual": {
-          "type": "visual",
-          "visual": "illarion:race_117_0"
-        }
-      },
-      "metadata": {
-        "raceId": 117,
         "typeId": 0
       }
     }

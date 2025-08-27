@@ -5538,42 +5538,6 @@
         "name": "columnOfResurrection"
       }
     },
-    "illarion:race_9": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "forestTroll",
-      "maxAttributePoints": 84,
-      "strokeArmor": 7,
-      "punctureArmor": 14,
-      "thrustArmor": 14,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 9,
-        "name": "forestTroll"
-      }
-    },
     "illarion:race/zombie": {
       "minAge": 18,
       "maxAge": 80,
@@ -5610,7 +5574,7 @@
         "name": "mummy"
       }
     },
-    "illarion:race/red_skeleton": {
+    "illarion:race/skeleton": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -5955,7 +5919,7 @@
         "name": "wolf"
       }
     },
-    "illarion:race_51": {
+    "illarion:race/deer": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -5978,17 +5942,20 @@
       "maxEssence": 20,
       "minPerception": 2,
       "maxPerception": 20,
-      "name": "bear",
+      "name": "deer",
       "maxAttributePoints": 84,
+      "strokeArmor": 7,
+      "punctureArmor": 3,
+      "thrustArmor": 5,
       "types": {
         "0": {}
       },
       "metadata": {
-        "id": 51,
-        "name": "bear"
+        "id": 41,
+        "name": "deer"
       }
     },
-    "illarion:race_52": {
+    "illarion:race/rabbit": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -6011,14 +5978,47 @@
       "maxEssence": 20,
       "minPerception": 2,
       "maxPerception": 20,
-      "name": "raptor",
+      "name": "rabbit",
       "maxAttributePoints": 84,
       "types": {
         "0": {}
       },
       "metadata": {
-        "id": 52,
-        "name": "raptor"
+        "id": 44,
+        "name": "rabbit"
+      }
+    },
+    "illarion:race/fairy": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 87,
+      "minWeight": 40000,
+      "maxWeight": 120000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "name": "fairy",
+      "maxAttributePoints": 84,
+      "types": {
+        "0": {}
+      },
+      "metadata": {
+        "id": 45,
+        "name": "fairy"
       }
     },
     "illarion:race/ice_dragon": {
@@ -6052,590 +6052,6 @@
       "metadata": {
         "id": 53,
         "name": "zombie"
-      }
-    },
-    "illarion:race_54": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "hellhound",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 54,
-        "name": "hellhound"
-      }
-    },
-    "illarion:race_55": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "imp",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 55,
-        "name": "imp"
-      }
-    },
-    "illarion:race_56": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "ironGolem",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 56,
-        "name": "ironGolem"
-      }
-    },
-    "illarion:race_57": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "ratman",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {},
-        "1": {}
-      },
-      "metadata": {
-        "id": 57,
-        "name": "ratman"
-      }
-    },
-    "illarion:race_58": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "dog",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 58,
-        "name": "dog"
-      }
-    },
-    "illarion:race_59": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "beetle",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 59,
-        "name": "beetle"
-      }
-    },
-    "illarion:race_60": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "fox",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 60,
-        "name": "fox"
-      }
-    },
-    "illarion:race_61": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "slime",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 61,
-        "name": "slime"
-      }
-    },
-    "illarion:race_62": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "chicken",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {
-          "skinColors": [
-            {
-              "red": 255,
-              "green": 255,
-              "alpha": 255
-            },
-            {
-              "red": 210,
-              "green": 120,
-              "alpha": 255
-            },
-            {
-              "red": 100,
-              "green": 100,
-              "alpha": 255
-            }
-          ]
-        }
-      },
-      "metadata": {
-        "id": 62,
-        "name": "chicken"
-      }
-    },
-    "illarion:race_63": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "boneDragon",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 63,
-        "name": "boneDragon"
-      }
-    },
-    "illarion:race_111": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "rat",
-      "maxAttributePoints": 84,
-      "strokeArmor": 15,
-      "punctureArmor": 15,
-      "thrustArmor": 15,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 111,
-        "name": "rat"
-      }
-    },
-    "illarion:race_112": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "fleshDragon",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 112,
-        "name": "fleshDragon"
-      }
-    },
-    "illarion:race_113": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "rabbit",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 113,
-        "name": "rabbit"
-      }
-    },
-    "illarion:race_114": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "akaltut",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 114,
-        "name": "akaltut"
-      }
-    },
-    "illarion:race_115": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "fairy",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {},
-        "1": {}
-      },
-      "metadata": {
-        "id": 115,
-        "name": "fairy"
-      }
-    },
-    "illarion:race_116": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "deer",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 116,
-        "name": "deer"
-      }
-    },
-    "illarion:race_117": {
-      "minAge": 18,
-      "maxAge": 80,
-      "minHeight": 55,
-      "maxHeight": 87,
-      "minWeight": 40000,
-      "maxWeight": 120000,
-      "minAgility": 2,
-      "maxAgility": 20,
-      "minStrength": 2,
-      "maxStrength": 20,
-      "minIntelligence": 2,
-      "maxIntelligence": 20,
-      "minWillpower": 2,
-      "maxWillpower": 20,
-      "minConstitution": 2,
-      "maxConstitution": 20,
-      "minDexterity": 2,
-      "maxDexterity": 20,
-      "minEssence": 2,
-      "maxEssence": 20,
-      "minPerception": 2,
-      "maxPerception": 20,
-      "name": "ettin",
-      "maxAttributePoints": 84,
-      "types": {
-        "0": {}
-      },
-      "metadata": {
-        "id": 117,
-        "name": "ettin"
       }
     }
   }
