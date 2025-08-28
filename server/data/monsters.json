@@ -1,7 +1,7 @@
 {
   "entries": {
     "illarion:monster_1": {
-      "race": "illarion:race_0",
+      "race": "illarion:race/human",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -235,7 +235,7 @@
           "maxQuality": 5,
           "minDurability": 44,
           "maxDurability": 55,
-          "item": "illarion:item_15"
+          "item": "illarion:item/apple"
         },
         {
           "category": 3,
@@ -320,7 +320,7 @@
       }
     },
     "illarion:monster_2": {
-      "race": "illarion:race_0",
+      "race": "illarion:race/human",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -625,7 +625,7 @@
       }
     },
     "illarion:monster_3": {
-      "race": "illarion:race_0",
+      "race": "illarion:race/human",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -940,7 +940,7 @@
       }
     },
     "illarion:monster_4": {
-      "race": "illarion:race_0",
+      "race": "illarion:race/human",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -1250,7 +1250,7 @@
       }
     },
     "illarion:monster_5": {
-      "race": "illarion:race_0",
+      "race": "illarion:race/human",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -1555,7 +1555,7 @@
       }
     },
     "illarion:monster_6": {
-      "race": "illarion:race_0",
+      "race": "illarion:race/human",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -1666,7 +1666,7 @@
       }
     },
     "illarion:monster_7": {
-      "race": "illarion:race_0",
+      "race": "illarion:race/human",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -1976,7 +1976,7 @@
       }
     },
     "illarion:monster_9": {
-      "race": "illarion:race_0",
+      "race": "illarion:race/human",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -2097,7 +2097,7 @@
       }
     },
     "illarion:monster_11": {
-      "race": "illarion:race_1",
+      "race": "illarion:race/dwarf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -2402,7 +2402,7 @@
       }
     },
     "illarion:monster_12": {
-      "race": "illarion:race_1",
+      "race": "illarion:race/dwarf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -2717,7 +2717,7 @@
       }
     },
     "illarion:monster_13": {
-      "race": "illarion:race_1",
+      "race": "illarion:race/dwarf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -3027,7 +3027,7 @@
       }
     },
     "illarion:monster_14": {
-      "race": "illarion:race_1",
+      "race": "illarion:race/dwarf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -3332,7 +3332,7 @@
       }
     },
     "illarion:monster_15": {
-      "race": "illarion:race_1",
+      "race": "illarion:race/dwarf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -3632,7 +3632,7 @@
       }
     },
     "illarion:monster_16": {
-      "race": "illarion:race_1",
+      "race": "illarion:race/dwarf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -3738,7 +3738,7 @@
       }
     },
     "illarion:monster_21": {
-      "race": "illarion:race_2",
+      "race": "illarion:race/halfling",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -4038,7 +4038,7 @@
       }
     },
     "illarion:monster_22": {
-      "race": "illarion:race_2",
+      "race": "illarion:race/halfling",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -4343,7 +4343,7 @@
       }
     },
     "illarion:monster_23": {
-      "race": "illarion:race_2",
+      "race": "illarion:race/halfling",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -4643,7 +4643,7 @@
       }
     },
     "illarion:monster_24": {
-      "race": "illarion:race_2",
+      "race": "illarion:race/halfling",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -4927,7 +4927,7 @@
       }
     },
     "illarion:monster_25": {
-      "race": "illarion:race_2",
+      "race": "illarion:race/halfling",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -5227,7 +5227,7 @@
       }
     },
     "illarion:monster_26": {
-      "race": "illarion:race_2",
+      "race": "illarion:race/halfling",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -5333,7 +5333,7 @@
       }
     },
     "illarion:monster_31": {
-      "race": "illarion:race_3",
+      "race": "illarion:race/elf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -5638,7 +5638,7 @@
       }
     },
     "illarion:monster_32": {
-      "race": "illarion:race_3",
+      "race": "illarion:race/elf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -5948,7 +5948,7 @@
       }
     },
     "illarion:monster_33": {
-      "race": "illarion:race_3",
+      "race": "illarion:race/elf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -6258,7 +6258,7 @@
       }
     },
     "illarion:monster_34": {
-      "race": "illarion:race_3",
+      "race": "illarion:race/elf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -6563,7 +6563,7 @@
       }
     },
     "illarion:monster_35": {
-      "race": "illarion:race_3",
+      "race": "illarion:race/elf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -6868,7 +6868,7 @@
       }
     },
     "illarion:monster_36": {
-      "race": "illarion:race_3",
+      "race": "illarion:race/elf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -6974,7 +6974,7 @@
       }
     },
     "illarion:monster_41": {
-      "race": "illarion:race_4",
+      "race": "illarion:race/orc",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -7279,7 +7279,7 @@
       }
     },
     "illarion:monster_42": {
-      "race": "illarion:race_4",
+      "race": "illarion:race/orc",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -7589,7 +7589,7 @@
       }
     },
     "illarion:monster_43": {
-      "race": "illarion:race_4",
+      "race": "illarion:race/orc",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -7894,7 +7894,7 @@
       }
     },
     "illarion:monster_44": {
-      "race": "illarion:race_4",
+      "race": "illarion:race/orc",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -8199,7 +8199,7 @@
       }
     },
     "illarion:monster_45": {
-      "race": "illarion:race_4",
+      "race": "illarion:race/orc",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -8504,7 +8504,7 @@
       }
     },
     "illarion:monster_46": {
-      "race": "illarion:race_4",
+      "race": "illarion:race/orc",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -8605,7 +8605,7 @@
       }
     },
     "illarion:monster_51": {
-      "race": "illarion:race_5",
+      "race": "illarion:race/lizard",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -8910,7 +8910,7 @@
       }
     },
     "illarion:monster_52": {
-      "race": "illarion:race_5",
+      "race": "illarion:race/lizard",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -9215,7 +9215,7 @@
       }
     },
     "illarion:monster_53": {
-      "race": "illarion:race_5",
+      "race": "illarion:race/lizard",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -9525,7 +9525,7 @@
       }
     },
     "illarion:monster_54": {
-      "race": "illarion:race_5",
+      "race": "illarion:race/lizard",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -9830,7 +9830,7 @@
       }
     },
     "illarion:monster_55": {
-      "race": "illarion:race_5",
+      "race": "illarion:race/lizard",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -10130,7 +10130,7 @@
       }
     },
     "illarion:monster_56": {
-      "race": "illarion:race_5",
+      "race": "illarion:race/lizard",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -10236,7 +10236,7 @@
       }
     },
     "illarion:monster_61": {
-      "race": "illarion:race_3",
+      "race": "illarion:race/elf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -10541,7 +10541,7 @@
       }
     },
     "illarion:monster_62": {
-      "race": "illarion:race_3",
+      "race": "illarion:race/elf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -10851,7 +10851,7 @@
       }
     },
     "illarion:monster_63": {
-      "race": "illarion:race_3",
+      "race": "illarion:race/elf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -11161,7 +11161,7 @@
       }
     },
     "illarion:monster_64": {
-      "race": "illarion:race_3",
+      "race": "illarion:race/elf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -11471,7 +11471,7 @@
       }
     },
     "illarion:monster_65": {
-      "race": "illarion:race_3",
+      "race": "illarion:race/elf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -11776,7 +11776,7 @@
       }
     },
     "illarion:monster_66": {
-      "race": "illarion:race_3",
+      "race": "illarion:race/elf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -13591,7 +13591,7 @@
       }
     },
     "illarion:monster_101": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -13870,7 +13870,7 @@
       }
     },
     "illarion:monster_102": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -14149,7 +14149,7 @@
       }
     },
     "illarion:monster_103": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -14428,7 +14428,7 @@
       }
     },
     "illarion:monster_104": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -14707,7 +14707,7 @@
       }
     },
     "illarion:monster_105": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -14986,7 +14986,7 @@
       }
     },
     "illarion:monster_106": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -15097,7 +15097,7 @@
       }
     },
     "illarion:monster_107": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -15386,7 +15386,7 @@
       }
     },
     "illarion:monster_108": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -15670,7 +15670,7 @@
       }
     },
     "illarion:monster_109": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -15944,7 +15944,7 @@
       }
     },
     "illarion:monster_110": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -16223,7 +16223,7 @@
       }
     },
     "illarion:monster_111": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -16502,7 +16502,7 @@
       }
     },
     "illarion:monster_112": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -16786,7 +16786,7 @@
       }
     },
     "illarion:monster_113": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -17065,7 +17065,7 @@
       }
     },
     "illarion:monster_114": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -17344,7 +17344,7 @@
       }
     },
     "illarion:monster_115": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -17623,7 +17623,7 @@
       }
     },
     "illarion:monster_116": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -17734,7 +17734,7 @@
       }
     },
     "illarion:monster_117": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -18001,7 +18001,7 @@
       }
     },
     "illarion:monster_121": {
-      "race": "illarion:race_12",
+      "race": "illarion:race/beholder",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -18275,7 +18275,7 @@
       }
     },
     "illarion:monster_122": {
-      "race": "illarion:race_12",
+      "race": "illarion:race/beholder",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -18554,7 +18554,7 @@
       }
     },
     "illarion:monster_123": {
-      "race": "illarion:race_12",
+      "race": "illarion:race/beholder",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -18843,7 +18843,7 @@
       }
     },
     "illarion:monster_124": {
-      "race": "illarion:race_12",
+      "race": "illarion:race/beholder",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -19126,7 +19126,7 @@
       }
     },
     "illarion:monster_125": {
-      "race": "illarion:race_12",
+      "race": "illarion:race/beholder",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -19423,7 +19423,7 @@
       }
     },
     "illarion:monster_131": {
-      "race": "illarion:race_12",
+      "race": "illarion:race/beholder",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -19707,7 +19707,7 @@
       }
     },
     "illarion:monster_132": {
-      "race": "illarion:race_12",
+      "race": "illarion:race/beholder",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -20004,7 +20004,7 @@
       }
     },
     "illarion:monster_141": {
-      "race": "illarion:race_12",
+      "race": "illarion:race/beholder",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -20288,7 +20288,7 @@
       }
     },
     "illarion:monster_142": {
-      "race": "illarion:race_12",
+      "race": "illarion:race/beholder",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -20567,7 +20567,7 @@
       }
     },
     "illarion:monster_143": {
-      "race": "illarion:race_12",
+      "race": "illarion:race/beholder",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -20851,7 +20851,7 @@
       }
     },
     "illarion:monster_151": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -21135,7 +21135,7 @@
       }
     },
     "illarion:monster_152": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -21414,7 +21414,7 @@
       }
     },
     "illarion:monster_171": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -21693,7 +21693,7 @@
       }
     },
     "illarion:monster_172": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -21982,7 +21982,7 @@
       }
     },
     "illarion:monster_173": {
-      "race": "illarion:race_10",
+      "race": "illarion:race/mummy",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -22261,7 +22261,7 @@
       }
     },
     "illarion:monster_181": {
-      "race": "illarion:race_18",
+      "race": "illarion:race/sheep",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -22385,7 +22385,7 @@
       }
     },
     "illarion:monster_182": {
-      "race": "illarion:race_18",
+      "race": "illarion:race/sheep",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -22509,7 +22509,7 @@
       }
     },
     "illarion:monster_191": {
-      "race": "illarion:race_19",
+      "race": "illarion:race/spider",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -22788,7 +22788,7 @@
       }
     },
     "illarion:monster_192": {
-      "race": "illarion:race_19",
+      "race": "illarion:race/spider",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -23067,7 +23067,7 @@
       }
     },
     "illarion:monster_193": {
-      "race": "illarion:race_19",
+      "race": "illarion:race/spider",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -23346,7 +23346,7 @@
       }
     },
     "illarion:monster_195": {
-      "race": "illarion:race_19",
+      "race": "illarion:race/spider",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -23634,7 +23634,7 @@
       }
     },
     "illarion:monster_196": {
-      "race": "illarion:race_19",
+      "race": "illarion:race/spider",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -23908,7 +23908,7 @@
       }
     },
     "illarion:monster_201": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -24197,7 +24197,7 @@
       }
     },
     "illarion:monster_202": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -24480,7 +24480,7 @@
       }
     },
     "illarion:monster_203": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -24769,7 +24769,7 @@
       }
     },
     "illarion:monster_204": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -25056,7 +25056,7 @@
       }
     },
     "illarion:monster_205": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -25167,7 +25167,7 @@
       }
     },
     "illarion:monster_206": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -25440,7 +25440,7 @@
       }
     },
     "illarion:monster_211": {
-      "race": "illarion:race_19",
+      "race": "illarion:race/spider",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -25719,7 +25719,7 @@
       }
     },
     "illarion:monster_221": {
-      "race": "illarion:race_19",
+      "race": "illarion:race/spider",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -26003,7 +26003,7 @@
       }
     },
     "illarion:monster_222": {
-      "race": "illarion:race_19",
+      "race": "illarion:race/spider",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -26282,7 +26282,7 @@
       }
     },
     "illarion:monster_223": {
-      "race": "illarion:race_19",
+      "race": "illarion:race/spider",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -26569,7 +26569,7 @@
       }
     },
     "illarion:monster_231": {
-      "race": "illarion:race_19",
+      "race": "illarion:race/spider",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -26862,7 +26862,7 @@
       }
     },
     "illarion:monster_232": {
-      "race": "illarion:race_19",
+      "race": "illarion:race/spider",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -27141,7 +27141,7 @@
       }
     },
     "illarion:monster_241": {
-      "race": "illarion:race_24",
+      "race": "illarion:race/pig",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -27276,7 +27276,7 @@
       }
     },
     "illarion:monster_242": {
-      "race": "illarion:race_24",
+      "race": "illarion:race/pig",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -27401,7 +27401,7 @@
       }
     },
     "illarion:monster_243": {
-      "race": "illarion:race_24",
+      "race": "illarion:race/pig",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -27521,7 +27521,7 @@
       }
     },
     "illarion:monster_244": {
-      "race": "illarion:race_24",
+      "race": "illarion:race/pig",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -27646,7 +27646,7 @@
       }
     },
     "illarion:monster_261": {
-      "race": "illarion:race_19",
+      "race": "illarion:race/spider",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -27939,7 +27939,7 @@
       }
     },
     "illarion:monster_262": {
-      "race": "illarion:race_19",
+      "race": "illarion:race/spider",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -28226,7 +28226,7 @@
       }
     },
     "illarion:monster_271": {
-      "race": "illarion:race_27",
+      "race": "illarion:race/wasp",
       "hitpoints": 10000,
       "movementType": "fly",
       "canAttack": true,
@@ -28335,7 +28335,7 @@
       }
     },
     "illarion:monster_272": {
-      "race": "illarion:race_27",
+      "race": "illarion:race/wasp",
       "hitpoints": 10000,
       "movementType": "fly",
       "canAttack": true,
@@ -28444,7 +28444,7 @@
       }
     },
     "illarion:monster_273": {
-      "race": "illarion:race_27",
+      "race": "illarion:race/wasp",
       "hitpoints": 10000,
       "movementType": "fly",
       "canAttack": true,
@@ -28563,7 +28563,7 @@
       }
     },
     "illarion:monster_274": {
-      "race": "illarion:race_27",
+      "race": "illarion:race/wasp",
       "hitpoints": 10000,
       "movementType": "fly",
       "canAttack": true,
@@ -28677,7 +28677,7 @@
       }
     },
     "illarion:monster_278": {
-      "race": "illarion:race_27",
+      "race": "illarion:race/wasp",
       "hitpoints": 10000,
       "movementType": "fly",
       "canAttack": true,
@@ -28786,7 +28786,7 @@
       }
     },
     "illarion:monster_301": {
-      "race": "illarion:race_30",
+      "race": "illarion:race/golem",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -29070,7 +29070,7 @@
       }
     },
     "illarion:monster_302": {
-      "race": "illarion:race_30",
+      "race": "illarion:race/golem",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -29378,7 +29378,7 @@
       }
     },
     "illarion:monster_303": {
-      "race": "illarion:race_30",
+      "race": "illarion:race/golem",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -29667,7 +29667,7 @@
       }
     },
     "illarion:monster_304": {
-      "race": "illarion:race_30",
+      "race": "illarion:race/golem",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -29961,7 +29961,7 @@
       }
     },
     "illarion:monster_305": {
-      "race": "illarion:race_30",
+      "race": "illarion:race/golem",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -30250,7 +30250,7 @@
       }
     },
     "illarion:monster_306": {
-      "race": "illarion:race_30",
+      "race": "illarion:race/golem",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -30544,7 +30544,7 @@
       }
     },
     "illarion:monster_371": {
-      "race": "illarion:race_37",
+      "race": "illarion:race/cow",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -30690,7 +30690,7 @@
       }
     },
     "illarion:monster_372": {
-      "race": "illarion:race_37",
+      "race": "illarion:race/cow",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -30826,7 +30826,7 @@
       }
     },
     "illarion:monster_373": {
-      "race": "illarion:race_37",
+      "race": "illarion:race/cow",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -30957,7 +30957,7 @@
       }
     },
     "illarion:monster_391": {
-      "race": "illarion:race_39",
+      "race": "illarion:race/wolf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -31093,7 +31093,7 @@
       }
     },
     "illarion:monster_392": {
-      "race": "illarion:race_39",
+      "race": "illarion:race/wolf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -31224,7 +31224,7 @@
       }
     },
     "illarion:monster_393": {
-      "race": "illarion:race_39",
+      "race": "illarion:race/wolf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -31360,7 +31360,7 @@
       }
     },
     "illarion:monster_394": {
-      "race": "illarion:race_39",
+      "race": "illarion:race/wolf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -31496,7 +31496,7 @@
       }
     },
     "illarion:monster_395": {
-      "race": "illarion:race_39",
+      "race": "illarion:race/wolf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -31632,7 +31632,7 @@
       }
     },
     "illarion:monster_396": {
-      "race": "illarion:race_39",
+      "race": "illarion:race/wolf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": false,
@@ -31756,7 +31756,7 @@
       }
     },
     "illarion:monster_401": {
-      "race": "illarion:race_39",
+      "race": "illarion:race/wolf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -31881,7 +31881,7 @@
       }
     },
     "illarion:monster_402": {
-      "race": "illarion:race_39",
+      "race": "illarion:race/wolf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -32017,7 +32017,7 @@
       }
     },
     "illarion:monster_403": {
-      "race": "illarion:race_39",
+      "race": "illarion:race/wolf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -32148,7 +32148,7 @@
       }
     },
     "illarion:monster_404": {
-      "race": "illarion:race_39",
+      "race": "illarion:race/wolf",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -34560,7 +34560,7 @@
       }
     },
     "illarion:monster_531": {
-      "race": "illarion:race_53",
+      "race": "illarion:race/ice_dragon",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -34844,7 +34844,7 @@
       }
     },
     "illarion:monster_532": {
-      "race": "illarion:race_53",
+      "race": "illarion:race/ice_dragon",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -35128,7 +35128,7 @@
       }
     },
     "illarion:monster_533": {
-      "race": "illarion:race_53",
+      "race": "illarion:race/ice_dragon",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -35417,7 +35417,7 @@
       }
     },
     "illarion:monster_534": {
-      "race": "illarion:race_53",
+      "race": "illarion:race/ice_dragon",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -35701,7 +35701,7 @@
       }
     },
     "illarion:monster_535": {
-      "race": "illarion:race_53",
+      "race": "illarion:race/ice_dragon",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -35980,7 +35980,7 @@
       }
     },
     "illarion:monster_536": {
-      "race": "illarion:race_53",
+      "race": "illarion:race/ice_dragon",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -36259,7 +36259,7 @@
       }
     },
     "illarion:monster_537": {
-      "race": "illarion:race_53",
+      "race": "illarion:race/ice_dragon",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -36553,7 +36553,7 @@
       }
     },
     "illarion:monster_538": {
-      "race": "illarion:race_53",
+      "race": "illarion:race/ice_dragon",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -36837,7 +36837,7 @@
       }
     },
     "illarion:monster_539": {
-      "race": "illarion:race_53",
+      "race": "illarion:race/ice_dragon",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -37121,7 +37121,7 @@
       }
     },
     "illarion:monster_540": {
-      "race": "illarion:race_53",
+      "race": "illarion:race/ice_dragon",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -48644,7 +48644,7 @@
       }
     },
     "illarion:monster_741": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -48928,7 +48928,7 @@
       }
     },
     "illarion:monster_742": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -49212,7 +49212,7 @@
       }
     },
     "illarion:monster_743": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -49496,7 +49496,7 @@
       }
     },
     "illarion:monster_744": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -49775,7 +49775,7 @@
       }
     },
     "illarion:monster_751": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -50059,7 +50059,7 @@
       }
     },
     "illarion:monster_752": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -50338,7 +50338,7 @@
       }
     },
     "illarion:monster_753": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -50617,7 +50617,7 @@
       }
     },
     "illarion:monster_754": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -50901,7 +50901,7 @@
       }
     },
     "illarion:monster_761": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -51185,7 +51185,7 @@
       }
     },
     "illarion:monster_762": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -51469,7 +51469,7 @@
       }
     },
     "illarion:monster_763": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -51753,7 +51753,7 @@
       }
     },
     "illarion:monster_764": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -52037,7 +52037,7 @@
       }
     },
     "illarion:monster_782": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -52321,7 +52321,7 @@
       }
     },
     "illarion:monster_783": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,
@@ -52600,7 +52600,7 @@
       }
     },
     "illarion:monster_784": {
-      "race": "illarion:race_11",
+      "race": "illarion:race/skeleton",
       "hitpoints": 10000,
       "movementType": "walk",
       "canAttack": true,

@@ -195,14 +195,29 @@
         "typeId": 0
       }
     },
-    "illarion:race/zombie": {
+    "illarion:race/insects": {
       "tags": [
         "illarion:character"
       ],
       "components": {
         "illarion:visual": {
           "type": "visual",
-          "visual": "illarion:race/zombie"
+          "visual": "illarion:race/insects"
+        }
+      },
+      "metadata": {
+        "raceId": 8,
+        "typeId": 0
+      }
+    },
+    "illarion:race/mummy": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/mummy"
         }
       },
       "metadata": {
@@ -255,6 +270,36 @@
         "typeId": 0
       }
     },
+    "illarion:race/rotworm": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/rotworm"
+        }
+      },
+      "metadata": {
+        "raceId": 14,
+        "typeId": 0
+      }
+    },
+    "illarion:race/demon": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/demon"
+        }
+      },
+      "metadata": {
+        "raceId": 15,
+        "typeId": 0
+      }
+    },
     "illarion:race/sheep": {
       "tags": [
         "illarion:character"
@@ -285,6 +330,36 @@
         "typeId": 0
       }
     },
+    "illarion:race/cave_troll": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/cave_troll"
+        }
+      },
+      "metadata": {
+        "raceId": 21,
+        "typeId": 0
+      }
+    },
+    "illarion:race/scorpion": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/scorpion"
+        }
+      },
+      "metadata": {
+        "raceId": 22,
+        "typeId": 0
+      }
+    },
     "illarion:race/pig": {
       "tags": [
         "illarion:character"
@@ -297,6 +372,21 @@
       },
       "metadata": {
         "raceId": 24,
+        "typeId": 0
+      }
+    },
+    "illarion:race/invisible": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/invisible"
+        }
+      },
+      "metadata": {
+        "raceId": 26,
         "typeId": 0
       }
     },
@@ -315,6 +405,21 @@
         "typeId": 0
       }
     },
+    "illarion:race/forest_troll": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/forest_troll"
+        }
+      },
+      "metadata": {
+        "raceId": 29,
+        "typeId": 0
+      }
+    },
     "illarion:race/golem": {
       "tags": [
         "illarion:character"
@@ -330,6 +435,51 @@
         "typeId": 0
       }
     },
+    "illarion:race/goblin_male": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/goblin_male"
+        }
+      },
+      "metadata": {
+        "raceId": 32,
+        "typeId": 0
+      }
+    },
+    "illarion:race/gnoll": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/gnoll"
+        }
+      },
+      "metadata": {
+        "raceId": 33,
+        "typeId": 0
+      }
+    },
+    "illarion:race/dragon": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/dragon"
+        }
+      },
+      "metadata": {
+        "raceId": 35,
+        "typeId": 0
+      }
+    },
     "illarion:race/cow": {
       "tags": [
         "illarion:character"
@@ -342,6 +492,21 @@
       },
       "metadata": {
         "raceId": 37,
+        "typeId": 0
+      }
+    },
+    "illarion:race/drow": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/drow"
+        }
+      },
+      "metadata": {
+        "raceId": 38,
         "typeId": 0
       }
     },
@@ -375,6 +540,21 @@
         "typeId": 0
       }
     },
+    "illarion:race/panther": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/panther"
+        }
+      },
+      "metadata": {
+        "raceId": 43,
+        "typeId": 0
+      }
+    },
     "illarion:race/rabbit": {
       "tags": [
         "illarion:character"
@@ -402,6 +582,81 @@
       },
       "metadata": {
         "raceId": 45,
+        "typeId": 0
+      }
+    },
+    "illarion:race/gnome_female": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/gnome_female"
+        }
+      },
+      "metadata": {
+        "raceId": 46,
+        "typeId": 0
+      }
+    },
+    "illarion:race/gnome_male": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/gnome_male"
+        }
+      },
+      "metadata": {
+        "raceId": 47,
+        "typeId": 0
+      }
+    },
+    "illarion:race/fallen": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/fallen"
+        }
+      },
+      "metadata": {
+        "raceId": 48,
+        "typeId": 0
+      }
+    },
+    "illarion:race/goblin_female": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/goblin_female"
+        }
+      },
+      "metadata": {
+        "raceId": 49,
+        "typeId": 0
+      }
+    },
+    "illarion:race/donkey": {
+      "tags": [
+        "illarion:character"
+      ],
+      "components": {
+        "illarion:visual": {
+          "type": "visual",
+          "visual": "illarion:race/donkey"
+        }
+      },
+      "metadata": {
+        "raceId": 50,
         "typeId": 0
       }
     },

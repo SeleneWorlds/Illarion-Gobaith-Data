@@ -5538,7 +5538,37 @@
         "name": "columnOfResurrection"
       }
     },
-    "illarion:race/zombie": {
+    "illarion:race/insects": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "strokeArmor": 0,
+      "punctureArmor": 0,
+      "thrustArmor": 0,
+      "metadata": {
+        "id": 8
+      }
+    },
+    "illarion:race/mummy": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -5647,6 +5677,60 @@
         "name": "floatingEye"
       }
     },
+    "illarion:race/rotworm": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "metadata": {
+        "id": 14
+      }
+    },
+    "illarion:race/demon": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "metadata": {
+        "id": 15
+      }
+    },
     "illarion:race/sheep": {
       "minAge": 18,
       "maxAge": 80,
@@ -5716,6 +5800,66 @@
         "name": "spider"
       }
     },
+    "illarion:race/cave_troll": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "strokeArmor": 15,
+      "punctureArmor": 5,
+      "thrustArmor": 30,
+      "metadata": {
+        "id": 21
+      }
+    },
+    "illarion:race/scorpion": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "strokeArmor": 42,
+      "punctureArmor": 42,
+      "thrustArmor": 42,
+      "metadata": {
+        "id": 22
+      }
+    },
     "illarion:race/pig": {
       "minAge": 18,
       "maxAge": 80,
@@ -5762,6 +5906,36 @@
         "name": "pig"
       }
     },
+    "illarion:race/invisible": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "strokeArmor": 15,
+      "punctureArmor": 28,
+      "thrustArmor": 5,
+      "metadata": {
+        "id": 26
+      }
+    },
     "illarion:race/wasp": {
       "minAge": 18,
       "maxAge": 80,
@@ -5798,6 +5972,36 @@
         "name": "wasp"
       }
     },
+    "illarion:race/forest_troll": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "strokeArmor": 28,
+      "punctureArmor": 42,
+      "thrustArmor": 20,
+      "metadata": {
+        "id": 29
+      }
+    },
     "illarion:race/golem": {
       "minAge": 18,
       "maxAge": 80,
@@ -5832,6 +6036,96 @@
       "metadata": {
         "id": 30,
         "name": "golem"
+      }
+    },
+    "illarion:race/goblin_male": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "strokeArmor": 25,
+      "punctureArmor": 12,
+      "thrustArmor": 17,
+      "metadata": {
+        "id": 32
+      }
+    },
+    "illarion:race/gnoll": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "strokeArmor": 35,
+      "punctureArmor": 25,
+      "thrustArmor": 28,
+      "metadata": {
+        "id": 33
+      }
+    },
+    "illarion:race/dragon": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "strokeArmor": 16,
+      "punctureArmor": 22,
+      "thrustArmor": 20,
+      "metadata": {
+        "id": 35
       }
     },
     "illarion:race/cow": {
@@ -5881,6 +6175,36 @@
       "metadata": {
         "id": 37,
         "name": "cow"
+      }
+    },
+    "illarion:race/drow": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "strokeArmor": 7,
+      "punctureArmor": 3,
+      "thrustArmor": 5,
+      "metadata": {
+        "id": 38
       }
     },
     "illarion:race/wolf": {
@@ -5955,6 +6279,33 @@
         "name": "deer"
       }
     },
+    "illarion:race/panther": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "metadata": {
+        "id": 43
+      }
+    },
     "illarion:race/rabbit": {
       "minAge": 18,
       "maxAge": 80,
@@ -6021,7 +6372,115 @@
         "name": "fairy"
       }
     },
-    "illarion:race/ice_dragon": {
+    "illarion:race/gnome_female": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "metadata": {
+        "id": 46
+      }
+    },
+    "illarion:race/gnome_male": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "metadata": {
+        "id": 47
+      }
+    },
+    "illarion:race/fallen": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "metadata": {
+        "id": 48
+      }
+    },
+    "illarion:race/goblin_female": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
+      "metadata": {
+        "id": 49
+      }
+    },
+    "illarion:race/donkey": {
       "minAge": 18,
       "maxAge": 80,
       "minHeight": 55,
@@ -6044,14 +6503,41 @@
       "maxEssence": 20,
       "minPerception": 2,
       "maxPerception": 20,
-      "name": "zombie",
+      "name": "cow",
       "maxAttributePoints": 84,
+      "metadata": {
+        "id": 50,
+        "name": "cow"
+      }
+    },
+    "illarion:race/ice_dragon": {
+      "minAge": 18,
+      "maxAge": 80,
+      "minHeight": 55,
+      "maxHeight": 85,
+      "minWeight": 4000,
+      "maxWeight": 12000,
+      "minAgility": 2,
+      "maxAgility": 20,
+      "minStrength": 2,
+      "maxStrength": 20,
+      "minIntelligence": 2,
+      "maxIntelligence": 20,
+      "minWillpower": 2,
+      "maxWillpower": 20,
+      "minConstitution": 2,
+      "maxConstitution": 20,
+      "minDexterity": 2,
+      "maxDexterity": 20,
+      "minEssence": 2,
+      "maxEssence": 20,
+      "minPerception": 2,
+      "maxPerception": 20,
       "types": {
         "0": {}
       },
       "metadata": {
-        "id": 53,
-        "name": "zombie"
+        "id": 53
       }
     }
   }
