@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4792",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 3200,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "goldBowl",
+  "level": 30,
+  "visual": "illarion:items/item_4792",
+  "metadata": {
+    "id": 4792
+  }
+}

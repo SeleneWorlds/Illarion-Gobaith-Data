@@ -1,0 +1,22 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 255,
+  "objectAfterRot": "illarion:item_1229",
+  "script": "item.id_1226_dyeingbarrel",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "blackDyeingBarrel",
+  "level": 0,
+  "impassable": true,
+  "specialItem": 0,
+  "passableAbove": false,
+  "visual": "illarion:items/item_1229",
+  "metadata": {
+    "id": 1229
+  }
+}

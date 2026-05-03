@@ -1,0 +1,88 @@
+{
+  "skills": {
+    "illarion:skill_17": {
+      "value": 10
+    },
+    "illarion:skill_16": {
+      "value": 5
+    },
+    "illarion:skill_48": {
+      "value": 5
+    }
+  },
+  "items": {
+    "1": {
+      "itemId": "illarion:item_97",
+      "count": 1,
+      "quality": 599
+    },
+    "2": {
+      "itemId": "illarion:item_356",
+      "count": 1,
+      "quality": 599
+    },
+    "4": {
+      "itemId": "illarion:item_816",
+      "count": 1,
+      "quality": 599
+    },
+    "5": {
+      "itemId": "illarion:item_1447",
+      "count": 1,
+      "quality": 599
+    },
+    "6": {
+      "itemId": "illarion:item_126",
+      "count": 1,
+      "quality": 599
+    },
+    "7": {
+      "itemId": "illarion:item_271",
+      "count": 1,
+      "quality": 599
+    },
+    "10": {
+      "itemId": "illarion:item_823",
+      "count": 1,
+      "quality": 599
+    },
+    "11": {
+      "itemId": "illarion:item_1500",
+      "count": 1,
+      "quality": 599
+    },
+    "13": {
+      "itemId": "illarion:item_3077",
+      "count": 40,
+      "quality": 599
+    },
+    "14": {
+      "itemId": "illarion:item_391",
+      "count": 1,
+      "quality": 599
+    },
+    "15": {
+      "itemId": "illarion:item_306",
+      "count": 5,
+      "quality": 599
+    },
+    "16": {
+      "itemId": "illarion:item_191",
+      "count": 5,
+      "quality": 599
+    },
+    "17": {
+      "itemId": "illarion:item_258",
+      "count": 1,
+      "quality": 599
+    },
+    "18": {
+      "itemId": "illarion:item_312",
+      "count": 1,
+      "quality": 599
+    }
+  },
+  "metadata": {
+    "id": 6
+  }
+}

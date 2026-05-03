@@ -1,0 +1,8 @@
+{
+  "name": "alchemy_potionspam",
+  "script": "alchemy.lte.id_331_potionspam",
+  "metadata": {
+    "id": 331,
+    "name": "alchemy_potionspam"
+  }
+}

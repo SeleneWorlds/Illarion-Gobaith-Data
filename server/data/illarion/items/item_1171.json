@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 255,
+  "objectAfterRot": "illarion:item_1171",
+  "script": "item.nests",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "chickenNest",
+  "level": 10,
+  "visual": "illarion:items/item_1171",
+  "metadata": {
+    "id": 1171
+  }
+}

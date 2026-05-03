@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4324",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 200,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "corn",
+  "level": 0,
+  "visual": "illarion:items/item_4324",
+  "metadata": {
+    "id": 4324
+  }
+}

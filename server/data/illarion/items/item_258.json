@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_258",
+  "script": "item.id_258_flail",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "flail",
+  "level": 5,
+  "visual": "illarion:items/item_258",
+  "metadata": {
+    "id": 258
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.noobia_rat",
+  "function": "spawnRat",
+  "minInterval": 300,
+  "maxInterval": 300
+}

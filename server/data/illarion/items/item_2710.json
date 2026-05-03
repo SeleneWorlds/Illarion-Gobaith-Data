@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2710",
+  "script": "item.id_2710_mould",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "mould",
+  "level": 5,
+  "visual": "illarion:items/item_2710",
+  "metadata": {
+    "id": 2710
+  }
+}

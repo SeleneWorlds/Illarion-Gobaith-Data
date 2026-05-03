@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4258",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "cookedLobster",
+  "level": 0,
+  "visual": "illarion:items/item_4258",
+  "metadata": {
+    "id": 4258
+  }
+}

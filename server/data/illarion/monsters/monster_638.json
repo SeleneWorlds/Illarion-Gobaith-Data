@@ -1,0 +1,302 @@
+{
+  "race": "illarion:race_63",
+  "hitpoints": 10000,
+  "movementType": "walk",
+  "canAttack": true,
+  "canHealSelf": false,
+  "script": "monster.race_63_bone_dragon.id_638_madness",
+  "minSize": 110,
+  "maxSize": 120,
+  "attributes": {
+    "strength": {
+      "min": 41,
+      "max": 51
+    },
+    "constitution": {
+      "min": 41,
+      "max": 51
+    },
+    "dexterity": {
+      "min": 41,
+      "max": 51
+    },
+    "agility": {
+      "min": 41,
+      "max": 51
+    },
+    "intelligence": {
+      "min": 41,
+      "max": 51
+    },
+    "perception": {
+      "min": 41,
+      "max": 51
+    },
+    "essence": {
+      "min": 41,
+      "max": 51
+    },
+    "willpower": {
+      "min": 33,
+      "max": 39
+    }
+  },
+  "skills": {
+    "illarion:skill_21": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_27": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_26": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_28": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_29": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_25": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_23": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_24": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_22": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_37": {
+      "min": 90,
+      "max": 100
+    }
+  },
+  "items": {
+    "head": {
+      "item": "illarion:item_2303",
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "breast": {
+      "item": "illarion:item_2402",
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "hands": {
+      "item": "illarion:item_2295",
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "legs": {
+      "item": "illarion:item_34",
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "right hand": {
+      "item": "illarion:item_2627",
+      "minCount": 1,
+      "maxCount": 1
+    }
+  },
+  "drops": {
+    "1": {
+      "3229": {
+        "chance": 0.2,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 9,
+        "minDurability": 88,
+        "maxDurability": 99,
+        "item": "illarion:item_738"
+      },
+      "3230": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 8,
+        "minDurability": 99,
+        "maxDurability": 99,
+        "item": "illarion:item_505"
+      },
+      "3231": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 9,
+        "minDurability": 88,
+        "maxDurability": 99,
+        "item": "illarion:item_448"
+      },
+      "3232": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 9,
+        "minDurability": 88,
+        "maxDurability": 99,
+        "item": "illarion:item_451"
+      },
+      "3233": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 9,
+        "minDurability": 88,
+        "maxDurability": 99,
+        "item": "illarion:item_452"
+      }
+    },
+    "2": {
+      "3234": {
+        "chance": 0.2,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 9,
+        "minDurability": 88,
+        "maxDurability": 99,
+        "item": "illarion:item_46"
+      },
+      "3235": {
+        "chance": 0.1,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 9,
+        "minDurability": 88,
+        "maxDurability": 99,
+        "item": "illarion:item_283"
+      },
+      "3236": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 9,
+        "minDurability": 88,
+        "maxDurability": 99,
+        "item": "illarion:item_285"
+      },
+      "3237": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 9,
+        "maxQuality": 9,
+        "minDurability": 99,
+        "maxDurability": 99,
+        "item": "illarion:item_3525",
+        "data": {
+          "gemLevel": 1
+        }
+      },
+      "3238": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 9,
+        "maxQuality": 9,
+        "minDurability": 99,
+        "maxDurability": 99,
+        "item": "illarion:item_3522",
+        "data": {
+          "gemLevel": 1
+        }
+      }
+    },
+    "3": {
+      "3239": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 9,
+        "minDurability": 88,
+        "maxDurability": 99,
+        "item": "illarion:item_3607"
+      },
+      "3240": {
+        "chance": 0.2,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 9,
+        "minDurability": 88,
+        "maxDurability": 99,
+        "item": "illarion:item_68"
+      },
+      "3241": {
+        "chance": 0.1,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 9,
+        "minDurability": 88,
+        "maxDurability": 99,
+        "item": "illarion:item_278"
+      },
+      "3242": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 9,
+        "minDurability": 88,
+        "maxDurability": 99,
+        "item": "illarion:item_280"
+      },
+      "3243": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 9,
+        "minDurability": 88,
+        "maxDurability": 99,
+        "item": "illarion:item_282"
+      },
+      "3244": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 9,
+        "minDurability": 88,
+        "maxDurability": 99,
+        "item": "illarion:item_279"
+      }
+    },
+    "4": {
+      "3245": {
+        "chance": 1,
+        "minCount": 90,
+        "maxCount": 270,
+        "minQuality": 3,
+        "maxQuality": 3,
+        "minDurability": 33,
+        "maxDurability": 33,
+        "item": "illarion:item_3077"
+      }
+    }
+  },
+  "metadata": {
+    "id": 638
+  }
+}

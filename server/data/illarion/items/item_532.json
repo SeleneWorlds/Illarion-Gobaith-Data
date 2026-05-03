@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_532",
+  "script": "item.id_532_panpipe",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 7000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "panpipe",
+  "level": 30,
+  "visual": "illarion:items/item_532",
+  "metadata": {
+    "id": 532
+  }
+}

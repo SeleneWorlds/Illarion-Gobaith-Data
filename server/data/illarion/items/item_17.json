@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_17",
+  "script": "item.general.wood",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2600,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "woodenShield",
+  "level": 10,
+  "weapon": {
+    "attack": 9,
+    "defense": 10,
+    "accuracy": 90,
+    "range": 1,
+    "weaponType": 14,
+    "ammunitionType": 0,
+    "actionPoints": 15,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_17",
+  "metadata": {
+    "id": 17
+  }
+}

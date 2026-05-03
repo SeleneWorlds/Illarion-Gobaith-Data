@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 120,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1513",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 800,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "simpleSteelBoots",
+  "level": 10,
+  "armor": {
+    "bodyParts": 128,
+    "puncture": 19,
+    "stroke": 14,
+    "thrust": 10,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_1513",
+  "metadata": {
+    "id": 1513
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 120,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_369",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 800,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "leatherShoes",
+  "level": 10,
+  "armor": {
+    "bodyParts": 128,
+    "puncture": 14,
+    "stroke": 10,
+    "thrust": 19,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_369",
+  "metadata": {
+    "id": 369
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4576",
+  "script": "item.emptyDrinkingVessels",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 4100,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "copperTeaCup",
+  "level": 35,
+  "visual": "illarion:items/item_4576",
+  "metadata": {
+    "id": 4576
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_47",
+  "script": "item.id_47_needle",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "needle",
+  "level": 5,
+  "visual": "illarion:items/item_47",
+  "metadata": {
+    "id": 47
+  }
+}

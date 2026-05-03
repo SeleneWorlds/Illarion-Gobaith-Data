@@ -1,0 +1,27 @@
+{
+  "type": 5,
+  "x": 567,
+  "y": 230,
+  "z": 0,
+  "facing": 5,
+  "isHealer": false,
+  "name": "Ssalva",
+  "script": "npc.ssalva",
+  "sex": 1,
+  "hair": 6,
+  "beard": 0,
+  "hairRed": 120,
+  "hairGreen": 50,
+  "hairBlue": 250,
+  "skinRed": 150,
+  "skinGreen": 150,
+  "skinBlue": 250,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/lizard",
+  "entity": "illarion:races/race_5_1",
+  "metadata": {
+    "id": 542,
+    "name": "Ssalva"
+  }
+}

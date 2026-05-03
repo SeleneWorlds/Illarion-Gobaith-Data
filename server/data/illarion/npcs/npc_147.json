@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 123,
+  "y": 614,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Robertus",
+  "script": "npc.robertus",
+  "sex": 0,
+  "hair": 1,
+  "beard": 5,
+  "hairRed": 90,
+  "hairGreen": 90,
+  "hairBlue": 90,
+  "skinRed": 177,
+  "skinGreen": 123,
+  "skinBlue": 81,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 147,
+    "name": "Robertus"
+  }
+}

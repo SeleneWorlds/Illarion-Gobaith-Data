@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4304",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 600,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "seagullEgg",
+  "level": 60,
+  "visual": "illarion:items/item_4304",
+  "metadata": {
+    "id": 4304
+  }
+}

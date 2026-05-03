@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_554",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 5500,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "venisonDish",
+  "level": 90,
+  "visual": "illarion:items/item_554",
+  "metadata": {
+    "id": 554
+  }
+}

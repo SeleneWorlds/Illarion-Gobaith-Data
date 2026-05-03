@@ -1,0 +1,27 @@
+{
+  "type": 1,
+  "x": 135,
+  "y": 620,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Beror Oakaxe",
+  "script": "npc.beror_oakaxe",
+  "sex": 0,
+  "hair": 3,
+  "beard": 1,
+  "hairRed": 79,
+  "hairGreen": 79,
+  "hairBlue": 79,
+  "skinRed": 240,
+  "skinGreen": 175,
+  "skinBlue": 130,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/dwarf",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 317,
+    "name": "Beror Oakaxe"
+  }
+}

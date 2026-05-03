@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 2,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_322",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 200,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "windArrows",
+  "level": 85,
+  "weapon": {
+    "attack": 6,
+    "defense": 0,
+    "accuracy": 100,
+    "range": 1,
+    "weaponType": 10,
+    "ammunitionType": 0,
+    "actionPoints": 15,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_322",
+  "metadata": {
+    "id": 322
+  }
+}

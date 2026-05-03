@@ -1,0 +1,27 @@
+{
+  "type": 3,
+  "x": 452,
+  "y": 111,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Madoquar",
+  "script": "npc.madoquar",
+  "sex": 1,
+  "hair": 1,
+  "beard": 0,
+  "hairRed": 205,
+  "hairGreen": 155,
+  "hairBlue": 29,
+  "skinRed": 238,
+  "skinGreen": 154,
+  "skinBlue": 73,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/elf",
+  "entity": "illarion:races/race_3_1",
+  "metadata": {
+    "id": 307,
+    "name": "Madoquar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4619",
+  "script": "item.teasets",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 5300,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "coniferTraySouth",
+  "level": 40,
+  "visual": "illarion:items/item_4619",
+  "metadata": {
+    "id": 4619
+  }
+}

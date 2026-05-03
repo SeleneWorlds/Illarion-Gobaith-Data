@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 10,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_463",
+  "script": "item.id_463_quill",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "quill",
+  "level": 5,
+  "visual": "illarion:items/item_463",
+  "metadata": {
+    "id": 463
+  }
+}

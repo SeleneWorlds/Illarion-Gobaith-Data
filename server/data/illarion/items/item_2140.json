@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2140",
+  "script": "item.id_2140_tong",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "tongs",
+  "level": 5,
+  "visual": "illarion:items/item_2140",
+  "metadata": {
+    "id": 2140
+  }
+}

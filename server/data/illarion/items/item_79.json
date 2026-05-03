@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 20,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_79",
+  "script": "item.general.jewel",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1500,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "goldenAmethystAmulet",
+  "level": 10,
+  "armor": {
+    "bodyParts": 2,
+    "puncture": 0,
+    "stroke": 0,
+    "thrust": 0,
+    "magicDisturbance": 3,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 5
+  },
+  "visual": "illarion:items/item_79",
+  "metadata": {
+    "id": 79
+  }
+}

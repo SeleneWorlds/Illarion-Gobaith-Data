@@ -1,0 +1,27 @@
+{
+  "type": 1,
+  "x": 710,
+  "y": 313,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Borgate Northoff",
+  "script": "npc.borgate_northoff",
+  "sex": 0,
+  "hair": 2,
+  "beard": 3,
+  "hairRed": 126,
+  "hairGreen": 75,
+  "hairBlue": 30,
+  "skinRed": 217,
+  "skinGreen": 154,
+  "skinBlue": 123,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/dwarf",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 396,
+    "name": "Borgate Northoff"
+  }
+}

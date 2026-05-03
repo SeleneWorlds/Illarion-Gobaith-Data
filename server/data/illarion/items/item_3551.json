@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 20,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_3551",
+  "script": "item.general.jewel",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 28500,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "silverTopazAmulet",
+  "level": 80,
+  "armor": {
+    "bodyParts": 2,
+    "puncture": 0,
+    "stroke": 0,
+    "thrust": 0,
+    "magicDisturbance": 17,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 5
+  },
+  "visual": "illarion:items/item_3551",
+  "metadata": {
+    "id": 3551
+  }
+}

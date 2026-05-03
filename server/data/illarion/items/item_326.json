@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 120,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_326",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "steelBoots",
+  "level": 20,
+  "armor": {
+    "bodyParts": 128,
+    "puncture": 28,
+    "stroke": 21,
+    "thrust": 14,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_326",
+  "metadata": {
+    "id": 326
+  }
+}

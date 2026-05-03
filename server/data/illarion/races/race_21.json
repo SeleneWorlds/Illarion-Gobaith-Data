@@ -1,0 +1,30 @@
+{
+  "minAge": 18,
+  "maxAge": 80,
+  "minHeight": 55,
+  "maxHeight": 85,
+  "minWeight": 4000,
+  "maxWeight": 12000,
+  "minAgility": 2,
+  "maxAgility": 20,
+  "minStrength": 2,
+  "maxStrength": 20,
+  "minIntelligence": 2,
+  "maxIntelligence": 20,
+  "minWillpower": 2,
+  "maxWillpower": 20,
+  "minConstitution": 2,
+  "maxConstitution": 20,
+  "minDexterity": 2,
+  "maxDexterity": 20,
+  "minEssence": 2,
+  "maxEssence": 20,
+  "minPerception": 2,
+  "maxPerception": 20,
+  "strokeArmor": 15,
+  "punctureArmor": 5,
+  "thrustArmor": 30,
+  "metadata": {
+    "id": 21
+  }
+}

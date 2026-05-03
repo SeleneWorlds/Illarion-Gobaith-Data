@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_786",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1800,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "bottleOfCabbageJuice",
+  "level": 35,
+  "visual": "illarion:items/item_786",
+  "metadata": {
+    "id": 786
+  }
+}

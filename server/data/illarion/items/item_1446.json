@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 400,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1446",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 35900,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "albarianKnightsArmour",
+  "level": 70,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 73,
+    "stroke": 55,
+    "thrust": 37,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_1446",
+  "metadata": {
+    "id": 1446
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 120,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1500",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 800,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "simpleLeatherShoes",
+  "level": 0,
+  "armor": {
+    "bodyParts": 128,
+    "puncture": 8,
+    "stroke": 5,
+    "thrust": 10,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_1500",
+  "metadata": {
+    "id": 1500
+  }
+}

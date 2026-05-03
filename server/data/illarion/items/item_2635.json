@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2635",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 2,
+  "worth": 2600,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "poisonedHalflingAxe",
+  "level": 10,
+  "weapon": {
+    "attack": 13,
+    "defense": 3,
+    "accuracy": 80,
+    "range": 1,
+    "weaponType": 1,
+    "ammunitionType": 0,
+    "actionPoints": 20,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_2635",
+  "metadata": {
+    "id": 2635
+  }
+}

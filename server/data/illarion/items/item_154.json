@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_154",
+  "script": "alchemy.base.brewing",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 100,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "hop",
+  "level": 0,
+  "visual": "illarion:items/item_154",
+  "metadata": {
+    "id": 154
+  }
+}

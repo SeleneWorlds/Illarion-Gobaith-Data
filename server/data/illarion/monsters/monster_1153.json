@@ -1,0 +1,89 @@
+{
+  "race": "illarion:race_115",
+  "hitpoints": 10000,
+  "movementType": "fly",
+  "canAttack": false,
+  "canHealSelf": false,
+  "script": "monster.race_115_fairy.id_1153_mystical_fairy",
+  "minSize": 80,
+  "maxSize": 120,
+  "attributes": {
+    "strength": {
+      "min": 1,
+      "max": 1
+    },
+    "constitution": {
+      "min": 1,
+      "max": 1
+    },
+    "dexterity": {
+      "min": 1,
+      "max": 1
+    },
+    "agility": {
+      "min": 1,
+      "max": 1
+    },
+    "willpower": {
+      "min": 1,
+      "max": 1
+    },
+    "intelligence": {
+      "min": 1,
+      "max": 1
+    },
+    "perception": {
+      "min": 1,
+      "max": 1
+    },
+    "essence": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  "skills": {
+    "illarion:skill_21": {
+      "min": 10,
+      "max": 10
+    },
+    "illarion:skill_22": {
+      "min": 10,
+      "max": 10
+    },
+    "illarion:skill_24": {
+      "min": 10,
+      "max": 10
+    },
+    "illarion:skill_25": {
+      "min": 10,
+      "max": 10
+    },
+    "illarion:skill_26": {
+      "min": 10,
+      "max": 10
+    },
+    "illarion:skill_27": {
+      "min": 10,
+      "max": 10
+    },
+    "illarion:skill_28": {
+      "min": 10,
+      "max": 10
+    },
+    "illarion:skill_29": {
+      "min": 10,
+      "max": 10
+    },
+    "illarion:skill_23": {
+      "min": 10,
+      "max": 10
+    },
+    "illarion:skill_37": {
+      "min": 10,
+      "max": 20
+    }
+  },
+  "metadata": {
+    "id": 1153
+  }
+}

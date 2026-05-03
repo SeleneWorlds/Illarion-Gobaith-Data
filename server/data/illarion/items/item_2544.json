@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2544",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1600,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "largeHandle",
+  "level": 10,
+  "visual": "illarion:items/item_2544",
+  "metadata": {
+    "id": 2544
+  }
+}

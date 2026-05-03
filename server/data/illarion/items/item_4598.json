@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4598",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 8060,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "glassTeaCupFirNeedle",
+  "level": 23,
+  "visual": "illarion:items/item_4598",
+  "metadata": {
+    "id": 4598
+  }
+}

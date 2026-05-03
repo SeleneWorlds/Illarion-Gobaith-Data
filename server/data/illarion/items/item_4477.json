@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4477",
+  "script": "item.bottles",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 6000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "ceramicServingJug",
+  "level": 70,
+  "visual": "illarion:items/item_4477",
+  "metadata": {
+    "id": 4477
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1090",
+  "script": "item.general.wood",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 3300,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "walkingStick",
+  "level": 0,
+  "weapon": {
+    "attack": 18,
+    "defense": 0,
+    "accuracy": 70,
+    "range": 1,
+    "weaponType": 5,
+    "ammunitionType": 0,
+    "actionPoints": 25,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_1090",
+  "metadata": {
+    "id": 1090
+  }
+}

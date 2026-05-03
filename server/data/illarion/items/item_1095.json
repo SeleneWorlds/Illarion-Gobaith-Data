@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 400,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1095",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 5100,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "scaleArmour",
+  "level": 30,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 19,
+    "stroke": 37,
+    "thrust": 28,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 3
+  },
+  "visual": "illarion:items/item_1095",
+  "metadata": {
+    "id": 1095
+  }
+}

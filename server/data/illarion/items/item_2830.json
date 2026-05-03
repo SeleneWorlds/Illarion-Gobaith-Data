@@ -1,0 +1,23 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 255,
+  "objectAfterRot": "illarion:item_2830",
+  "script": "item.id_2830_chest",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "",
+  "level": 0,
+  "containerSlots": 58,
+  "impassable": true,
+  "specialItem": 0,
+  "passableAbove": false,
+  "visual": "illarion:items/item_2830",
+  "metadata": {
+    "id": 2830
+  }
+}

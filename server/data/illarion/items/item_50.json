@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_50",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 100,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "thread",
+  "level": 0,
+  "visual": "illarion:items/item_50",
+  "metadata": {
+    "id": 50
+  }
+}

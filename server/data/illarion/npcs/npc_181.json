@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 359,
+  "y": 678,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Rutrus",
+  "script": "npc.rutrus",
+  "sex": 0,
+  "hair": 3,
+  "beard": 4,
+  "hairRed": 192,
+  "hairGreen": 107,
+  "hairBlue": 5,
+  "skinRed": 187,
+  "skinGreen": 134,
+  "skinBlue": 92,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 181,
+    "name": "Rutrus"
+  }
+}

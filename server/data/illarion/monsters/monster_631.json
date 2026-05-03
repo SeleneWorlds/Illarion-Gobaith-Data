@@ -1,0 +1,289 @@
+{
+  "race": "illarion:race_63",
+  "hitpoints": 10000,
+  "movementType": "walk",
+  "canAttack": true,
+  "canHealSelf": false,
+  "script": "monster.race_63_bone_dragon.default",
+  "minSize": 100,
+  "maxSize": 110,
+  "attributes": {
+    "strength": {
+      "min": 32,
+      "max": 41
+    },
+    "constitution": {
+      "min": 32,
+      "max": 41
+    },
+    "dexterity": {
+      "min": 32,
+      "max": 41
+    },
+    "agility": {
+      "min": 32,
+      "max": 41
+    },
+    "intelligence": {
+      "min": 32,
+      "max": 41
+    },
+    "perception": {
+      "min": 32,
+      "max": 41
+    },
+    "essence": {
+      "min": 32,
+      "max": 41
+    },
+    "willpower": {
+      "min": 33,
+      "max": 35
+    }
+  },
+  "skills": {
+    "illarion:skill_21": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_27": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_26": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_28": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_29": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_25": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_23": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_24": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_22": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_37": {
+      "min": 80,
+      "max": 90
+    }
+  },
+  "items": {
+    "head": {
+      "item": "illarion:item_2303",
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "breast": {
+      "item": "illarion:item_2399",
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "hands": {
+      "item": "illarion:item_2295",
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "legs": {
+      "item": "illarion:item_34",
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "right hand": {
+      "item": "illarion:item_2660",
+      "minCount": 1,
+      "maxCount": 1
+    }
+  },
+  "drops": {
+    "1": {
+      "1968": {
+        "chance": 0.2,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 7,
+        "maxQuality": 8,
+        "minDurability": 77,
+        "maxDurability": 88,
+        "item": "illarion:item_447"
+      },
+      "1969": {
+        "chance": 0.1,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 7,
+        "maxQuality": 8,
+        "minDurability": 77,
+        "maxDurability": 88,
+        "item": "illarion:item_449"
+      },
+      "1970": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 7,
+        "maxQuality": 8,
+        "minDurability": 77,
+        "maxDurability": 88,
+        "item": "illarion:item_738"
+      },
+      "1971": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 8,
+        "maxQuality": 8,
+        "minDurability": 99,
+        "maxDurability": 99,
+        "item": "illarion:item_505"
+      },
+      "1972": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 7,
+        "maxQuality": 8,
+        "minDurability": 77,
+        "maxDurability": 88,
+        "item": "illarion:item_450"
+      }
+    },
+    "2": {
+      "1973": {
+        "chance": 0.2,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 7,
+        "maxQuality": 8,
+        "minDurability": 77,
+        "maxDurability": 88,
+        "item": "illarion:item_45"
+      },
+      "1974": {
+        "chance": 0.1,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 7,
+        "maxQuality": 8,
+        "minDurability": 77,
+        "maxDurability": 88,
+        "item": "illarion:item_285"
+      },
+      "1975": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 7,
+        "maxQuality": 8,
+        "minDurability": 77,
+        "maxDurability": 88,
+        "item": "illarion:item_46"
+      },
+      "1976": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 7,
+        "maxQuality": 8,
+        "minDurability": 77,
+        "maxDurability": 88,
+        "item": "illarion:item_198"
+      },
+      "1977": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 9,
+        "maxQuality": 9,
+        "minDurability": 99,
+        "maxDurability": 99,
+        "item": "illarion:item_3519",
+        "data": {
+          "gemLevel": 1
+        }
+      }
+    },
+    "3": {
+      "1978": {
+        "chance": 0.2,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 7,
+        "maxQuality": 8,
+        "minDurability": 77,
+        "maxDurability": 88,
+        "item": "illarion:item_281"
+      },
+      "1979": {
+        "chance": 0.1,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 7,
+        "maxQuality": 8,
+        "minDurability": 77,
+        "maxDurability": 88,
+        "item": "illarion:item_280"
+      },
+      "1980": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 7,
+        "maxQuality": 8,
+        "minDurability": 77,
+        "maxDurability": 88,
+        "item": "illarion:item_68"
+      },
+      "1981": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 7,
+        "maxQuality": 8,
+        "minDurability": 77,
+        "maxDurability": 88,
+        "item": "illarion:item_282"
+      },
+      "1982": {
+        "chance": 0.01,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 7,
+        "maxQuality": 8,
+        "minDurability": 77,
+        "maxDurability": 88,
+        "item": "illarion:item_277"
+      }
+    },
+    "4": {
+      "1983": {
+        "chance": 1,
+        "minCount": 30,
+        "maxCount": 90,
+        "minQuality": 3,
+        "maxQuality": 3,
+        "minDurability": 33,
+        "maxDurability": 33,
+        "item": "illarion:item_3077"
+      }
+    }
+  },
+  "metadata": {
+    "id": 631
+  }
+}

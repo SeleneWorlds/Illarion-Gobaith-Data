@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4409",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "ceramicCupWithFairyWine",
+  "level": 100,
+  "visual": "illarion:items/item_4409",
+  "metadata": {
+    "id": 4409
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_517",
+  "script": "item.bottles",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2500,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "bottleOfRum",
+  "level": 45,
+  "visual": "illarion:items/item_517",
+  "metadata": {
+    "id": 517
+  }
+}

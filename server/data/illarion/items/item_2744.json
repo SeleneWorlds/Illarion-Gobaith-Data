@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2744",
+  "script": "item.id_2744_pipe",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 8000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "pipe",
+  "level": 35,
+  "visual": "illarion:items/item_2744",
+  "metadata": {
+    "id": 2744
+  }
+}

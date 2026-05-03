@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4467",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 680,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "ironShotGlassWithStoneFace",
+  "level": 75,
+  "visual": "illarion:items/item_4467",
+  "metadata": {
+    "id": 4467
+  }
+}

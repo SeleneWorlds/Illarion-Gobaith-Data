@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1319",
+  "script": "item.bottles",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 4500,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "bottleOfCherrySchnapps",
+  "level": 90,
+  "visual": "illarion:items/item_1319",
+  "metadata": {
+    "id": 1319
+  }
+}

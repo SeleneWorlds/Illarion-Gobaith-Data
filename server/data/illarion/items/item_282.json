@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 10,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_282",
+  "script": "item.rings",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 33500,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "goldenTopazRing",
+  "level": 85,
+  "armor": {
+    "bodyParts": 32,
+    "puncture": 0,
+    "stroke": 0,
+    "thrust": 0,
+    "magicDisturbance": 18,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 5
+  },
+  "visual": "illarion:items/item_282",
+  "metadata": {
+    "id": 282
+  }
+}

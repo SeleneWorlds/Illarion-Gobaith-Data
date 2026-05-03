@@ -1,0 +1,8 @@
+{
+  "name": "alchemy_immunity",
+  "script": "alchemy.lte.id_328_immunity",
+  "metadata": {
+    "id": 328,
+    "name": "alchemy_immunity"
+  }
+}

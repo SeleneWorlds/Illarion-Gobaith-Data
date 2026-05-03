@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 685,
+  "y": 315,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Wulfgorda",
+  "script": "npc.wulfgorda",
+  "sex": 1,
+  "hair": 9,
+  "beard": 0,
+  "hairRed": 218,
+  "hairGreen": 165,
+  "hairBlue": 32,
+  "skinRed": 249,
+  "skinGreen": 194,
+  "skinBlue": 162,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_1",
+  "metadata": {
+    "id": 350,
+    "name": "Wulfgorda"
+  }
+}

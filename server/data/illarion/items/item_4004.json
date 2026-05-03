@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 255,
+  "objectAfterRot": "illarion:item_4004",
+  "script": "item.id_1170_shoal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "salmonShoal",
+  "level": 10,
+  "visual": "illarion:items/item_4004",
+  "metadata": {
+    "id": 4004
+  }
+}

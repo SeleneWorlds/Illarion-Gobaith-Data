@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_312",
+  "script": "item.id_312_woodenshovel",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "woodenShovel",
+  "level": 5,
+  "visual": "illarion:items/item_312",
+  "metadata": {
+    "id": 312
+  }
+}

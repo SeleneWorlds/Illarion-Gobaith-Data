@@ -1,0 +1,27 @@
+{
+  "type": 4,
+  "x": 710,
+  "y": 316,
+  "z": 0,
+  "facing": 0,
+  "isHealer": false,
+  "name": "Brute Booze",
+  "script": "npc.brute_booze",
+  "sex": 0,
+  "hair": 0,
+  "beard": 2,
+  "hairRed": 6,
+  "hairGreen": 18,
+  "hairBlue": 8,
+  "skinRed": 137,
+  "skinGreen": 123,
+  "skinBlue": 60,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/orc",
+  "entity": "illarion:races/race_4_0",
+  "metadata": {
+    "id": 248,
+    "name": "Brute Booze"
+  }
+}

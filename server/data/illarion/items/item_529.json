@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 130,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_529",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 3700,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "dwarvenMetalGloves",
+  "level": 45,
+  "armor": {
+    "bodyParts": 8,
+    "puncture": 51,
+    "stroke": 38,
+    "thrust": 25,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_529",
+  "metadata": {
+    "id": 529
+  }
+}

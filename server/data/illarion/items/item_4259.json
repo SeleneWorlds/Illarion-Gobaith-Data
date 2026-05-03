@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4259",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 200,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "shrimp",
+  "level": 20,
+  "visual": "illarion:items/item_4259",
+  "metadata": {
+    "id": 4259
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1152",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 6000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "chickenSoup",
+  "level": 100,
+  "visual": "illarion:items/item_1152",
+  "metadata": {
+    "id": 1152
+  }
+}

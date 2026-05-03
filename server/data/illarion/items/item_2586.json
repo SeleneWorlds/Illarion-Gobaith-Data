@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2586",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 100,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "fur",
+  "level": 0,
+  "visual": "illarion:items/item_2586",
+  "metadata": {
+    "id": 2586
+  }
+}

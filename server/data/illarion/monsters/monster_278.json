@@ -1,0 +1,110 @@
+{
+  "race": "illarion:race/wasp",
+  "hitpoints": 10000,
+  "movementType": "fly",
+  "canAttack": true,
+  "canHealSelf": false,
+  "script": "monster.race_27_wasp.id_278_fire_wasp",
+  "minSize": 85,
+  "maxSize": 90,
+  "attributes": {
+    "strength": {
+      "min": 1,
+      "max": 3
+    },
+    "constitution": {
+      "min": 1,
+      "max": 3
+    },
+    "dexterity": {
+      "min": 1,
+      "max": 3
+    },
+    "agility": {
+      "min": 1,
+      "max": 3
+    },
+    "intelligence": {
+      "min": 1,
+      "max": 3
+    },
+    "willpower": {
+      "min": 1,
+      "max": 3
+    },
+    "perception": {
+      "min": 1,
+      "max": 3
+    },
+    "essence": {
+      "min": 1,
+      "max": 3
+    }
+  },
+  "skills": {
+    "illarion:skill_21": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_27": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_26": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_28": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_29": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_25": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_23": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_24": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_22": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_37": {
+      "min": 10,
+      "max": 20
+    }
+  },
+  "items": {
+    "breast": {
+      "item": "illarion:item_34",
+      "minCount": 1,
+      "maxCount": 1
+    }
+  },
+  "drops": {
+    "1": {
+      "3158": {
+        "chance": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 3,
+        "maxQuality": 3,
+        "minDurability": 33,
+        "maxDurability": 33,
+        "item": "illarion:item_4314"
+      }
+    }
+  },
+  "metadata": {
+    "id": 278
+  }
+}

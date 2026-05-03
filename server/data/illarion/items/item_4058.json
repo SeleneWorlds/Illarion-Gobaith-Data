@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4058",
+  "script": "craft.repairs",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 5100,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "",
+  "level": 30,
+  "visual": "illarion:items/item_4058",
+  "metadata": {
+    "id": 4058
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 100,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "flour",
+  "level": 0,
+  "visual": "illarion:items/item_2",
+  "metadata": {
+    "id": 2
+  }
+}

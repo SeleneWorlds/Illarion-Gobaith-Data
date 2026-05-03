@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_323",
+  "script": "item.wands",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 30000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "wand",
+  "level": 60,
+  "weapon": {
+    "attack": 29,
+    "defense": 0,
+    "accuracy": 70,
+    "range": 5,
+    "weaponType": 13,
+    "ammunitionType": 0,
+    "actionPoints": 25,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_323",
+  "metadata": {
+    "id": 323
+  }
+}

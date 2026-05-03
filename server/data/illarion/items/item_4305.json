@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4305",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 800,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "raptorEgg",
+  "level": 80,
+  "visual": "illarion:items/item_4305",
+  "metadata": {
+    "id": 4305
+  }
+}

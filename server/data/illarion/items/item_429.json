@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_429",
+  "script": "item.id_429_candlemold",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "candleMould",
+  "level": 5,
+  "visual": "illarion:items/item_429",
+  "metadata": {
+    "id": 429
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_52",
+  "script": "item.id_52_filledbucket",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "bucketOfWater",
+  "level": 5,
+  "visual": "illarion:items/item_52",
+  "metadata": {
+    "id": 52
+  }
+}

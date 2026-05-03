@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 120,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1502",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1500,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "simpleLeatherBoots",
+  "level": 30,
+  "armor": {
+    "bodyParts": 128,
+    "puncture": 28,
+    "stroke": 19,
+    "thrust": 37,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_1502",
+  "metadata": {
+    "id": 1502
+  }
+}

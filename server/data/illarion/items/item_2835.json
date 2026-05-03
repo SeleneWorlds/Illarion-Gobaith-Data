@@ -1,0 +1,22 @@
+{
+  "volume": 5000,
+  "weight": 30000,
+  "agingSpeed": 4,
+  "objectAfterRot": "illarion:item_2836",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 2,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "furnaceTwoOn",
+  "level": 0,
+  "impassable": true,
+  "specialItem": 0,
+  "passableAbove": false,
+  "visual": "illarion:items/item_2835",
+  "metadata": {
+    "id": 2835
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_518",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "emptyRumBottle",
+  "level": 20,
+  "visual": "illarion:items/item_518",
+  "metadata": {
+    "id": 518
+  }
+}

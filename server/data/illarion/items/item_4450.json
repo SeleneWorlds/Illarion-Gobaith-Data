@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4450",
+  "script": "item.emptyDrinkingVessels",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "goldShotGlass",
+  "level": 20,
+  "visual": "illarion:items/item_4450",
+  "metadata": {
+    "id": 4450
+  }
+}

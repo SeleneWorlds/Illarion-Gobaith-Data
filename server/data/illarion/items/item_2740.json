@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2740",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 14700,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "redDagger",
+  "level": 50,
+  "weapon": {
+    "attack": 14,
+    "defense": 13,
+    "accuracy": 96,
+    "range": 1,
+    "weaponType": 3,
+    "ammunitionType": 0,
+    "actionPoints": 12,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_2740",
+  "metadata": {
+    "id": 2740
+  }
+}

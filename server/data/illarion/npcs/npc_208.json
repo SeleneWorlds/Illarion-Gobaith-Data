@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 86,
+  "y": 586,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Arenius Batavius",
+  "script": "npc.arenius_batavius",
+  "sex": 0,
+  "hair": 2,
+  "beard": 3,
+  "hairRed": 192,
+  "hairGreen": 107,
+  "hairBlue": 5,
+  "skinRed": 191,
+  "skinGreen": 139,
+  "skinBlue": 97,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 208,
+    "name": "Arenius Batavius"
+  }
+}

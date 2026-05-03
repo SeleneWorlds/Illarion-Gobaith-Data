@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_324",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 900,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "chainHelmet",
+  "level": 0,
+  "armor": {
+    "bodyParts": 1,
+    "puncture": 5,
+    "stroke": 10,
+    "thrust": 8,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 3
+  },
+  "visual": "illarion:items/item_324",
+  "metadata": {
+    "id": 324
+  }
+}

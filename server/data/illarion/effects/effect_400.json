@@ -1,0 +1,8 @@
+{
+  "name": "resurrection",
+  "script": "lte.resurrected",
+  "metadata": {
+    "id": 400,
+    "name": "resurrection"
+  }
+}

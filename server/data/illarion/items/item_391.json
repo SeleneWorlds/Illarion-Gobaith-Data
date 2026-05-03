@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_391",
+  "script": "item.lights",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 400,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "torch",
+  "level": 0,
+  "visual": "illarion:items/item_391",
+  "metadata": {
+    "id": 391
+  }
+}

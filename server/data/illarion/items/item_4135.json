@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 255,
+  "objectAfterRot": "illarion:item_4135",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "ornatecarpetsouthedge",
+  "level": 0,
+  "visual": "illarion:items/item_4135",
+  "metadata": {
+    "id": 4135
+  }
+}

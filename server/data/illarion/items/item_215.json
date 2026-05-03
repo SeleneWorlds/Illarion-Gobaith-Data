@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 255,
+  "objectAfterRot": "illarion:item_215",
+  "script": "item.general.wood",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "",
+  "level": 0,
+  "visual": "illarion:items/item_215",
+  "metadata": {
+    "id": 215
+  }
+}

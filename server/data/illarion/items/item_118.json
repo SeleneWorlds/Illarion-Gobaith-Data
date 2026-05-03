@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_118",
+  "script": "item.general.wood",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "rollingPin",
+  "level": 5,
+  "visual": "illarion:items/item_118",
+  "metadata": {
+    "id": 118
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": 11,
+  "x": 438,
+  "y": 856,
+  "z": -9,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Defensor Sancio",
+  "script": "npc.defensor_sancio",
+  "sex": 0,
+  "hair": 0,
+  "beard": 0,
+  "hairRed": 255,
+  "hairGreen": 217,
+  "hairBlue": 83,
+  "skinRed": 255,
+  "skinGreen": 217,
+  "skinBlue": 83,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/skeleton",
+  "entity": "illarion:races/race_11_0",
+  "metadata": {
+    "id": 532,
+    "name": "Defensor Sancio"
+  }
+}

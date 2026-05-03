@@ -1,0 +1,911 @@
+{
+  "minAge": 20,
+  "maxAge": 700,
+  "minHeight": 59,
+  "maxHeight": 83,
+  "minWeight": 35000,
+  "maxWeight": 115000,
+  "minAgility": 4,
+  "maxAgility": 19,
+  "minStrength": 3,
+  "maxStrength": 18,
+  "minIntelligence": 3,
+  "maxIntelligence": 18,
+  "minWillpower": 5,
+  "maxWillpower": 20,
+  "minConstitution": 3,
+  "maxConstitution": 18,
+  "minDexterity": 1,
+  "maxDexterity": 16,
+  "minEssence": 2,
+  "maxEssence": 17,
+  "minPerception": 3,
+  "maxPerception": 18,
+  "name": "lizardman",
+  "maxAttributePoints": 84,
+  "strokeArmor": 0,
+  "punctureArmor": 0,
+  "thrustArmor": 0,
+  "types": {
+    "0": {
+      "skinColors": [
+        {
+          "red": 79,
+          "green": 98,
+          "alpha": 255
+        },
+        {
+          "red": 104,
+          "green": 128,
+          "alpha": 255
+        },
+        {
+          "red": 114,
+          "green": 138,
+          "alpha": 255
+        },
+        {
+          "red": 84,
+          "green": 113,
+          "alpha": 255
+        },
+        {
+          "red": 104,
+          "green": 142,
+          "alpha": 255
+        },
+        {
+          "red": 121,
+          "green": 170,
+          "alpha": 255
+        },
+        {
+          "red": 128,
+          "green": 167,
+          "alpha": 255
+        },
+        {
+          "red": 204,
+          "green": 153,
+          "alpha": 255
+        },
+        {
+          "red": 235,
+          "green": 173,
+          "alpha": 255
+        },
+        {
+          "red": 255,
+          "green": 205,
+          "alpha": 255
+        },
+        {
+          "red": 255,
+          "green": 223,
+          "alpha": 255
+        },
+        {
+          "red": 119,
+          "green": 46,
+          "alpha": 255
+        },
+        {
+          "red": 136,
+          "green": 51,
+          "alpha": 255
+        },
+        {
+          "red": 159,
+          "green": 59,
+          "alpha": 255
+        },
+        {
+          "red": 194,
+          "green": 79,
+          "alpha": 255
+        },
+        {
+          "red": 206,
+          "green": 118,
+          "alpha": 255
+        },
+        {
+          "red": 248,
+          "green": 116,
+          "alpha": 255
+        },
+        {
+          "red": 248,
+          "green": 144,
+          "alpha": 255
+        },
+        {
+          "red": 251,
+          "green": 137,
+          "alpha": 255
+        },
+        {
+          "red": 250,
+          "green": 164,
+          "alpha": 255
+        },
+        {
+          "red": 159,
+          "green": 87,
+          "alpha": 255
+        },
+        {
+          "red": 173,
+          "green": 112,
+          "alpha": 255
+        },
+        {
+          "red": 184,
+          "green": 135,
+          "alpha": 255
+        },
+        {
+          "red": 198,
+          "green": 156,
+          "alpha": 255
+        },
+        {
+          "red": 122,
+          "green": 96,
+          "alpha": 255
+        },
+        {
+          "red": 147,
+          "green": 122,
+          "alpha": 255
+        },
+        {
+          "red": 16,
+          "green": 35,
+          "alpha": 255
+        },
+        {
+          "red": 21,
+          "green": 53,
+          "alpha": 255
+        },
+        {
+          "red": 30,
+          "green": 86,
+          "alpha": 255
+        },
+        {
+          "red": 44,
+          "green": 115,
+          "alpha": 255
+        },
+        {
+          "red": 56,
+          "green": 152,
+          "alpha": 255
+        },
+        {
+          "red": 175,
+          "green": 217,
+          "alpha": 255
+        },
+        {
+          "red": 129,
+          "green": 208,
+          "alpha": 255
+        },
+        {
+          "red": 96,
+          "green": 150,
+          "alpha": 255
+        },
+        {
+          "red": 87,
+          "green": 146,
+          "alpha": 255
+        },
+        {
+          "red": 82,
+          "green": 181,
+          "alpha": 255
+        },
+        {
+          "red": 0,
+          "green": 155,
+          "alpha": 255
+        },
+        {
+          "red": 0,
+          "green": 114,
+          "alpha": 255
+        },
+        {
+          "red": 179,
+          "green": 138,
+          "alpha": 255
+        },
+        {
+          "red": 161,
+          "green": 118,
+          "alpha": 255
+        },
+        {
+          "red": 146,
+          "green": 104,
+          "alpha": 255
+        }
+      ],
+      "hairColors": [
+        {
+          "red": 255,
+          "green": 252,
+          "alpha": 255
+        },
+        {
+          "red": 255,
+          "green": 249,
+          "alpha": 255
+        },
+        {
+          "red": 239,
+          "green": 231,
+          "alpha": 255
+        },
+        {
+          "red": 235,
+          "green": 173,
+          "alpha": 255
+        },
+        {
+          "red": 255,
+          "green": 191,
+          "alpha": 255
+        },
+        {
+          "red": 255,
+          "green": 207,
+          "alpha": 255
+        },
+        {
+          "red": 176,
+          "green": 119,
+          "alpha": 255
+        },
+        {
+          "red": 239,
+          "green": 113,
+          "alpha": 255
+        },
+        {
+          "red": 205,
+          "green": 51,
+          "alpha": 255
+        },
+        {
+          "red": 103,
+          "green": 17,
+          "alpha": 255
+        },
+        {
+          "red": 154,
+          "green": 0,
+          "alpha": 255
+        },
+        {
+          "red": 119,
+          "green": 1,
+          "alpha": 255
+        },
+        {
+          "red": 94,
+          "green": 0,
+          "alpha": 255
+        },
+        {
+          "red": 75,
+          "green": 0,
+          "alpha": 255
+        },
+        {
+          "red": 119,
+          "green": 55,
+          "alpha": 255
+        },
+        {
+          "red": 103,
+          "green": 51,
+          "alpha": 255
+        },
+        {
+          "red": 72,
+          "green": 36,
+          "alpha": 255
+        },
+        {
+          "red": 54,
+          "green": 30,
+          "alpha": 255
+        },
+        {
+          "red": 166,
+          "green": 166,
+          "alpha": 255
+        },
+        {
+          "red": 91,
+          "green": 91,
+          "alpha": 255
+        },
+        {
+          "red": 64,
+          "green": 64,
+          "alpha": 255
+        },
+        {
+          "red": 39,
+          "green": 39,
+          "alpha": 255
+        },
+        {
+          "red": 55,
+          "green": 55,
+          "alpha": 255
+        },
+        {
+          "red": 28,
+          "green": 26,
+          "alpha": 255
+        },
+        {
+          "red": 19,
+          "green": 17,
+          "alpha": 255
+        },
+        {
+          "red": 247,
+          "green": 87,
+          "alpha": 255
+        },
+        {
+          "red": 248,
+          "green": 116,
+          "alpha": 255
+        },
+        {
+          "red": 244,
+          "green": 166,
+          "alpha": 255
+        },
+        {
+          "red": 16,
+          "green": 35,
+          "alpha": 255
+        },
+        {
+          "red": 21,
+          "green": 53,
+          "alpha": 255
+        },
+        {
+          "red": 32,
+          "green": 88,
+          "alpha": 255
+        },
+        {
+          "red": 44,
+          "green": 115,
+          "alpha": 255
+        },
+        {
+          "red": 63,
+          "green": 150,
+          "alpha": 255
+        },
+        {
+          "red": 157,
+          "green": 88,
+          "alpha": 255
+        },
+        {
+          "red": 173,
+          "green": 112,
+          "alpha": 255
+        },
+        {
+          "red": 186,
+          "green": 135,
+          "alpha": 255
+        },
+        {
+          "red": 197,
+          "green": 157,
+          "alpha": 255
+        },
+        {
+          "red": 137,
+          "green": 202,
+          "alpha": 255
+        },
+        {
+          "red": 112,
+          "green": 178,
+          "alpha": 255
+        },
+        {
+          "red": 96,
+          "green": 153,
+          "alpha": 255
+        },
+        {
+          "red": 84,
+          "green": 134,
+          "alpha": 255
+        },
+        {
+          "red": 77,
+          "green": 127,
+          "alpha": 255
+        }
+      ],
+      "hairs": [
+        {
+          "hairId": 1
+        },
+        {
+          "hairId": 2
+        },
+        {
+          "hairId": 4
+        },
+        {
+          "hairId": 5
+        },
+        {
+          "hairId": 6
+        }
+      ]
+    },
+    "1": {
+      "skinColors": [
+        {
+          "red": 79,
+          "green": 98,
+          "alpha": 255
+        },
+        {
+          "red": 104,
+          "green": 128,
+          "alpha": 255
+        },
+        {
+          "red": 114,
+          "green": 138,
+          "alpha": 255
+        },
+        {
+          "red": 84,
+          "green": 113,
+          "alpha": 255
+        },
+        {
+          "red": 104,
+          "green": 142,
+          "alpha": 255
+        },
+        {
+          "red": 121,
+          "green": 170,
+          "alpha": 255
+        },
+        {
+          "red": 128,
+          "green": 167,
+          "alpha": 255
+        },
+        {
+          "red": 204,
+          "green": 153,
+          "alpha": 255
+        },
+        {
+          "red": 235,
+          "green": 173,
+          "alpha": 255
+        },
+        {
+          "red": 255,
+          "green": 205,
+          "alpha": 255
+        },
+        {
+          "red": 255,
+          "green": 223,
+          "alpha": 255
+        },
+        {
+          "red": 119,
+          "green": 46,
+          "alpha": 255
+        },
+        {
+          "red": 136,
+          "green": 51,
+          "alpha": 255
+        },
+        {
+          "red": 159,
+          "green": 59,
+          "alpha": 255
+        },
+        {
+          "red": 194,
+          "green": 79,
+          "alpha": 255
+        },
+        {
+          "red": 206,
+          "green": 118,
+          "alpha": 255
+        },
+        {
+          "red": 248,
+          "green": 116,
+          "alpha": 255
+        },
+        {
+          "red": 248,
+          "green": 144,
+          "alpha": 255
+        },
+        {
+          "red": 251,
+          "green": 137,
+          "alpha": 255
+        },
+        {
+          "red": 250,
+          "green": 164,
+          "alpha": 255
+        },
+        {
+          "red": 159,
+          "green": 87,
+          "alpha": 255
+        },
+        {
+          "red": 173,
+          "green": 112,
+          "alpha": 255
+        },
+        {
+          "red": 184,
+          "green": 135,
+          "alpha": 255
+        },
+        {
+          "red": 198,
+          "green": 156,
+          "alpha": 255
+        },
+        {
+          "red": 122,
+          "green": 96,
+          "alpha": 255
+        },
+        {
+          "red": 147,
+          "green": 122,
+          "alpha": 255
+        },
+        {
+          "red": 16,
+          "green": 35,
+          "alpha": 255
+        },
+        {
+          "red": 21,
+          "green": 53,
+          "alpha": 255
+        },
+        {
+          "red": 30,
+          "green": 86,
+          "alpha": 255
+        },
+        {
+          "red": 44,
+          "green": 115,
+          "alpha": 255
+        },
+        {
+          "red": 56,
+          "green": 152,
+          "alpha": 255
+        },
+        {
+          "red": 175,
+          "green": 217,
+          "alpha": 255
+        },
+        {
+          "red": 129,
+          "green": 208,
+          "alpha": 255
+        },
+        {
+          "red": 96,
+          "green": 150,
+          "alpha": 255
+        },
+        {
+          "red": 87,
+          "green": 146,
+          "alpha": 255
+        },
+        {
+          "red": 82,
+          "green": 181,
+          "alpha": 255
+        },
+        {
+          "red": 0,
+          "green": 155,
+          "alpha": 255
+        },
+        {
+          "red": 0,
+          "green": 114,
+          "alpha": 255
+        },
+        {
+          "red": 179,
+          "green": 138,
+          "alpha": 255
+        },
+        {
+          "red": 161,
+          "green": 118,
+          "alpha": 255
+        },
+        {
+          "red": 146,
+          "green": 104,
+          "alpha": 255
+        }
+      ],
+      "hairColors": [
+        {
+          "red": 255,
+          "green": 252,
+          "alpha": 255
+        },
+        {
+          "red": 255,
+          "green": 249,
+          "alpha": 255
+        },
+        {
+          "red": 239,
+          "green": 231,
+          "alpha": 255
+        },
+        {
+          "red": 235,
+          "green": 173,
+          "alpha": 255
+        },
+        {
+          "red": 255,
+          "green": 191,
+          "alpha": 255
+        },
+        {
+          "red": 255,
+          "green": 207,
+          "alpha": 255
+        },
+        {
+          "red": 176,
+          "green": 119,
+          "alpha": 255
+        },
+        {
+          "red": 239,
+          "green": 113,
+          "alpha": 255
+        },
+        {
+          "red": 205,
+          "green": 51,
+          "alpha": 255
+        },
+        {
+          "red": 103,
+          "green": 17,
+          "alpha": 255
+        },
+        {
+          "red": 154,
+          "green": 0,
+          "alpha": 255
+        },
+        {
+          "red": 119,
+          "green": 1,
+          "alpha": 255
+        },
+        {
+          "red": 94,
+          "green": 0,
+          "alpha": 255
+        },
+        {
+          "red": 75,
+          "green": 0,
+          "alpha": 255
+        },
+        {
+          "red": 119,
+          "green": 55,
+          "alpha": 255
+        },
+        {
+          "red": 103,
+          "green": 51,
+          "alpha": 255
+        },
+        {
+          "red": 72,
+          "green": 36,
+          "alpha": 255
+        },
+        {
+          "red": 54,
+          "green": 30,
+          "alpha": 255
+        },
+        {
+          "red": 166,
+          "green": 166,
+          "alpha": 255
+        },
+        {
+          "red": 91,
+          "green": 91,
+          "alpha": 255
+        },
+        {
+          "red": 64,
+          "green": 64,
+          "alpha": 255
+        },
+        {
+          "red": 39,
+          "green": 39,
+          "alpha": 255
+        },
+        {
+          "red": 55,
+          "green": 55,
+          "alpha": 255
+        },
+        {
+          "red": 28,
+          "green": 26,
+          "alpha": 255
+        },
+        {
+          "red": 19,
+          "green": 17,
+          "alpha": 255
+        },
+        {
+          "red": 247,
+          "green": 87,
+          "alpha": 255
+        },
+        {
+          "red": 248,
+          "green": 116,
+          "alpha": 255
+        },
+        {
+          "red": 244,
+          "green": 166,
+          "alpha": 255
+        },
+        {
+          "red": 16,
+          "green": 35,
+          "alpha": 255
+        },
+        {
+          "red": 21,
+          "green": 53,
+          "alpha": 255
+        },
+        {
+          "red": 32,
+          "green": 88,
+          "alpha": 255
+        },
+        {
+          "red": 44,
+          "green": 115,
+          "alpha": 255
+        },
+        {
+          "red": 63,
+          "green": 150,
+          "alpha": 255
+        },
+        {
+          "red": 157,
+          "green": 88,
+          "alpha": 255
+        },
+        {
+          "red": 173,
+          "green": 112,
+          "alpha": 255
+        },
+        {
+          "red": 186,
+          "green": 135,
+          "alpha": 255
+        },
+        {
+          "red": 197,
+          "green": 157,
+          "alpha": 255
+        },
+        {
+          "red": 137,
+          "green": 202,
+          "alpha": 255
+        },
+        {
+          "red": 112,
+          "green": 178,
+          "alpha": 255
+        },
+        {
+          "red": 96,
+          "green": 153,
+          "alpha": 255
+        },
+        {
+          "red": 84,
+          "green": 134,
+          "alpha": 255
+        },
+        {
+          "red": 77,
+          "green": 127,
+          "alpha": 255
+        }
+      ],
+      "hairs": [
+        {
+          "hairId": 1
+        },
+        {
+          "hairId": 2
+        },
+        {
+          "hairId": 4
+        },
+        {
+          "hairId": 5
+        },
+        {
+          "hairId": 6
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "id": 5,
+    "name": "lizardman"
+  }
+}

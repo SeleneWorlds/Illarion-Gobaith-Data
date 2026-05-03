@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1416",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "simpleHornedHelmet",
+  "level": 10,
+  "armor": {
+    "bodyParts": 1,
+    "puncture": 14,
+    "stroke": 10,
+    "thrust": 19,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_1416",
+  "metadata": {
+    "id": 1416
+  }
+}

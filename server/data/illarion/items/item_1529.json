@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1529",
+  "script": "item.general.wood",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 11700,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "adeptssStaff",
+  "level": 40,
+  "weapon": {
+    "attack": 46,
+    "defense": 20,
+    "accuracy": 70,
+    "range": 1,
+    "weaponType": 5,
+    "ammunitionType": 0,
+    "actionPoints": 25,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_1529",
+  "metadata": {
+    "id": 1529
+  }
+}

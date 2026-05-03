@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_18",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 3300,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "lightShield",
+  "level": 20,
+  "weapon": {
+    "attack": 11,
+    "defense": 20,
+    "accuracy": 90,
+    "range": 1,
+    "weaponType": 14,
+    "ammunitionType": 0,
+    "actionPoints": 15,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_18",
+  "metadata": {
+    "id": 18
+  }
+}

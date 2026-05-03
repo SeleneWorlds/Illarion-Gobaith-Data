@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 130,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_531",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 17000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "knightGloves",
+  "level": 80,
+  "armor": {
+    "bodyParts": 8,
+    "puncture": 82,
+    "stroke": 62,
+    "thrust": 41,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_531",
+  "metadata": {
+    "id": 531
+  }
+}

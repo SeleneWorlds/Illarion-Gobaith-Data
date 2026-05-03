@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 5,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1207",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 20,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "orange",
+  "level": 0,
+  "visual": "illarion:items/item_1207",
+  "metadata": {
+    "id": 1207
+  }
+}

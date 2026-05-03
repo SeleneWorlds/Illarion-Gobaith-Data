@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1417",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1900,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "copperedHornedHelmet",
+  "level": 30,
+  "armor": {
+    "bodyParts": 1,
+    "puncture": 28,
+    "stroke": 19,
+    "thrust": 37,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_1417",
+  "metadata": {
+    "id": 1417
+  }
+}

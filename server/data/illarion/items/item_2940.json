@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2940",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 200,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "rawSteak",
+  "level": 0,
+  "visual": "illarion:items/item_2940",
+  "metadata": {
+    "id": 2940
+  }
+}

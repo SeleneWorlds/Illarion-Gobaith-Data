@@ -1,0 +1,13 @@
+{
+  "x": 679,
+  "y": 441,
+  "z": -3,
+  "range": 10,
+  "minSpawnTime": 60,
+  "maxSpawnTime": 180,
+  "spawnAll": false,
+  "spawnRange": 10,
+  "metadata": {
+    "id": 103
+  }
+}

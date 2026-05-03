@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 129,
+  "y": 569,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Clarissa Cullen",
+  "script": "npc.clarissa_cullen",
+  "sex": 1,
+  "hair": 4,
+  "beard": 0,
+  "hairRed": 205,
+  "hairGreen": 102,
+  "hairBlue": 29,
+  "skinRed": 232,
+  "skinGreen": 187,
+  "skinBlue": 145,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_1",
+  "metadata": {
+    "id": 571,
+    "name": "Clarissa Cullen"
+  }
+}

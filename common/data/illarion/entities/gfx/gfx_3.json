@@ -1,0 +1,15 @@
+{
+  "components": {
+    "illarion:visual": {
+      "type": "visual",
+      "visual": "illarion:gfx/gfx_3"
+    },
+    "illarion:client_script": {
+      "type": "client_script",
+      "script": "illarion-gobaith-data.client.lua.entities.remove_after_animation"
+    }
+  },
+  "metadata": {
+    "gfxId": 3
+  }
+}

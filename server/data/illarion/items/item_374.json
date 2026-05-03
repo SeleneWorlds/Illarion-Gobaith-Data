@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_374",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 10000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "trapSet",
+  "level": 45,
+  "visual": "illarion:items/item_374",
+  "metadata": {
+    "id": 374
+  }
+}

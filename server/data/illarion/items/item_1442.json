@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 400,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1442",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 6700,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "reinforcedSteelPlate",
+  "level": 35,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 42,
+    "stroke": 31,
+    "thrust": 21,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_1442",
+  "metadata": {
+    "id": 1442
+  }
+}

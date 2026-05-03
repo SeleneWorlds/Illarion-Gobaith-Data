@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 75,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_3868",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 20000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "yellowWizardHat",
+  "level": 85,
+  "armor": {
+    "bodyParts": 1,
+    "puncture": 5,
+    "stroke": 5,
+    "thrust": 5,
+    "magicDisturbance": 11,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 0
+  },
+  "visual": "illarion:items/item_3868",
+  "metadata": {
+    "id": 3868
+  }
+}

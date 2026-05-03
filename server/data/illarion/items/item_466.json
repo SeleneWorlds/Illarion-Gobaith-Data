@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_466",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 4000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "handcuffs",
+  "level": 15,
+  "visual": "illarion:items/item_466",
+  "metadata": {
+    "id": 466
+  }
+}

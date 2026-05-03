@@ -1,0 +1,22 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_315",
+  "script": "item.vase",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 30000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "vase",
+  "level": 100,
+  "impassable": false,
+  "specialItem": 0,
+  "passableAbove": false,
+  "visual": "illarion:items/item_315",
+  "metadata": {
+    "id": 315
+  }
+}

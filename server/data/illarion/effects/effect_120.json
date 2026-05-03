@@ -1,0 +1,8 @@
+{
+  "name": "Monterhunter Timer",
+  "script": "lte.monsterhunter_timer",
+  "metadata": {
+    "id": 120,
+    "name": "Monterhunter Timer"
+  }
+}

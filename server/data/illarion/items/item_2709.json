@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2709",
+  "script": "item.id_2709_armourershammer",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "armourersHammer",
+  "level": 5,
+  "visual": "illarion:items/item_2709",
+  "metadata": {
+    "id": 2709
+  }
+}

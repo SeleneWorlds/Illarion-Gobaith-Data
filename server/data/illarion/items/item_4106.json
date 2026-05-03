@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 255,
+  "objectAfterRot": "illarion:item_4106",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "brickroof",
+  "level": 0,
+  "visual": "illarion:items/item_4106",
+  "metadata": {
+    "id": 4106
+  }
+}

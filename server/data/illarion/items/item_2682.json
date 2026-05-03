@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2682",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2100,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "yellowDye",
+  "level": 0,
+  "visual": "illarion:items/item_2682",
+  "metadata": {
+    "id": 2682
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1321",
+  "script": "item.bottles",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 4300,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "bottleOfAbsinthe",
+  "level": 80,
+  "visual": "illarion:items/item_1321",
+  "metadata": {
+    "id": 1321
+  }
+}

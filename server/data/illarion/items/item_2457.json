@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2457",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 8000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "wineGlass",
+  "level": 80,
+  "visual": "illarion:items/item_2457",
+  "metadata": {
+    "id": 2457
+  }
+}

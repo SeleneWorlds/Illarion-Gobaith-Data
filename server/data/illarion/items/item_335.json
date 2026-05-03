@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_335",
+  "script": "item.id_335_lute",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 30000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "lute",
+  "level": 60,
+  "visual": "illarion:items/item_335",
+  "metadata": {
+    "id": 335
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4449",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2280,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "shotGlassWithStoneFace",
+  "level": 75,
+  "visual": "illarion:items/item_4449",
+  "metadata": {
+    "id": 4449
+  }
+}

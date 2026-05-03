@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 115,
+  "y": 549,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Palis Nestros",
+  "script": "npc.palis_nestros",
+  "sex": 0,
+  "hair": 3,
+  "beard": 0,
+  "hairRed": 140,
+  "hairGreen": 70,
+  "hairBlue": 20,
+  "skinRed": 244,
+  "skinGreen": 164,
+  "skinBlue": 96,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 509,
+    "name": "Palis Nestros"
+  }
+}

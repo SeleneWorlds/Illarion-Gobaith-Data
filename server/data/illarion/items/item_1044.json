@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1044",
+  "script": "item.general.wood",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 23600,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "battleHammer",
+  "level": 60,
+  "weapon": {
+    "attack": 32,
+    "defense": 15,
+    "accuracy": 80,
+    "range": 1,
+    "weaponType": 2,
+    "ammunitionType": 0,
+    "actionPoints": 20,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_1044",
+  "metadata": {
+    "id": 1044
+  }
+}

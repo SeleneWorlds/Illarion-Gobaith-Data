@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 475,
+  "y": 795,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Nobarg",
+  "script": "npc.nobarg",
+  "sex": 0,
+  "hair": 1,
+  "beard": 3,
+  "hairRed": 139,
+  "hairGreen": 87,
+  "hairBlue": 74,
+  "skinRed": 211,
+  "skinGreen": 137,
+  "skinBlue": 126,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 241,
+    "name": "Nobarg"
+  }
+}

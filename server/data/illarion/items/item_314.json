@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_314",
+  "script": "item.id_314_ash",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 200,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "potash",
+  "level": 0,
+  "visual": "illarion:items/item_314",
+  "metadata": {
+    "id": 314
+  }
+}

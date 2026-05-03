@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1497",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 26200,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "reinforcedSteelGreaves",
+  "level": 80,
+  "armor": {
+    "bodyParts": 64,
+    "puncture": 82,
+    "stroke": 62,
+    "thrust": 41,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_1497",
+  "metadata": {
+    "id": 1497
+  }
+}

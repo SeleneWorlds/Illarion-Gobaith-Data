@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1857",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1650,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "goldenGobletWithWine",
+  "level": 5,
+  "visual": "illarion:items/item_1857",
+  "metadata": {
+    "id": 1857
+  }
+}

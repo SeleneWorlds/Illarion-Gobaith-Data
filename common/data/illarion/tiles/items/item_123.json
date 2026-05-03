@@ -1,0 +1,9 @@
+{
+  "visual": "illarion:items/item_123",
+  "metadata": {
+    "itemId": 123
+  },
+  "tags": [
+    "illarion:item"
+  ]
+}

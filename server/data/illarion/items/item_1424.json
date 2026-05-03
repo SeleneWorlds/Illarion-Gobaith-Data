@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1424",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 37500,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "dragonHornedHelmet",
+  "level": 100,
+  "armor": {
+    "bodyParts": 1,
+    "puncture": 75,
+    "stroke": 50,
+    "thrust": 100,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_1424",
+  "metadata": {
+    "id": 1424
+  }
+}

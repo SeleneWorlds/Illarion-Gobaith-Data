@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 295,
+  "y": 263,
+  "z": -6,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Xiao Dongzou",
+  "script": "npc.xiao_dongzou",
+  "sex": 0,
+  "hair": 4,
+  "beard": 0,
+  "hairRed": 255,
+  "hairGreen": 230,
+  "hairBlue": 119,
+  "skinRed": 255,
+  "skinGreen": 231,
+  "skinBlue": 196,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 494,
+    "name": "Xiao Dongzou"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2194",
+  "script": "item.general.wood",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1300,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "shortScaleGreaves",
+  "level": 10,
+  "armor": {
+    "bodyParts": 64,
+    "puncture": 10,
+    "stroke": 19,
+    "thrust": 14,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 3
+  },
+  "visual": "illarion:items/item_2194",
+  "metadata": {
+    "id": 2194
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 10,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_279",
+  "script": "item.rings",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 10900,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "goldenSapphireRing",
+  "level": 55,
+  "armor": {
+    "bodyParts": 32,
+    "puncture": 0,
+    "stroke": 0,
+    "thrust": 0,
+    "magicDisturbance": 12,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 5
+  },
+  "visual": "illarion:items/item_279",
+  "metadata": {
+    "id": 279
+  }
+}

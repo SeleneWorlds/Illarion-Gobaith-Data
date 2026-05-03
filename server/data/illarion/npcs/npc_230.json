@@ -1,0 +1,27 @@
+{
+  "type": 4,
+  "x": 362,
+  "y": 279,
+  "z": 0,
+  "facing": 0,
+  "isHealer": false,
+  "name": "Sogg Beermug",
+  "script": "npc.sogg_beermug",
+  "sex": 0,
+  "hair": 2,
+  "beard": 0,
+  "hairRed": 119,
+  "hairGreen": 56,
+  "hairBlue": 3,
+  "skinRed": 137,
+  "skinGreen": 123,
+  "skinBlue": 60,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/orc",
+  "entity": "illarion:races/race_4_0",
+  "metadata": {
+    "id": 230,
+    "name": "Sogg Beermug"
+  }
+}

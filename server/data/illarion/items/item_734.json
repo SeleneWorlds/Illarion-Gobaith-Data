@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_734",
+  "script": "item.id_734_brickmould",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "brickMould",
+  "level": 5,
+  "visual": "illarion:items/item_734",
+  "metadata": {
+    "id": 734
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1053",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 47900,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "divineVoulge",
+  "level": 70,
+  "weapon": {
+    "attack": 48,
+    "defense": 35,
+    "accuracy": 80,
+    "range": 1,
+    "weaponType": 6,
+    "ammunitionType": 0,
+    "actionPoints": 20,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_1053",
+  "metadata": {
+    "id": 1053
+  }
+}

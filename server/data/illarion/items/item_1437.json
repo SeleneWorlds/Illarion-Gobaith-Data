@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 400,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1437",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 100000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "assassinsArmourOfDarkness",
+  "level": 100,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 75,
+    "stroke": 50,
+    "thrust": 100,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_1437",
+  "metadata": {
+    "id": 1437
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 130,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1468",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 23900,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "meriniumPlatedChainGloves",
+  "level": 90,
+  "armor": {
+    "bodyParts": 8,
+    "puncture": 46,
+    "stroke": 91,
+    "thrust": 68,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 3
+  },
+  "visual": "illarion:items/item_1468",
+  "metadata": {
+    "id": 1468
+  }
+}

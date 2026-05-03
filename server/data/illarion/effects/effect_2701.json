@@ -1,0 +1,8 @@
+{
+  "name": "BlessedHeal",
+  "script": "lte.blessedheal",
+  "metadata": {
+    "id": 2701,
+    "name": "BlessedHeal"
+  }
+}

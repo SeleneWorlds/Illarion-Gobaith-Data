@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 10,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2554",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 2,
+  "worth": 20000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "pureWater",
+  "level": 0,
+  "visual": "illarion:items/item_2554",
+  "metadata": {
+    "id": 2554
+  }
+}

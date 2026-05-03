@@ -1,0 +1,27 @@
+{
+  "type": 18,
+  "x": 784,
+  "y": 293,
+  "z": -3,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Curly",
+  "script": "npc.curly",
+  "sex": 0,
+  "hair": 0,
+  "beard": 0,
+  "hairRed": 255,
+  "hairGreen": 255,
+  "hairBlue": 255,
+  "skinRed": 255,
+  "skinGreen": 255,
+  "skinBlue": 255,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/sheep",
+  "entity": "illarion:races/race_18_0",
+  "metadata": {
+    "id": 558,
+    "name": "Curly"
+  }
+}

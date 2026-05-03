@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 120,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1511",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 15700,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "gildedGuardiansBoots",
+  "level": 80,
+  "armor": {
+    "bodyParts": 128,
+    "puncture": 41,
+    "stroke": 82,
+    "thrust": 62,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 3
+  },
+  "visual": "illarion:items/item_1511",
+  "metadata": {
+    "id": 1511
+  }
+}

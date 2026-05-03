@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 10,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_3560",
+  "script": "item.rings",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "silverRubyRing",
+  "level": 20,
+  "armor": {
+    "bodyParts": 32,
+    "puncture": 0,
+    "stroke": 0,
+    "thrust": 0,
+    "magicDisturbance": 5,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 5
+  },
+  "visual": "illarion:items/item_3560",
+  "metadata": {
+    "id": 3560
+  }
+}

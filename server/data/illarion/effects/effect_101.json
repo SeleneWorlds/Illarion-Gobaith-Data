@@ -1,0 +1,8 @@
+{
+  "name": "Constitution debuff",
+  "script": "lte.debuff_constitution",
+  "metadata": {
+    "id": 101,
+    "name": "Constitution debuff"
+  }
+}

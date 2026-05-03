@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4697",
+  "script": "item.teasets",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "teaSetVioletRedGlassCeramic",
+  "level": 0,
+  "visual": "illarion:items/item_4697",
+  "metadata": {
+    "id": 4697
+  }
+}

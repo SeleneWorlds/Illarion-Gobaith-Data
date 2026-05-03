@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.housing_demolition",
+  "function": "demolish",
+  "minInterval": 100,
+  "maxInterval": 100
+}

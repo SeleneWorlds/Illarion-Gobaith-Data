@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_41",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 400,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "glassIngot",
+  "level": 0,
+  "visual": "illarion:items/item_41",
+  "metadata": {
+    "id": 41
+  }
+}

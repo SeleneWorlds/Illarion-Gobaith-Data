@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1059",
+  "script": "item.id_1059_dice",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 10000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "diceCup",
+  "level": 40,
+  "visual": "illarion:items/item_1059",
+  "metadata": {
+    "id": 1059
+  }
+}

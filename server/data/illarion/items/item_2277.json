@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2277",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2700,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "meatDish",
+  "level": 50,
+  "visual": "illarion:items/item_2277",
+  "metadata": {
+    "id": 2277
+  }
+}

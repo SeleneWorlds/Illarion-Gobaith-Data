@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.scheduledFunction_proxy",
+  "function": "onExecute",
+  "minInterval": 10,
+  "maxInterval": 10
+}

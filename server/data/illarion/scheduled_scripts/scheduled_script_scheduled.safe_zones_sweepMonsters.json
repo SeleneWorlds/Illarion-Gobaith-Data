@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.safe_zones",
+  "function": "sweepMonsters",
+  "minInterval": 300,
+  "maxInterval": 600
+}

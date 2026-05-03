@@ -1,0 +1,27 @@
+{
+  "type": 1,
+  "x": 337,
+  "y": 215,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Valerio Guilianni",
+  "script": "npc.valerio_guilianni",
+  "sex": 0,
+  "hair": 1,
+  "beard": 1,
+  "hairRed": 180,
+  "hairGreen": 180,
+  "hairBlue": 180,
+  "skinRed": 210,
+  "skinGreen": 162,
+  "skinBlue": 120,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/dwarf",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 212,
+    "name": "Valerio Guilianni"
+  }
+}

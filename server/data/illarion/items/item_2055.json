@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2055",
+  "script": "item.emptyDrinkingVessels",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 4000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "glass",
+  "level": 70,
+  "visual": "illarion:items/item_2055",
+  "metadata": {
+    "id": 2055
+  }
+}

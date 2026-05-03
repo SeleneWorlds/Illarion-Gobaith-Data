@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1840",
+  "script": "item.emptyDrinkingVessels",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 600,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "copperGoblet",
+  "level": 5,
+  "visual": "illarion:items/item_1840",
+  "metadata": {
+    "id": 1840
+  }
+}

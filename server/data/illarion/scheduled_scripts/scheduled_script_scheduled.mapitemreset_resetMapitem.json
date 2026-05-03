@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.mapitemreset",
+  "function": "resetMapitem",
+  "minInterval": 300,
+  "maxInterval": 300
+}

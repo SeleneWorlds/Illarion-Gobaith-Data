@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4566",
+  "script": "item.emptyDrinkingVessels",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 15000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "ceramicTeaCup",
+  "level": 85,
+  "visual": "illarion:items/item_4566",
+  "metadata": {
+    "id": 4566
+  }
+}

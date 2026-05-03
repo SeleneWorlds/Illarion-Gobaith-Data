@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_3786",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 5000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "heartwood",
+  "level": 0,
+  "visual": "illarion:items/item_3786",
+  "metadata": {
+    "id": 3786
+  }
+}

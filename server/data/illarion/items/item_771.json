@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 120,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_771",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 7100,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "albarianSteelBoots",
+  "level": 60,
+  "armor": {
+    "bodyParts": 128,
+    "puncture": 64,
+    "stroke": 48,
+    "thrust": 32,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_771",
+  "metadata": {
+    "id": 771
+  }
+}

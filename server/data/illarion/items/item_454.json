@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_454",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2600,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "blackberryMuffin",
+  "level": 40,
+  "visual": "illarion:items/item_454",
+  "metadata": {
+    "id": 454
+  }
+}

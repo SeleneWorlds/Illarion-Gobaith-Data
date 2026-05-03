@@ -1,0 +1,8 @@
+{
+  "name": "char_reg",
+  "script": "lte.chr_reg",
+  "metadata": {
+    "id": 2,
+    "name": "char_reg"
+  }
+}

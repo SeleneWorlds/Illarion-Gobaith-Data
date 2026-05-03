@@ -1,0 +1,8 @@
+{
+  "name": "lifesteal",
+  "script": "magic.arcane.lifesteal",
+  "metadata": {
+    "id": 3,
+    "name": "lifesteal"
+  }
+}

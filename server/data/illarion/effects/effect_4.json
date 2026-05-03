@@ -1,0 +1,8 @@
+{
+  "name": "percBoost",
+  "script": "lte.perc_boost",
+  "metadata": {
+    "id": 4,
+    "name": "percBoost"
+  }
+}

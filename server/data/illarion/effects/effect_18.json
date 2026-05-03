@@ -1,0 +1,8 @@
+{
+  "name": "arena",
+  "script": "lte.arena_timer",
+  "metadata": {
+    "id": 18,
+    "name": "arena"
+  }
+}

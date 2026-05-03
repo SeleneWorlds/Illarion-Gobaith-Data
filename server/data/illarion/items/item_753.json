@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 2,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_753",
+  "script": "alchemy.base.brewing",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 40,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "blueBirdsberry",
+  "level": 0,
+  "visual": "illarion:items/item_753",
+  "metadata": {
+    "id": 753
+  }
+}

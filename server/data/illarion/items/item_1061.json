@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1061",
+  "script": "item.id_1061_teleport",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 5000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "",
+  "level": 0,
+  "visual": "illarion:items/item_1061",
+  "metadata": {
+    "id": 1061
+  }
+}

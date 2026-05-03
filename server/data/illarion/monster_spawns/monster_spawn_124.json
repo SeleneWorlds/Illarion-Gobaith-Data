@@ -1,0 +1,17 @@
+{
+  "x": 160,
+  "y": 725,
+  "z": 0,
+  "range": 10,
+  "minSpawnTime": 5,
+  "maxSpawnTime": 15,
+  "spawnAll": false,
+  "spawnRange": 10,
+  "monsters": {
+    "illarion:monster_581": 1,
+    "illarion:monster_584": 1
+  },
+  "metadata": {
+    "id": 124
+  }
+}

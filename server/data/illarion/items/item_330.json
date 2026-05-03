@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_330",
+  "script": "alchemy.item.id_330_white_bottle",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "whitePotion",
+  "level": 0,
+  "visual": "illarion:items/item_330",
+  "metadata": {
+    "id": 330
+  }
+}

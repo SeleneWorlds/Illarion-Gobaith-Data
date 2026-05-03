@@ -1,0 +1,22 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 8,
+  "objectAfterRot": "illarion:item_1804",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "",
+  "level": 0,
+  "impassable": true,
+  "specialItem": 0,
+  "passableAbove": false,
+  "visual": "illarion:items/item_542",
+  "metadata": {
+    "id": 542
+  }
+}

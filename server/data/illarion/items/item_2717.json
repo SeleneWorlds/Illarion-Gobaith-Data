@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2717",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 600,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "pinsAndCotters",
+  "level": 0,
+  "visual": "illarion:items/item_2717",
+  "metadata": {
+    "id": 2717
+  }
+}

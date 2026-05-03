@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4327",
+  "script": "item.seeds",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 100,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "cornSeeds",
+  "level": 70,
+  "visual": "illarion:items/item_4327",
+  "metadata": {
+    "id": 4327
+  }
+}

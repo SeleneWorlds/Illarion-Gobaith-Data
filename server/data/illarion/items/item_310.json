@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_310",
+  "script": "item.id_310_mug_with_lid",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2250,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "mugWithLid",
+  "level": 45,
+  "visual": "illarion:items/item_310",
+  "metadata": {
+    "id": 310
+  }
+}

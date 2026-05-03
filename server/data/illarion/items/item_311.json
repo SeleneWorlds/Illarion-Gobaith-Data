@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_311",
+  "script": "item.id_311_glassblowpipe",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "glassBlowPipe",
+  "level": 10,
+  "visual": "illarion:items/item_311",
+  "metadata": {
+    "id": 311
+  }
+}

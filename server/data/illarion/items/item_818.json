@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_818",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 3700,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "redTunic",
+  "level": 40,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 5,
+    "stroke": 5,
+    "thrust": 5,
+    "magicDisturbance": 5,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 0
+  },
+  "visual": "illarion:items/item_818",
+  "metadata": {
+    "id": 818
+  }
+}

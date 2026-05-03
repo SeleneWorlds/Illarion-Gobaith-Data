@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 120,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_698",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 22100,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "serinjahLeatherBoots",
+  "level": 90,
+  "armor": {
+    "bodyParts": 128,
+    "puncture": 68,
+    "stroke": 46,
+    "thrust": 91,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_698",
+  "metadata": {
+    "id": 698
+  }
+}

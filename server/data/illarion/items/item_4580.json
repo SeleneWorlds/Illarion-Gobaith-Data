@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4580",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 4170,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "copperTeaCupVirginWeed",
+  "level": 25,
+  "visual": "illarion:items/item_4580",
+  "metadata": {
+    "id": 4580
+  }
+}

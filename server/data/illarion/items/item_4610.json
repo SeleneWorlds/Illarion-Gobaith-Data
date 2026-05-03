@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4610",
+  "script": "item.teasets",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 4100,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "ironTrayWest",
+  "level": 35,
+  "visual": "illarion:items/item_4610",
+  "metadata": {
+    "id": 4610
+  }
+}

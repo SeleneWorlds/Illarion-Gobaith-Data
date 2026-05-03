@@ -1,0 +1,27 @@
+{
+  "type": 113,
+  "x": 787,
+  "y": 303,
+  "z": -3,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Willow",
+  "script": "npc.willow",
+  "sex": 0,
+  "hair": 0,
+  "beard": 0,
+  "hairRed": 255,
+  "hairGreen": 255,
+  "hairBlue": 255,
+  "skinRed": 255,
+  "skinGreen": 255,
+  "skinBlue": 255,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_113",
+  "entity": "illarion:races/race_113_0",
+  "metadata": {
+    "id": 557,
+    "name": "Willow"
+  }
+}

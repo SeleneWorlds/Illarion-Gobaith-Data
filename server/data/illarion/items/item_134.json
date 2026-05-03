@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 2,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_134",
+  "script": "alchemy.base.brewing",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 40,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "fourleafedOneberry",
+  "level": 0,
+  "visual": "illarion:items/item_134",
+  "metadata": {
+    "id": 134
+  }
+}

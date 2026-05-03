@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1909",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 10070,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "beerMug",
+  "level": 15,
+  "visual": "illarion:items/item_1909",
+  "metadata": {
+    "id": 1909
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": 1,
+  "x": 388,
+  "y": 238,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Groktan Flintsplit",
+  "script": "npc.groktan_flintsplit",
+  "sex": 0,
+  "hair": 4,
+  "beard": 1,
+  "hairRed": 139,
+  "hairGreen": 69,
+  "hairBlue": 19,
+  "skinRed": 247,
+  "skinGreen": 183,
+  "skinBlue": 128,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/dwarf",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 255,
+    "name": "Groktan Flintsplit"
+  }
+}

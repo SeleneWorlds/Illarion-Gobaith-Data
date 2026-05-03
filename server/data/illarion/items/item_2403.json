@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 400,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2403",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 8700,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "silversteelArmour",
+  "level": 40,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 23,
+    "stroke": 46,
+    "thrust": 35,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 3
+  },
+  "visual": "illarion:items/item_2403",
+  "metadata": {
+    "id": 2403
+  }
+}

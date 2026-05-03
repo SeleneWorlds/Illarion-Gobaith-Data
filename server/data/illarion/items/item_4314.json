@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4314",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 700,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "firewaspHoneycomb",
+  "level": 70,
+  "visual": "illarion:items/item_4314",
+  "metadata": {
+    "id": 4314
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2184",
+  "script": "item.emptyDrinkingVessels",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 800,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "clayCup",
+  "level": 20,
+  "visual": "illarion:items/item_2184",
+  "metadata": {
+    "id": 2184
+  }
+}

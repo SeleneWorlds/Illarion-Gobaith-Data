@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_772",
+  "script": "alchemy.base.brewing",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 235,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "tobacco",
+  "level": 0,
+  "visual": "illarion:items/item_772",
+  "metadata": {
+    "id": 772
+  }
+}

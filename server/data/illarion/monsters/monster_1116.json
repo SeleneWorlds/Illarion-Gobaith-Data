@@ -1,0 +1,93 @@
+{
+  "race": "illarion:race_111",
+  "hitpoints": 10000,
+  "movementType": "walk",
+  "canAttack": true,
+  "canHealSelf": false,
+  "script": "monster.race_111_rat.default",
+  "minSize": 100,
+  "maxSize": 120,
+  "attributes": {
+    "perception": {
+      "min": 2,
+      "max": 5
+    },
+    "strength": {
+      "min": 2,
+      "max": 5
+    },
+    "intelligence": {
+      "min": 2,
+      "max": 5
+    },
+    "essence": {
+      "min": 2,
+      "max": 5
+    },
+    "dexterity": {
+      "min": 2,
+      "max": 5
+    },
+    "agility": {
+      "min": 2,
+      "max": 5
+    },
+    "constitution": {
+      "min": 2,
+      "max": 5
+    },
+    "willpower": {
+      "min": 2,
+      "max": 5
+    }
+  },
+  "skills": {
+    "illarion:skill_21": {
+      "min": 20,
+      "max": 30
+    },
+    "illarion:skill_24": {
+      "min": 20,
+      "max": 30
+    }
+  },
+  "drops": {
+    "1": {
+      "313": {
+        "chance": 0.5,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 3,
+        "maxQuality": 3,
+        "minDurability": 33,
+        "maxDurability": 33,
+        "item": "illarion:item_63"
+      },
+      "3416": {
+        "chance": 1,
+        "minCount": 2,
+        "maxCount": 4,
+        "minQuality": 3,
+        "maxQuality": 3,
+        "minDurability": 33,
+        "maxDurability": 33,
+        "item": "illarion:item_4818"
+      }
+    },
+    "2": {
+      "314": {
+        "chance": 1,
+        "minCount": 1,
+        "maxCount": 1,
+        "minQuality": 3,
+        "maxQuality": 3,
+        "minDurability": 33,
+        "maxDurability": 33,
+        "item": "illarion:item_2586"
+      }
+    }
+  },
+  "metadata": {
+    "id": 1116
+  }
+}

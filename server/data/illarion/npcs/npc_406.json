@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 134,
+  "y": 597,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Joseph Quatrilla",
+  "script": "npc.joseph_quatrilla",
+  "sex": 0,
+  "hair": 2,
+  "beard": 0,
+  "hairRed": 221,
+  "hairGreen": 199,
+  "hairBlue": 140,
+  "skinRed": 255,
+  "skinGreen": 210,
+  "skinBlue": 204,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 406,
+    "name": "Joseph Quatrilla"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": 5,
+  "x": 387,
+  "y": 278,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Seleseth",
+  "script": "npc.seleseth",
+  "sex": 0,
+  "hair": 6,
+  "beard": 0,
+  "hairRed": 241,
+  "hairGreen": 245,
+  "hairBlue": 63,
+  "skinRed": 58,
+  "skinGreen": 137,
+  "skinBlue": 61,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/lizard",
+  "entity": "illarion:races/race_5_0",
+  "metadata": {
+    "id": 460,
+    "name": "Seleseth"
+  }
+}

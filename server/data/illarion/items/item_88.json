@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_88",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 3500,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "longaxe",
+  "level": 10,
+  "weapon": {
+    "attack": 25,
+    "defense": 5,
+    "accuracy": 70,
+    "range": 1,
+    "weaponType": 4,
+    "ammunitionType": 0,
+    "actionPoints": 25,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_88",
+  "metadata": {
+    "id": 88
+  }
+}

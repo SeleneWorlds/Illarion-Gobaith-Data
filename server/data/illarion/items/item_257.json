@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 10,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_257",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 800,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "rawTopaz",
+  "level": 0,
+  "visual": "illarion:items/item_257",
+  "metadata": {
+    "id": 257
+  }
+}

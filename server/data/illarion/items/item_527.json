@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 130,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_527",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 17000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "serinjahLeatherGloves",
+  "level": 80,
+  "armor": {
+    "bodyParts": 8,
+    "puncture": 62,
+    "stroke": 41,
+    "thrust": 82,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_527",
+  "metadata": {
+    "id": 527
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_51",
+  "script": "item.id_51_emptybucket",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "bucket",
+  "level": 5,
+  "visual": "illarion:items/item_51",
+  "metadata": {
+    "id": 51
+  }
+}

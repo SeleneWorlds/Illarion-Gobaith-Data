@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_223",
+  "script": "item.emptyDrinkingVessels",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 400,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "ironGoblet",
+  "level": 0,
+  "visual": "illarion:items/item_223",
+  "metadata": {
+    "id": 223
+  }
+}

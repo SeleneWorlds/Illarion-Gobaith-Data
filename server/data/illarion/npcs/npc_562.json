@@ -1,0 +1,27 @@
+{
+  "type": 2,
+  "x": 798,
+  "y": 793,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Eleanor Fairbanks",
+  "script": "npc.eleanor_fairbanks",
+  "sex": 1,
+  "hair": 7,
+  "beard": 0,
+  "hairRed": 160,
+  "hairGreen": 100,
+  "hairBlue": 70,
+  "skinRed": 245,
+  "skinGreen": 180,
+  "skinBlue": 137,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/halfling",
+  "entity": "illarion:races/race_2_1",
+  "metadata": {
+    "id": 562,
+    "name": "Eleanor Fairbanks"
+  }
+}

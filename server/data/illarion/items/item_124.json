@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_124",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 23600,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "gildedBattleAxe",
+  "level": 60,
+  "weapon": {
+    "attack": 32,
+    "defense": 15,
+    "accuracy": 80,
+    "range": 1,
+    "weaponType": 1,
+    "ammunitionType": 0,
+    "actionPoints": 20,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_124",
+  "metadata": {
+    "id": 124
+  }
+}

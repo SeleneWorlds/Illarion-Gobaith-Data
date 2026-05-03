@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 940,
+  "y": 766,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Uriel Urch",
+  "script": "npc.uriel_urch",
+  "sex": 0,
+  "hair": 1,
+  "beard": 5,
+  "hairRed": 139,
+  "hairGreen": 90,
+  "hairBlue": 43,
+  "skinRed": 238,
+  "skinGreen": 197,
+  "skinBlue": 145,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 320,
+    "name": "Uriel Urch"
+  }
+}

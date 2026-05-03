@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 5,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1149",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 100,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "brownEgg",
+  "level": 0,
+  "visual": "illarion:items/item_1149",
+  "metadata": {
+    "id": 1149
+  }
+}

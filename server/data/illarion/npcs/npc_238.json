@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 120,
+  "y": 642,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Horatio Milenus",
+  "script": "npc.horatio_milenus",
+  "sex": 0,
+  "hair": 0,
+  "beard": 5,
+  "hairRed": 0,
+  "hairGreen": 0,
+  "hairBlue": 0,
+  "skinRed": 245,
+  "skinGreen": 180,
+  "skinBlue": 137,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 238,
+    "name": "Horatio Milenus"
+  }
+}

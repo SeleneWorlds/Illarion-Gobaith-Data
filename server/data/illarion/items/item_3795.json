@@ -1,0 +1,19 @@
+{
+  "volume": 5000,
+  "weight": 30000,
+  "agingSpeed": 255,
+  "objectAfterRot": "illarion:item_3795",
+  "script": "item.doors",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "",
+  "level": 0,
+  "visual": "illarion:items/item_3795",
+  "metadata": {
+    "id": 3795
+  }
+}

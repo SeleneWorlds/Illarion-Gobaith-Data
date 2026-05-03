@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_196",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1400,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "greyCoat",
+  "level": 0,
+  "armor": {
+    "bodyParts": 16,
+    "puncture": 0,
+    "stroke": 0,
+    "thrust": 0,
+    "magicDisturbance": 3,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 0
+  },
+  "visual": "illarion:items/item_196",
+  "metadata": {
+    "id": 196
+  }
+}

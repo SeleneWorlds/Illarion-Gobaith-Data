@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 1000,
+  "y": 779,
+  "z": -3,
+  "facing": 5,
+  "isHealer": false,
+  "name": "Manuel Salan",
+  "script": "npc.manuel_salan",
+  "sex": 0,
+  "hair": 1,
+  "beard": 2,
+  "hairRed": 180,
+  "hairGreen": 114,
+  "hairBlue": 69,
+  "skinRed": 217,
+  "skinGreen": 154,
+  "skinBlue": 123,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 486,
+    "name": "Manuel Salan"
+  }
+}

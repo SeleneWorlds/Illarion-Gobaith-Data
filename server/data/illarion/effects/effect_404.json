@@ -1,0 +1,8 @@
+{
+  "name": "drinkEffect",
+  "script": "lte.drinkEffect",
+  "metadata": {
+    "id": 404,
+    "name": "drinkEffect"
+  }
+}

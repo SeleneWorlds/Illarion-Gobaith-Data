@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1430",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1900,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "reinforcedSteelHat",
+  "level": 30,
+  "armor": {
+    "bodyParts": 1,
+    "puncture": 37,
+    "stroke": 28,
+    "thrust": 19,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_1430",
+  "metadata": {
+    "id": 1430
+  }
+}

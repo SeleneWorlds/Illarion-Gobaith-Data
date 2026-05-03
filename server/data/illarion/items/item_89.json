@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_89",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2500,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "sling",
+  "level": 0,
+  "weapon": {
+    "attack": 9,
+    "defense": 0,
+    "accuracy": 80,
+    "range": 5,
+    "weaponType": 7,
+    "ammunitionType": 12,
+    "actionPoints": 20,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_89",
+  "metadata": {
+    "id": 89
+  }
+}

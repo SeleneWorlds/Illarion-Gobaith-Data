@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4041",
+  "script": "craft.repairs",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 28500,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "",
+  "level": 80,
+  "visual": "illarion:items/item_4041",
+  "metadata": {
+    "id": 4041
+  }
+}

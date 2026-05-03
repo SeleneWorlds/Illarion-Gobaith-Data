@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_186",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 23600,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "roundMetalShield",
+  "level": 60,
+  "weapon": {
+    "attack": 21,
+    "defense": 60,
+    "accuracy": 90,
+    "range": 1,
+    "weaponType": 14,
+    "ammunitionType": 0,
+    "actionPoints": 15,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_186",
+  "metadata": {
+    "id": 186
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": 5,
+  "x": 760,
+  "y": 339,
+  "z": -9,
+  "facing": 0,
+  "isHealer": false,
+  "name": "Zenia",
+  "script": "npc.zenia",
+  "sex": 1,
+  "hair": 3,
+  "beard": 0,
+  "hairRed": 40,
+  "hairGreen": 65,
+  "hairBlue": 20,
+  "skinRed": 155,
+  "skinGreen": 220,
+  "skinBlue": 100,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/lizard",
+  "entity": "illarion:races/race_5_1",
+  "metadata": {
+    "id": 541,
+    "name": "Zenia"
+  }
+}

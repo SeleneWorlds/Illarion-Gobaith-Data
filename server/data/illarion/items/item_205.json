@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_205",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 70000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "doubleAxe",
+  "level": 80,
+  "weapon": {
+    "attack": 75,
+    "defense": 40,
+    "accuracy": 70,
+    "range": 1,
+    "weaponType": 4,
+    "ammunitionType": 0,
+    "actionPoints": 25,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_205",
+  "metadata": {
+    "id": 205
+  }
+}

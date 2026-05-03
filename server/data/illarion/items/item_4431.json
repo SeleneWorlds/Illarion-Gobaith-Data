@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4431",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 980,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "clayShotGlassWithStoneFace",
+  "level": 75,
+  "visual": "illarion:items/item_4431",
+  "metadata": {
+    "id": 4431
+  }
+}

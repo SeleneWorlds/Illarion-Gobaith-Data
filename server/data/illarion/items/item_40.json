@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_40",
+  "script": "item.general.wood",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 3800,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "clericsStaff",
+  "level": 15,
+  "weapon": {
+    "attack": 29,
+    "defense": 8,
+    "accuracy": 70,
+    "range": 1,
+    "weaponType": 5,
+    "ammunitionType": 0,
+    "actionPoints": 25,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_40",
+  "metadata": {
+    "id": 40
+  }
+}

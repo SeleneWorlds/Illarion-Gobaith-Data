@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_90",
+  "script": "item.id_90_flute",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 3000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "flute",
+  "level": 15,
+  "visual": "illarion:items/item_90",
+  "metadata": {
+    "id": 90
+  }
+}

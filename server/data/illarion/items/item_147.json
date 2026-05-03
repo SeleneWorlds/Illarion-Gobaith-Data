@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 2,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_147",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 40,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "blackberry",
+  "level": 0,
+  "visual": "illarion:items/item_147",
+  "metadata": {
+    "id": 147
+  }
+}

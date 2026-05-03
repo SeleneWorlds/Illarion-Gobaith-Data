@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4608",
+  "script": "item.teasets",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2400,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "stainedGlassTrayVioletRed",
+  "level": 20,
+  "visual": "illarion:items/item_4608",
+  "metadata": {
+    "id": 4608
+  }
+}

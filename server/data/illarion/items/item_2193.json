@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2193",
+  "script": "item.general.wood",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 4400,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "scaleGreaves",
+  "level": 40,
+  "armor": {
+    "bodyParts": 64,
+    "puncture": 23,
+    "stroke": 46,
+    "thrust": 35,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 3
+  },
+  "visual": "illarion:items/item_2193",
+  "metadata": {
+    "id": 2193
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_336",
+  "script": "item.id_336_mirror",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 34000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "mirror",
+  "level": 85,
+  "visual": "illarion:items/item_336",
+  "metadata": {
+    "id": 336
+  }
+}

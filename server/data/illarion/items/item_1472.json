@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 130,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1472",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1700,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "copperedSteelGloves",
+  "level": 30,
+  "armor": {
+    "bodyParts": 8,
+    "puncture": 37,
+    "stroke": 28,
+    "thrust": 19,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_1472",
+  "metadata": {
+    "id": 1472
+  }
+}

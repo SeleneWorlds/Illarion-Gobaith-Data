@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 400,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2390",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 29300,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "dwarvenStateArmour",
+  "level": 65,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 69,
+    "stroke": 51,
+    "thrust": 34,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_2390",
+  "metadata": {
+    "id": 2390
+  }
+}

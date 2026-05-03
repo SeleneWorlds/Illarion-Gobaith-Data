@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4820",
+  "script": "item.wands",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 5000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "noviceWand",
+  "level": 20,
+  "weapon": {
+    "attack": 29,
+    "defense": 0,
+    "accuracy": 70,
+    "range": 5,
+    "weaponType": 13,
+    "ammunitionType": 0,
+    "actionPoints": 25,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_4820",
+  "metadata": {
+    "id": 4820
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2746",
+  "script": "item.id_2746_razorblade",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "razorBlade",
+  "level": 5,
+  "visual": "illarion:items/item_2746",
+  "metadata": {
+    "id": 2746
+  }
+}

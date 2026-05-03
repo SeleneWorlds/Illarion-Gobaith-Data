@@ -1,0 +1,32 @@
+{
+  "volume": 1,
+  "weight": 0,
+  "agingSpeed": 255,
+  "objectAfterRot": null,
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "",
+  "level": 0,
+  "armor": {
+    "bodyParts": 0,
+    "puncture": 0,
+    "stroke": 0,
+    "thrust": 0,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 0
+  },
+  "impassable": false,
+  "specialItem": 0,
+  "passableAbove": false,
+  "visual": "illarion:items/item_0",
+  "metadata": {
+    "id": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 400,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1435",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 14700,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "simpleHuntingArmour",
+  "level": 50,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 41,
+    "stroke": 28,
+    "thrust": 55,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_1435",
+  "metadata": {
+    "id": 1435
+  }
+}

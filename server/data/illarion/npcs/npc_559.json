@@ -1,0 +1,27 @@
+{
+  "type": 116,
+  "x": 767,
+  "y": 287,
+  "z": -3,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Russet",
+  "script": "npc.russet",
+  "sex": 0,
+  "hair": 0,
+  "beard": 0,
+  "hairRed": 255,
+  "hairGreen": 255,
+  "hairBlue": 255,
+  "skinRed": 255,
+  "skinGreen": 255,
+  "skinBlue": 255,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_116",
+  "entity": "illarion:races/race_116_0",
+  "metadata": {
+    "id": 559,
+    "name": "Russet"
+  }
+}

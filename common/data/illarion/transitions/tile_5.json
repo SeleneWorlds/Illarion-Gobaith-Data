@@ -1,0 +1,229 @@
+{
+  "priority": 10,
+  "transitions": [
+    {
+      "neighbours": [
+        "110",
+        "0X0",
+        "000"
+      ],
+      "tile": "illarion:transitions/transition_5_1"
+    },
+    {
+      "neighbours": [
+        "011",
+        "0X0",
+        "000"
+      ],
+      "tile": "illarion:transitions/transition_5_2"
+    },
+    {
+      "neighbours": [
+        "100",
+        "1X0",
+        "000"
+      ],
+      "tile": "illarion:transitions/transition_5_3"
+    },
+    {
+      "neighbours": [
+        "000",
+        "1X0",
+        "100"
+      ],
+      "tile": "illarion:transitions/transition_5_4"
+    },
+    {
+      "neighbours": [
+        "000",
+        "0X0",
+        "110"
+      ],
+      "tile": "illarion:transitions/transition_5_5"
+    },
+    {
+      "neighbours": [
+        "000",
+        "0X0",
+        "011"
+      ],
+      "tile": "illarion:transitions/transition_5_6"
+    },
+    {
+      "neighbours": [
+        "001",
+        "0X1",
+        "000"
+      ],
+      "tile": "illarion:transitions/transition_5_7"
+    },
+    {
+      "neighbours": [
+        "000",
+        "0X1",
+        "001"
+      ],
+      "tile": "illarion:transitions/transition_5_8"
+    },
+    {
+      "neighbours": [
+        "111",
+        "0X0",
+        "000"
+      ],
+      "tile": "illarion:transitions/transition_5_9"
+    },
+    {
+      "neighbours": [
+        "100",
+        "1X0",
+        "100"
+      ],
+      "tile": "illarion:transitions/transition_5_10"
+    },
+    {
+      "neighbours": [
+        "000",
+        "0X0",
+        "111"
+      ],
+      "tile": "illarion:transitions/transition_5_11"
+    },
+    {
+      "neighbours": [
+        "001",
+        "0X1",
+        "001"
+      ],
+      "tile": "illarion:transitions/transition_5_12"
+    },
+    {
+      "neighbours": [
+        "110",
+        "1X0",
+        "000"
+      ],
+      "tile": "illarion:transitions/transition_5_13"
+    },
+    {
+      "neighbours": [
+        "011",
+        "0X1",
+        "000"
+      ],
+      "tile": "illarion:transitions/transition_5_14"
+    },
+    {
+      "neighbours": [
+        "000",
+        "1X0",
+        "110"
+      ],
+      "tile": "illarion:transitions/transition_5_15"
+    },
+    {
+      "neighbours": [
+        "000",
+        "0X1",
+        "011"
+      ],
+      "tile": "illarion:transitions/transition_5_16"
+    },
+    {
+      "neighbours": [
+        "111",
+        "1X0",
+        "000"
+      ],
+      "tile": "illarion:transitions/transition_5_17"
+    },
+    {
+      "neighbours": [
+        "111",
+        "0X1",
+        "000"
+      ],
+      "tile": "illarion:transitions/transition_5_18"
+    },
+    {
+      "neighbours": [
+        "110",
+        "1X0",
+        "100"
+      ],
+      "tile": "illarion:transitions/transition_5_19"
+    },
+    {
+      "neighbours": [
+        "100",
+        "1X0",
+        "110"
+      ],
+      "tile": "illarion:transitions/transition_5_20"
+    },
+    {
+      "neighbours": [
+        "000",
+        "0X1",
+        "111"
+      ],
+      "tile": "illarion:transitions/transition_5_21"
+    },
+    {
+      "neighbours": [
+        "000",
+        "1X0",
+        "111"
+      ],
+      "tile": "illarion:transitions/transition_5_22"
+    },
+    {
+      "neighbours": [
+        "011",
+        "0X1",
+        "001"
+      ],
+      "tile": "illarion:transitions/transition_5_23"
+    },
+    {
+      "neighbours": [
+        "001",
+        "0X1",
+        "011"
+      ],
+      "tile": "illarion:transitions/transition_5_24"
+    },
+    {
+      "neighbours": [
+        "111",
+        "1X0",
+        "100"
+      ],
+      "tile": "illarion:transitions/transition_5_25"
+    },
+    {
+      "neighbours": [
+        "111",
+        "0X1",
+        "001"
+      ],
+      "tile": "illarion:transitions/transition_5_26"
+    },
+    {
+      "neighbours": [
+        "100",
+        "1X0",
+        "111"
+      ],
+      "tile": "illarion:transitions/transition_5_27"
+    },
+    {
+      "neighbours": [
+        "001",
+        "0X1",
+        "111"
+      ],
+      "tile": "illarion:transitions/transition_5_28"
+    }
+  ]
+}

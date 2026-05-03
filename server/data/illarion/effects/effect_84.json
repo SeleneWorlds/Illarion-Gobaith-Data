@@ -1,0 +1,8 @@
+{
+  "name": "activity_tracker",
+  "script": "lte.activity_tracker",
+  "metadata": {
+    "id": 84,
+    "name": "activity_tracker"
+  }
+}

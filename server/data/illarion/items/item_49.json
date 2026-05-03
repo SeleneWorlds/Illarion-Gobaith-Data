@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_49",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1500,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "potatoBread",
+  "level": 20,
+  "visual": "illarion:items/item_49",
+  "metadata": {
+    "id": 49
+  }
+}

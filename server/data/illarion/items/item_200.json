@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_200",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 50,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "tomato",
+  "level": 0,
+  "visual": "illarion:items/item_200",
+  "metadata": {
+    "id": 200
+  }
+}

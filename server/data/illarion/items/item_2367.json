@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 400,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2367",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 52400,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "albarianNoblesArmour",
+  "level": 80,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 82,
+    "stroke": 62,
+    "thrust": 41,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_2367",
+  "metadata": {
+    "id": 2367
+  }
+}

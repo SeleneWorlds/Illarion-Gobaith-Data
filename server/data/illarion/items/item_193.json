@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_193",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 31200,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "blueRobe",
+  "level": 75,
+  "armor": {
+    "bodyParts": 16,
+    "puncture": 0,
+    "stroke": 0,
+    "thrust": 0,
+    "magicDisturbance": 17,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 0
+  },
+  "visual": "illarion:items/item_193",
+  "metadata": {
+    "id": 193
+  }
+}

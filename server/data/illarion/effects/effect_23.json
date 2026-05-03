@@ -1,0 +1,8 @@
+{
+  "name": "paralysis",
+  "script": "lte.paralysis",
+  "metadata": {
+    "id": 23,
+    "name": "paralysis"
+  }
+}

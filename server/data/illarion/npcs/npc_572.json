@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 290,
+  "y": 271,
+  "z": -5,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Imos Dutin",
+  "script": "npc.imos_dutin",
+  "sex": 0,
+  "hair": 2,
+  "beard": 6,
+  "hairRed": 216,
+  "hairGreen": 0,
+  "hairBlue": 148,
+  "skinRed": 250,
+  "skinGreen": 175,
+  "skinBlue": 142,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 572,
+    "name": "Imos Dutin"
+  }
+}

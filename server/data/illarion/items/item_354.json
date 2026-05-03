@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_354",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 4900,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "strawberryCake",
+  "level": 80,
+  "visual": "illarion:items/item_354",
+  "metadata": {
+    "id": 354
+  }
+}

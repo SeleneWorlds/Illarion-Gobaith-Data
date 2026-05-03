@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 5,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4159",
+  "script": "magic.arcane.enchanting.items.shard",
+  "rotsInInventory": false,
+  "brightness": 2,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 2,
+  "name": "chousdaear",
+  "level": 0,
+  "visual": "illarion:items/item_4159",
+  "metadata": {
+    "id": 4159
+  }
+}

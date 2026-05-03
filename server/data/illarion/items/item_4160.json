@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 5,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4160",
+  "script": "magic.arcane.enchanting.items.shard",
+  "rotsInInventory": false,
+  "brightness": 2,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 2,
+  "name": "chouscoeden",
+  "level": 0,
+  "visual": "illarion:items/item_4160",
+  "metadata": {
+    "id": 4160
+  }
+}

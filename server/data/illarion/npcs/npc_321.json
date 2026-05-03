@@ -1,0 +1,27 @@
+{
+  "type": 2,
+  "x": 868,
+  "y": 861,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Baldo Proudtoe",
+  "script": "npc.baldo_proudtoe",
+  "sex": 0,
+  "hair": 2,
+  "beard": 0,
+  "hairRed": 89,
+  "hairGreen": 46,
+  "hairBlue": 6,
+  "skinRed": 243,
+  "skinGreen": 169,
+  "skinBlue": 120,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/halfling",
+  "entity": "illarion:races/race_2_0",
+  "metadata": {
+    "id": 321,
+    "name": "Baldo Proudtoe"
+  }
+}

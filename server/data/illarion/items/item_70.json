@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_70",
+  "script": "item.general.wood",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 23600,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "crossbow",
+  "level": 60,
+  "weapon": {
+    "attack": 32,
+    "defense": 0,
+    "accuracy": 80,
+    "range": 7,
+    "weaponType": 7,
+    "ammunitionType": 11,
+    "actionPoints": 20,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_70",
+  "metadata": {
+    "id": 70
+  }
+}

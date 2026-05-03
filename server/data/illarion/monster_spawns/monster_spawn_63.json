@@ -1,0 +1,30 @@
+{
+  "x": 284,
+  "y": 541,
+  "z": -3,
+  "range": 50,
+  "minSpawnTime": 10,
+  "maxSpawnTime": 30,
+  "spawnAll": false,
+  "spawnRange": 50,
+  "monsters": {
+    "illarion:monster_151": 4,
+    "illarion:monster_152": 4,
+    "illarion:monster_171": 4,
+    "illarion:monster_172": 4,
+    "illarion:monster_173": 4,
+    "illarion:monster_551": 3,
+    "illarion:monster_552": 3,
+    "illarion:monster_553": 3,
+    "illarion:monster_571": 3,
+    "illarion:monster_572": 3,
+    "illarion:monster_981": 3,
+    "illarion:monster_983": 3,
+    "illarion:monster_984": 3,
+    "illarion:monster_303": 3,
+    "illarion:monster_982": 3
+  },
+  "metadata": {
+    "id": 63
+  }
+}

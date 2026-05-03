@@ -1,0 +1,27 @@
+{
+  "type": 2,
+  "x": 903,
+  "y": 829,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Dion Rhoditis",
+  "script": "npc.dion_rhoditis",
+  "sex": 0,
+  "hair": 2,
+  "beard": 0,
+  "hairRed": 139,
+  "hairGreen": 71,
+  "hairBlue": 38,
+  "skinRed": 210,
+  "skinGreen": 180,
+  "skinBlue": 140,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/halfling",
+  "entity": "illarion:races/race_2_0",
+  "metadata": {
+    "id": 568,
+    "name": "Dion Rhoditis"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1419",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 5500,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "gildedHornedHelmet",
+  "level": 50,
+  "armor": {
+    "bodyParts": 1,
+    "puncture": 41,
+    "stroke": 28,
+    "thrust": 55,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_1419",
+  "metadata": {
+    "id": 1419
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_460",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 9000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "shortYellowTrousers",
+  "level": 60,
+  "armor": {
+    "bodyParts": 64,
+    "puncture": 5,
+    "stroke": 5,
+    "thrust": 5,
+    "magicDisturbance": 7,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 0
+  },
+  "visual": "illarion:items/item_460",
+  "metadata": {
+    "id": 460
+  }
+}

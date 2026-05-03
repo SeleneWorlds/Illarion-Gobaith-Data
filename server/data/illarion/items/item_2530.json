@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2530",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 400,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "daggerHandle",
+  "level": 0,
+  "visual": "illarion:items/item_2530",
+  "metadata": {
+    "id": 2530
+  }
+}

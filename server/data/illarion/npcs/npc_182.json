@@ -1,0 +1,27 @@
+{
+  "type": 3,
+  "x": 840,
+  "y": 470,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Valandil Elensar",
+  "script": "npc.valandil_elensar",
+  "sex": 0,
+  "hair": 2,
+  "beard": 0,
+  "hairRed": 208,
+  "hairGreen": 125,
+  "hairBlue": 4,
+  "skinRed": 242,
+  "skinGreen": 199,
+  "skinBlue": 157,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/elf",
+  "entity": "illarion:races/race_3_0",
+  "metadata": {
+    "id": 182,
+    "name": "Valandil Elensar"
+  }
+}

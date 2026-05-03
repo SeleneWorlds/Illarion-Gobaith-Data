@@ -1,0 +1,27 @@
+{
+  "type": 1,
+  "x": 128,
+  "y": 621,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Mirarie Bragolin",
+  "script": "npc.mirarie_bragolin",
+  "sex": 1,
+  "hair": 9,
+  "beard": 0,
+  "hairRed": 166,
+  "hairGreen": 58,
+  "hairBlue": 21,
+  "skinRed": 198,
+  "skinGreen": 153,
+  "skinBlue": 82,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/dwarf",
+  "entity": "illarion:races/race_1_1",
+  "metadata": {
+    "id": 418,
+    "name": "Mirarie Bragolin"
+  }
+}

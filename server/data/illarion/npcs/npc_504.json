@@ -1,0 +1,27 @@
+{
+  "type": 51,
+  "x": 275,
+  "y": 260,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Eklob",
+  "script": "npc.eklob",
+  "sex": 0,
+  "hair": 3,
+  "beard": 4,
+  "hairRed": 255,
+  "hairGreen": 113,
+  "hairBlue": 3,
+  "skinRed": 245,
+  "skinGreen": 180,
+  "skinBlue": 137,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_51",
+  "entity": "illarion:races/race_51_0",
+  "metadata": {
+    "id": 504,
+    "name": "Eklob"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 120,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1055",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 3400,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "dwarvenBoots",
+  "level": 45,
+  "armor": {
+    "bodyParts": 128,
+    "puncture": 51,
+    "stroke": 38,
+    "thrust": 25,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_1055",
+  "metadata": {
+    "id": 1055
+  }
+}

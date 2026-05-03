@@ -1,0 +1,8 @@
+{
+  "name": "Damagefield Fire",
+  "script": "lte.damagefield_firefield",
+  "metadata": {
+    "id": 110,
+    "name": "Damagefield Fire"
+  }
+}

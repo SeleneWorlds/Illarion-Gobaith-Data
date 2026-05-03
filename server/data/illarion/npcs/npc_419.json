@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 903,
+  "y": 757,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Madeline Clarbelis",
+  "script": "npc.madeline_clarbelis",
+  "sex": 1,
+  "hair": 1,
+  "beard": 0,
+  "hairRed": 255,
+  "hairGreen": 236,
+  "hairBlue": 139,
+  "skinRed": 255,
+  "skinGreen": 211,
+  "skinBlue": 155,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_1",
+  "metadata": {
+    "id": 419,
+    "name": "Madeline Clarbelis"
+  }
+}

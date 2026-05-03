@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 380,
+  "y": 269,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Tony Spirotelli",
+  "script": "npc.tony_spirotelli",
+  "sex": 0,
+  "hair": 3,
+  "beard": 2,
+  "hairRed": 173,
+  "hairGreen": 54,
+  "hairBlue": 33,
+  "skinRed": 255,
+  "skinGreen": 206,
+  "skinBlue": 183,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 462,
+    "name": "Tony Spirotelli"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 359,
+  "y": 265,
+  "z": -6,
+  "facing": 0,
+  "isHealer": false,
+  "name": "Senka",
+  "script": "npc.senka",
+  "sex": 1,
+  "hair": 1,
+  "beard": 0,
+  "hairRed": 218,
+  "hairGreen": 165,
+  "hairBlue": 32,
+  "skinRed": 182,
+  "skinGreen": 128,
+  "skinBlue": 86,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_1",
+  "metadata": {
+    "id": 575,
+    "name": "Senka"
+  }
+}

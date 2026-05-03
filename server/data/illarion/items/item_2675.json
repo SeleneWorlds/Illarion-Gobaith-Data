@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2675",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 52400,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "rapier",
+  "level": 80,
+  "weapon": {
+    "attack": 20,
+    "defense": 20,
+    "accuracy": 96,
+    "range": 1,
+    "weaponType": 3,
+    "ammunitionType": 0,
+    "actionPoints": 12,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_2675",
+  "metadata": {
+    "id": 2675
+  }
+}

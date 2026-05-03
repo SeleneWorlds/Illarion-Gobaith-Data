@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_126",
+  "script": "item.id_126_sickle",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "sickle",
+  "level": 5,
+  "visual": "illarion:items/item_126",
+  "metadata": {
+    "id": 126
+  }
+}

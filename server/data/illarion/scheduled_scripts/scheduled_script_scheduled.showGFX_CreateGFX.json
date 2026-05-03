@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.showGFX",
+  "function": "CreateGFX",
+  "minInterval": 100,
+  "maxInterval": 100
+}

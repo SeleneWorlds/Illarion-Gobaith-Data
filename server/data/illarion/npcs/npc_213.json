@@ -1,0 +1,27 @@
+{
+  "type": 3,
+  "x": 1002,
+  "y": 813,
+  "z": 0,
+  "facing": 2,
+  "isHealer": false,
+  "name": "Elvaine Morgan",
+  "script": "npc.elvaine_morgan",
+  "sex": 0,
+  "hair": 2,
+  "beard": 0,
+  "hairRed": 168,
+  "hairGreen": 165,
+  "hairBlue": 187,
+  "skinRed": 250,
+  "skinGreen": 239,
+  "skinBlue": 237,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/elf",
+  "entity": "illarion:races/race_3_0",
+  "metadata": {
+    "id": 213,
+    "name": "Elvaine Morgan"
+  }
+}

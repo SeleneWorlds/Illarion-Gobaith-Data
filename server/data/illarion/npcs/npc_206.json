@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 693,
+  "y": 493,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Eugene Burton",
+  "script": "npc.eugene_burton",
+  "sex": 0,
+  "hair": 1,
+  "beard": 1,
+  "hairRed": 208,
+  "hairGreen": 125,
+  "hairBlue": 4,
+  "skinRed": 190,
+  "skinGreen": 138,
+  "skinBlue": 96,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 206,
+    "name": "Eugene Burton"
+  }
+}

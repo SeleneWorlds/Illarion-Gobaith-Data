@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_917",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 5100,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "redWardensShield",
+  "level": 30,
+  "weapon": {
+    "attack": 14,
+    "defense": 30,
+    "accuracy": 90,
+    "range": 1,
+    "weaponType": 14,
+    "ammunitionType": 0,
+    "actionPoints": 15,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_917",
+  "metadata": {
+    "id": 917
+  }
+}

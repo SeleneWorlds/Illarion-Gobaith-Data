@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_469",
+  "script": "item.lampoil",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "lampOil",
+  "level": 0,
+  "visual": "illarion:items/item_469",
+  "metadata": {
+    "id": 469
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4578",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 4160,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "copperTeaCupFirNeedle",
+  "level": 23,
+  "visual": "illarion:items/item_4578",
+  "metadata": {
+    "id": 4578
+  }
+}

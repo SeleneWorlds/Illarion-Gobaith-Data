@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_94",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 5500,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "potHelmet",
+  "level": 50,
+  "armor": {
+    "bodyParts": 1,
+    "puncture": 55,
+    "stroke": 41,
+    "thrust": 28,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_94",
+  "metadata": {
+    "id": 94
+  }
+}

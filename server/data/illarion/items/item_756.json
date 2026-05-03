@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 2,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_756",
+  "script": "alchemy.base.brewing",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 10000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "piousBerry",
+  "level": 0,
+  "visual": "illarion:items/item_756",
+  "metadata": {
+    "id": 756
+  }
+}

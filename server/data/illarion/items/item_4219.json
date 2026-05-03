@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4219",
+  "script": "magic.arcane.enchanting.items.glyph",
+  "rotsInInventory": false,
+  "brightness": 2,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "pyr",
+  "level": 20,
+  "visual": "illarion:items/item_4219",
+  "metadata": {
+    "id": 4219
+  }
+}

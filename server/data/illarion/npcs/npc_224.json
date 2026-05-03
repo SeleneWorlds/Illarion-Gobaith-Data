@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 369,
+  "y": 279,
+  "z": 0,
+  "facing": 0,
+  "isHealer": false,
+  "name": "Nik Nilo",
+  "script": "npc.nik_nilo",
+  "sex": 0,
+  "hair": 1,
+  "beard": 1,
+  "hairRed": 153,
+  "hairGreen": 96,
+  "hairBlue": 28,
+  "skinRed": 217,
+  "skinGreen": 154,
+  "skinBlue": 123,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 224,
+    "name": "Nik Nilo"
+  }
+}

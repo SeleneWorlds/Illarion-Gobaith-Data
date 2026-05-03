@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 130,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_48",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1100,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "leatherGloves",
+  "level": 20,
+  "armor": {
+    "bodyParts": 8,
+    "puncture": 21,
+    "stroke": 14,
+    "thrust": 28,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_48",
+  "metadata": {
+    "id": 48
+  }
+}

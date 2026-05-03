@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 400,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2393",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 73600,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "heavyPlateArmour",
+  "level": 90,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 91,
+    "stroke": 68,
+    "thrust": 46,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_2393",
+  "metadata": {
+    "id": 2393
+  }
+}

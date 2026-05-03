@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4296",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 900,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "raptorMeat",
+  "level": 0,
+  "visual": "illarion:items/item_4296",
+  "metadata": {
+    "id": 4296
+  }
+}

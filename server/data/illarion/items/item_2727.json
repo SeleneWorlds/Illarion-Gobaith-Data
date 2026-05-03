@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2727",
+  "script": "item.general.wood",
+  "rotsInInventory": false,
+  "brightness": 2,
+  "worth": 100000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "fireHuntersBow",
+  "level": 100,
+  "weapon": {
+    "attack": 47,
+    "defense": 0,
+    "accuracy": 80,
+    "range": 9,
+    "weaponType": 7,
+    "ammunitionType": 10,
+    "actionPoints": 20,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_2727",
+  "metadata": {
+    "id": 2727
+  }
+}

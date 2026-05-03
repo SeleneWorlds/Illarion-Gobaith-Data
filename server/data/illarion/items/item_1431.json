@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1431",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 8800,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "reinforcedPotHelmet",
+  "level": 60,
+  "armor": {
+    "bodyParts": 1,
+    "puncture": 64,
+    "stroke": 48,
+    "thrust": 32,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_1431",
+  "metadata": {
+    "id": 1431
+  }
+}

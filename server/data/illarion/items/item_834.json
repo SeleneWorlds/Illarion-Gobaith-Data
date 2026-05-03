@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_834",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 18400,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "blackYellowDress",
+  "level": 80,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 5,
+    "stroke": 5,
+    "thrust": 5,
+    "magicDisturbance": 7,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 0
+  },
+  "visual": "illarion:items/item_834",
+  "metadata": {
+    "id": 834
+  }
+}

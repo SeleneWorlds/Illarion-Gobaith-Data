@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 400,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2500,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "plateArmour",
+  "level": 0,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 10,
+    "stroke": 8,
+    "thrust": 5,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_4",
+  "metadata": {
+    "id": 4
+  }
+}

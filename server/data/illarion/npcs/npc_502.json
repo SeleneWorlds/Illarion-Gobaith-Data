@@ -1,0 +1,27 @@
+{
+  "type": 1,
+  "x": 334,
+  "y": 260,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Grijas Kokotte",
+  "script": "npc.grijas_kokotte",
+  "sex": 0,
+  "hair": 2,
+  "beard": 6,
+  "hairRed": 100,
+  "hairGreen": 113,
+  "hairBlue": 3,
+  "skinRed": 205,
+  "skinGreen": 180,
+  "skinBlue": 137,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/dwarf",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 502,
+    "name": "Grijas Kokotte"
+  }
+}

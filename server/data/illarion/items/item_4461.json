@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4461",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 660,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "ironShotGlassWithBearSlayer",
+  "level": 68,
+  "visual": "illarion:items/item_4461",
+  "metadata": {
+    "id": 4461
+  }
+}

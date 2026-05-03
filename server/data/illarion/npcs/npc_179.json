@@ -1,0 +1,27 @@
+{
+  "type": 2,
+  "x": 791,
+  "y": 798,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Nana Winterbutter",
+  "script": "npc.nana_winterbutter",
+  "sex": 1,
+  "hair": 1,
+  "beard": 0,
+  "hairRed": 192,
+  "hairGreen": 107,
+  "hairBlue": 5,
+  "skinRed": 236,
+  "skinGreen": 192,
+  "skinBlue": 150,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/halfling",
+  "entity": "illarion:races/race_2_1",
+  "metadata": {
+    "id": 179,
+    "name": "Nana Winterbutter"
+  }
+}

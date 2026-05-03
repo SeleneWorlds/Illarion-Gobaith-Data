@@ -1,0 +1,8 @@
+{
+  "name": "reduceFood",
+  "script": "magic.arcane.reduceFood",
+  "metadata": {
+    "id": 10,
+    "name": "reduceFood"
+  }
+}

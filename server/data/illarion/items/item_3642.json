@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_3642",
+  "script": "alchemy.item.id_3642_empty_salve_jar",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 20000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "emptySalveJar",
+  "level": 100,
+  "visual": "illarion:items/item_3642",
+  "metadata": {
+    "id": 3642
+  }
+}

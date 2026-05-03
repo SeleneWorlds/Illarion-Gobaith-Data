@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 120,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1506",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 30000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "leatherBootsOfTheWinds",
+  "level": 100,
+  "armor": {
+    "bodyParts": 128,
+    "puncture": 75,
+    "stroke": 50,
+    "thrust": 100,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_1506",
+  "metadata": {
+    "id": 1506
+  }
+}

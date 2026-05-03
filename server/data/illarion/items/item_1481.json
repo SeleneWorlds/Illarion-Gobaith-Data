@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1481",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 7300,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "reinforcedLeatherLeggings",
+  "level": 50,
+  "armor": {
+    "bodyParts": 64,
+    "puncture": 41,
+    "stroke": 28,
+    "thrust": 55,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_1481",
+  "metadata": {
+    "id": 1481
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 673,
+  "y": 315,
+  "z": 0,
+  "facing": 2,
+  "isHealer": false,
+  "name": "Hook Gowan",
+  "script": "npc.hook_gowan",
+  "sex": 0,
+  "hair": 1,
+  "beard": 2,
+  "hairRed": 28,
+  "hairGreen": 24,
+  "hairBlue": 23,
+  "skinRed": 108,
+  "skinGreen": 65,
+  "skinBlue": 33,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 354,
+    "name": "Hook Gowan"
+  }
+}

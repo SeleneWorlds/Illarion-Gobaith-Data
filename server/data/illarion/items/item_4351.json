@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4351",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1070,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "clayBeerMugFull",
+  "level": 15,
+  "visual": "illarion:items/item_4351",
+  "metadata": {
+    "id": 4351
+  }
+}

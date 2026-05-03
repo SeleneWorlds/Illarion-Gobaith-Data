@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 75,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_829",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2600,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "yellowHatWithFeather",
+  "level": 50,
+  "armor": {
+    "bodyParts": 1,
+    "puncture": 5,
+    "stroke": 5,
+    "thrust": 5,
+    "magicDisturbance": 5,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 0
+  },
+  "visual": "illarion:items/item_829",
+  "metadata": {
+    "id": 829
+  }
+}

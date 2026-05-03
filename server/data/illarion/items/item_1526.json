@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1526",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 11700,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "claymore",
+  "level": 40,
+  "weapon": {
+    "attack": 33,
+    "defense": 20,
+    "accuracy": 80,
+    "range": 1,
+    "weaponType": 4,
+    "ammunitionType": 0,
+    "actionPoints": 20,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_1526",
+  "metadata": {
+    "id": 1526
+  }
+}

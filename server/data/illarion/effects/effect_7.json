@@ -1,0 +1,8 @@
+{
+  "name": "delayedMagicAttack",
+  "script": "magic.arcane.delayedAttack",
+  "metadata": {
+    "id": 7,
+    "name": "delayedMagicAttack"
+  }
+}

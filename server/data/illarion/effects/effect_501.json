@@ -1,0 +1,8 @@
+{
+  "name": "magicmovepointlimit",
+  "script": "lte.magic_movepoint_limit",
+  "metadata": {
+    "id": 501,
+    "name": "magicmovepointlimit"
+  }
+}

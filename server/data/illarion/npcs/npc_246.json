@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 696,
+  "y": 317,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Half-hung Bryan",
+  "script": "npc.half-hung_bryan",
+  "sex": 0,
+  "hair": 2,
+  "beard": 0,
+  "hairRed": 185,
+  "hairGreen": 73,
+  "hairBlue": 25,
+  "skinRed": 178,
+  "skinGreen": 163,
+  "skinBlue": 156,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 246,
+    "name": "Half-hung Bryan"
+  }
+}

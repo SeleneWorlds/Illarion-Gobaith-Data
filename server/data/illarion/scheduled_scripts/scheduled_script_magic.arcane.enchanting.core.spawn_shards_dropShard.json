@@ -1,0 +1,6 @@
+{
+  "script": "magic.arcane.enchanting.core.spawn_shards",
+  "function": "dropShard",
+  "minInterval": 65570,
+  "maxInterval": 65570
+}

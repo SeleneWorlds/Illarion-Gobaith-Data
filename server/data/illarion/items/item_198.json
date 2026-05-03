@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 5,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_198",
+  "script": "item.gems",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1600,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "topaz",
+  "level": 50,
+  "visual": "illarion:items/item_198",
+  "metadata": {
+    "id": 198
+  }
+}

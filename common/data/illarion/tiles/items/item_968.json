@@ -1,0 +1,11 @@
+{
+  "visual": "illarion:items/item_968",
+  "impassable": true,
+  "passableAbove": false,
+  "metadata": {
+    "itemId": 968
+  },
+  "tags": [
+    "illarion:item"
+  ]
+}

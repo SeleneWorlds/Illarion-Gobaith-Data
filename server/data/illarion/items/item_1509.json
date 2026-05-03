@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 120,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1509",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 4400,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "copperedGuardiansBoots",
+  "level": 50,
+  "armor": {
+    "bodyParts": 128,
+    "puncture": 28,
+    "stroke": 55,
+    "thrust": 41,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 3
+  },
+  "visual": "illarion:items/item_1509",
+  "metadata": {
+    "id": 1509
+  }
+}

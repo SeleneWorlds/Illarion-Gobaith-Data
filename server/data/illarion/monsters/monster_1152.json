@@ -1,0 +1,47 @@
+{
+  "race": "illarion:race_115",
+  "hitpoints": 10000,
+  "movementType": "fly",
+  "canAttack": false,
+  "canHealSelf": false,
+  "script": "monster.race_115_fairy.id_1152_blood_fairy",
+  "minSize": 100,
+  "maxSize": 100,
+  "attributes": {
+    "strength": {
+      "min": 1,
+      "max": 1
+    },
+    "constitution": {
+      "min": 1,
+      "max": 1
+    },
+    "dexterity": {
+      "min": 1,
+      "max": 1
+    },
+    "agility": {
+      "min": 1,
+      "max": 1
+    },
+    "intelligence": {
+      "min": 1,
+      "max": 1
+    },
+    "willpower": {
+      "min": 1,
+      "max": 1
+    },
+    "perception": {
+      "min": 1,
+      "max": 1
+    },
+    "essence": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  "metadata": {
+    "id": 1152
+  }
+}

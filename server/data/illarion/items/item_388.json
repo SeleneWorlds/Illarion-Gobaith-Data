@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 5,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_388",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 20,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "grapes",
+  "level": 0,
+  "visual": "illarion:items/item_388",
+  "metadata": {
+    "id": 388
+  }
+}

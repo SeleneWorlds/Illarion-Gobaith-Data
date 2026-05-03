@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_389",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 23600,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "silveredDagger",
+  "level": 60,
+  "weapon": {
+    "attack": 16,
+    "defense": 15,
+    "accuracy": 96,
+    "range": 1,
+    "weaponType": 3,
+    "ammunitionType": 0,
+    "actionPoints": 12,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_389",
+  "metadata": {
+    "id": 389
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1317",
+  "script": "item.base.genericRarenessLookat",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1400,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "emptyLiquorBottle",
+  "level": 40,
+  "visual": "illarion:items/item_1317",
+  "metadata": {
+    "id": 1317
+  }
+}

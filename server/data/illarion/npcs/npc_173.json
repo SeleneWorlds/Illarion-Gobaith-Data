@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 133,
+  "y": 589,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Jacobus",
+  "script": "npc.jacobus",
+  "sex": 0,
+  "hair": 1,
+  "beard": 5,
+  "hairRed": 158,
+  "hairGreen": 66,
+  "hairBlue": 6,
+  "skinRed": 183,
+  "skinGreen": 129,
+  "skinBlue": 87,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 173,
+    "name": "Jacobus"
+  }
+}

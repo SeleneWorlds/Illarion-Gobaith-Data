@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_92",
+  "script": "item.lights",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 5000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "oilLamp",
+  "level": 35,
+  "visual": "illarion:items/item_92",
+  "metadata": {
+    "id": 92
+  }
+}

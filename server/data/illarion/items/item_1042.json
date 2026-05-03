@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 200,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1042",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 31400,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "partisan",
+  "level": 60,
+  "weapon": {
+    "attack": 43,
+    "defense": 30,
+    "accuracy": 80,
+    "range": 1,
+    "weaponType": 6,
+    "ammunitionType": 0,
+    "actionPoints": 20,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_1042",
+  "metadata": {
+    "id": 1042
+  }
+}

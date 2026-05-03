@@ -1,0 +1,121 @@
+{
+  "race": "illarion:race/human",
+  "hitpoints": 10000,
+  "movementType": "walk",
+  "canAttack": true,
+  "canHealSelf": false,
+  "script": "monster.race_0_human.default",
+  "minSize": 100,
+  "maxSize": 100,
+  "attributes": {
+    "agility": {
+      "min": 41,
+      "max": 51
+    },
+    "constitution": {
+      "min": 41,
+      "max": 51
+    },
+    "dexterity": {
+      "min": 41,
+      "max": 51
+    },
+    "essence": {
+      "min": 41,
+      "max": 51
+    },
+    "intelligence": {
+      "min": 41,
+      "max": 51
+    },
+    "perception": {
+      "min": 41,
+      "max": 51
+    },
+    "strength": {
+      "min": 41,
+      "max": 51
+    },
+    "willpower": {
+      "min": 33,
+      "max": 39
+    }
+  },
+  "skills": {
+    "illarion:skill_21": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_22": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_23": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_24": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_25": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_26": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_27": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_28": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_29": {
+      "min": 90,
+      "max": 100
+    },
+    "illarion:skill_37": {
+      "min": 90,
+      "max": 100
+    }
+  },
+  "items": {
+    "head": {
+      "item": "illarion:item_648",
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "left hand": {
+      "item": "illarion:item_2626",
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "breast": {
+      "item": "illarion:item_2402",
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "legs": {
+      "item": "illarion:item_826",
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "feet": {
+      "item": "illarion:item_697",
+      "minCount": 1,
+      "maxCount": 1
+    },
+    "coat": {
+      "item": "illarion:item_2418",
+      "minCount": 1,
+      "maxCount": 1
+    }
+  },
+  "metadata": {
+    "id": 9
+  }
+}

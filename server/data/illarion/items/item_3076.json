@@ -1,0 +1,22 @@
+{
+  "volume": 1,
+  "weight": 0,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_3076",
+  "script": "item.id_3076_coppercoins",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1,
+  "buyStack": 1,
+  "maxStack": 30000,
+  "rareness": 1,
+  "name": "copperCoins",
+  "level": 0,
+  "impassable": false,
+  "specialItem": 0,
+  "passableAbove": true,
+  "visual": "illarion:items/item_3076",
+  "metadata": {
+    "id": 3076
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1859",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 830,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "silverGobletWithCider",
+  "level": 0,
+  "visual": "illarion:items/item_1859",
+  "metadata": {
+    "id": 1859
+  }
+}

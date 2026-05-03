@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 400,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2369",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 23600,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "albarianSteelPlate",
+  "level": 60,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 64,
+    "stroke": 48,
+    "thrust": 32,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_2369",
+  "metadata": {
+    "id": 2369
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4085",
+  "script": "magic.arcane.runes",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "qwan",
+  "level": 0,
+  "visual": "illarion:items/item_4085",
+  "metadata": {
+    "id": 4085
+  }
+}

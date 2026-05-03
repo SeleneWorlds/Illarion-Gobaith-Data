@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_3787",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 5000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "silk",
+  "level": 0,
+  "visual": "illarion:items/item_3787",
+  "metadata": {
+    "id": 3787
+  }
+}

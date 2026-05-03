@@ -1,0 +1,27 @@
+{
+  "type": 1,
+  "x": 399,
+  "y": 259,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Grator Bottlebreak",
+  "script": "npc.grator_bottlebreak",
+  "sex": 0,
+  "hair": 1,
+  "beard": 4,
+  "hairRed": 123,
+  "hairGreen": 62,
+  "hairBlue": 9,
+  "skinRed": 245,
+  "skinGreen": 180,
+  "skinBlue": 137,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/dwarf",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 405,
+    "name": "Grator Bottlebreak"
+  }
+}

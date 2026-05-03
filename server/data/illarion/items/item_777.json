@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 2,
+  "objectAfterRot": "illarion:item_773",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "",
+  "level": 85,
+  "visual": "illarion:items/item_777",
+  "metadata": {
+    "id": 777
+  }
+}

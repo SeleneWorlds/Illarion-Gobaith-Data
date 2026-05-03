@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2751",
+  "script": "item.id_2751_cruciblepincers",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "cruciblePincers",
+  "level": 5,
+  "visual": "illarion:items/item_2751",
+  "metadata": {
+    "id": 2751
+  }
+}

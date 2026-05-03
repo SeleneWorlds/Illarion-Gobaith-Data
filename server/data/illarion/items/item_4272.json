@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 255,
+  "objectAfterRot": "illarion:item_4272",
+  "script": "item.id_1170_shoal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "octopusShoal",
+  "level": 80,
+  "visual": "illarion:items/item_4272",
+  "metadata": {
+    "id": 4272
+  }
+}

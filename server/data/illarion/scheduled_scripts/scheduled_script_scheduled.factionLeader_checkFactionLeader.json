@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.factionLeader",
+  "function": "checkFactionLeader",
+  "minInterval": 3000,
+  "maxInterval": 3000
+}

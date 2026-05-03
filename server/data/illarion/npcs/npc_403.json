@@ -1,0 +1,27 @@
+{
+  "type": 3,
+  "x": 111,
+  "y": 599,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Pheritaleth",
+  "script": "npc.pheritaleth",
+  "sex": 1,
+  "hair": 8,
+  "beard": 0,
+  "hairRed": 255,
+  "hairGreen": 236,
+  "hairBlue": 139,
+  "skinRed": 245,
+  "skinGreen": 180,
+  "skinBlue": 137,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/elf",
+  "entity": "illarion:races/race_3_1",
+  "metadata": {
+    "id": 403,
+    "name": "Pheritaleth"
+  }
+}

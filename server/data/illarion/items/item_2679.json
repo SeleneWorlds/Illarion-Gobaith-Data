@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2679",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2100,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "greenDye",
+  "level": 0,
+  "visual": "illarion:items/item_2679",
+  "metadata": {
+    "id": 2679
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_5",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 10000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 2,
+  "name": "alchemicalSludge",
+  "level": 0,
+  "visual": "illarion:items/item_5",
+  "metadata": {
+    "id": 5
+  }
+}

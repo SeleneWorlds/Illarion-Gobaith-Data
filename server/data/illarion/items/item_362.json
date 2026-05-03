@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 400,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_362",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 73600,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "fullLeatherArmour",
+  "level": 90,
+  "armor": {
+    "bodyParts": 4,
+    "puncture": 68,
+    "stroke": 46,
+    "thrust": 91,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_362",
+  "metadata": {
+    "id": 362
+  }
+}

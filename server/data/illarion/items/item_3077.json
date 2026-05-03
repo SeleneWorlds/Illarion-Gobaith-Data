@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 0,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_3077",
+  "script": "item.id_3077_silvercoins",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 100,
+  "buyStack": 1,
+  "maxStack": 30000,
+  "rareness": 1,
+  "name": "silverCoins",
+  "level": 0,
+  "visual": "illarion:items/item_3077",
+  "metadata": {
+    "id": 3077
+  }
+}

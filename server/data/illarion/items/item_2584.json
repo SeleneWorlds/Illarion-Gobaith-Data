@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2584",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 400,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "swordHandle",
+  "level": 0,
+  "visual": "illarion:items/item_2584",
+  "metadata": {
+    "id": 2584
+  }
+}

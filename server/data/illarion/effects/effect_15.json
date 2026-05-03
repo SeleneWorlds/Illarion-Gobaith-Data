@@ -1,0 +1,8 @@
+{
+  "name": "snare",
+  "script": "magic.arcane.snare",
+  "metadata": {
+    "id": 15,
+    "name": "snare"
+  }
+}

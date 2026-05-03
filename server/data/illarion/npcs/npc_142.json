@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": -489,
+  "y": -488,
+  "z": -40,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Percy Dryless",
+  "script": "npc.percy_dryless",
+  "sex": 0,
+  "hair": 3,
+  "beard": 4,
+  "hairRed": 204,
+  "hairGreen": 144,
+  "hairBlue": 2,
+  "skinRed": 177,
+  "skinGreen": 122,
+  "skinBlue": 80,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 142,
+    "name": "Percy Dryless"
+  }
+}

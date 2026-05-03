@@ -1,0 +1,7 @@
+{
+  "impassable": false,
+  "metadata": {
+    "tileId": 64
+  },
+  "visual": "illarion:tiles/tile_64"
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4603",
+  "script": "item.teasets",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 10900,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "fancySilverTray",
+  "level": 55,
+  "visual": "illarion:items/item_4603",
+  "metadata": {
+    "id": 4603
+  }
+}

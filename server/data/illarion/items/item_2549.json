@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2549",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1600,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "morningStarHandle",
+  "level": 10,
+  "visual": "illarion:items/item_2549",
+  "metadata": {
+    "id": 2549
+  }
+}

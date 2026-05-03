@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 2,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_405",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 3,
+  "worth": 40,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "fairyRingMushroom",
+  "level": 0,
+  "visual": "illarion:items/item_405",
+  "metadata": {
+    "id": 405
+  }
+}

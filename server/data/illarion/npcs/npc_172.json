@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 110,
+  "y": 574,
+  "z": 0,
+  "facing": 2,
+  "isHealer": false,
+  "name": "Hassan",
+  "script": "npc.hassan",
+  "sex": 0,
+  "hair": 3,
+  "beard": 4,
+  "hairRed": 218,
+  "hairGreen": 165,
+  "hairBlue": 32,
+  "skinRed": 182,
+  "skinGreen": 128,
+  "skinBlue": 86,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 172,
+    "name": "Hassan"
+  }
+}

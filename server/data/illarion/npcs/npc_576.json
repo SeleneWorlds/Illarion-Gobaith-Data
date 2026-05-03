@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 150,
+  "y": 686,
+  "z": 1,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Cato Lupis",
+  "script": "npc.cato_lupis",
+  "sex": 0,
+  "hair": 3,
+  "beard": 0,
+  "hairRed": 3,
+  "hairGreen": 5,
+  "hairBlue": 20,
+  "skinRed": 150,
+  "skinGreen": 79,
+  "skinBlue": 0,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 576,
+    "name": "Cato Lupis"
+  }
+}

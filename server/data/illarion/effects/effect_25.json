@@ -1,0 +1,8 @@
+{
+  "name": "blessing",
+  "script": "lte.blessing",
+  "metadata": {
+    "id": 25,
+    "name": "blessing"
+  }
+}

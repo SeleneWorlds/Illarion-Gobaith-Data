@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 700,
+  "y": 325,
+  "z": 0,
+  "facing": 0,
+  "isHealer": false,
+  "name": "Sam",
+  "script": "npc.sam",
+  "sex": 0,
+  "hair": 1,
+  "beard": 0,
+  "hairRed": 40,
+  "hairGreen": 23,
+  "hairBlue": 15,
+  "skinRed": 217,
+  "skinGreen": 154,
+  "skinBlue": 123,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 245,
+    "name": "Sam"
+  }
+}

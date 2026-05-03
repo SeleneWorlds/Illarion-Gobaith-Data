@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 75,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_358",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 15200,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "redWizardHat",
+  "level": 70,
+  "armor": {
+    "bodyParts": 1,
+    "puncture": 5,
+    "stroke": 5,
+    "thrust": 5,
+    "magicDisturbance": 10,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 0
+  },
+  "visual": "illarion:items/item_358",
+  "metadata": {
+    "id": 358
+  }
+}

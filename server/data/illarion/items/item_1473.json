@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 130,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1473",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2800,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "silveredSteelGloves",
+  "level": 40,
+  "armor": {
+    "bodyParts": 8,
+    "puncture": 46,
+    "stroke": 35,
+    "thrust": 23,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_1473",
+  "metadata": {
+    "id": 1473
+  }
+}

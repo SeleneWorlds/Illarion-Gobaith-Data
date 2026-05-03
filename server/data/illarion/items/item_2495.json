@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2495",
+  "script": "item.id_2495_pan",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "pan",
+  "level": 5,
+  "visual": "illarion:items/item_2495",
+  "metadata": {
+    "id": 2495
+  }
+}

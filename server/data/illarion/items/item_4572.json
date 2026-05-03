@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4572",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 1750,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "clayTeaCupDruid",
+  "level": 63,
+  "visual": "illarion:items/item_4572",
+  "metadata": {
+    "id": 4572
+  }
+}

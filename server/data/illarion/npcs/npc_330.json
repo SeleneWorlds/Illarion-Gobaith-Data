@@ -1,0 +1,27 @@
+{
+  "type": 1,
+  "x": 362,
+  "y": 264,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Advari Stonebog",
+  "script": "npc.advari_stonebog",
+  "sex": 0,
+  "hair": 1,
+  "beard": 1,
+  "hairRed": 189,
+  "hairGreen": 182,
+  "hairBlue": 164,
+  "skinRed": 217,
+  "skinGreen": 154,
+  "skinBlue": 123,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/dwarf",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 330,
+    "name": "Advari Stonebog"
+  }
+}

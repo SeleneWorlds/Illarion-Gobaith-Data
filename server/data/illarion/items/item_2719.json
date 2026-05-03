@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2719",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 6000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "comb",
+  "level": 25,
+  "visual": "illarion:items/item_2719",
+  "metadata": {
+    "id": 2719
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_505",
+  "script": "item.id_505_treasuremap",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 10000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "",
+  "level": 0,
+  "visual": "illarion:items/item_505",
+  "metadata": {
+    "id": 505
+  }
+}

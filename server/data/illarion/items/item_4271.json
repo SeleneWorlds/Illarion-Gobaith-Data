@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 4,
+  "objectAfterRot": "illarion:item_4270",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "emptyShrimpShoal",
+  "level": 20,
+  "visual": "illarion:items/item_4271",
+  "metadata": {
+    "id": 4271
+  }
+}

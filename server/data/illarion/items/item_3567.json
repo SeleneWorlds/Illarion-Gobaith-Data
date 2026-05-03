@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_3567",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 175,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "potato",
+  "level": 0,
+  "visual": "illarion:items/item_3567",
+  "metadata": {
+    "id": 3567
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 65,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1447",
+  "script": "item.general.cloth",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 400,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "greyClothGloves",
+  "level": 0,
+  "armor": {
+    "bodyParts": 8,
+    "puncture": 5,
+    "stroke": 5,
+    "thrust": 5,
+    "magicDisturbance": 1,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 0
+  },
+  "visual": "illarion:items/item_1447",
+  "metadata": {
+    "id": 1447
+  }
+}

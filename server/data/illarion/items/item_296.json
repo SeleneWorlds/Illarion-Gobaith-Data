@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_296",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 73600,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "meriniumplatedBattleAxe",
+  "level": 90,
+  "weapon": {
+    "attack": 43,
+    "defense": 23,
+    "accuracy": 80,
+    "range": 1,
+    "weaponType": 1,
+    "ammunitionType": 0,
+    "actionPoints": 20,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_296",
+  "metadata": {
+    "id": 296
+  }
+}

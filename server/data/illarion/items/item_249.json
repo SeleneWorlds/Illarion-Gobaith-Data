@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_249",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 40,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "bundleOfGrain",
+  "level": 0,
+  "visual": "illarion:items/item_249",
+  "metadata": {
+    "id": 249
+  }
+}

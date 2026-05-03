@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4601",
+  "script": "item.teasets",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 6800,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "fancyIronTray",
+  "level": 45,
+  "visual": "illarion:items/item_4601",
+  "metadata": {
+    "id": 4601
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": 1,
+  "x": 311,
+  "y": 253,
+  "z": 1,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Dreal Coalbreaker",
+  "script": "npc.dreal_coalbreaker",
+  "sex": 0,
+  "hair": 2,
+  "beard": 4,
+  "hairRed": 79,
+  "hairGreen": 79,
+  "hairBlue": 79,
+  "skinRed": 255,
+  "skinGreen": 228,
+  "skinBlue": 1,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/dwarf",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 570,
+    "name": "Dreal Coalbreaker"
+  }
+}

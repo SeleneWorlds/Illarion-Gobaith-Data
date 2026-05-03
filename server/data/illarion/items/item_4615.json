@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_4615",
+  "script": "item.teasets",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 8700,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "goldTraySouth",
+  "level": 50,
+  "visual": "illarion:items/item_4615",
+  "metadata": {
+    "id": 4615
+  }
+}

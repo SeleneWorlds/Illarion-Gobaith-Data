@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1062",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 300,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "silverOre",
+  "level": 0,
+  "visual": "illarion:items/item_1062",
+  "metadata": {
+    "id": 1062
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 130,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1476",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 23900,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "meriniumPlatedSteelGloves",
+  "level": 90,
+  "armor": {
+    "bodyParts": 8,
+    "puncture": 91,
+    "stroke": 68,
+    "thrust": 46,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_1476",
+  "metadata": {
+    "id": 1476
+  }
+}

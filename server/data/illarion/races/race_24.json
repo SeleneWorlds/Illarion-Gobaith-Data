@@ -1,0 +1,46 @@
+{
+  "minAge": 18,
+  "maxAge": 80,
+  "minHeight": 55,
+  "maxHeight": 87,
+  "minWeight": 40000,
+  "maxWeight": 120000,
+  "minAgility": 2,
+  "maxAgility": 20,
+  "minStrength": 2,
+  "maxStrength": 20,
+  "minIntelligence": 2,
+  "maxIntelligence": 20,
+  "minWillpower": 2,
+  "maxWillpower": 20,
+  "minConstitution": 2,
+  "maxConstitution": 20,
+  "minDexterity": 2,
+  "maxDexterity": 20,
+  "minEssence": 2,
+  "maxEssence": 20,
+  "minPerception": 2,
+  "maxPerception": 20,
+  "name": "pig",
+  "maxAttributePoints": 84,
+  "types": {
+    "0": {
+      "skinColors": [
+        {
+          "red": 255,
+          "green": 255,
+          "alpha": 255
+        },
+        {
+          "red": 170,
+          "green": 160,
+          "alpha": 255
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "id": 24,
+    "name": "pig"
+  }
+}

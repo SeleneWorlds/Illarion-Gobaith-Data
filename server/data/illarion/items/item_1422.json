@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1422",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 19700,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "demonicHornedHelmet",
+  "level": 80,
+  "armor": {
+    "bodyParts": 1,
+    "puncture": 62,
+    "stroke": 41,
+    "thrust": 82,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 2
+  },
+  "visual": "illarion:items/item_1422",
+  "metadata": {
+    "id": 1422
+  }
+}

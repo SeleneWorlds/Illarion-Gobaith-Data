@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1153",
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 5300,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "custardPie",
+  "level": 90,
+  "visual": "illarion:items/item_1153",
+  "metadata": {
+    "id": 1153
+  }
+}

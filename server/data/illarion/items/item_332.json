@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_332",
+  "script": "item.id_332_harp",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 50000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "harp",
+  "level": 75,
+  "visual": "illarion:items/item_332",
+  "metadata": {
+    "id": 332
+  }
+}

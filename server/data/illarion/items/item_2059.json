@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2059",
+  "script": "item.drinks",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 4030,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "glassWithCider",
+  "level": 0,
+  "visual": "illarion:items/item_2059",
+  "metadata": {
+    "id": 2059
+  }
+}

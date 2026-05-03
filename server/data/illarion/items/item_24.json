@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_24",
+  "script": "item.id_24_shovel",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "shovel",
+  "level": 5,
+  "visual": "illarion:items/item_24",
+  "metadata": {
+    "id": 24
+  }
+}

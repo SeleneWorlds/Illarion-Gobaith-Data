@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 862,
+  "y": 789,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Gregor Remethar",
+  "script": "npc.gregor_remethar",
+  "sex": 0,
+  "hair": 3,
+  "beard": 4,
+  "hairRed": 90,
+  "hairGreen": 90,
+  "hairBlue": 90,
+  "skinRed": 192,
+  "skinGreen": 140,
+  "skinBlue": 98,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 210,
+    "name": "Gregor Remethar"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.itemEffects",
+  "function": "itemEffects",
+  "minInterval": 10,
+  "maxInterval": 10
+}

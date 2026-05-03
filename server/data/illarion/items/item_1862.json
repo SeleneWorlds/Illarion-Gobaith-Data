@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1862",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 5,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "candlestick",
+  "level": 0,
+  "visual": "illarion:items/item_1862",
+  "metadata": {
+    "id": 1862
+  }
+}

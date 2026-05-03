@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2658",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 35900,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "broadsword",
+  "level": 70,
+  "weapon": {
+    "attack": 24,
+    "defense": 18,
+    "accuracy": 90,
+    "range": 1,
+    "weaponType": 1,
+    "ammunitionType": 0,
+    "actionPoints": 15,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_2658",
+  "metadata": {
+    "id": 2658
+  }
+}

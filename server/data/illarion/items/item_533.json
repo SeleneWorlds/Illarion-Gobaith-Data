@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_533",
+  "script": "item.id_533_drum",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 10000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "drum",
+  "level": 45,
+  "visual": "illarion:items/item_533",
+  "metadata": {
+    "id": 533
+  }
+}

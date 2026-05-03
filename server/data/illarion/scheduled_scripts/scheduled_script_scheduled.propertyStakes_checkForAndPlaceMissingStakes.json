@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.propertyStakes",
+  "function": "checkForAndPlaceMissingStakes",
+  "minInterval": 86400,
+  "maxInterval": 86400
+}

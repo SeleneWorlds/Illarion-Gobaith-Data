@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_2752",
+  "script": "item.id_2752_carvingtools",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 2000,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "carvingTools",
+  "level": 5,
+  "visual": "illarion:items/item_2752",
+  "metadata": {
+    "id": 2752
+  }
+}

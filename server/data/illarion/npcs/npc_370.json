@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 956,
+  "y": 829,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Argentus Almsbag",
+  "script": "npc.argentus_almsbag",
+  "sex": 0,
+  "hair": 2,
+  "beard": 6,
+  "hairRed": 36,
+  "hairGreen": 37,
+  "hairBlue": 34,
+  "skinRed": 245,
+  "skinGreen": 180,
+  "skinBlue": 137,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 370,
+    "name": "Argentus Almsbag"
+  }
+}

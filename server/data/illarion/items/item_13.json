@@ -1,0 +1,22 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 2,
+  "objectAfterRot": "illarion:item_172",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 2,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "anvilOn",
+  "level": 0,
+  "impassable": true,
+  "specialItem": 0,
+  "passableAbove": false,
+  "visual": "illarion:items/item_13",
+  "metadata": {
+    "id": 13
+  }
+}

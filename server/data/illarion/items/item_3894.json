@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 5,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_3894",
+  "script": "item.id_3894_mystical_cracker",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 2,
+  "name": "mysticalCracker",
+  "level": 0,
+  "visual": "illarion:items/item_3894",
+  "metadata": {
+    "id": 3894
+  }
+}

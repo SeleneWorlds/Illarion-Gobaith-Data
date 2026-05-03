@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_177",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 200,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "yellowCloth",
+  "level": 0,
+  "visual": "illarion:items/item_177",
+  "metadata": {
+    "id": 177
+  }
+}

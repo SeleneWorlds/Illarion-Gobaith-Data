@@ -1,0 +1,47 @@
+{
+  "race": "illarion:race_61",
+  "hitpoints": 10000,
+  "movementType": "walk",
+  "canAttack": false,
+  "canHealSelf": false,
+  "script": "monster.race_61_slime.id_616_old_slime",
+  "minSize": 100,
+  "maxSize": 100,
+  "attributes": {
+    "strength": {
+      "min": 1,
+      "max": 1
+    },
+    "constitution": {
+      "min": 1,
+      "max": 1
+    },
+    "dexterity": {
+      "min": 1,
+      "max": 1
+    },
+    "agility": {
+      "min": 1,
+      "max": 1
+    },
+    "intelligence": {
+      "min": 1,
+      "max": 1
+    },
+    "willpower": {
+      "min": 1,
+      "max": 1
+    },
+    "perception": {
+      "min": 1,
+      "max": 1
+    },
+    "essence": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  "metadata": {
+    "id": 616
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "volume": 1,
+  "weight": 20,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_93",
+  "script": "gm.items.id_93_medal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "",
+  "level": 0,
+  "weapon": {
+    "attack": 6,
+    "defense": 100,
+    "accuracy": 90,
+    "range": 1,
+    "weaponType": 14,
+    "ammunitionType": 0,
+    "actionPoints": 15,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "impassable": true,
+  "specialItem": 0,
+  "passableAbove": false,
+  "visual": "illarion:items/item_93",
+  "metadata": {
+    "id": 93
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "illarion:character"
+  ],
+  "components": {
+    "illarion:visual": {
+      "type": "visual",
+      "visual": "illarion:races/race_49_0"
+    }
+  },
+  "metadata": {
+    "raceId": 49,
+    "typeId": 0
+  }
+}

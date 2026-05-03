@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 920,
+  "y": 659,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Henry Darter",
+  "script": "npc.henry_darter",
+  "sex": 0,
+  "hair": 1,
+  "beard": 1,
+  "hairRed": 192,
+  "hairGreen": 107,
+  "hairBlue": 5,
+  "skinRed": 185,
+  "skinGreen": 132,
+  "skinBlue": 90,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 178,
+    "name": "Henry Darter"
+  }
+}

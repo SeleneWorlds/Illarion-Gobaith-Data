@@ -1,0 +1,27 @@
+{
+  "type": 3,
+  "x": 117,
+  "y": 528,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Anthar Vilicon",
+  "script": "npc.anthar_vilicon",
+  "sex": 0,
+  "hair": 2,
+  "beard": 0,
+  "hairRed": 85,
+  "hairGreen": 107,
+  "hairBlue": 47,
+  "skinRed": 255,
+  "skinGreen": 218,
+  "skinBlue": 185,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/elf",
+  "entity": "illarion:races/race_3_0",
+  "metadata": {
+    "id": 322,
+    "name": "Anthar Vilicon"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "race": "illarion:race_113",
+  "hitpoints": 10000,
+  "movementType": "walk",
+  "canAttack": false,
+  "canHealSelf": false,
+  "script": "monster.race_113_rabbit.id_1135_desert",
+  "minSize": 100,
+  "maxSize": 120,
+  "attributes": {
+    "strength": {
+      "min": 1,
+      "max": 1
+    },
+    "constitution": {
+      "min": 1,
+      "max": 1
+    },
+    "dexterity": {
+      "min": 1,
+      "max": 1
+    },
+    "agility": {
+      "min": 1,
+      "max": 1
+    },
+    "intelligence": {
+      "min": 1,
+      "max": 1
+    },
+    "willpower": {
+      "min": 1,
+      "max": 1
+    },
+    "perception": {
+      "min": 1,
+      "max": 1
+    },
+    "essence": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  "drops": {
+    "1": {
+      "3228": {
+        "chance": 1,
+        "minCount": 2,
+        "maxCount": 4,
+        "minQuality": 3,
+        "maxQuality": 3,
+        "minDurability": 33,
+        "maxDurability": 33,
+        "item": "illarion:item_553"
+      }
+    },
+    "2": {
+      "3270": {
+        "chance": 1,
+        "minCount": 1,
+        "maxCount": 2,
+        "minQuality": 5,
+        "maxQuality": 5,
+        "minDurability": 55,
+        "maxDurability": 55,
+        "item": "illarion:item_2586"
+      }
+    }
+  },
+  "metadata": {
+    "id": 1136
+  }
+}

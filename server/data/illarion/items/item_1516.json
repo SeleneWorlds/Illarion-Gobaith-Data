@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 120,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_1516",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 4400,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "silveredSteelBoots",
+  "level": 50,
+  "armor": {
+    "bodyParts": 128,
+    "puncture": 55,
+    "stroke": 41,
+    "thrust": 28,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_1516",
+  "metadata": {
+    "id": 1516
+  }
+}

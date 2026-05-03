@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 10,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_253",
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 600,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "name": "rawSapphire",
+  "level": 0,
+  "visual": "illarion:items/item_253",
+  "metadata": {
+    "id": 253
+  }
+}

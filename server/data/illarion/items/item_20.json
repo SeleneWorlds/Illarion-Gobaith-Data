@@ -1,0 +1,31 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_20",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 14700,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "knightShield",
+  "level": 50,
+  "weapon": {
+    "attack": 19,
+    "defense": 50,
+    "accuracy": 90,
+    "range": 1,
+    "weaponType": 14,
+    "ammunitionType": 0,
+    "actionPoints": 15,
+    "magicDisturbance": 0,
+    "poison": 0,
+    "fightingScript": ""
+  },
+  "visual": "illarion:items/item_20",
+  "metadata": {
+    "id": 20
+  }
+}

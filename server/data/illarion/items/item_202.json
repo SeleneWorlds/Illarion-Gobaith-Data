@@ -1,0 +1,29 @@
+{
+  "volume": 1,
+  "weight": 150,
+  "agingSpeed": 254,
+  "objectAfterRot": "illarion:item_202",
+  "script": "item.general.metal",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 900,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "steelCap",
+  "level": 0,
+  "armor": {
+    "bodyParts": 1,
+    "puncture": 10,
+    "stroke": 8,
+    "thrust": 5,
+    "magicDisturbance": 0,
+    "absorb": 0,
+    "stiffness": 0,
+    "type": 4
+  },
+  "visual": "illarion:items/item_202",
+  "metadata": {
+    "id": 202
+  }
+}

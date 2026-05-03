@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 113,
+  "y": 574,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Severus Rabon",
+  "script": "npc.severus_rabon",
+  "sex": 0,
+  "hair": 1,
+  "beard": 1,
+  "hairRed": 205,
+  "hairGreen": 102,
+  "hairBlue": 29,
+  "skinRed": 139,
+  "skinGreen": 90,
+  "skinBlue": 43,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race/human",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 318,
+    "name": "Severus Rabon"
+  }
+}
