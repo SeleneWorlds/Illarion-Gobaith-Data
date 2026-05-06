@@ -1,11 +1,11 @@
 local m = {}
 
 function m.Initialize(Entity, Data)
-    local component = Entity:GetComponent("illarion:visual")
-    local visual = component.Visual
-    local drawable = visual.Drawable
-    drawable.AnimationCompleted:Connect(function()
-        Entity:Despawn()
+    local component = Entity:getComponent("illarion:visual")
+    local visual = component:getVisual()
+    local drawable = visual:getDrawable()
+    drawable:getAnimationCompleted():connect(function()
+        Entity:despawn()
     end)
 end
 
