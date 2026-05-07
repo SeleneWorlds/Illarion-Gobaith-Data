@@ -25,6 +25,7 @@
   "punctureArmor": 25,
   "thrustArmor": 28,
   "metadata": {
-    "id": 33
+    "id": 33,
+    "name": "gnoll"
   }
 }

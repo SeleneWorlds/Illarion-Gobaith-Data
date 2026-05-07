@@ -25,6 +25,7 @@
   "punctureArmor": 42,
   "thrustArmor": 20,
   "metadata": {
-    "id": 29
+    "id": 29,
+    "name": "forestTroll"
   }
 }

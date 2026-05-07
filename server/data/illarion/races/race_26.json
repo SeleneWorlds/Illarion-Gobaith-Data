@@ -25,6 +25,7 @@
   "punctureArmor": 28,
   "thrustArmor": 5,
   "metadata": {
-    "id": 26
+    "id": 26,
+    "name": "invisible"
   }
 }

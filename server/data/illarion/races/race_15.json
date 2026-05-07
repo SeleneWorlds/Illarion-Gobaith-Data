@@ -22,6 +22,7 @@
   "minPerception": 2,
   "maxPerception": 20,
   "metadata": {
-    "id": 15
+    "id": 15,
+    "name": "demon"
   }
 }

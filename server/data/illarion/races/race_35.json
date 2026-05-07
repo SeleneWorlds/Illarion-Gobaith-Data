@@ -25,6 +25,7 @@
   "punctureArmor": 22,
   "thrustArmor": 20,
   "metadata": {
-    "id": 35
+    "id": 35,
+    "name": "dragon"
   }
 }

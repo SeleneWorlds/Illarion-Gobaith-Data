@@ -25,6 +25,7 @@
   "punctureArmor": 5,
   "thrustArmor": 30,
   "metadata": {
-    "id": 21
+    "id": 21,
+    "name": "cavetroll"
   }
 }

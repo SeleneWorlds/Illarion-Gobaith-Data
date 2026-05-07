@@ -25,6 +25,7 @@
   "punctureArmor": 3,
   "thrustArmor": 5,
   "metadata": {
-    "id": 38
+    "id": 38,
+    "name": "drow"
   }
 }

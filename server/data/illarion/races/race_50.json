@@ -21,10 +21,10 @@
   "maxEssence": 20,
   "minPerception": 2,
   "maxPerception": 20,
-  "name": "cow",
+  "name": "mule",
   "maxAttributePoints": 84,
   "metadata": {
     "id": 50,
-    "name": "cow"
+    "name": "mule"
   }
 }

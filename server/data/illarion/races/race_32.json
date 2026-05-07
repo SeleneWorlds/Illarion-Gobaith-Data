@@ -25,6 +25,7 @@
   "punctureArmor": 12,
   "thrustArmor": 17,
   "metadata": {
-    "id": 32
+    "id": 32,
+    "name": "goblin"
   }
 }
