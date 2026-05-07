@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "illarion:item"
+  ],
+  "components": {
+    "illarion:visual": {
+      "type": "visual",
+      "visual": "illarion:items/item_541"
+    }
+  },
+  "metadata": {
+    "itemId": 541
+  }
+}
