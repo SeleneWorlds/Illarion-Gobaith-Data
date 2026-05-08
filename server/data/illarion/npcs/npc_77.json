@@ -1,0 +1,27 @@
+{
+  "type": 3,
+  "x": -166,
+  "y": -107,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Lurandir",
+  "script": "npc.lurandir",
+  "sex": 0,
+  "hair": 7,
+  "beard": 0,
+  "hairRed": 174,
+  "hairGreen": 56,
+  "hairBlue": 0,
+  "skinRed": 255,
+  "skinGreen": 232,
+  "skinBlue": 221,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_3",
+  "entity": "illarion:races/race_3_0",
+  "metadata": {
+    "id": 77,
+    "name": "Lurandir"
+  }
+}

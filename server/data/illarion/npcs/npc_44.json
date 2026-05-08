@@ -1,0 +1,27 @@
+{
+  "type": 3,
+  "x": 371,
+  "y": 209,
+  "z": 2,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Elinas",
+  "script": "npc.elina",
+  "sex": 0,
+  "hair": 7,
+  "beard": 0,
+  "hairRed": 174,
+  "hairGreen": 56,
+  "hairBlue": 0,
+  "skinRed": 255,
+  "skinGreen": 232,
+  "skinBlue": 221,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_3",
+  "entity": "illarion:races/race_3_0",
+  "metadata": {
+    "id": 44,
+    "name": "Elinas"
+  }
+}

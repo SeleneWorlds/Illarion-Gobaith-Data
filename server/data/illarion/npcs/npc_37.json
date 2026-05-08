@@ -1,0 +1,27 @@
+{
+  "type": 1,
+  "x": 137,
+  "y": -191,
+  "z": -3,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Asgrimur",
+  "script": "npc.asgrimur",
+  "sex": 0,
+  "hair": 2,
+  "beard": 2,
+  "hairRed": 192,
+  "hairGreen": 107,
+  "hairBlue": 5,
+  "skinRed": 208,
+  "skinGreen": 160,
+  "skinBlue": 118,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_1",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 37,
+    "name": "Asgrimur"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": 4,
+  "x": -63,
+  "y": -142,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Krudash",
+  "script": "npc.krudash_orcguard",
+  "sex": 1,
+  "hair": 0,
+  "beard": 0,
+  "hairRed": 255,
+  "hairGreen": 255,
+  "hairBlue": 255,
+  "skinRed": 115,
+  "skinGreen": 105,
+  "skinBlue": 80,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_4",
+  "entity": "illarion:races/race_4_1",
+  "metadata": {
+    "id": 72,
+    "name": "Krudash"
+  }
+}

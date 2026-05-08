@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": -281,
+  "y": 53,
+  "z": 0,
+  "facing": 0,
+  "isHealer": false,
+  "name": "Capitain Blackbeard",
+  "script": "npc.blackbeard",
+  "sex": 0,
+  "hair": 1,
+  "beard": 1,
+  "hairRed": 112,
+  "hairGreen": 74,
+  "hairBlue": 51,
+  "skinRed": 217,
+  "skinGreen": 154,
+  "skinBlue": 123,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_0",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 41,
+    "name": "Capitain Blackbeard"
+  }
+}

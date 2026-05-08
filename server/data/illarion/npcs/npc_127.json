@@ -1,0 +1,27 @@
+{
+  "type": 2,
+  "x": -403,
+  "y": 77,
+  "z": 0,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Todd Baggins",
+  "script": "npc.todd_baggins",
+  "sex": 0,
+  "hair": 1,
+  "beard": 0,
+  "hairRed": 192,
+  "hairGreen": 107,
+  "hairBlue": 5,
+  "skinRed": 232,
+  "skinGreen": 188,
+  "skinBlue": 146,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_2",
+  "entity": "illarion:races/race_2_0",
+  "metadata": {
+    "id": 127,
+    "name": "Todd Baggins"
+  }
+}

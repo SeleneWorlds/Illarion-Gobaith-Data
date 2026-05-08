@@ -1,0 +1,27 @@
+{
+  "type": 50,
+  "x": 79,
+  "y": -185,
+  "z": 0,
+  "facing": 0,
+  "isHealer": false,
+  "name": "SB Teleporter",
+  "script": "npc.static_teleport",
+  "sex": 0,
+  "hair": 0,
+  "beard": 0,
+  "hairRed": 120,
+  "hairGreen": 90,
+  "hairBlue": 50,
+  "skinRed": 170,
+  "skinGreen": 150,
+  "skinBlue": 120,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_50",
+  "entity": "illarion:races/race_50_0",
+  "metadata": {
+    "id": 105,
+    "name": "SB Teleporter"
+  }
+}

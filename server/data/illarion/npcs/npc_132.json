@@ -1,0 +1,27 @@
+{
+  "type": 1,
+  "x": 49,
+  "y": 51,
+  "z": 100,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Warkol Hammerfaust",
+  "script": "npc.warkol_hammerfaust",
+  "sex": 0,
+  "hair": 2,
+  "beard": 2,
+  "hairRed": 192,
+  "hairGreen": 107,
+  "hairBlue": 5,
+  "skinRed": 208,
+  "skinGreen": 160,
+  "skinBlue": 118,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_1",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 132,
+    "name": "Warkol Hammerfaust"
+  }
+}

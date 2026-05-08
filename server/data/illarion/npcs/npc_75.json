@@ -1,0 +1,27 @@
+{
+  "type": 3,
+  "x": 362,
+  "y": 214,
+  "z": 1,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Linasa",
+  "script": "npc.linasa",
+  "sex": 1,
+  "hair": 7,
+  "beard": 0,
+  "hairRed": 174,
+  "hairGreen": 56,
+  "hairBlue": 0,
+  "skinRed": 255,
+  "skinGreen": 232,
+  "skinBlue": 221,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_3",
+  "entity": "illarion:races/race_3_1",
+  "metadata": {
+    "id": 75,
+    "name": "Linasa"
+  }
+}

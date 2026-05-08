@@ -1,0 +1,27 @@
+{
+  "type": 4,
+  "x": 194,
+  "y": -334,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Grugash",
+  "script": "npc.grugash",
+  "sex": 0,
+  "hair": 0,
+  "beard": 0,
+  "hairRed": 255,
+  "hairGreen": 255,
+  "hairBlue": 255,
+  "skinRed": 115,
+  "skinGreen": 105,
+  "skinBlue": 80,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_4",
+  "entity": "illarion:races/race_4_0",
+  "metadata": {
+    "id": 59,
+    "name": "Grugash"
+  }
+}

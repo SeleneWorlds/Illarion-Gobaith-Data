@@ -1,0 +1,27 @@
+{
+  "type": 1,
+  "x": 42,
+  "y": 49,
+  "z": 100,
+  "facing": 6,
+  "isHealer": false,
+  "name": "Nargon Hammerfaust",
+  "script": "npc.nargon_hammerfaust",
+  "sex": 0,
+  "hair": 2,
+  "beard": 2,
+  "hairRed": 192,
+  "hairGreen": 107,
+  "hairBlue": 5,
+  "skinRed": 208,
+  "skinGreen": 160,
+  "skinBlue": 118,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_1",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 88,
+    "name": "Nargon Hammerfaust"
+  }
+}

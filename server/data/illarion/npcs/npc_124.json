@@ -1,0 +1,27 @@
+{
+  "type": 4,
+  "x": 235,
+  "y": -324,
+  "z": 0,
+  "facing": 0,
+  "isHealer": false,
+  "name": "Tihgorac",
+  "script": "npc.tihgorac",
+  "sex": 0,
+  "hair": 0,
+  "beard": 0,
+  "hairRed": 255,
+  "hairGreen": 255,
+  "hairBlue": 255,
+  "skinRed": 115,
+  "skinGreen": 105,
+  "skinBlue": 80,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_4",
+  "entity": "illarion:races/race_4_0",
+  "metadata": {
+    "id": 124,
+    "name": "Tihgorac"
+  }
+}

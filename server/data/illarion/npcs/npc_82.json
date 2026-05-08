@@ -1,0 +1,27 @@
+{
+  "type": 1,
+  "x": 10,
+  "y": 1,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Miggs",
+  "script": "npc.miggs",
+  "sex": 0,
+  "hair": 2,
+  "beard": 2,
+  "hairRed": 192,
+  "hairGreen": 107,
+  "hairBlue": 5,
+  "skinRed": 208,
+  "skinGreen": 160,
+  "skinBlue": 118,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_1",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 82,
+    "name": "Miggs"
+  }
+}

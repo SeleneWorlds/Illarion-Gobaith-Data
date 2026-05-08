@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": -61,
+  "y": -134,
+  "z": 0,
+  "facing": 2,
+  "isHealer": false,
+  "name": "Marcus",
+  "script": "npc.marcus",
+  "sex": 0,
+  "hair": 1,
+  "beard": 1,
+  "hairRed": 112,
+  "hairGreen": 74,
+  "hairBlue": 51,
+  "skinRed": 217,
+  "skinGreen": 154,
+  "skinBlue": 123,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_0",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 17,
+    "name": "Marcus"
+  }
+}

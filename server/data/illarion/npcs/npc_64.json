@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": 75,
+  "y": 80,
+  "z": 100,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Hirk",
+  "script": "npc.hirk",
+  "sex": 0,
+  "hair": 1,
+  "beard": 1,
+  "hairRed": 112,
+  "hairGreen": 74,
+  "hairBlue": 51,
+  "skinRed": 217,
+  "skinGreen": 154,
+  "skinBlue": 123,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_0",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 64,
+    "name": "Hirk"
+  }
+}

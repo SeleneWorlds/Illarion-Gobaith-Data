@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": -76,
+  "y": -101,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Jenny Copperneedle",
+  "script": "npc.jenny_copperneedle",
+  "sex": 0,
+  "hair": 1,
+  "beard": 1,
+  "hairRed": 112,
+  "hairGreen": 74,
+  "hairBlue": 51,
+  "skinRed": 217,
+  "skinGreen": 154,
+  "skinBlue": 123,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_0",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 68,
+    "name": "Jenny Copperneedle"
+  }
+}

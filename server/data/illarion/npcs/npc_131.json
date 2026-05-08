@@ -1,0 +1,27 @@
+{
+  "type": 15,
+  "x": -6,
+  "y": -6,
+  "z": 0,
+  "facing": 2,
+  "isHealer": false,
+  "name": "Varkiosh the Forsaken",
+  "script": "npc.varkiosh",
+  "sex": 0,
+  "hair": 0,
+  "beard": 0,
+  "hairRed": 255,
+  "hairGreen": 255,
+  "hairBlue": 255,
+  "skinRed": 180,
+  "skinGreen": 80,
+  "skinBlue": 80,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_15",
+  "entity": "illarion:races/race_15_0",
+  "metadata": {
+    "id": 131,
+    "name": "Varkiosh the Forsaken"
+  }
+}

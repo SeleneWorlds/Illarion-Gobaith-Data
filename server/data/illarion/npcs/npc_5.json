@@ -1,0 +1,27 @@
+{
+  "type": 0,
+  "x": -102,
+  "y": -110,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Amelia Kolodem",
+  "script": "npc.amelia_kolodem",
+  "sex": 1,
+  "hair": 1,
+  "beard": 0,
+  "hairRed": 112,
+  "hairGreen": 74,
+  "hairBlue": 51,
+  "skinRed": 217,
+  "skinGreen": 154,
+  "skinBlue": 123,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_0",
+  "entity": "illarion:races/race_0_1",
+  "metadata": {
+    "id": 5,
+    "name": "Amelia Kolodem"
+  }
+}

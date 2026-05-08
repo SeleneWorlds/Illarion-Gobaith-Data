@@ -1,0 +1,27 @@
+{
+  "type": 4,
+  "x": 187,
+  "y": -445,
+  "z": 1,
+  "facing": 2,
+  "isHealer": false,
+  "name": "Gruknug",
+  "script": "npc.gruknug_orcguard",
+  "sex": 0,
+  "hair": 0,
+  "beard": 0,
+  "hairRed": 255,
+  "hairGreen": 255,
+  "hairBlue": 255,
+  "skinRed": 115,
+  "skinGreen": 105,
+  "skinBlue": 80,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_4",
+  "entity": "illarion:races/race_4_0",
+  "metadata": {
+    "id": 60,
+    "name": "Gruknug"
+  }
+}

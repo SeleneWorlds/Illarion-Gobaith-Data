@@ -1,0 +1,27 @@
+{
+  "type": 3,
+  "x": -102,
+  "y": -71,
+  "z": 0,
+  "facing": 0,
+  "isHealer": false,
+  "name": "Ath’an Denam",
+  "script": "npc.athan_denam",
+  "sex": 0,
+  "hair": 7,
+  "beard": 0,
+  "hairRed": 174,
+  "hairGreen": 56,
+  "hairBlue": 0,
+  "skinRed": 255,
+  "skinGreen": 232,
+  "skinBlue": 221,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_3",
+  "entity": "illarion:races/race_3_0",
+  "metadata": {
+    "id": 1,
+    "name": "Ath’an Denam"
+  }
+}

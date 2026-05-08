@@ -1,0 +1,27 @@
+{
+  "type": 2,
+  "x": 10,
+  "y": 10,
+  "z": 0,
+  "facing": 2,
+  "isHealer": false,
+  "name": "ABC",
+  "script": "npc.abc",
+  "sex": 0,
+  "hair": 1,
+  "beard": 0,
+  "hairRed": 192,
+  "hairGreen": 107,
+  "hairBlue": 5,
+  "skinRed": 232,
+  "skinGreen": 188,
+  "skinBlue": 146,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_2",
+  "entity": "illarion:races/race_2_0",
+  "metadata": {
+    "id": 27,
+    "name": "ABC"
+  }
+}

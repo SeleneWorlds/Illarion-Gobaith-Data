@@ -1,0 +1,27 @@
+{
+  "type": 2,
+  "x": 1,
+  "y": 1,
+  "z": 1,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Oldren Shmagging",
+  "script": "npc.oldren_shmagging",
+  "sex": 0,
+  "hair": 1,
+  "beard": 0,
+  "hairRed": 192,
+  "hairGreen": 107,
+  "hairBlue": 5,
+  "skinRed": 232,
+  "skinGreen": 188,
+  "skinBlue": 146,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_2",
+  "entity": "illarion:races/race_2_0",
+  "metadata": {
+    "id": 19,
+    "name": "Oldren Shmagging"
+  }
+}

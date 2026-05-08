@@ -1,0 +1,27 @@
+{
+  "type": 2,
+  "x": -109,
+  "y": -95,
+  "z": 0,
+  "facing": 4,
+  "isHealer": false,
+  "name": "Tony Baggins",
+  "script": "npc.tony_baggins",
+  "sex": 0,
+  "hair": 1,
+  "beard": 0,
+  "hairRed": 192,
+  "hairGreen": 107,
+  "hairBlue": 5,
+  "skinRed": 232,
+  "skinGreen": 188,
+  "skinBlue": 146,
+  "hairAlpha": 255,
+  "skinAlpha": 255,
+  "race": "illarion:race_2",
+  "entity": "illarion:races/race_2_0",
+  "metadata": {
+    "id": 128,
+    "name": "Tony Baggins"
+  }
+}
