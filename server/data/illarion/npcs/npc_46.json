@@ -1,9 +1,9 @@
 {
   "type": 5,
-  "x": -63,
-  "y": -120,
+  "x": -56,
+  "y": -122,
   "z": 0,
-  "facing": 4,
+  "facing": 6,
   "isHealer": false,
   "name": "Eliza",
   "script": "npc.eliza",
