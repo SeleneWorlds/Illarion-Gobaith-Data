@@ -1,7 +1,4 @@
 {
   "name": "illarion-gobaith-data",
-  "description": "Data definitions for Illarion as a Selene bundle.",
-  "entrypoints": [
-    "common/lua/grid.lua"
-  ]
+  "description": "Data definitions for Illarion as a Selene bundle."
 }
