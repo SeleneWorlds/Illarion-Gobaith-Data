@@ -3,6 +3,9 @@
     "illarion:character"
   ],
   "components": {
+    "selene:impassable": {
+      "type": "impassable"
+    },
     "illarion:visual": {
       "type": "visual",
       "visual": "illarion:races/race_26_0"
