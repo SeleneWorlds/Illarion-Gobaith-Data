@@ -1,6 +1,6 @@
 {
   "tags": [
-    "illarion:item"
+    "illarion:item", "illarion:supports_look_at"
   ],
   "components": {
     "illarion:visual": {

@@ -1,6 +1,6 @@
 {
   "tags": [
-    "illarion:character"
+    "illarion:character", "illarion:supports_look_at"
   ],
   "components": {
     "selene:impassable": {
