@@ -3,5 +3,8 @@
   "metadata": {
     "tileId": 53
   },
-  "visual": "illarion:tiles/tile_53"
+  "visual": "illarion:tiles/tile_53",
+  "tags": [
+    "illarion:tile"
+  ]
 }
