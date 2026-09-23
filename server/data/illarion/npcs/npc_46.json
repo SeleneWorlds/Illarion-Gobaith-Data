@@ -7,6 +7,7 @@
   "isHealer": false,
   "name": "Eliza",
   "script": "npc.eliza",
+  "consequence": "illarion-gobaith:npc/eliza",
   "sex": 0,
   "hair": 0,
   "beard": 0,

@@ -7,6 +7,7 @@
   "isHealer": false,
   "name": "Onor",
   "script": "npc.onor",
+  "consequence": "illarion-gobaith:npc/onor",
   "sex": 0,
   "hair": 1,
   "beard": 1,
