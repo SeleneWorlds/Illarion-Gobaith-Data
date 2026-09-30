@@ -24,20 +24,7 @@
   "name": "pig",
   "maxAttributePoints": 84,
   "types": {
-    "0": {
-      "skinColors": [
-        {
-          "red": 255,
-          "green": 255,
-          "alpha": 255
-        },
-        {
-          "red": 170,
-          "green": 160,
-          "alpha": 255
-        }
-      ]
-    }
+    "0": {}
   },
   "metadata": {
     "id": 24,
