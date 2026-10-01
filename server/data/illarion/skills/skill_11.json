@@ -1,8 +1,8 @@
 {
-  "name": "woodcutting",
+  "name": "lumberjacking",
   "metadata": {
     "id": 11,
-    "name": "woodcutting"
+    "name": "lumberjacking"
   },
   "group": "illarion:skill_group_1"
 }
