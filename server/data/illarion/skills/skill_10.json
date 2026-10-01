@@ -1,8 +1,8 @@
 {
-  "name": "finesmithing",
+  "name": "goldsmithing",
   "metadata": {
     "id": 10,
-    "name": "finesmithing"
+    "name": "goldsmithing"
   },
   "group": "illarion:skill_group_1"
 }
