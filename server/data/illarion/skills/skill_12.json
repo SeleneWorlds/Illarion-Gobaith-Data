@@ -1,8 +1,8 @@
 {
-  "name": "cookingAndBaking",
+  "name": "baking",
   "metadata": {
     "id": 12,
-    "name": "cookingAndBaking"
+    "name": "baking"
   },
   "group": "illarion:skill_group_1"
 }
