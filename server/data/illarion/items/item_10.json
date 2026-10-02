@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 2,
   "objectAfterRot": "illarion:item_10",
-  "script": "item.teleportgate",
+  "script": "item.id_10_teleportgate",
   "rotsInInventory": false,
   "brightness": 2,
   "worth": 0,

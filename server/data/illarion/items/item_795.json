@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_795",
-  "script": "item.teleportgate",
+  "script": "item.id_794_fireportal",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,
