@@ -1,7 +1,8 @@
 {
   "impassable": false,
   "metadata": {
-    "tileId": 11
+    "tileId": 11,
+    "script": "tile.id_11_gras"
   },
   "visual": "illarion:tiles/tile_11",
   "tags": [

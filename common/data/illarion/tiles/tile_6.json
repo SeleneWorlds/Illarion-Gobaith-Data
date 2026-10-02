@@ -1,7 +1,8 @@
 {
   "impassable": true,
   "metadata": {
-    "tileId": 6
+    "tileId": 6,
+    "script": "tile.id_6_water"
   },
   "visual": "illarion:tiles/tile_6",
   "tags": [

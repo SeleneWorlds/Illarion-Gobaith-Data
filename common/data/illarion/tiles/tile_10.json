@@ -1,7 +1,8 @@
 {
   "impassable": false,
   "metadata": {
-    "tileId": 10
+    "tileId": 10,
+    "script": "tile.id_10_snow"
   },
   "visual": "illarion:tiles/tile_10",
   "tags": [
