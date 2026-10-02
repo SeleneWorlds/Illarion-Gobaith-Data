@@ -1,8 +1,8 @@
 {
-  "name": "earthMagic",
+  "name": "pervestigatio",
   "metadata": {
     "id": 39,
-    "name": "earthMagic"
+    "name": "pervestigatio"
   },
-  "group": "illarion:skill_group_2"
+  "group": "illarion:skill_group_3"
 }
