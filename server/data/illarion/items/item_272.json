@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_272",
-  "script": "item.pillar",
+  "script": "item.id_272_statue",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,
