@@ -6,7 +6,6 @@
   "facing": 4,
   "isHealer": false,
   "name": "Gloarn",
-  "script": "npc.gloarn",
   "consequence": "illarion-gobaith:npc/gloarn",
   "sex": 0,
   "hair": 1,
