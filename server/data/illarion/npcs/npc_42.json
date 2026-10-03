@@ -6,7 +6,6 @@
   "facing": 6,
   "isHealer": false,
   "name": "Borgate Northoff",
-  "script": "npc.borgate",
   "consequence": "illarion-gobaith:npc/borgate",
   "sex": 0,
   "hair": 2,

@@ -6,7 +6,6 @@
   "facing": 6,
   "isHealer": false,
   "name": "Maris Maroqu",
-  "script": "npc.maris",
   "consequence": "illarion-gobaith:npc/maris",
   "sex": 0,
   "hair": 1,
