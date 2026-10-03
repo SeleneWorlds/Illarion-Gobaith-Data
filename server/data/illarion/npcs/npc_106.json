@@ -1,5 +1,5 @@
 {
-  "type": 50,
+  "type": 26,
   "x": 341,
   "y": 221,
   "z": 0,
@@ -18,8 +18,8 @@
   "skinBlue": 120,
   "hairAlpha": 255,
   "skinAlpha": 255,
-  "race": "illarion:race_50",
-  "entity": "illarion:races/race_50_0",
+  "race": "illarion:race_26",
+  "entity": "illarion:races/race_26_0",
   "metadata": {
     "id": 106,
     "name": "TV Teleporter"
