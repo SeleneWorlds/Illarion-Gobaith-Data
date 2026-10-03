@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "illarion:character", "illarion:supports_look_at"
+  ],
+  "components": {
+    "selene:impassable": {
+      "type": "impassable"
+    },
+    "illarion:visual": {
+      "type": "visual",
+      "visual": "illarion:races/race_13_0"
+    }
+  },
+  "metadata": {
+    "raceId": 13,
+    "typeId": 0
+  }
+}
