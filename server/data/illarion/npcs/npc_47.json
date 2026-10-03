@@ -7,6 +7,7 @@
   "isHealer": false,
   "name": "Eltareon",
   "script": "npc.eltareon",
+  "consequence": "illarion-gobaith:npc/eltareon",
   "sex": 0,
   "hair": 1,
   "beard": 1,
