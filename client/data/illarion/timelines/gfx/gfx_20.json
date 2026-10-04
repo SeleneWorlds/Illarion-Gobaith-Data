@@ -1,0 +1,8 @@
+{
+  "events": [
+    {
+      "type": "visual_animation",
+      "visual": "illarion:gfx/gfx_20"
+    }
+  ]
+}
