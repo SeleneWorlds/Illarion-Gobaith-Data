@@ -7,6 +7,7 @@
   "isHealer": false,
   "name": "Zaruk",
   "script": "npc.zaruk",
+  "consequence": "illarion-gobaith:npc/zaruk",
   "sex": 0,
   "hair": 1,
   "beard": 1,
