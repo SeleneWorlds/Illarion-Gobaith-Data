@@ -6,7 +6,7 @@
   "facing": 0,
   "isHealer": false,
   "name": "GB Teleporter",
-  "script": "npc.static_teleport",
+  "script": "npc.special.static_teleport",
   "sex": 0,
   "hair": 0,
   "beard": 0,

@@ -6,7 +6,7 @@
   "facing": 0,
   "isHealer": false,
   "name": "Yellow Cross",
-  "script": "npc.yellowcross",
+  "script": "npc.special.yellowcross",
   "sex": 0,
   "hair": 0,
   "beard": 0,
