@@ -1,12 +1,12 @@
 {
   "type": 2,
-  "x": -378,
-  "y": 82,
+  "x": -381,
+  "y": 69,
   "z": 0,
-  "facing": 0,
+  "facing": 4,
   "isHealer": false,
-  "name": "Tobias Baggins",
-  "script": "npc.tobias_baggins",
+  "name": "Floro Baggins",
+  "script": "npc.floro_baggins",
   "sex": 0,
   "hair": 1,
   "beard": 0,
@@ -21,7 +21,8 @@
   "race": "illarion:race_2",
   "entity": "illarion:races/race_2_0",
   "metadata": {
-    "id": 126,
-    "name": "Tobias Baggins"
-  }
+    "id": 51,
+    "name": "Floro Baggins"
+  },
+  "consequence": "illarion-gobaith:npc/floro_baggins"
 }

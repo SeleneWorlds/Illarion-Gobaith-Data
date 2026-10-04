@@ -1,12 +1,12 @@
 {
   "type": 2,
-  "x": -109,
-  "y": -95,
+  "x": -378,
+  "y": 82,
   "z": 0,
-  "facing": 4,
+  "facing": 0,
   "isHealer": false,
-  "name": "Tony Baggins",
-  "script": "npc.tony_baggins",
+  "name": "Tobias Baggins",
+  "script": "npc.tobias_baggins",
   "sex": 0,
   "hair": 1,
   "beard": 0,
@@ -21,7 +21,8 @@
   "race": "illarion:race_2",
   "entity": "illarion:races/race_2_0",
   "metadata": {
-    "id": 128,
-    "name": "Tony Baggins"
-  }
+    "id": 126,
+    "name": "Tobias Baggins"
+  },
+  "consequence": "illarion-gobaith:npc/tobias_baggins"
 }

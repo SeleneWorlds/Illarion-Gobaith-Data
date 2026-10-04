@@ -1,12 +1,12 @@
 {
   "type": 1,
-  "x": 97,
-  "y": -212,
-  "z": -3,
+  "x": -107,
+  "y": -112,
+  "z": 0,
   "facing": 4,
   "isHealer": false,
-  "name": "Tungosch",
-  "script": "npc.tungosch",
+  "name": "Sorgan Stonemate",
+  "script": "npc.sorgan",
   "sex": 0,
   "hair": 2,
   "beard": 2,
@@ -21,7 +21,8 @@
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
   "metadata": {
-    "id": 129,
-    "name": "Tungosch"
-  }
+    "id": 100,
+    "name": "Sorgan Stonemate"
+  },
+  "consequence": "illarion-gobaith:npc/sorgan"
 }

@@ -1,12 +1,12 @@
 {
   "type": 1,
-  "x": 80,
-  "y": -193,
-  "z": 0,
+  "x": 110,
+  "y": -210,
+  "z": -3,
   "facing": 4,
   "isHealer": false,
-  "name": "Gambi",
-  "script": "npc.gambi",
+  "name": "Garabosch",
+  "script": "npc.graubart",
   "sex": 0,
   "hair": 2,
   "beard": 2,
@@ -21,7 +21,8 @@
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
   "metadata": {
-    "id": 53,
-    "name": "Gambi"
-  }
+    "id": 58,
+    "name": "Garabosch"
+  },
+  "consequence": "illarion-gobaith:npc/graubart"
 }

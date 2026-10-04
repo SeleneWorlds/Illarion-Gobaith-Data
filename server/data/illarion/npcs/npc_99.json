@@ -1,12 +1,12 @@
 {
   "type": 0,
-  "x": -54,
-  "y": -218,
+  "x": -63,
+  "y": -221,
   "z": 0,
-  "facing": 2,
+  "facing": 0,
   "isHealer": false,
-  "name": "Artoss Ishem",
-  "script": "npc.artoss_ishem",
+  "name": "Sam",
+  "script": "npc.sam",
   "sex": 0,
   "hair": 1,
   "beard": 1,
@@ -21,7 +21,8 @@
   "race": "illarion:race_0",
   "entity": "illarion:races/race_0_0",
   "metadata": {
-    "id": 36,
-    "name": "Artoss Ishem"
-  }
+    "id": 99,
+    "name": "Sam"
+  },
+  "consequence": "illarion-gobaith:npc/sam"
 }

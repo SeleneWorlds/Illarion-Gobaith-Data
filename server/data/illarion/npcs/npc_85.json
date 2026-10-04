@@ -1,12 +1,12 @@
 {
   "type": 0,
-  "x": -63,
-  "y": -221,
+  "x": -56,
+  "y": -96,
   "z": 0,
-  "facing": 0,
+  "facing": 6,
   "isHealer": false,
-  "name": "Sam",
-  "script": "npc.sam",
+  "name": "Morgan Gronwan",
+  "script": "npc.morgan",
   "sex": 0,
   "hair": 1,
   "beard": 1,
@@ -21,7 +21,8 @@
   "race": "illarion:race_0",
   "entity": "illarion:races/race_0_0",
   "metadata": {
-    "id": 99,
-    "name": "Sam"
-  }
+    "id": 85,
+    "name": "Morgan Gronwan"
+  },
+  "consequence": "illarion-gobaith:npc/morgan"
 }

@@ -1,12 +1,12 @@
 {
   "type": 0,
-  "x": -56,
-  "y": -96,
+  "x": -286,
+  "y": 45,
   "z": 0,
-  "facing": 6,
+  "facing": 4,
   "isHealer": false,
-  "name": "Morgan Gronwan",
-  "script": "npc.morgan",
+  "name": "Jarmal",
+  "script": "npc.jarmal",
   "sex": 0,
   "hair": 1,
   "beard": 1,
@@ -21,7 +21,8 @@
   "race": "illarion:race_0",
   "entity": "illarion:races/race_0_0",
   "metadata": {
-    "id": 85,
-    "name": "Morgan Gronwan"
-  }
+    "id": 67,
+    "name": "Jarmal"
+  },
+  "consequence": "illarion-gobaith:npc/jarmal"
 }

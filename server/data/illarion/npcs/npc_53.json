@@ -1,12 +1,12 @@
 {
   "type": 1,
-  "x": -107,
-  "y": -112,
+  "x": 80,
+  "y": -193,
   "z": 0,
   "facing": 4,
   "isHealer": false,
-  "name": "Sorgan Stonemate",
-  "script": "npc.sorgan",
+  "name": "Gambi",
+  "script": "npc.gambi",
   "sex": 0,
   "hair": 2,
   "beard": 2,
@@ -21,7 +21,8 @@
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
   "metadata": {
-    "id": 100,
-    "name": "Sorgan Stonemate"
-  }
+    "id": 53,
+    "name": "Gambi"
+  },
+  "consequence": "illarion-gobaith:npc/gambi"
 }
