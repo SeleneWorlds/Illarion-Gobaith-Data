@@ -1,5 +1,8 @@
 {
   "visual": "illarion:items/item_359",
+  "light": {
+    "radius": 4
+  },
   "impassable": false,
   "passableAbove": false,
   "metadata": {

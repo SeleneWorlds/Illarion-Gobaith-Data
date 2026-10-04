@@ -1,5 +1,8 @@
 {
   "visual": "illarion:items/item_1123",
+  "light": {
+    "radius": 5
+  },
   "metadata": {
     "itemId": 1123
   },
