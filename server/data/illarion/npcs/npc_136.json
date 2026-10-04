@@ -6,7 +6,6 @@
   "facing": 0,
   "isHealer": false,
   "name": "Zathrot",
-  "script": "npc.zathrot",
   "consequence": "illarion-gobaith:npc/zathrot",
   "sex": 0,
   "hair": 0,

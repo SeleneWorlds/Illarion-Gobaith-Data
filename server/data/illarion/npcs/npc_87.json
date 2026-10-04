@@ -6,7 +6,6 @@
   "facing": 6,
   "isHealer": false,
   "name": "Nadir",
-  "script": "npc.nadir",
   "sex": 0,
   "hair": 1,
   "beard": 1,
