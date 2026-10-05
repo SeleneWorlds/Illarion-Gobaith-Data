@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.thunder",
+  "function": "makeBolt",
+  "minInterval": 10,
+  "maxInterval": 10
+}

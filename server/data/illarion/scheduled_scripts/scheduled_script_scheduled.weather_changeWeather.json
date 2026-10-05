@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.weather",
+  "function": "changeWeather",
+  "minInterval": 3500,
+  "maxInterval": 9000
+}
