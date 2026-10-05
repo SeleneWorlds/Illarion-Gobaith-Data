@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "type": "screen_overlay",
+      "duration": 0.35,
+      "color": "#eaf4ff",
+      "alpha": 0,
+      "keys": {
+        "alpha": [
+          { "time": 0, "value": 0.9 },
+          { "time": 0.08, "value": 0.15 },
+          { "time": 0.14, "value": 0.65 },
+          { "time": 0.35, "value": 0 }
+        ]
+      }
+    },
+    {
+      "type": "sound",
+      "sound": "illarion:sound_4"
+    }
+  ]
+}
