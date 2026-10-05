@@ -1,0 +1,10 @@
+{
+  "events": [
+    {
+      "type": "particle_system",
+      "particle": "illarion:rain",
+      "space": "screen",
+      "emissionRateMultiplier": "precipitationStrength"
+    }
+  ]
+}
