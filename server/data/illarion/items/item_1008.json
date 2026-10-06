@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_1008",
-  "script": "",
+  "script": "druid.item.id_1008_cauldron",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 2000,

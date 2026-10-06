@@ -3,7 +3,7 @@
   "weight": 50,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_2502",
-  "script": "item.bottles",
+  "script": "item.id_2502_gynkfire",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 800,

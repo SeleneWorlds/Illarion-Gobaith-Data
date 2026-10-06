@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_119",
-  "script": "",
+  "script": "item.id_119_backingoven",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

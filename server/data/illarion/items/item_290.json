@@ -3,7 +3,7 @@
   "weight": 25,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_290",
-  "script": "item.food",
+  "script": "item.id_290_cabbage",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 185,

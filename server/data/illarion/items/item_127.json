@@ -3,7 +3,7 @@
   "weight": 100,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_127",
-  "script": "",
+  "script": "druid.item.id_127_book_intro",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 18000,

@@ -3,7 +3,7 @@
   "weight": 20,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_79",
-  "script": "item.general.jewel",
+  "script": "item.id_79_amethystamulet",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 1500,

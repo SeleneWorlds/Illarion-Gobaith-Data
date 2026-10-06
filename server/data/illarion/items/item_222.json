@@ -3,7 +3,7 @@
   "weight": 20,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_222",
-  "script": "item.general.jewel",
+  "script": "item.id_222_amulett",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 1300,

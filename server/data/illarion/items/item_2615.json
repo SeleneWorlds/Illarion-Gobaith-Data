@@ -3,7 +3,7 @@
   "weight": 100,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_2615",
-  "script": "",
+  "script": "item.book.id_2615_white_book",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 20000,

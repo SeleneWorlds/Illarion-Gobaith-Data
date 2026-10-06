@@ -3,7 +3,7 @@
   "weight": 100,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_131",
-  "script": "",
+  "script": "druid.item.id_131_book_letter",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 20000,

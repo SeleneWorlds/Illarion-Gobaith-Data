@@ -3,7 +3,7 @@
   "weight": 150,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_917",
-  "script": "item.general.metal",
+  "script": "item.id_917_cursedshield",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 5100,

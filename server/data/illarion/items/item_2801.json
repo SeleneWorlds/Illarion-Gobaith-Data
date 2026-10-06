@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_2801",
-  "script": "item.altars",
+  "script": "item.id_2801_altar",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,
