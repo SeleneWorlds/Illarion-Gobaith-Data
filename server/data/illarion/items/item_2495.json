@@ -3,7 +3,7 @@
   "weight": 50,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_2495",
-  "script": "item.id_2495_pan",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 2000,

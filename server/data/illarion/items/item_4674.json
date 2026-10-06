@@ -3,7 +3,7 @@
   "weight": 25,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_4674",
-  "script": "item.teasets",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

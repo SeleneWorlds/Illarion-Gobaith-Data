@@ -3,7 +3,7 @@
   "weight": 5,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_3894",
-  "script": "item.id_3894_mystical_cracker",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

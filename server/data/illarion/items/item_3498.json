@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 50,
   "objectAfterRot": "illarion:item_3498",
-  "script": "magic.arcane.enchanting.items.glyph_ritual_shrine",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

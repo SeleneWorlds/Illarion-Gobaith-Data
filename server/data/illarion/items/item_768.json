@@ -3,7 +3,7 @@
   "weight": 2,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_768",
-  "script": "alchemy.base.brewing",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 10000,

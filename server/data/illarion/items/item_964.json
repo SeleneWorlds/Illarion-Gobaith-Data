@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_964",
-  "script": "item.id_964_keg",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

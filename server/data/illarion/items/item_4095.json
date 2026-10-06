@@ -3,7 +3,7 @@
   "weight": 50,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_4095",
-  "script": "item.hand_bell",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 3200,

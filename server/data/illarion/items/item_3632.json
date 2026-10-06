@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 4,
   "objectAfterRot": "illarion:item_1208",
-  "script": "item.empty_pits",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

@@ -3,7 +3,7 @@
   "weight": 25,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_310",
-  "script": "item.id_310_mug_with_lid",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 2250,

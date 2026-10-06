@@ -3,7 +3,7 @@
   "weight": 200,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_3608",
-  "script": "item.wands",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 3,
   "worth": 90000,

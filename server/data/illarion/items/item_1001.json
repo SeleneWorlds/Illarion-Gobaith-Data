@@ -3,7 +3,7 @@
   "weight": 50,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_1001",
-  "script": "item.id_1001_greenplate",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 800,

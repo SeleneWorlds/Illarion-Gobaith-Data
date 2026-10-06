@@ -3,7 +3,7 @@
   "weight": 100,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_1060",
-  "script": "magic.arcane.runeHintsBook",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

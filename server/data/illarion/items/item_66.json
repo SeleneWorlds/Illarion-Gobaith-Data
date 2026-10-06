@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_66",
-  "script": "item.id_66_markerstone",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

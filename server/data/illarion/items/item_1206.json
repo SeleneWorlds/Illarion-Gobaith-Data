@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_1206",
-  "script": "item.id_1206_claypit",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

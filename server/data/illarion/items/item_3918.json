@@ -3,7 +3,7 @@
   "weight": 50,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_3918",
-  "script": "item.builderstool",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 2000,

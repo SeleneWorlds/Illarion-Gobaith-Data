@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_37",
-  "script": "item.id_37_window",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

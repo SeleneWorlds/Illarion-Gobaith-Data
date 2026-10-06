@@ -3,7 +3,7 @@
   "weight": 100,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_312",
-  "script": "item.id_312_woodenshovel",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 2000,

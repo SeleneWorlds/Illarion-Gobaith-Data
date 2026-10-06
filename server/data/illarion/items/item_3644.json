@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_3644",
-  "script": "item.id_3644_jungle_plant",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

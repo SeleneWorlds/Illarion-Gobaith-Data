@@ -3,7 +3,7 @@
   "weight": 5,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_4161",
-  "script": "magic.arcane.enchanting.items.shard",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 2,
   "worth": 0,

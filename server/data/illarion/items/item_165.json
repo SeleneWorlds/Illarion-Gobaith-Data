@@ -3,7 +3,7 @@
   "weight": 25,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_165",
-  "script": "alchemy.item.id_165_blue_bottle",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

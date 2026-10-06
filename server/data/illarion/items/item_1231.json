@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_1231",
-  "script": "item.id_1226_dyeingbarrel",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

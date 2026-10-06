@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_4097",
-  "script": "item.golemStatue",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

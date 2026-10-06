@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_2038",
-  "script": "item.skull",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,

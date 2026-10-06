@@ -3,7 +3,7 @@
   "weight": 25,
   "agingSpeed": 254,
   "objectAfterRot": "illarion:item_2745",
-  "script": "item.id_2745_parchment",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 800,
