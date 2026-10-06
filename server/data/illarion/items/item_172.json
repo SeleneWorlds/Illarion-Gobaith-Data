@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": "illarion:item_172",
-  "script": "item.id_172_anvil",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,
