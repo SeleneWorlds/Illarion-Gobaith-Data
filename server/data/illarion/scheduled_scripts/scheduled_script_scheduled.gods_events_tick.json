@@ -1,6 +1,0 @@
-{
-  "script": "scheduled.gods_events",
-  "function": "tick",
-  "minInterval": 36000,
-  "maxInterval": 36000
-}

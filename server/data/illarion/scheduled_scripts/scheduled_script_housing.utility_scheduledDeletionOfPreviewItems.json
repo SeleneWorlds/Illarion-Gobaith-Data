@@ -1,6 +1,0 @@
-{
-  "script": "housing.utility",
-  "function": "scheduledDeletionOfPreviewItems",
-  "minInterval": 300,
-  "maxInterval": 300
-}

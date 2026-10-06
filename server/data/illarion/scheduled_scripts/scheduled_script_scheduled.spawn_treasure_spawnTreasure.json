@@ -1,6 +1,0 @@
-{
-  "script": "scheduled.spawn_treasure",
-  "function": "spawnTreasure",
-  "minInterval": 3000,
-  "maxInterval": 3000
-}

@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.closedoors",
+  "function": "closeDoors",
+  "minInterval": 10,
+  "maxInterval": 10
+}

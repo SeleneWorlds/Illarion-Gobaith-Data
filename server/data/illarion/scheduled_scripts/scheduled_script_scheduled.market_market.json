@@ -1,6 +1,0 @@
-{
-  "script": "scheduled.market",
-  "function": "market",
-  "minInterval": 600,
-  "maxInterval": 600
-}

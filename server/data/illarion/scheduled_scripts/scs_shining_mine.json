@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.scs_shining_mine",
+  "function": "makelight",
+  "minInterval": 10,
+  "maxInterval": 30
+}

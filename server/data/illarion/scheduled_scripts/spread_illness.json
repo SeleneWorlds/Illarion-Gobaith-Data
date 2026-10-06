@@ -1,0 +1,6 @@
+{
+  "script": "scheduled.spread_illness",
+  "function": "spreadIllness",
+  "minInterval": 10,
+  "maxInterval": 30
+}
