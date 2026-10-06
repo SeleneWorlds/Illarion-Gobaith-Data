@@ -1,6 +1,6 @@
 {
   "visual": "illarion:items/item_878",
-  "impassable": true,
+  "impassable": false,
   "passableAbove": false,
   "metadata": {
     "itemId": 878
