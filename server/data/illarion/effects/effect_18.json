@@ -1,8 +1,8 @@
 {
-  "name": "arena",
-  "script": "lte.arena_timer",
+  "name": "smell",
+  "script": "lte.smell",
   "metadata": {
     "id": 18,
-    "name": "arena"
+    "name": "smell"
   }
 }
