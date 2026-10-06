@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_26",
   "metadata": {
-    "soundId": 26
+    "soundId": 26,
+    "name": "roar"
   }
 }

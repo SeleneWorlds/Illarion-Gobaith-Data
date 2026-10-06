@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_23",
   "metadata": {
-    "soundId": 23
+    "soundId": 23,
+    "name": "burp"
   }
 }

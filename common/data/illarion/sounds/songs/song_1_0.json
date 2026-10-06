@@ -2,6 +2,7 @@
   "audio": "illarion:songs/song_1_0",
   "metadata": {
     "songId": 1,
-    "songIndex": 0
+    "songIndex": 0,
+    "name": "AuroreSand"
   }
 }

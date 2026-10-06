@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_7",
   "metadata": {
-    "soundId": 7
+    "soundId": 7,
+    "name": "Fire"
   }
 }

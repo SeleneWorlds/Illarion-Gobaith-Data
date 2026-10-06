@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_13",
   "metadata": {
-    "soundId": 13
+    "soundId": 13,
+    "name": "snaring"
   }
 }

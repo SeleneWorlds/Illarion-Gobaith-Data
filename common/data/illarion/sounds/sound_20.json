@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_20",
   "metadata": {
-    "soundId": 20
+    "soundId": 20,
+    "name": "unlock"
   }
 }

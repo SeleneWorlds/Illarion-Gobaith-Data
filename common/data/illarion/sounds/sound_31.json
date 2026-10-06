@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_31",
   "metadata": {
-    "soundId": 31
+    "soundId": 31,
+    "name": "hit_arrow"
   }
 }

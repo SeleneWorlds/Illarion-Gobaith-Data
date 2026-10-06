@@ -2,6 +2,7 @@
   "audio": "illarion:songs/song_1_1",
   "metadata": {
     "songId": 1,
-    "songIndex": 1
+    "songIndex": 1,
+    "name": "OldClientBattle"
   }
 }

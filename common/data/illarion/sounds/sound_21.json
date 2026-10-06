@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_21",
   "metadata": {
-    "soundId": 21
+    "soundId": 21,
+    "name": "door"
   }
 }

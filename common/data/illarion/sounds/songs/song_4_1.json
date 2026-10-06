@@ -2,6 +2,7 @@
   "audio": "illarion:songs/song_4_1",
   "metadata": {
     "songId": 4,
-    "songIndex": 1
+    "songIndex": 1,
+    "name": "Irish"
   }
 }

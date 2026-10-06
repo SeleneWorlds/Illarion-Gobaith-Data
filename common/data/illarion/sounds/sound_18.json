@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_18",
   "metadata": {
-    "soundId": 18
+    "soundId": 18,
+    "name": "Mining"
   }
 }

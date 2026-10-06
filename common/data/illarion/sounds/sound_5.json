@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_5",
   "metadata": {
-    "soundId": 5
+    "soundId": 5,
+    "name": "bang"
   }
 }

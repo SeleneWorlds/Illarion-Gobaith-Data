@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_19",
   "metadata": {
-    "soundId": 19
+    "soundId": 19,
+    "name": "Lock"
   }
 }

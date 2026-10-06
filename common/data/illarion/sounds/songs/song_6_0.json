@@ -2,6 +2,7 @@
   "audio": "illarion:songs/song_6_0",
   "metadata": {
     "songId": 6,
-    "songIndex": 0
+    "songIndex": 0,
+    "name": "Queen"
   }
 }

@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_15",
   "metadata": {
-    "soundId": 15
+    "soundId": 15,
+    "name": "cooking"
   }
 }

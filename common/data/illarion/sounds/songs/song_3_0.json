@@ -2,6 +2,7 @@
   "audio": "illarion:songs/song_3_0",
   "metadata": {
     "songId": 3,
-    "songIndex": 0
+    "songIndex": 0,
+    "name": "cave"
   }
 }

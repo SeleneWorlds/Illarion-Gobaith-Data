@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_27",
   "metadata": {
-    "soundId": 27
+    "soundId": 27,
+    "name": "wind"
   }
 }

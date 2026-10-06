@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_32",
   "metadata": {
-    "soundId": 32
+    "soundId": 32,
+    "name": "hit_staff_plate"
   }
 }

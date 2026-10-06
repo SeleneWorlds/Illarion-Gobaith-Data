@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_12",
   "metadata": {
-    "soundId": 12
+    "soundId": 12,
+    "name": "drink"
   }
 }

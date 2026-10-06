@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_16",
   "metadata": {
-    "soundId": 16
+    "soundId": 16,
+    "name": "rasp"
   }
 }

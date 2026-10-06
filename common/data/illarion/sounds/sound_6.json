@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_6",
   "metadata": {
-    "soundId": 6
+    "soundId": 6,
+    "name": "chopping"
   }
 }

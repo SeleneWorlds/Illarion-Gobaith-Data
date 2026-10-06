@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_25",
   "metadata": {
-    "soundId": 25
+    "soundId": 25,
+    "name": "evil_laugh"
   }
 }

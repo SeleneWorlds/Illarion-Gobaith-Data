@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_41",
   "metadata": {
-    "soundId": 41
+    "soundId": 41,
+    "name": "parry_staff"
   }
 }

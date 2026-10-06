@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_1",
   "metadata": {
-    "soundId": 1
+    "soundId": 1,
+    "name": "scream"
   }
 }

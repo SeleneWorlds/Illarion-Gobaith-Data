@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_30",
   "metadata": {
-    "soundId": 30
+    "soundId": 30,
+    "name": "bow"
   }
 }

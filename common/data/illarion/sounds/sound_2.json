@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_2",
   "metadata": {
-    "soundId": 2
+    "soundId": 2,
+    "name": "sheep"
   }
 }

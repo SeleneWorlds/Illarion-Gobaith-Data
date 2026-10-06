@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_33",
   "metadata": {
-    "soundId": 33
+    "soundId": 33,
+    "name": "hit_sword_plate"
   }
 }

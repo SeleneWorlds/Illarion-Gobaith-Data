@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_42",
   "metadata": {
-    "soundId": 42
+    "soundId": 42,
+    "name": "parry_sword"
   }
 }

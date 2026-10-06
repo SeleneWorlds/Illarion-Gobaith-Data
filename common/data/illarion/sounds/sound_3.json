@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_3",
   "metadata": {
-    "soundId": 3
+    "soundId": 3,
+    "name": "Hit"
   }
 }

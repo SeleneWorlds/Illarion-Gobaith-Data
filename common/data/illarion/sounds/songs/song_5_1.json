@@ -2,6 +2,7 @@
   "audio": "illarion:songs/song_5_1",
   "metadata": {
     "songId": 5,
-    "songIndex": 1
+    "songIndex": 1,
+    "name": "Round"
   }
 }

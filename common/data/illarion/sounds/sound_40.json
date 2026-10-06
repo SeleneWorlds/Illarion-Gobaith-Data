@@ -1,6 +1,7 @@
 {
   "audio": "illarion:sound_40",
   "metadata": {
-    "soundId": 40
+    "soundId": 40,
+    "name": "parry_axe_shield"
   }
 }
