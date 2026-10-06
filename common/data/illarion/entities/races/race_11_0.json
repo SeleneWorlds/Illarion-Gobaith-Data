@@ -3,6 +3,9 @@
     "illarion:character", "illarion:supports_look_at"
   ],
   "components": {
+    "selene:gravity": {
+      "type": "gravity"
+    },
     "selene:impassable": {
       "type": "impassable"
     },
