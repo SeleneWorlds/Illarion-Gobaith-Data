@@ -12,7 +12,7 @@
   "rareness": 1,
   "name": "",
   "level": 0,
-  "impassable": true,
+  "impassable": false,
   "specialItem": 0,
   "passableAbove": false,
   "visual": "illarion:items/item_878",
