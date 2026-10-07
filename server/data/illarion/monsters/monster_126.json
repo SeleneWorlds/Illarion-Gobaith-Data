@@ -4,8 +4,10 @@
   "movementType": "fly",
   "canAttack": true,
   "canHealSelf": false,
-  "minSize": 80,
-  "maxSize": 120,
+  "size": {
+    "min": 80,
+    "max": 120
+  },
   "attributes": {
     "strength": {
       "min": 1,

@@ -4,8 +4,10 @@
   "movementType": "walk",
   "canAttack": true,
   "canHealSelf": false,
-  "minSize": 100,
-  "maxSize": 120,
+  "size": {
+    "min": 100,
+    "max": 120
+  },
   "attributes": {
     "strength": {
       "min": 32,
