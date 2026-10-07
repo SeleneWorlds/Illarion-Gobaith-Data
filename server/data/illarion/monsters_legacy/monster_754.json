@@ -85,26 +85,34 @@
   "items": {
     "breast": {
       "item": "illarion:item_101",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     },
     "left hand": {
       "item": "illarion:item_19",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     },
     "right hand": {
       "item": "illarion:item_2701",
-      "minCount": 1,
-      "maxCount": 1
+      "count": {
+        "min": 1,
+        "max": 1
+      }
     }
   },
   "drops": {
     "1": {
       "2338": {
         "chance": 0.2,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -113,8 +121,10 @@
       },
       "2339": {
         "chance": 0.1,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -123,8 +133,10 @@
       },
       "2340": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -133,8 +145,10 @@
       },
       "2341": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -143,8 +157,10 @@
       },
       "2342": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -155,8 +171,10 @@
     "2": {
       "2343": {
         "chance": 0.2,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -165,8 +183,10 @@
       },
       "2344": {
         "chance": 0.1,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -175,8 +195,10 @@
       },
       "2345": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -185,8 +207,10 @@
       },
       "2346": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -195,8 +219,10 @@
       },
       "2347": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -207,8 +233,10 @@
     "3": {
       "2348": {
         "chance": 0.2,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -217,8 +245,10 @@
       },
       "2349": {
         "chance": 0.1,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -227,8 +257,10 @@
       },
       "2350": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -237,8 +269,10 @@
       },
       "2351": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -247,8 +281,10 @@
       },
       "2352": {
         "chance": 0.01,
-        "minCount": 1,
-        "maxCount": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
         "minQuality": 3,
         "maxQuality": 4,
         "minDurability": 33,
@@ -259,8 +295,10 @@
     "4": {
       "2353": {
         "chance": 1,
-        "minCount": 30,
-        "maxCount": 90,
+        "count": {
+          "min": 30,
+          "max": 90
+        },
         "minQuality": 3,
         "maxQuality": 3,
         "minDurability": 33,

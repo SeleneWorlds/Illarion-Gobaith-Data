@@ -44,8 +44,10 @@
     "1": {
       "3226": {
         "chance": 1,
-        "minCount": 2,
-        "maxCount": 4,
+        "count": {
+          "min": 2,
+          "max": 4
+        },
         "minQuality": 3,
         "maxQuality": 3,
         "minDurability": 33,
@@ -56,8 +58,10 @@
     "2": {
       "3269": {
         "chance": 1,
-        "minCount": 1,
-        "maxCount": 2,
+        "count": {
+          "min": 1,
+          "max": 2
+        },
         "minQuality": 5,
         "maxQuality": 5,
         "minDurability": 55,
