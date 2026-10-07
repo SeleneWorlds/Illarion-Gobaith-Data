@@ -2,12 +2,9 @@
   "name": "monster_spawns",
   "platform": "server",
   "schema": {
-    "x": "integer",
-    "y": "integer",
-    "z": "integer",
+    "coordinate": "coordinate",
     "range": "integer",
-    "minSpawnTime": "integer",
-    "maxSpawnTime": "integer",
+    "spawnTime": "range",
     "spawnAll": "boolean",
     "spawnRange": "integer",
     "monsters": {
