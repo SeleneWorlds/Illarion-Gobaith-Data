@@ -2,6 +2,7 @@
   "name": "npcs",
   "platform": "server",
   "schema": {
+    "enabled": "enabled",
     "type": "integer",
     "coordinate": "coordinate",
     "facing": "Direction",
