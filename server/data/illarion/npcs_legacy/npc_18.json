@@ -4,7 +4,6 @@
   "y": 40,
   "z": 0,
   "facing": 6,
-  "isHealer": false,
   "name": "Nicolas",
   "script": "npc.nicolas",
   "sex": 0,

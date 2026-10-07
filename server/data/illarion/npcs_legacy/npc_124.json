@@ -4,7 +4,6 @@
   "y": -324,
   "z": 0,
   "facing": 0,
-  "isHealer": false,
   "name": "Tihgorac",
   "script": "npc.tihgorac",
   "sex": 0,

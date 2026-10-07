@@ -4,7 +4,6 @@
   "y": -100,
   "z": 0,
   "facing": 6,
-  "isHealer": false,
   "name": "Dorothy Applesong",
   "script": "npc.dorothy_applesong",
   "sex": 1,

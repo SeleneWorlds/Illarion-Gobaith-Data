@@ -4,7 +4,6 @@
   "y": -317,
   "z": -3,
   "facing": 2,
-  "isHealer": false,
   "name": "Magister Winfried Birks",
   "script": "npc.winfried_birks",
   "sex": 0,

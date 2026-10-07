@@ -4,7 +4,6 @@
   "y": -441,
   "z": 0,
   "facing": 4,
-  "isHealer": false,
   "name": "Hagar Wernson",
   "script": "npc.hagar_werson",
   "sex": 0,

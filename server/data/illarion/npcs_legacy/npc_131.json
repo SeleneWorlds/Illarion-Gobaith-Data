@@ -4,7 +4,6 @@
   "y": -6,
   "z": 0,
   "facing": 2,
-  "isHealer": false,
   "name": "Varkiosh the Forsaken",
   "script": "npc.varkiosh",
   "sex": 0,

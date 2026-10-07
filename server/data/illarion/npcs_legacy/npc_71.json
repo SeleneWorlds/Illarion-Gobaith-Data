@@ -4,7 +4,6 @@
   "y": -448,
   "z": -1,
   "facing": 6,
-  "isHealer": false,
   "name": "Kronk",
   "script": "npc.kronk_orcguard",
   "sex": 1,

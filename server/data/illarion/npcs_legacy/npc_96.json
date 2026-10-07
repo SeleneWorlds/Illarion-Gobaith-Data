@@ -4,7 +4,6 @@
   "y": 56,
   "z": 50,
   "facing": 6,
-  "isHealer": false,
   "name": "Rian Delarn",
   "script": "npc.rian_delarn",
   "sex": 0,

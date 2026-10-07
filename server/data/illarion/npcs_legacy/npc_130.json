@@ -4,7 +4,6 @@
   "y": 1,
   "z": 0,
   "facing": 4,
-  "isHealer": false,
   "name": "Uluhad",
   "script": "npc.uluhad",
   "sex": 0,

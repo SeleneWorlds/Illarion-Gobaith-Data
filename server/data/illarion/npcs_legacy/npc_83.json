@@ -4,7 +4,6 @@
   "y": -82,
   "z": 0,
   "facing": 4,
-  "isHealer": false,
   "name": "Miss Piggy",
   "script": "npc.miss_piggy",
   "sex": 1,

@@ -4,7 +4,6 @@
   "y": 1,
   "z": 1,
   "facing": 4,
-  "isHealer": false,
   "name": "Oldren Shmagging",
   "script": "npc.oldren_shmagging",
   "sex": 0,

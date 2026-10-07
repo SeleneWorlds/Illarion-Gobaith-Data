@@ -4,7 +4,6 @@
   "y": -123,
   "z": 1,
   "facing": 4,
-  "isHealer": false,
   "name": "Bernardo von Hochfels",
   "script": "npc.bernardo",
   "sex": 0,

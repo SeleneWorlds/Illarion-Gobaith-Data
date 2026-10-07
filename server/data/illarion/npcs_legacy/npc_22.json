@@ -4,7 +4,6 @@
   "y": 0,
   "z": 0,
   "facing": 6,
-  "isHealer": false,
   "name": "John Doe",
   "script": "npc.tbguard",
   "sex": 0,

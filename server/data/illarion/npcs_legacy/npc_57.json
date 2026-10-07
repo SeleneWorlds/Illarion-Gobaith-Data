@@ -4,7 +4,6 @@
   "y": -198,
   "z": -3,
   "facing": 4,
-  "isHealer": false,
   "name": "Goldra Felsreisser",
   "script": "npc.goldra_felsreisser",
   "sex": 1,

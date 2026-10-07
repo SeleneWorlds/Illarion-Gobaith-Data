@@ -6,7 +6,6 @@
     "z": -3
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Gambret Mandarett",
   "consequence": "illarion-gobaith:npc/gambret",
   "sex": 0,

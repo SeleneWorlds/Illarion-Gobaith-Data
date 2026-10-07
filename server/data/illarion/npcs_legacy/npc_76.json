@@ -4,7 +4,6 @@
   "y": -303,
   "z": 0,
   "facing": 6,
-  "isHealer": false,
   "name": "Lucius van Sareth",
   "script": "npc.lucius",
   "sex": 0,

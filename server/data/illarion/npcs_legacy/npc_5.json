@@ -4,7 +4,6 @@
   "y": -110,
   "z": 0,
   "facing": 4,
-  "isHealer": false,
   "name": "Amelia Kolodem",
   "script": "npc.amelia_kolodem",
   "sex": 1,

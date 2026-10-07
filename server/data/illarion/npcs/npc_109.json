@@ -6,7 +6,6 @@
     "z": 100
   },
   "facing": 0,
-  "isHealer": false,
   "name": "Yellow Cross",
   "script": "npc.special.yellowcross",
   "sex": 0,

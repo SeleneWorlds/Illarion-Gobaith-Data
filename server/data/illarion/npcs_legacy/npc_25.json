@@ -4,7 +4,6 @@
   "y": -93,
   "z": 0,
   "facing": 2,
-  "isHealer": false,
   "name": "Walter Ferendor",
   "script": "npc.walter_ferendor",
   "sex": 0,

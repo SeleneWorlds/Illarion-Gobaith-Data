@@ -4,7 +4,6 @@
   "y": -448,
   "z": 0,
   "facing": 4,
-  "isHealer": false,
   "name": "Meegog",
   "script": "npc.meegog",
   "sex": 0,

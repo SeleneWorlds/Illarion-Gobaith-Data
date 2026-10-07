@@ -4,7 +4,6 @@
   "y": 56,
   "z": 50,
   "facing": 4,
-  "isHealer": false,
   "name": "Foo Barlini",
   "script": "npc.foo_barlini",
   "sex": 0,

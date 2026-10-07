@@ -4,7 +4,6 @@
   "y": -100,
   "z": 0,
   "facing": 6,
-  "isHealer": false,
   "name": "Fredegar Bumbleroot",
   "script": "npc.fredegar_bumbleroot",
   "sex": 0,

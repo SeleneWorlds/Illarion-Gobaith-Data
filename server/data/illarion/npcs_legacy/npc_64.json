@@ -4,7 +4,6 @@
   "y": 80,
   "z": 100,
   "facing": 4,
-  "isHealer": false,
   "name": "Hirk",
   "script": "npc.hirk",
   "sex": 0,

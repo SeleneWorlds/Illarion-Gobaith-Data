@@ -4,7 +4,6 @@
   "y": -121,
   "z": 0,
   "facing": 6,
-  "isHealer": false,
   "name": "Saszsar Zszar",
   "script": "npc.saszsar_zszar",
   "sex": 0,

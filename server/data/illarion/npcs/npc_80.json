@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Maris Maroqu",
   "consequence": "illarion-gobaith:npc/maris",
   "sex": 0,

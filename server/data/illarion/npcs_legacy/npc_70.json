@@ -4,7 +4,6 @@
   "y": -435,
   "z": 0,
   "facing": 6,
-  "isHealer": false,
   "name": "Kar'kish",
   "script": "npc.karkish_orcguard",
   "sex": 1,

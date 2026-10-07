@@ -4,7 +4,6 @@
   "y": -447,
   "z": 1,
   "facing": 4,
-  "isHealer": false,
   "name": "Kurg",
   "script": "npc.kurg",
   "sex": 0,

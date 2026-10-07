@@ -4,7 +4,6 @@
   "y": 10,
   "z": 0,
   "facing": 2,
-  "isHealer": false,
   "name": "ABC",
   "script": "npc.abc",
   "sex": 0,

@@ -4,7 +4,6 @@
   "y": 108,
   "z": 100,
   "facing": 6,
-  "isHealer": false,
   "name": "Vandor Serias",
   "script": "npc.vandor_serias",
   "sex": 0,

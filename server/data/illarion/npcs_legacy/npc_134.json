@@ -4,7 +4,6 @@
   "y": -436,
   "z": 0,
   "facing": 4,
-  "isHealer": false,
   "name": "Yastahl",
   "script": "npc.yastahl",
   "sex": 0,

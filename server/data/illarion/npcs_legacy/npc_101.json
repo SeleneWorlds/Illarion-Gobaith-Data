@@ -4,7 +4,6 @@
   "y": 16,
   "z": 0,
   "facing": 4,
-  "isHealer": false,
   "name": "Stalljunge",
   "script": "npc.stalljunge",
   "sex": 0,

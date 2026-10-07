@@ -4,7 +4,6 @@
   "y": 6,
   "z": 0,
   "facing": 6,
-  "isHealer": false,
   "name": "Teophus",
   "script": "npc.aq004_1",
   "sex": 0,

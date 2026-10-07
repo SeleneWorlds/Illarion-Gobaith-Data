@@ -4,7 +4,6 @@
   "y": -12,
   "z": 0,
   "facing": 4,
-  "isHealer": false,
   "name": "Ferano",
   "script": "npc.ferano",
   "sex": 0,

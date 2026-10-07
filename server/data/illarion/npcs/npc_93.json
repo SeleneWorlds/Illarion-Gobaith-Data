@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Onor",
   "consequence": "illarion-gobaith:npc/onor",
   "sex": 0,

@@ -4,7 +4,6 @@
   "y": -103,
   "z": 1,
   "facing": 4,
-  "isHealer": false,
   "name": "Clarissa Bigglefoot",
   "script": "npc.aq003_2",
   "sex": 0,

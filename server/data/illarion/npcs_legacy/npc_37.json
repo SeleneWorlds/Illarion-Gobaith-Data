@@ -4,7 +4,6 @@
   "y": -191,
   "z": -3,
   "facing": 6,
-  "isHealer": false,
   "name": "Asgrimur",
   "script": "npc.asgrimur",
   "sex": 0,

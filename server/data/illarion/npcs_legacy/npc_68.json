@@ -4,7 +4,6 @@
   "y": -101,
   "z": 0,
   "facing": 4,
-  "isHealer": false,
   "name": "Jenny Copperneedle",
   "script": "npc.jenny_copperneedle",
   "sex": 0,

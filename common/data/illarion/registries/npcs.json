@@ -5,7 +5,6 @@
     "type": "integer",
     "coordinate": "coordinate",
     "facing": "Direction",
-    "isHealer": "boolean",
     "name": "string",
     "script": {
       "type": "string",

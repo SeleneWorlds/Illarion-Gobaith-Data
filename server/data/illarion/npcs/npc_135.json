@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 4,
-  "isHealer": false,
   "name": "Zaruk",
   "consequence": "illarion-gobaith:npc/zaruk",
   "sex": 0,

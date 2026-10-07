@@ -4,7 +4,6 @@
   "y": -145,
   "z": 0,
   "facing": 6,
-  "isHealer": false,
   "name": "Siloli",
   "script": "npc.siloli",
   "sex": 0,

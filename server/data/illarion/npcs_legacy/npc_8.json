@@ -4,7 +4,6 @@
   "y": 741,
   "z": 0,
   "facing": 4,
-  "isHealer": false,
   "name": "Bippi",
   "script": "npc.bippi_aquest28",
   "sex": 0,

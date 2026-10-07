@@ -4,7 +4,6 @@
   "y": -122,
   "z": 0,
   "facing": 4,
-  "isHealer": false,
   "name": "Sylvester",
   "script": "npc.aq005",
   "sex": 0,

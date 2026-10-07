@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 0,
-  "isHealer": false,
   "name": "SB Teleporter",
   "script": "npc.special.static_teleport",
   "sex": 0,

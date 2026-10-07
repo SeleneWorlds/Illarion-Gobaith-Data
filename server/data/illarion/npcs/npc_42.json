@@ -6,7 +6,6 @@
     "z": 0
   },
   "facing": 6,
-  "isHealer": false,
   "name": "Borgate Northoff",
   "consequence": "illarion-gobaith:npc/borgate",
   "sex": 0,

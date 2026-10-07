@@ -4,7 +4,6 @@
   "y": 53,
   "z": 0,
   "facing": 0,
-  "isHealer": false,
   "name": "Capitain Blackbeard",
   "script": "npc.blackbeard",
   "sex": 0,

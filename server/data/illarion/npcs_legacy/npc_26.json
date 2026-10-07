@@ -4,7 +4,6 @@
   "y": 62,
   "z": 100,
   "facing": 4,
-  "isHealer": false,
   "name": "Ward Blankman",
   "script": "npc.ward_blankman",
   "sex": 0,

@@ -4,7 +4,6 @@
   "y": -95,
   "z": 0,
   "facing": 0,
-  "isHealer": false,
   "name": "Aeron Ranthir",
   "script": "npc.aeron_ranthir",
   "sex": 0,

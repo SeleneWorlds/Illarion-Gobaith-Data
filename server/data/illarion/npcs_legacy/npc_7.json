@@ -4,7 +4,6 @@
   "y": 44,
   "z": 0,
   "facing": 6,
-  "isHealer": false,
   "name": "Barney Haycrop",
   "script": "npc.barney_haycrop",
   "sex": 0,

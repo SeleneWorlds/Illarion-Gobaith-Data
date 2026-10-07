@@ -4,7 +4,6 @@
   "y": -134,
   "z": 0,
   "facing": 2,
-  "isHealer": false,
   "name": "Marcus",
   "script": "npc.marcus",
   "sex": 0,

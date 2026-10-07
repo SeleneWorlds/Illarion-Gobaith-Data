@@ -4,7 +4,6 @@
   "y": -142,
   "z": 0,
   "facing": 6,
-  "isHealer": false,
   "name": "Krudash",
   "script": "npc.krudash_orcguard",
   "sex": 1,

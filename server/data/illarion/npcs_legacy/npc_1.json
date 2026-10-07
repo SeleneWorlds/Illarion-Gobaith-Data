@@ -4,7 +4,6 @@
   "y": -71,
   "z": 0,
   "facing": 0,
-  "isHealer": false,
   "name": "Ath’an Denam",
   "script": "npc.athan_denam",
   "sex": 0,

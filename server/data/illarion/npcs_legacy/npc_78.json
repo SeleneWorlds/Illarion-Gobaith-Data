@@ -4,7 +4,6 @@
   "y": -179,
   "z": -3,
   "facing": 6,
-  "isHealer": false,
   "name": "Magda Rosenzopf",
   "script": "npc.magda_rosenzopf",
   "sex": 1,
