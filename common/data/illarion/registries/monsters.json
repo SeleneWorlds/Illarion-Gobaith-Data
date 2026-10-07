@@ -1,4 +1,83 @@
 {
   "name": "monsters",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "race": {
+      "type": "registry",
+      "registry": "illarion:races"
+    },
+    "hitpoints": "integer",
+    "movementType": {
+      "type": "enum",
+      "values": [
+        {
+          "value": "walk",
+          "label": "Walk"
+        },
+        {
+          "value": "fly",
+          "label": "Fly"
+        }
+      ]
+    },
+    "canAttack": "boolean",
+    "canHealSelf": "boolean",
+    "size": "range",
+    "attributes": {
+      "type": "object",
+      "properties": {
+        "strength": "range",
+        "constitution": "range",
+        "dexterity": "range",
+        "agility": "range",
+        "intelligence": "range",
+        "perception": "range",
+        "essence": "range",
+        "willpower": "range"
+      }
+    },
+    "skills": {
+      "type": "map",
+      "keyType": {
+        "type": "registry",
+        "registry": "illarion:skills"
+      },
+      "valueType": "range"
+    },
+    "items": {
+      "type": "map",
+      "keyType": {
+        "type": "enum",
+        "values": [
+          { "value": "backpack", "label": "Backpack" },
+          { "value": "head", "label": "Head" },
+          { "value": "neck", "label": "Neck" },
+          { "value": "breast", "label": "Breast" },
+          { "value": "hands", "label": "Hands" },
+          { "value": "left hand", "label": "Left hand" },
+          { "value": "right hand", "label": "Right hand" },
+          { "value": "left finger", "label": "Left finger" },
+          { "value": "right finger", "label": "Right finger" },
+          { "value": "legs", "label": "Legs" },
+          { "value": "feet", "label": "Feet" },
+          { "value": "coat", "label": "Coat" }
+        ]
+      },
+      "valueType": {
+        "type": "object",
+        "properties": {
+          "item": {
+            "type": "registry",
+            "registry": "illarion:items"
+          },
+          "minCount": "integer",
+          "maxCount": "integer"
+        }
+      }
+    },
+    "script": {
+      "type": "string",
+      "optional": true
+    }
+  }
 }
