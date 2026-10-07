@@ -3,10 +3,18 @@
   "platform": "server",
   "schema": {
     "coordinate": "coordinate",
-    "range": "integer",
+    "range": {
+      "type": "distance",
+      "coordinate": "coordinate",
+      "min": 0
+    },
     "spawnTime": "range",
     "spawnAll": "boolean",
-    "spawnRange": "integer",
+    "spawnRange": {
+      "type": "distance",
+      "coordinate": "coordinate",
+      "min": 0
+    },
     "monsters": {
       "type": "map",
       "keyType": {
