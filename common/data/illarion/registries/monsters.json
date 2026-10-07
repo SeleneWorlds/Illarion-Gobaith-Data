@@ -41,7 +41,7 @@
         "type": "registry",
         "registry": "illarion:skills"
       },
-      "valueType": "range"
+      "valueType": { "type": "range", "min": 1, "max": 100 }
     },
     "items": {
       "type": "map",
@@ -69,7 +69,7 @@
             "type": "registry",
             "registry": "illarion:items"
           },
-          "count": "range"
+          "count": { "type": "range", "min": 1, "max": 250 }
         }
       }
     },
