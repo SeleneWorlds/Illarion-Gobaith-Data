@@ -1,4 +1,79 @@
 {
   "name": "items",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "volume": "integer",
+    "weight": "integer",
+    "agingSpeed": "integer",
+    "objectAfterRot": {
+      "type": "registry",
+      "registry": "illarion:items",
+      "optional": true
+    },
+    "script": "script",
+    "rotsInInventory": "boolean",
+    "brightness": "integer",
+    "worth": "integer",
+    "buyStack": "integer",
+    "maxStack": "integer",
+    "rareness": "integer",
+    "name": "string",
+    "level": "integer",
+    "armor": {
+      "type": "object",
+      "properties": {
+        "bodyParts": "integer",
+        "puncture": "integer",
+        "stroke": "integer",
+        "thrust": "integer",
+        "magicDisturbance": "integer",
+        "absorb": "integer",
+        "stiffness": "integer",
+        "type": "integer"
+      },
+      "optional": true
+    },
+    "impassable": {
+      "type": "boolean",
+      "optional": true
+    },
+    "specialItem": {
+      "type": "integer",
+      "optional": true
+    },
+    "passableAbove": {
+      "type": "boolean",
+      "optional": true
+    },
+    "visual": {
+      "type": "registry",
+      "registry": "selene:visuals"
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "id": "integer"
+      }
+    },
+    "weapon": {
+      "type": "object",
+      "properties": {
+        "attack": "integer",
+        "defense": "integer",
+        "accuracy": "integer",
+        "range": "integer",
+        "weaponType": "integer",
+        "ammunitionType": "integer",
+        "actionPoints": "integer",
+        "magicDisturbance": "integer",
+        "poison": "integer",
+        "fightingScript": "script"
+      },
+      "optional": true
+    },
+    "containerSlots": {
+      "type": "integer",
+      "optional": true
+    }
+  }
 }

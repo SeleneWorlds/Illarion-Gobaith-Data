@@ -1,4 +1,64 @@
 {
   "name": "races",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "minAge": "integer",
+    "maxAge": "integer",
+    "minHeight": "integer",
+    "maxHeight": "integer",
+    "minWeight": "integer",
+    "maxWeight": "integer",
+    "minAgility": "integer",
+    "maxAgility": "integer",
+    "minStrength": "integer",
+    "maxStrength": "integer",
+    "minIntelligence": "integer",
+    "maxIntelligence": "integer",
+    "minWillpower": "integer",
+    "maxWillpower": "integer",
+    "minConstitution": "integer",
+    "maxConstitution": "integer",
+    "minDexterity": "integer",
+    "maxDexterity": "integer",
+    "minEssence": "integer",
+    "maxEssence": "integer",
+    "minPerception": "integer",
+    "maxPerception": "integer",
+    "name": {
+      "type": "string",
+      "optional": true
+    },
+    "maxAttributePoints": {
+      "type": "integer",
+      "optional": true
+    },
+    "types": {
+      "type": "map",
+      "keyType": "integer",
+      "valueType": {
+        "type": "object",
+        "properties": {}
+      },
+      "optional": true
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "id": "integer",
+        "name": "string"
+      }
+    },
+    "strokeArmor": {
+      "type": "integer",
+      "optional": true
+    },
+    "punctureArmor": {
+      "type": "integer",
+      "optional": true
+    },
+    "thrustArmor": {
+      "type": "integer",
+      "optional": true
+    }
+  }
 }

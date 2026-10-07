@@ -1,4 +1,9 @@
 {
   "name": "spells",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "magicType": "integer",
+    "runes": "integer",
+    "script": "script"
+  }
 }

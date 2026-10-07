@@ -1,4 +1,17 @@
 {
   "name": "attributes",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "key": "string",
+        "name": "string",
+        "base": {
+          "type": "boolean",
+          "optional": true
+        }
+      }
+    }
+  }
 }

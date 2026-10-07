@@ -1,4 +1,28 @@
 {
-"name": "monster_spawns",
-"platform": "server"
+  "name": "monster_spawns",
+  "platform": "server",
+  "schema": {
+    "x": "integer",
+    "y": "integer",
+    "z": "integer",
+    "range": "integer",
+    "minSpawnTime": "integer",
+    "maxSpawnTime": "integer",
+    "spawnAll": "boolean",
+    "spawnRange": "integer",
+    "monsters": {
+      "type": "map",
+      "keyType": {
+        "type": "registry",
+        "registry": "illarion:monsters"
+      },
+      "valueType": "integer"
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "id": "integer"
+      }
+    }
+  }
 }

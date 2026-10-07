@@ -1,4 +1,13 @@
 {
   "name": "quests",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "script": "script",
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "id": "integer"
+      }
+    }
+  }
 }

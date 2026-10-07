@@ -1,4 +1,40 @@
 {
   "name": "starter_packs",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "skills": {
+      "type": "map",
+      "keyType": {
+        "type": "registry",
+        "registry": "illarion:skills"
+      },
+      "valueType": {
+        "type": "object",
+        "properties": {
+          "value": "integer"
+        }
+      }
+    },
+    "items": {
+      "type": "map",
+      "keyType": "integer",
+      "valueType": {
+        "type": "object",
+        "properties": {
+          "itemId": {
+            "type": "registry",
+            "registry": "illarion:items"
+          },
+          "count": "integer",
+          "quality": "integer"
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "id": "integer"
+      }
+    }
+  }
 }

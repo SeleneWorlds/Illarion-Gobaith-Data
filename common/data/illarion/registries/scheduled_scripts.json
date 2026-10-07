@@ -1,4 +1,10 @@
 {
   "name": "scheduled_scripts",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "script": "script",
+    "function": "string",
+    "minInterval": "integer",
+    "maxInterval": "integer"
+  }
 }

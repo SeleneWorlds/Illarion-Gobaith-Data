@@ -1,4 +1,13 @@
 {
   "name": "skill_groups",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "id": "integer",
+        "name": "string"
+      }
+    }
+  }
 }

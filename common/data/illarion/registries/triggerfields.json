@@ -1,4 +1,10 @@
 {
   "name": "triggerfields",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "x": "integer",
+    "y": "integer",
+    "z": "integer",
+    "script": "script"
+  }
 }

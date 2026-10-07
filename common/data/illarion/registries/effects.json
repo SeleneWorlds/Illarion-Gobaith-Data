@@ -1,4 +1,15 @@
 {
   "name": "effects",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "name": "string",
+    "script": "script",
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "id": "integer",
+        "name": "string"
+      }
+    }
+  }
 }

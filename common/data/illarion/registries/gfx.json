@@ -1,4 +1,18 @@
 {
   "name": "gfx",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "visual": {
+      "type": "registry",
+      "registry": "selene:visuals"
+    },
+    "timeline": "string",
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "gfxId": "integer",
+        "name": "string"
+      }
+    }
+  }
 }
