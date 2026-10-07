@@ -107,10 +107,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_178"
       },
       "256": {
@@ -119,10 +123,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_175"
       },
       "257": {
@@ -131,10 +139,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_174"
       },
       "258": {
@@ -143,10 +155,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_55"
       },
       "259": {
@@ -155,10 +171,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_179"
       }
     },
@@ -169,10 +189,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_63"
       },
       "261": {
@@ -181,10 +205,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_391"
       },
       "262": {
@@ -193,10 +221,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_390"
       },
       "263": {
@@ -205,10 +237,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_399"
       },
       "264": {
@@ -217,10 +253,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_397"
       }
     },
@@ -231,10 +271,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_2664"
       },
       "266": {
@@ -243,10 +287,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_230"
       },
       "267": {
@@ -255,10 +303,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_56"
       },
       "268": {
@@ -267,10 +319,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_2786"
       },
       "269": {
@@ -279,10 +335,14 @@
           "min": 1,
           "max": 1
         },
-        "minQuality": 1,
-        "maxQuality": 2,
-        "minDurability": 11,
-        "maxDurability": 22,
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
         "item": "illarion:item_39"
       }
     },
@@ -293,10 +353,14 @@
           "min": 10,
           "max": 30
         },
-        "minQuality": 3,
-        "maxQuality": 3,
-        "minDurability": 33,
-        "maxDurability": 33,
+        "quality": {
+          "min": 3,
+          "max": 3
+        },
+        "durability": {
+          "min": 33,
+          "max": 33
+        },
         "item": "illarion:item_3076"
       }
     }
