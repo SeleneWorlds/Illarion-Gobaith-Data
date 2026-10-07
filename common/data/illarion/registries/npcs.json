@@ -1,4 +1,41 @@
 {
   "name": "npcs",
-  "platform": "server"
+  "platform": "server",
+  "schema": {
+    "type": "integer",
+    "coordinate": "coordinate",
+    "facing": "Direction",
+    "isHealer": "boolean",
+    "name": "string",
+    "script": {
+      "type": "string",
+      "optional": true
+    },
+    "sex": {
+      "type": "enum",
+      "values": [
+        {
+          "value": 0,
+          "label": "Male"
+        },
+        {
+          "value": 1,
+          "label": "Female"
+        }
+      ]
+    },
+    "race": {
+      "type": "registry",
+      "registry": "illarion:races"
+    },
+    "entity": {
+      "type": "registry",
+      "registry": "selene:entities"
+    },
+    "consequence": {
+      "type": "registry",
+      "registry": "consequence:interactions",
+      "optional": true
+    }
+  }
 }
