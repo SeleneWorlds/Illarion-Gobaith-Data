@@ -75,7 +75,7 @@
       }
     },
     "script": {
-      "type": "string",
+      "type": "script",
       "optional": true
     }
   }
