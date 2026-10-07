@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_23_blue_spider.id_232_shadowmuncher",
   "minSize": 110,
   "maxSize": 120,

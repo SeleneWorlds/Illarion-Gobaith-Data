@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_59_beetle.default",
   "minSize": 90,
   "maxSize": 100,

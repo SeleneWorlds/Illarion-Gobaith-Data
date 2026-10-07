@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_63_bone_dragon.id_636_ice",
   "minSize": 80,
   "maxSize": 85,

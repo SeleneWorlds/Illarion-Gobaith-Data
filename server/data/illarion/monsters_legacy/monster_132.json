@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_13_black_beholder.id_132_eye_of_darkness",
   "minSize": 100,
   "maxSize": 120,

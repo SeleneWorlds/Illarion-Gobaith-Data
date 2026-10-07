@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": true,
   "script": "monster.race_6_drow.id_66_matriarch",
   "minSize": 80,
   "maxSize": 120,

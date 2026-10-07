@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "fly",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_27_wasp.id_278_fire_wasp",
   "minSize": 85,
   "maxSize": 90,

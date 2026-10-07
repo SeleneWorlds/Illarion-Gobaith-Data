@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_57_ratman.id_578_priest",
   "minSize": 90,
   "maxSize": 105,

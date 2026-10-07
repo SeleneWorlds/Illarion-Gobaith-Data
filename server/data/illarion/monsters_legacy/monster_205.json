@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_20_demon_skeleton.id_205_lich",
   "minSize": 80,
   "maxSize": 120,

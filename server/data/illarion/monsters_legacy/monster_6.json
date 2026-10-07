@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": false,
-  "canHealSelf": false,
   "script": "monster.race_0_human.default",
   "minSize": 90,
   "maxSize": 110,

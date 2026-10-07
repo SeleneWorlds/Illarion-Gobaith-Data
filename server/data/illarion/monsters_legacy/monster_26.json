@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": false,
-  "canHealSelf": false,
   "script": "monster.race_2_halfling.default",
   "minSize": 90,
   "maxSize": 110,

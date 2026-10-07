@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": false,
-  "canHealSelf": false,
   "script": "monster.race_116_deer.default",
   "minSize": 80,
   "maxSize": 120,

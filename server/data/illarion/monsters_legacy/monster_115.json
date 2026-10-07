@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_11_skeleton.id_115_mystic",
   "minSize": 80,
   "maxSize": 120,

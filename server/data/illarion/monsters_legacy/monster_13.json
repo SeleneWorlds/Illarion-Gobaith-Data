@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_1_dwarf.id_13_priest",
   "minSize": 80,
   "maxSize": 120,

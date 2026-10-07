@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_26_transparent_spider.default",
   "minSize": 80,
   "maxSize": 100,

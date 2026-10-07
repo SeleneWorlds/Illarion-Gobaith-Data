@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_56_irongolem.id_564_gold",
   "minSize": 115,
   "maxSize": 120,

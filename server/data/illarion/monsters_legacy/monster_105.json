@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_10_mummy.id_105_chergas_servant",
   "minSize": 110,
   "maxSize": 120,

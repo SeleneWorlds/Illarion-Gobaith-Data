@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": false,
-  "canHealSelf": false,
   "script": "monster.race_61_slime.id_616_old_slime",
   "minSize": 100,
   "maxSize": 100,

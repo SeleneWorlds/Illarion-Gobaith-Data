@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_26_transparent_spider.id_262_soulpain",
   "minSize": 110,
   "maxSize": 120,

@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_0_human.id_7_dark_paladin",
   "minSize": 80,
   "maxSize": 120,

@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_30_golem.id_305_silver_golem",
   "minSize": 100,
   "maxSize": 105,

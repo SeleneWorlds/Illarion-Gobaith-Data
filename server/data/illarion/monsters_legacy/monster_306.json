@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_30_golem.id_306_dimond_golem",
   "minSize": 110,
   "maxSize": 115,

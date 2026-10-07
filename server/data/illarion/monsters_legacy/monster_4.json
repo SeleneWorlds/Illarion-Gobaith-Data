@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_0_human.id_4_necromancer",
   "minSize": 80,
   "maxSize": 120,

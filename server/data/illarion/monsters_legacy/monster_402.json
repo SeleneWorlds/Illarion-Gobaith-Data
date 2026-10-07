@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_40_wolf.id_402_lambslaughterer",
   "minSize": 119,
   "maxSize": 120,

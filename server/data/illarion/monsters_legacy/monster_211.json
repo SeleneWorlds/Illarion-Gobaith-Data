@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_21_red_spider.id_211_fire_spider",
   "minSize": 80,
   "maxSize": 90,

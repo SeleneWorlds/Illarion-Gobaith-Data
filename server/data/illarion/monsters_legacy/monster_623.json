@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_62_chicken.id_623_crazy",
   "minSize": 100,
   "maxSize": 120,

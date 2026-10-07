@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_78_golden_skeleton.default",
   "minSize": 120,
   "maxSize": 120,

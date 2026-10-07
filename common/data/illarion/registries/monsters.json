@@ -21,7 +21,6 @@
       ]
     },
     "canAttack": "boolean",
-    "canHealSelf": "boolean",
     "size": "range",
     "attributes": {
       "type": "object",

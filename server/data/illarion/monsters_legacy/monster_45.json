@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_4_orc.id_45_shaman",
   "minSize": 80,
   "maxSize": 120,

@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "fly",
   "canAttack": false,
-  "canHealSelf": false,
   "script": "monster.race_115_fairy.id_1154_elemental_fairy",
   "minSize": 80,
   "maxSize": 120,

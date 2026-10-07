@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_89_red_imp.id_892_cursed",
   "minSize": 90,
   "maxSize": 110,

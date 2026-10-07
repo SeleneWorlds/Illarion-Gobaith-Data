@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_10_mummy.id_107_madness",
   "minSize": 80,
   "maxSize": 120,

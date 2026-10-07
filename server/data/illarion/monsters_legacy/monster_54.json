@@ -3,7 +3,6 @@
   "hitpoints": 10000,
   "movementType": "walk",
   "canAttack": true,
-  "canHealSelf": false,
   "script": "monster.race_5_lizard.id_54_priest",
   "minSize": 80,
   "maxSize": 120,
