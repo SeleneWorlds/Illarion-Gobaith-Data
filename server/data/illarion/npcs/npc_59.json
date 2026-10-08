@@ -8,7 +8,7 @@
   },
   "facing": 4,
   "name": "Grugash",
-  "script": "nc.grugash",
+  "script": "",
   "sex": 0,
   "race": "illarion:race_4",
   "entity": "illarion:races/race_4_0",
