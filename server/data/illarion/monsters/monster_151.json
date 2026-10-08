@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_15_spiders",
   "metadata": {
-    "id": 151
+    "id": 151,
+    "name": "Veteran Diamond-Hoarding Spider"
   }
 }

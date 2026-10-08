@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_27_maledrows",
   "metadata": {
-    "id": 273
+    "id": 273,
+    "name": "Veteran Male Drow Mage"
   }
 }

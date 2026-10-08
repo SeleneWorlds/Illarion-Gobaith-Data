@@ -358,6 +358,7 @@
   },
   "script": "monster.mon_17_demonskeletons",
   "metadata": {
-    "id": 174
+    "id": 174,
+    "name": "Veteran Demon Skeleton Skirmisher"
   }
 }

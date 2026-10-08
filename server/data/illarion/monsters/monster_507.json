@@ -352,6 +352,7 @@
   "items": {},
   "script": "monster.mon_50_elementary",
   "metadata": {
-    "id": 507
+    "id": 507,
+    "name": "Veteran Invisible Elemental"
   }
 }

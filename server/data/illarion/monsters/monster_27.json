@@ -399,6 +399,7 @@
   },
   "script": "monster.mon_2_halflings",
   "metadata": {
-    "id": 27
+    "id": 27,
+    "name": "Halfling Archer (Variant 2)"
   }
 }

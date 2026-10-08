@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_5_lizards",
   "metadata": {
-    "id": 59
+    "id": 59,
+    "name": "Lizardman Scholar (Variant 2)"
   }
 }

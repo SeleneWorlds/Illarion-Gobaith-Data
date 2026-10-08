@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_27_maledrows",
   "metadata": {
-    "id": 278
+    "id": 278,
+    "name": "Elite Male Drow Halberdier"
   }
 }

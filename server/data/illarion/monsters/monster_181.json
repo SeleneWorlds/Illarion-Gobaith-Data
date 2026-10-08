@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_18_rotworms",
   "metadata": {
-    "id": 181
+    "id": 181,
+    "name": "Lesser Candle-Hoarding Rotworm"
   }
 }

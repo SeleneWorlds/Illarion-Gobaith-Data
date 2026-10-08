@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_9_goblins",
   "metadata": {
-    "id": 91
+    "id": 91,
+    "name": "Goblin Warrior"
   }
 }

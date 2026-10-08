@@ -360,6 +360,7 @@
   },
   "script": "monster.mon_14_beholders",
   "metadata": {
-    "id": 141
+    "id": 141,
+    "name": "Elite Topaz-Hoarding Floating Eye"
   }
 }

@@ -381,6 +381,7 @@
   },
   "script": "monster.mon_50_elementary",
   "metadata": {
-    "id": 508
+    "id": 508,
+    "name": "Elite Invisible Elemental (Steel Greaves Hoarder)"
   }
 }

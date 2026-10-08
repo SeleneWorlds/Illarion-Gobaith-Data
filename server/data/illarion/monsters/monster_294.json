@@ -171,6 +171,7 @@
   },
   "script": "monster.mon_29_animals",
   "metadata": {
-    "id": 294
+    "id": 294,
+    "name": "Deer"
   }
 }

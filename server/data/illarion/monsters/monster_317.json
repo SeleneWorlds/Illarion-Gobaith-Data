@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_31_gnomes",
   "metadata": {
-    "id": 317
+    "id": 317,
+    "name": "Veteran Gnome Crusher (Variant 2)"
   }
 }

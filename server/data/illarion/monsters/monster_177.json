@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_17_demonskeletons",
   "metadata": {
-    "id": 177
+    "id": 177,
+    "name": "Mighty Demon Skeleton Mage (Mage Robe Hoarder)"
   }
 }

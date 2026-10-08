@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_3_elves",
   "metadata": {
-    "id": 32
+    "id": 32,
+    "name": "Elf Knight"
   }
 }

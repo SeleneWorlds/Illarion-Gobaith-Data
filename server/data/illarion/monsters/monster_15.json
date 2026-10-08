@@ -399,6 +399,7 @@
   },
   "script": "monster.mon_1_dwarfs",
   "metadata": {
-    "id": 15
+    "id": 15,
+    "name": "Dwarf Hunter"
   }
 }

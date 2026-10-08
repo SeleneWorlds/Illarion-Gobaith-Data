@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_21_skulls",
   "metadata": {
-    "id": 216
+    "id": 216,
+    "name": "Common Skeleton Crusher (Short Chain Trousers Hoarder)"
   }
 }

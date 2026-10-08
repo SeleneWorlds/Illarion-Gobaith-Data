@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_27_maledrows",
   "metadata": {
-    "id": 279
+    "id": 279,
+    "name": "Elite Male Drow Mage"
   }
 }

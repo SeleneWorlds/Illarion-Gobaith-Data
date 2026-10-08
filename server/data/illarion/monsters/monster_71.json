@@ -155,6 +155,7 @@
   },
   "script": "monster.mon_7_panthers",
   "metadata": {
-    "id": 71
+    "id": 71,
+    "name": "Panther"
   }
 }

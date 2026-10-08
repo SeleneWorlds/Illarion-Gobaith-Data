@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_11_skeletons",
   "metadata": {
-    "id": 111
+    "id": 111,
+    "name": "Common Skeleton Skirmisher (Chain Helmet Hoarder)"
   }
 }

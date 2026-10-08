@@ -116,6 +116,7 @@
   "drops": {},
   "script": "monster.mon_18_rotworms",
   "metadata": {
-    "id": 186
+    "id": 186,
+    "name": "Weak Rotworm"
   }
 }

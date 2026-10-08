@@ -114,6 +114,7 @@
   },
   "script": "monster.mon_13_flies",
   "metadata": {
-    "id": 131
+    "id": 131,
+    "name": "Weak Insect"
   }
 }

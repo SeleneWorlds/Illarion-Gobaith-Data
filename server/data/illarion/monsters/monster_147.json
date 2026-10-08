@@ -391,6 +391,7 @@
   },
   "script": "monster.mon_14_beholders",
   "metadata": {
-    "id": 147
+    "id": 147,
+    "name": "Ancient Amethyst-Hoarding Floating Eye"
   }
 }

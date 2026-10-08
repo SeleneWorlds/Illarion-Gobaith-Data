@@ -128,6 +128,7 @@
   },
   "script": "monster.mon_13_flies",
   "metadata": {
-    "id": 138
+    "id": 138,
+    "name": "Fierce Insect (Variant 2)"
   }
 }

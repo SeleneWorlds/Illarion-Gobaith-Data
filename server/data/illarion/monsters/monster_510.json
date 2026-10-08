@@ -381,6 +381,7 @@
   },
   "script": "monster.mon_50_elementary",
   "metadata": {
-    "id": 510
+    "id": 510,
+    "name": "Mighty Invisible Elemental"
   }
 }

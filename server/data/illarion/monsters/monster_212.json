@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_21_skulls",
   "metadata": {
-    "id": 212
+    "id": 212,
+    "name": "Common Skeleton Archer"
   }
 }

@@ -402,6 +402,7 @@
   },
   "script": "monster.mon_28_femaledrows",
   "metadata": {
-    "id": 283
+    "id": 283,
+    "name": "Mighty Female Drow Mage"
   }
 }

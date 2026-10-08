@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_27_maledrows",
   "metadata": {
-    "id": 274
+    "id": 274,
+    "name": "Veteran Male Drow Thief"
   }
 }

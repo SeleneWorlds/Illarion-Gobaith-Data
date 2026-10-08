@@ -171,6 +171,7 @@
   },
   "script": "monster.mon_29_animals",
   "metadata": {
-    "id": 293
+    "id": 293,
+    "name": "Cow"
   }
 }

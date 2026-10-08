@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_26_dragons",
   "metadata": {
-    "id": 266
+    "id": 266,
+    "name": "Common Dragon"
   }
 }

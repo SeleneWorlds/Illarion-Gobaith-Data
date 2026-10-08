@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_1_dwarfs",
   "metadata": {
-    "id": 11
+    "id": 11,
+    "name": "Dwarf Warrior"
   }
 }

@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_3_elves",
   "metadata": {
-    "id": 37
+    "id": 37,
+    "name": "Elf Elite Archer"
   }
 }

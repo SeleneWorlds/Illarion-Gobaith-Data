@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_25_gnolls",
   "metadata": {
-    "id": 254
+    "id": 254,
+    "name": "Veteran Gnoll Archer"
   }
 }

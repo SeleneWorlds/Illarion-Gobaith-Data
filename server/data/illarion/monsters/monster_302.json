@@ -404,6 +404,7 @@
   },
   "script": "monster.mon_30_stonegolems",
   "metadata": {
-    "id": 302
+    "id": 302,
+    "name": "Legendary Golem"
   }
 }

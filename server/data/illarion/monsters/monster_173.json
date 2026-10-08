@@ -116,6 +116,7 @@
   "drops": {},
   "script": "monster.mon_17_demonskeletons",
   "metadata": {
-    "id": 173
+    "id": 173,
+    "name": "Ancient Demon Skeleton Archer"
   }
 }

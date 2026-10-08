@@ -371,6 +371,7 @@
   },
   "script": "monster.mon_14_beholders",
   "metadata": {
-    "id": 144
+    "id": 144,
+    "name": "Mighty Diamond-Hoarding Floating Eye"
   }
 }

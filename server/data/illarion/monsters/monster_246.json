@@ -102,6 +102,7 @@
   "drops": {},
   "script": "monster.mon_24_ogres",
   "metadata": {
-    "id": 246
+    "id": 246,
+    "name": "Weak Cave Troll Commoner"
   }
 }

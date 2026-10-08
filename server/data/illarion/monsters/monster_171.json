@@ -381,6 +381,7 @@
   },
   "script": "monster.mon_17_demonskeletons",
   "metadata": {
-    "id": 171
+    "id": 171,
+    "name": "Mighty Demon Skeleton Mage (Nightplate Hoarder)"
   }
 }

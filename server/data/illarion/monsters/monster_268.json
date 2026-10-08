@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_26_dragons",
   "metadata": {
-    "id": 268
+    "id": 268,
+    "name": "Elite Sabre-Hoarding Dragon"
   }
 }

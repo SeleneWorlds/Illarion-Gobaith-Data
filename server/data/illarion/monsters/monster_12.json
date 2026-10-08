@@ -420,6 +420,7 @@
   },
   "script": "monster.mon_1_dwarfs",
   "metadata": {
-    "id": 12
+    "id": 12,
+    "name": "Dwarf Champion"
   }
 }

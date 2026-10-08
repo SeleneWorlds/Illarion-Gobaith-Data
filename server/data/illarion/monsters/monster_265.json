@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_26_dragons",
   "metadata": {
-    "id": 265
+    "id": 265,
+    "name": "Seasoned Topaz-Hoarding Dragon"
   }
 }

@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_28_femaledrows",
   "metadata": {
-    "id": 286
+    "id": 286,
+    "name": "Veteran Female Drow Mage"
   }
 }

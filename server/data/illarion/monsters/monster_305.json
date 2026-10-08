@@ -381,6 +381,7 @@
   },
   "script": "monster.mon_30_stonegolems",
   "metadata": {
-    "id": 305
+    "id": 305,
+    "name": "Silver Golem"
   }
 }

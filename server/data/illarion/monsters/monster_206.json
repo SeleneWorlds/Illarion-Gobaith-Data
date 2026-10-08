@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_20_demons",
   "metadata": {
-    "id": 206
+    "id": 206,
+    "name": "Elite Demon Axeman"
   }
 }

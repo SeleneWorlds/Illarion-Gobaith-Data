@@ -360,6 +360,7 @@
   },
   "script": "monster.mon_18_rotworms",
   "metadata": {
-    "id": 189
+    "id": 189,
+    "name": "Elite Rotworm"
   }
 }

@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_5_lizards",
   "metadata": {
-    "id": 57
+    "id": 57,
+    "name": "Lizardman Warrior (Variant 2)"
   }
 }

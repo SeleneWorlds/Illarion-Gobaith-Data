@@ -153,6 +153,7 @@
   },
   "script": "monster.mon_29_animals",
   "metadata": {
-    "id": 292
+    "id": 292,
+    "name": "Pig"
   }
 }

@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_10_mummies",
   "metadata": {
-    "id": 104
+    "id": 104,
+    "name": "Lesser Mummy Commoner"
   }
 }

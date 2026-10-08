@@ -420,6 +420,7 @@
   },
   "script": "monster.mon_31_gnomes",
   "metadata": {
-    "id": 318
+    "id": 318,
+    "name": "Elite Gnome Fighter (Variant 2)"
   }
 }

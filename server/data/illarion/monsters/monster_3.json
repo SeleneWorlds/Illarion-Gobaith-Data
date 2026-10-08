@@ -420,6 +420,7 @@
   },
   "script": "monster.mon_0_humans",
   "metadata": {
-    "id": 3
+    "id": 3,
+    "name": "Human Mage"
   }
 }

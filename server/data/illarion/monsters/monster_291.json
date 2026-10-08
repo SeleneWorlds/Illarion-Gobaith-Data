@@ -135,6 +135,7 @@
   },
   "script": "monster.mon_29_animals",
   "metadata": {
-    "id": 291
+    "id": 291,
+    "name": "Sheep"
   }
 }

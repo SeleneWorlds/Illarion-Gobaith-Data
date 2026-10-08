@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_25_gnolls",
   "metadata": {
-    "id": 251
+    "id": 251,
+    "name": "Veteran Gnoll Axeman (Variant 1)"
   }
 }

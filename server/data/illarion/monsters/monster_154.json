@@ -376,6 +376,7 @@
   },
   "script": "monster.mon_15_spiders",
   "metadata": {
-    "id": 154
+    "id": 154,
+    "name": "Mighty Spider"
   }
 }

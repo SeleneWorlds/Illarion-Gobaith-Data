@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_26_dragons",
   "metadata": {
-    "id": 264
+    "id": 264,
+    "name": "Mighty Dragon"
   }
 }

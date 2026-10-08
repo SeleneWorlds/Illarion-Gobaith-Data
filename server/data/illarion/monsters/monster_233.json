@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_23_ghostskeletons",
   "metadata": {
-    "id": 233
+    "id": 233,
+    "name": "Common Ghost Skeleton Skirmisher (Gynkese Mercenarys Helmet Hoarder)"
   }
 }

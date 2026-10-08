@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_15_spiders",
   "metadata": {
-    "id": 157
+    "id": 157,
+    "name": "Elite Armoured Spider"
   }
 }

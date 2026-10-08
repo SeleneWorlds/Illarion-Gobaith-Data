@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_19_lesserdemons",
   "metadata": {
-    "id": 192
+    "id": 192,
+    "name": "Common Lesser Demon Skirmisher (Gynkese Mercenarys Helmet Hoarder)"
   }
 }

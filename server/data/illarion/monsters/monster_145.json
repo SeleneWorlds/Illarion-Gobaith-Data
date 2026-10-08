@@ -391,6 +391,7 @@
   },
   "script": "monster.mon_14_beholders",
   "metadata": {
-    "id": 145
+    "id": 145,
+    "name": "Ancient Emerald-Hoarding Floating Eye"
   }
 }

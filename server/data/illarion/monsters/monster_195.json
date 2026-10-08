@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_19_lesserdemons",
   "metadata": {
-    "id": 195
+    "id": 195,
+    "name": "Common Lesser Demon Crusher"
   }
 }

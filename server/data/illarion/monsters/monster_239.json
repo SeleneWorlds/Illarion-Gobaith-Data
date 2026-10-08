@@ -381,6 +381,7 @@
   },
   "script": "monster.mon_23_ghostskeletons",
   "metadata": {
-    "id": 239
+    "id": 239,
+    "name": "Elite Ghost Skeleton Swordsman"
   }
 }

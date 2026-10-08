@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_4_orcs",
   "metadata": {
-    "id": 42
+    "id": 42,
+    "name": "Orc Chieftain"
   }
 }

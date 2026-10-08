@@ -116,6 +116,7 @@
   "drops": {},
   "script": "monster.mon_23_ghostskeletons",
   "metadata": {
-    "id": 237
+    "id": 237,
+    "name": "Weak Ghost Skeleton Commoner"
   }
 }

@@ -102,6 +102,7 @@
   "drops": {},
   "script": "monster.mon_22_foresttrolls",
   "metadata": {
-    "id": 226
+    "id": 226,
+    "name": "Weak Forest Troll Commoner"
   }
 }

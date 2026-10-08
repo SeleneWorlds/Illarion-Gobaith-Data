@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_18_rotworms",
   "metadata": {
-    "id": 183
+    "id": 183,
+    "name": "Lesser Torch-Hoarding Rotworm"
   }
 }

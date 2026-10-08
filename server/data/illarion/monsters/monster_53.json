@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_5_lizards",
   "metadata": {
-    "id": 53
+    "id": 53,
+    "name": "Lizardman Scholar"
   }
 }

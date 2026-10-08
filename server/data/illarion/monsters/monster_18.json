@@ -420,6 +420,7 @@
   },
   "script": "monster.mon_1_dwarfs",
   "metadata": {
-    "id": 18
+    "id": 18,
+    "name": "Dwarf Champion (Variant 2)"
   }
 }

@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_25_gnolls",
   "metadata": {
-    "id": 258
+    "id": 258,
+    "name": "Elite Gnoll Crusher (Variant 2)"
   }
 }

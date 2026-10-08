@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_3_elves",
   "metadata": {
-    "id": 34
+    "id": 34,
+    "name": "Elf Assassin"
   }
 }

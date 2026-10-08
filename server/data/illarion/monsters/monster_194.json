@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_19_lesserdemons",
   "metadata": {
-    "id": 194
+    "id": 194,
+    "name": "Young Lesser Demon Swordsman"
   }
 }

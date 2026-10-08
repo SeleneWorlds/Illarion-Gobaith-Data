@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_16_scorpions",
   "metadata": {
-    "id": 161
+    "id": 161,
+    "name": "Scorpion"
   }
 }

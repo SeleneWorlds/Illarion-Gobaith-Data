@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_28_femaledrows",
   "metadata": {
-    "id": 284
+    "id": 284,
+    "name": "Veteran Female Drow Swordsman"
   }
 }

@@ -377,6 +377,7 @@
   },
   "script": "monster.mon_20_demons",
   "metadata": {
-    "id": 202
+    "id": 202,
+    "name": "Mighty Demon Swordsman"
   }
 }

@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_19_lesserdemons",
   "metadata": {
-    "id": 193
+    "id": 193,
+    "name": "Seasoned Lesser Demon Crusher"
   }
 }

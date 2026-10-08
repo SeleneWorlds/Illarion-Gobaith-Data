@@ -116,6 +116,7 @@
   "drops": {},
   "script": "monster.mon_50_elementary",
   "metadata": {
-    "id": 506
+    "id": 506,
+    "name": "Weak Invisible Elemental"
   }
 }

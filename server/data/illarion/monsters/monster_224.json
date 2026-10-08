@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_22_foresttrolls",
   "metadata": {
-    "id": 224
+    "id": 224,
+    "name": "Veteran Forest Troll Archer"
   }
 }

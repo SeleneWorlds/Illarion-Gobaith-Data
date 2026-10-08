@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_15_spiders",
   "metadata": {
-    "id": 152
+    "id": 152,
+    "name": "Veteran Rabbit-Hunting Spider"
   }
 }

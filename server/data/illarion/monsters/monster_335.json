@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_9_goblins",
   "metadata": {
-    "id": 335
+    "id": 335,
+    "name": "Elite Goblin Archer (Studded Leather Gloves Hoarder)"
   }
 }

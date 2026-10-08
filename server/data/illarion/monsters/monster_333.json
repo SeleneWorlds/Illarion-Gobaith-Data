@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_9_goblins",
   "metadata": {
-    "id": 333
+    "id": 333,
+    "name": "Elite Goblin Archer (Leather Boots Hoarder)"
   }
 }

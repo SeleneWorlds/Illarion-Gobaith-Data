@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_18_rotworms",
   "metadata": {
-    "id": 188
+    "id": 188,
+    "name": "Veteran Rotworm"
   }
 }

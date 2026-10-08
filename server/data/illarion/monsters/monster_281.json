@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_28_femaledrows",
   "metadata": {
-    "id": 281
+    "id": 281,
+    "name": "Elite Female Drow Skirmisher"
   }
 }

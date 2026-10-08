@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_24_ogres",
   "metadata": {
-    "id": 245
+    "id": 245,
+    "name": "Veteran Cave Troll Mage"
   }
 }

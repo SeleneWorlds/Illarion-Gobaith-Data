@@ -399,6 +399,7 @@
   },
   "script": "monster.mon_5_lizards",
   "metadata": {
-    "id": 55
+    "id": 55,
+    "name": "Lizardman Thief"
   }
 }

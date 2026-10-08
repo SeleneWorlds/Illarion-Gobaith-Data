@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_4_orcs",
   "metadata": {
-    "id": 49
+    "id": 49,
+    "name": "Orc Thief (Variant 2)"
   }
 }

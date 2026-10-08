@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_18_rotworms",
   "metadata": {
-    "id": 185
+    "id": 185,
+    "name": "Seasoned Rotworm"
   }
 }

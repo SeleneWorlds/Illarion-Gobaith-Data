@@ -377,6 +377,7 @@
   },
   "script": "monster.mon_15_spiders",
   "metadata": {
-    "id": 159
+    "id": 159,
+    "name": "Ancient Spider"
   }
 }

@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_10_mummies",
   "metadata": {
-    "id": 101
+    "id": 101,
+    "name": "Lesser Mummy Skirmisher"
   }
 }

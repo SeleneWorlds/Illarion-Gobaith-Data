@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_1_dwarfs",
   "metadata": {
-    "id": 14
+    "id": 14,
+    "name": "Dwarf Smith"
   }
 }

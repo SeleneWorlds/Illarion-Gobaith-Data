@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_14_beholders",
   "metadata": {
-    "id": 142
+    "id": 142,
+    "name": "Elite Ruby-Hoarding Floating Eye"
   }
 }

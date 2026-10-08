@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_15_spiders",
   "metadata": {
-    "id": 156
+    "id": 156,
+    "name": "Seasoned Coal-Hoarding Spider"
   }
 }

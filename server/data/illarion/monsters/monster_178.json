@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_17_demonskeletons",
   "metadata": {
-    "id": 178
+    "id": 178,
+    "name": "Elite Demon Skeleton Archer"
   }
 }

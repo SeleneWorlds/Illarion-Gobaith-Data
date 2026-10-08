@@ -116,6 +116,7 @@
   "drops": {},
   "script": "monster.mon_9_goblins",
   "metadata": {
-    "id": 96
+    "id": 96,
+    "name": "Goblin Commoner"
   }
 }

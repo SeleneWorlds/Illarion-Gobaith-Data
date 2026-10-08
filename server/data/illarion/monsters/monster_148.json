@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_14_beholders",
   "metadata": {
-    "id": 148
+    "id": 148,
+    "name": "Seasoned Floating Eye"
   }
 }

@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_9_goblins",
   "metadata": {
-    "id": 98
+    "id": 98,
+    "name": "Goblin Gem Prospector"
   }
 }

@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_14_beholders",
   "metadata": {
-    "id": 146
+    "id": 146,
+    "name": "Mighty Floating Eye"
   }
 }

@@ -381,6 +381,7 @@
   },
   "script": "monster.mon_9_goblins",
   "metadata": {
-    "id": 97
+    "id": 97,
+    "name": "Goblin Mason"
   }
 }

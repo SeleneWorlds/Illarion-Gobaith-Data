@@ -371,6 +371,7 @@
   },
   "script": "monster.mon_19_lesserdemons",
   "metadata": {
-    "id": 199
+    "id": 199,
+    "name": "Elite Lesser Demon Crusher"
   }
 }

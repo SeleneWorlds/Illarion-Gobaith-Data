@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_14_beholders",
   "metadata": {
-    "id": 149
+    "id": 149,
+    "name": "Veteran Floating Eye"
   }
 }

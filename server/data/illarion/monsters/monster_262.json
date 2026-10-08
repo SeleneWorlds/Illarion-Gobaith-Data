@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_26_dragons",
   "metadata": {
-    "id": 262
+    "id": 262,
+    "name": "Veteran Gold-Hoarding Dragon"
   }
 }

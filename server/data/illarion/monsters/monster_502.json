@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_50_elementary",
   "metadata": {
-    "id": 502
+    "id": 502,
+    "name": "Common Invisible Elemental (Gynkese Mercenarys Helmet Hoarder)"
   }
 }

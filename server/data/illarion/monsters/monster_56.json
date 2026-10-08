@@ -109,6 +109,7 @@
   "drops": {},
   "script": "monster.mon_5_lizards",
   "metadata": {
-    "id": 56
+    "id": 56,
+    "name": "Lizardman Commoner"
   }
 }

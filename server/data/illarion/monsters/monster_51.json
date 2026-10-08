@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_5_lizards",
   "metadata": {
-    "id": 51
+    "id": 51,
+    "name": "Lizardman Warrior"
   }
 }

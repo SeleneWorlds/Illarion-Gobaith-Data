@@ -424,6 +424,7 @@
   },
   "script": "monster.mon_0_humans",
   "metadata": {
-    "id": 1
+    "id": 1,
+    "name": "Human Warrior"
   }
 }

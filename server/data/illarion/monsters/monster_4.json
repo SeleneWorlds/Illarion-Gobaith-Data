@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_0_humans",
   "metadata": {
-    "id": 4
+    "id": 4,
+    "name": "Human Necromancer"
   }
 }

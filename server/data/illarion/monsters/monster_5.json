@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_0_humans",
   "metadata": {
-    "id": 5
+    "id": 5,
+    "name": "Human Thief"
   }
 }

@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_18_rotworms",
   "metadata": {
-    "id": 182
+    "id": 182,
+    "name": "Common Rotworm"
   }
 }

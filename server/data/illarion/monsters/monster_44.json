@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_4_orcs",
   "metadata": {
-    "id": 44
+    "id": 44,
+    "name": "Orc Hunter"
   }
 }

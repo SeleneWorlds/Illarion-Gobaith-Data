@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_25_gnolls",
   "metadata": {
-    "id": 253
+    "id": 253,
+    "name": "Seasoned Gnoll Skirmisher (Variant 1)"
   }
 }

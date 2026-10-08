@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_50_elementary",
   "metadata": {
-    "id": 501
+    "id": 501,
+    "name": "Common Invisible Elemental (Chain Helmet Hoarder)"
   }
 }

@@ -121,6 +121,7 @@
   },
   "script": "monster.mon_13_flies",
   "metadata": {
-    "id": 134
+    "id": 134,
+    "name": "Small Insect"
   }
 }

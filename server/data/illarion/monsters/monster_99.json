@@ -381,6 +381,7 @@
   },
   "script": "monster.mon_9_goblins",
   "metadata": {
-    "id": 99
+    "id": 99,
+    "name": "Goblin Gold Prospector"
   }
 }

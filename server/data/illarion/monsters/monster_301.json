@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_30_stonegolems",
   "metadata": {
-    "id": 301
+    "id": 301,
+    "name": "Stone Golem"
   }
 }

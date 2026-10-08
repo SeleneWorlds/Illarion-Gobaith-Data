@@ -102,6 +102,7 @@
   "drops": {},
   "script": "monster.mon_4_orcs",
   "metadata": {
-    "id": 46
+    "id": 46,
+    "name": "Orc Commoner"
   }
 }

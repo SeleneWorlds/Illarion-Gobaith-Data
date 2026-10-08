@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_1_dwarfs",
   "metadata": {
-    "id": 17
+    "id": 17,
+    "name": "Dwarf Warrior (Variant 2)"
   }
 }

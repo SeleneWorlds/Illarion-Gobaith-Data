@@ -381,6 +381,7 @@
   },
   "script": "monster.mon_11_skeletons",
   "metadata": {
-    "id": 118
+    "id": 118,
+    "name": "Elite Skeleton Swordsman"
   }
 }

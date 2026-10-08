@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_24_ogres",
   "metadata": {
-    "id": 249
+    "id": 249,
+    "name": "Seasoned Cave Troll Skirmisher (Variant 2)"
   }
 }

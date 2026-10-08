@@ -376,6 +376,7 @@
   },
   "script": "monster.mon_2_halflings",
   "metadata": {
-    "id": 24
+    "id": 24,
+    "name": "Halfling Farmer"
   }
 }

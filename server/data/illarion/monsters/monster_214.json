@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_21_skulls",
   "metadata": {
-    "id": 214
+    "id": 214,
+    "name": "Seasoned Skeleton Swordsman (Raw Obsidian Hoarder)"
   }
 }

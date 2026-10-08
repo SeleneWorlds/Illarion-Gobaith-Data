@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_3_elves",
   "metadata": {
-    "id": 31
+    "id": 31,
+    "name": "Elf Warrior"
   }
 }

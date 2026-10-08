@@ -360,6 +360,7 @@
   },
   "script": "monster.mon_15_spiders",
   "metadata": {
-    "id": 155
+    "id": 155,
+    "name": "Lesser Spider"
   }
 }

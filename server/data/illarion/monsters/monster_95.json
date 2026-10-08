@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_9_goblins",
   "metadata": {
-    "id": 95
+    "id": 95,
+    "name": "Goblin Champion"
   }
 }

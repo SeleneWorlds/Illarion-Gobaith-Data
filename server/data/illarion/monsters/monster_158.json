@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_15_spiders",
   "metadata": {
-    "id": 158
+    "id": 158,
+    "name": "Seasoned Quill-Hoarding Spider"
   }
 }

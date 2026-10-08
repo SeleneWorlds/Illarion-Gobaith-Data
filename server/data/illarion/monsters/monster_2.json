@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_0_humans",
   "metadata": {
-    "id": 2
+    "id": 2,
+    "name": "Human Knight"
   }
 }

@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_19_lesserdemons",
   "metadata": {
-    "id": 191
+    "id": 191,
+    "name": "Common Lesser Demon Skirmisher (Chain Helmet Hoarder)"
   }
 }

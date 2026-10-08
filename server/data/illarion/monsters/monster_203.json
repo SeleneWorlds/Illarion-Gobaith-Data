@@ -116,6 +116,7 @@
   "drops": {},
   "script": "monster.mon_20_demons",
   "metadata": {
-    "id": 203
+    "id": 203,
+    "name": "Ancient Demon Archer"
   }
 }

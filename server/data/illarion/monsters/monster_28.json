@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_2_halflings",
   "metadata": {
-    "id": 28
+    "id": 28,
+    "name": "Halfling Axeman (Variant 2)"
   }
 }

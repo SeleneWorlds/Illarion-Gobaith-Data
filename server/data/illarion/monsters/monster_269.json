@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_26_dragons",
   "metadata": {
-    "id": 269
+    "id": 269,
+    "name": "Seasoned Amethyst-Hoarding Dragon"
   }
 }

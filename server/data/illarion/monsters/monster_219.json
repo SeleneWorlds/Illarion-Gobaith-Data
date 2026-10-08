@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_21_skulls",
   "metadata": {
-    "id": 219
+    "id": 219,
+    "name": "Veteran Skeleton Axeman (Green Robe Hoarder)"
   }
 }

@@ -399,6 +399,7 @@
   },
   "script": "monster.mon_2_halflings",
   "metadata": {
-    "id": 25
+    "id": 25,
+    "name": "Halfling Hunter"
   }
 }

@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_22_foresttrolls",
   "metadata": {
-    "id": 225
+    "id": 225,
+    "name": "Veteran Forest Troll Mage"
   }
 }

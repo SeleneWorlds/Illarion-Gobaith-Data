@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_24_ogres",
   "metadata": {
-    "id": 247
+    "id": 247,
+    "name": "Veteran Cave Troll Axeman (Variant 2)"
   }
 }

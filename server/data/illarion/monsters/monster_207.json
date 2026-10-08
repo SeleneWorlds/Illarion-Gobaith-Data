@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_20_demons",
   "metadata": {
-    "id": 207
+    "id": 207,
+    "name": "Mighty Demon Mage (Mage Robe Hoarder)"
   }
 }

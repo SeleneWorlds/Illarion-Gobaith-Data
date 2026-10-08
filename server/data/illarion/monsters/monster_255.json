@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_25_gnolls",
   "metadata": {
-    "id": 255
+    "id": 255,
+    "name": "Veteran Gnoll Mage"
   }
 }

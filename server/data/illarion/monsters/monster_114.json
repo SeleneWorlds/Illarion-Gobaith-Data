@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_11_skeletons",
   "metadata": {
-    "id": 114
+    "id": 114,
+    "name": "Lesser Skeleton Swordsman (Horned Helmet Hoarder)"
   }
 }

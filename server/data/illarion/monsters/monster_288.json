@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_28_femaledrows",
   "metadata": {
-    "id": 288
+    "id": 288,
+    "name": "Veteran Female Drow Skirmisher"
   }
 }

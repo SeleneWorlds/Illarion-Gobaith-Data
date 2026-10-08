@@ -352,6 +352,7 @@
   "items": {},
   "script": "monster.mon_19_lesserdemons",
   "metadata": {
-    "id": 197
+    "id": 197,
+    "name": "Veteran Lesser Demon Fighter"
   }
 }

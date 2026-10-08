@@ -109,6 +109,7 @@
   "drops": {},
   "script": "monster.mon_2_halflings",
   "metadata": {
-    "id": 26
+    "id": 26,
+    "name": "Halfling Farmhand"
   }
 }

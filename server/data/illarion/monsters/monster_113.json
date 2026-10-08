@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_11_skeletons",
   "metadata": {
-    "id": 113
+    "id": 113,
+    "name": "Seasoned Skeleton Crusher"
   }
 }

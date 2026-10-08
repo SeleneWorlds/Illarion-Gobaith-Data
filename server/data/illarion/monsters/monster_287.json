@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_28_femaledrows",
   "metadata": {
-    "id": 287
+    "id": 287,
+    "name": "Veteran Female Drow Thief"
   }
 }

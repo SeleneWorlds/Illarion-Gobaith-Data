@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_18_rotworms",
   "metadata": {
-    "id": 184
+    "id": 184,
+    "name": "Lesser Parchment-Hoarding Rotworm"
   }
 }

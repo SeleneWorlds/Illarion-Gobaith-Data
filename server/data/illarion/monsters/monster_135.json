@@ -114,6 +114,7 @@
   },
   "script": "monster.mon_13_flies",
   "metadata": {
-    "id": 135
+    "id": 135,
+    "name": "Small Venomous Insect"
   }
 }

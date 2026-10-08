@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_2_halflings",
   "metadata": {
-    "id": 22
+    "id": 22,
+    "name": "Halfling Axeman"
   }
 }

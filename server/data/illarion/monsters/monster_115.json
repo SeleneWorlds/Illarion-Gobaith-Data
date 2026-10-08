@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_11_skeletons",
   "metadata": {
-    "id": 115
+    "id": 115,
+    "name": "Common Skeleton Crusher (Short Black Trousers Hoarder)"
   }
 }

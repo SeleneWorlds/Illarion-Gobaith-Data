@@ -399,6 +399,7 @@
   },
   "script": "monster.mon_31_gnomes",
   "metadata": {
-    "id": 315
+    "id": 315,
+    "name": "Veteran Gnome Archer"
   }
 }

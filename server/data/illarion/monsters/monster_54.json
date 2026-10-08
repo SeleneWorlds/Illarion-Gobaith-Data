@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_5_lizards",
   "metadata": {
-    "id": 54
+    "id": 54,
+    "name": "Lizardman Priest"
   }
 }

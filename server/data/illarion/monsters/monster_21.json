@@ -399,6 +399,7 @@
   },
   "script": "monster.mon_2_halflings",
   "metadata": {
-    "id": 21
+    "id": 21,
+    "name": "Halfling Archer"
   }
 }

@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_20_demons",
   "metadata": {
-    "id": 208
+    "id": 208,
+    "name": "Elite Demon Archer"
   }
 }

@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_3_elves",
   "metadata": {
-    "id": 33
+    "id": 33,
+    "name": "Elf Mage"
   }
 }

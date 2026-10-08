@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_22_foresttrolls",
   "metadata": {
-    "id": 227
+    "id": 227,
+    "name": "Veteran Forest Troll Axeman (Variant 2)"
   }
 }

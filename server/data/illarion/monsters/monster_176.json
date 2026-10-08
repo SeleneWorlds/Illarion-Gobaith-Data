@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_17_demonskeletons",
   "metadata": {
-    "id": 176
+    "id": 176,
+    "name": "Elite Demon Skeleton Axeman"
   }
 }

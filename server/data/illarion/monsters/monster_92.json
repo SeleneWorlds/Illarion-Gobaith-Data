@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_9_goblins",
   "metadata": {
-    "id": 92
+    "id": 92,
+    "name": "Goblin Staff Fighter"
   }
 }

@@ -381,6 +381,7 @@
   },
   "script": "monster.mon_18_rotworms",
   "metadata": {
-    "id": 187
+    "id": 187,
+    "name": "Lesser Bottle-Hoarding Rotworm"
   }
 }

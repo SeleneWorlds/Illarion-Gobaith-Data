@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_21_skulls",
   "metadata": {
-    "id": 211
+    "id": 211,
+    "name": "Common Skeleton Crusher (Hat Hoarder)"
   }
 }

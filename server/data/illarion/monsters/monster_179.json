@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_17_demonskeletons",
   "metadata": {
-    "id": 179
+    "id": 179,
+    "name": "Veteran Demon Skeleton Crusher"
   }
 }

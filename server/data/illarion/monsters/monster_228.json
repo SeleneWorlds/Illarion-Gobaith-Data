@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_22_foresttrolls",
   "metadata": {
-    "id": 228
+    "id": 228,
+    "name": "Elite Forest Troll Crusher (Variant 2)"
   }
 }

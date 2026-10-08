@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_4_orcs",
   "metadata": {
-    "id": 47
+    "id": 47,
+    "name": "Orc Warrior (Variant 2)"
   }
 }

@@ -381,6 +381,7 @@
   },
   "script": "monster.mon_19_lesserdemons",
   "metadata": {
-    "id": 198
+    "id": 198,
+    "name": "Elite Lesser Demon Swordsman"
   }
 }

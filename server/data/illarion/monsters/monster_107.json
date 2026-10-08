@@ -116,6 +116,7 @@
   "drops": {},
   "script": "monster.mon_10_mummies",
   "metadata": {
-    "id": 107
+    "id": 107,
+    "name": "Weak Mummy Commoner"
   }
 }

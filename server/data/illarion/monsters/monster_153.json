@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_15_spiders",
   "metadata": {
-    "id": 153
+    "id": 153,
+    "name": "Elite Spider"
   }
 }

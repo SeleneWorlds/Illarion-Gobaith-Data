@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_9_goblins",
   "metadata": {
-    "id": 93
+    "id": 93,
+    "name": "Goblin Shaman"
   }
 }

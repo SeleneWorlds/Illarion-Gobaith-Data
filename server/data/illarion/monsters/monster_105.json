@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_10_mummies",
   "metadata": {
-    "id": 105
+    "id": 105,
+    "name": "Seasoned Mummy Fighter"
   }
 }

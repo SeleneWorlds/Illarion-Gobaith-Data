@@ -102,6 +102,7 @@
   "drops": {},
   "script": "monster.mon_25_gnolls",
   "metadata": {
-    "id": 256
+    "id": 256,
+    "name": "Weak Gnoll Commoner"
   }
 }

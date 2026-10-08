@@ -135,6 +135,7 @@
   },
   "script": "monster.mon_29_animals",
   "metadata": {
-    "id": 295
+    "id": 295,
+    "name": "Rabbit"
   }
 }

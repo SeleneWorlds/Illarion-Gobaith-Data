@@ -109,6 +109,7 @@
   "drops": {},
   "script": "monster.mon_1_dwarfs",
   "metadata": {
-    "id": 16
+    "id": 16,
+    "name": "Dwarf Commoner"
   }
 }

@@ -109,6 +109,7 @@
   "drops": {},
   "script": "monster.mon_3_elves",
   "metadata": {
-    "id": 36
+    "id": 36,
+    "name": "Elf Commoner"
   }
 }

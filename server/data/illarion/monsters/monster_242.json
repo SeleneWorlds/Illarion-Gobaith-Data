@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_24_ogres",
   "metadata": {
-    "id": 242
+    "id": 242,
+    "name": "Elite Cave Troll Crusher (Variant 1)"
   }
 }

@@ -109,6 +109,7 @@
   "drops": {},
   "script": "monster.mon_27_maledrows",
   "metadata": {
-    "id": 276
+    "id": 276,
+    "name": "Weak Male Drow Commoner"
   }
 }

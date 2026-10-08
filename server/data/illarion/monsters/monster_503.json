@@ -367,6 +367,7 @@
   },
   "script": "monster.mon_50_elementary",
   "metadata": {
-    "id": 503
+    "id": 503,
+    "name": "Seasoned Invisible Elemental"
   }
 }

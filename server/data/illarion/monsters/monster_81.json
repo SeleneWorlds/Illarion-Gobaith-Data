@@ -155,6 +155,7 @@
   },
   "script": "monster.mon_8_wolfs",
   "metadata": {
-    "id": 81
+    "id": 81,
+    "name": "Wolf"
   }
 }

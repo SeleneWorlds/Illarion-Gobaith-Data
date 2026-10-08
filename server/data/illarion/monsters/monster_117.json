@@ -352,6 +352,7 @@
   "items": {},
   "script": "monster.mon_11_skeletons",
   "metadata": {
-    "id": 117
+    "id": 117,
+    "name": "Veteran Skeleton Fighter"
   }
 }

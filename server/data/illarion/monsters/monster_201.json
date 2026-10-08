@@ -381,6 +381,7 @@
   },
   "script": "monster.mon_20_demons",
   "metadata": {
-    "id": 201
+    "id": 201,
+    "name": "Mighty Demon Mage (Nightplate Hoarder)"
   }
 }

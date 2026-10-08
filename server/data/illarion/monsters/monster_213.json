@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_21_skulls",
   "metadata": {
-    "id": 213
+    "id": 213,
+    "name": "Seasoned Skeleton Swordsman (Raw Amethyst Hoarder)"
   }
 }

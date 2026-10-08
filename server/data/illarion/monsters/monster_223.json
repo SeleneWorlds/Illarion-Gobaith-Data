@@ -406,6 +406,7 @@
   },
   "script": "monster.mon_22_foresttrolls",
   "metadata": {
-    "id": 223
+    "id": 223,
+    "name": "Seasoned Forest Troll Skirmisher (Variant 1)"
   }
 }

@@ -371,6 +371,7 @@
   },
   "script": "monster.mon_11_skeletons",
   "metadata": {
-    "id": 119
+    "id": 119,
+    "name": "Elite Skeleton Crusher"
   }
 }

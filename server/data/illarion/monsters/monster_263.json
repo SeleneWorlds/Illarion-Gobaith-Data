@@ -381,6 +381,7 @@
   },
   "script": "monster.mon_26_dragons",
   "metadata": {
-    "id": 263
+    "id": 263,
+    "name": "Elite Amethyst-Hoarding Dragon"
   }
 }

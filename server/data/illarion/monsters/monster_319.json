@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_31_gnomes",
   "metadata": {
-    "id": 319
+    "id": 319,
+    "name": "Veteran Gnome Priest (Variant 2)"
   }
 }

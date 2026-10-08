@@ -413,6 +413,7 @@
   },
   "script": "monster.mon_3_elves",
   "metadata": {
-    "id": 38
+    "id": 38,
+    "name": "Elf Halberdier"
   }
 }

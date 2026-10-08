@@ -374,6 +374,7 @@
   },
   "script": "monster.mon_20_demons",
   "metadata": {
-    "id": 205
+    "id": 205,
+    "name": "Veteran Demon Axeman"
   }
 }

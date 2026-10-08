@@ -381,6 +381,7 @@
   },
   "script": "monster.mon_14_beholders",
   "metadata": {
-    "id": 143
+    "id": 143,
+    "name": "Mighty Obsidian-Hoarding Floating Eye"
   }
 }
