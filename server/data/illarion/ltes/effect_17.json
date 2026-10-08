@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "p_priests",
+  "script": "lte.p_priests",
+  "metadata": {
+    "id": 17,
+    "name": "p_priests"
+  }
+}

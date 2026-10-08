@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "tying_captive",
+  "script": "lte.tying_captive",
+  "metadata": {
+    "id": 24,
+    "name": "tying_captive"
+  }
+}

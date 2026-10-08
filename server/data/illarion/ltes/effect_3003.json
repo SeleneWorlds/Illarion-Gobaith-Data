@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "irmorom_bless",
+  "script": "lte.irmorom_bless",
+  "metadata": {
+    "id": 3003,
+    "name": "irmorom_bless"
+  }
+}

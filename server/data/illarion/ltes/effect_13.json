@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "newbieisland",
+  "script": "lte.newbieisland",
+  "metadata": {
+    "id": 13,
+    "name": "newbieisland"
+  }
+}

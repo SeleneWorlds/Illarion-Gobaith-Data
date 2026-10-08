@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "shadow_cloack_effect",
+  "script": "lte.shadow_cloack_effect",
+  "metadata": {
+    "id": 11,
+    "name": "shadow_cloack_effect"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "effect2",
+  "script": "lte.effect2",
+  "metadata": {
+    "id": 3001,
+    "name": "effect2"
+  }
+}

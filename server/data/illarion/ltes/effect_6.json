@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "p_followers",
+  "script": "lte.p_followers",
+  "metadata": {
+    "id": 6,
+    "name": "p_followers"
+  }
+}

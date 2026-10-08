@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "gembonus",
+  "script": "lte.gembonus",
+  "metadata": {
+    "id": 50,
+    "name": "gembonus"
+  }
+}

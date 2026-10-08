@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "druids_language",
+  "script": "druid.lte.id_330_language",
+  "metadata": {
+    "id": 330,
+    "name": "druids_language"
+  }
+}

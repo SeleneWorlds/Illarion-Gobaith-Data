@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "savetest",
+  "script": "lte.savetest",
+  "metadata": {
+    "id": 3006,
+    "name": "savetest"
+  }
+}

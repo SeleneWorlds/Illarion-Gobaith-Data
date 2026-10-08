@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "magic",
+  "script": "lte.magic",
+  "metadata": {
+    "id": 3004,
+    "name": "magic"
+  }
+}

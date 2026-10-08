@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "succubus_effect",
+  "script": "lte.succubus_effect",
+  "metadata": {
+    "id": 3008,
+    "name": "succubus_effect"
+  }
+}

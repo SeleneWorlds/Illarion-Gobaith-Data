@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "druids_transformation",
+  "script": "druid.lte.id_329_transformation",
+  "metadata": {
+    "id": 329,
+    "name": "druids_transformation"
+  }
+}

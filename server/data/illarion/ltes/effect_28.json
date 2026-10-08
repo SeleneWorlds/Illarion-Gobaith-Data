@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "drachenpocken",
+  "script": "lte.drachenpocken",
+  "metadata": {
+    "id": 28,
+    "name": "drachenpocken"
+  }
+}

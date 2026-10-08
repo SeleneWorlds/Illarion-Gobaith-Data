@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "druids_attribs",
+  "script": "druid.lte.id_59_attribs",
+  "metadata": {
+    "id": 59,
+    "name": "druids_attribs"
+  }
+}

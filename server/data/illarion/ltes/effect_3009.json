@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "the_one_ring",
+  "script": "lte.the_one_ring",
+  "metadata": {
+    "id": 3009,
+    "name": "the_one_ring"
+  }
+}

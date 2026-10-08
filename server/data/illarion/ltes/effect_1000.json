@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "segen",
+  "script": "lte.segen",
+  "metadata": {
+    "id": 1000,
+    "name": "segen"
+  }
+}

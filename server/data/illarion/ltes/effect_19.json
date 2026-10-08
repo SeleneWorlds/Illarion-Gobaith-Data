@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "stoned",
+  "script": "lte.stoned",
+  "metadata": {
+    "id": 19,
+    "name": "stoned"
+  }
+}

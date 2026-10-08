@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "base_raid",
+  "script": "lte.base_raid",
+  "metadata": {
+    "id": 3000,
+    "name": "base_raid"
+  }
+}

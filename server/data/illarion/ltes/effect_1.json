@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "alcohol",
+  "script": "lte.alcohol",
+  "metadata": {
+    "id": 1,
+    "name": "alcohol"
+  }
+}

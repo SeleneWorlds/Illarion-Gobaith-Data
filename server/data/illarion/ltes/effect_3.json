@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "cold",
+  "script": "lte.cold",
+  "metadata": {
+    "id": 3,
+    "name": "cold"
+  }
+}

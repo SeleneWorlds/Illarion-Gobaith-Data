@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "order_retention_period",
+  "script": "lte.order_retention_period",
+  "metadata": {
+    "id": 31,
+    "name": "order_retention_period"
+  }
+}

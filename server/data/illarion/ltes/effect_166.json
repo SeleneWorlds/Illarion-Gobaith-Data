@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "druids_secattribs",
+  "script": "druid.lte.id_166_secattribs",
+  "metadata": {
+    "id": 166,
+    "name": "druids_secattribs"
+  }
+}

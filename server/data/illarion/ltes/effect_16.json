@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "treasure",
+  "script": "lte.treasure",
+  "metadata": {
+    "id": 16,
+    "name": "treasure"
+  }
+}

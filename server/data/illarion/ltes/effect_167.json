@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "druids_illness",
+  "script": "druid.lte.id_167_illness",
+  "metadata": {
+    "id": 167,
+    "name": "druids_illness"
+  }
+}

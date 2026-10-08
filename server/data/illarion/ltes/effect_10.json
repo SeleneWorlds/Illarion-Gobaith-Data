@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "lasttier",
+  "script": "lte.lasttier",
+  "metadata": {
+    "id": 10,
+    "name": "lasttier"
+  }
+}

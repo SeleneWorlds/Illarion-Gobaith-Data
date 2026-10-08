@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "name": "no_idea",
+  "script": "lte.no_idea",
+  "metadata": {
+    "id": 3005,
+    "name": "no_idea"
+  }
+}
