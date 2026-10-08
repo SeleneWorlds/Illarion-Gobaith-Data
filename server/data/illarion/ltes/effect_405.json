@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "bindNPC",
-  "script": "lte.bindNPC",
-  "metadata": {
-    "id": 405,
-    "name": "bindNPC"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "Vision",
-  "script": "lte.vision",
-  "metadata": {
-    "id": 83,
-    "name": "Vision"
-  }
-}

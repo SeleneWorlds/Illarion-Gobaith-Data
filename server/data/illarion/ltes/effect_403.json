@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "glyph_equip_inform",
-  "script": "lte.glyph_equip_inform",
-  "metadata": {
-    "id": 403,
-    "name": "glyph_equip_inform"
-  }
-}

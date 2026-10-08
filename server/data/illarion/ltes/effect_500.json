@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "magicparalyse",
-  "script": "lte.magic_paralyse",
-  "metadata": {
-    "id": 500,
-    "name": "magicparalyse"
-  }
-}

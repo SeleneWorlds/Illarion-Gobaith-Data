@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "DeathAfterTime",
-  "script": "lte.deathaftertime",
-  "metadata": {
-    "id": 36,
-    "name": "DeathAfterTime"
-  }
-}

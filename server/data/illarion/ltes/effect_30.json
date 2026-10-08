@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "snareThree",
-  "script": "magic.arcane.snare",
-  "metadata": {
-    "id": 30,
-    "name": "snareThree"
-  }
-}

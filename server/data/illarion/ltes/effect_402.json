@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "Shearing",
-  "script": "lte.shearing",
-  "metadata": {
-    "id": 402,
-    "name": "Shearing"
-  }
-}

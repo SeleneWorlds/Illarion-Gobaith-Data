@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "plantRoot",
-  "script": "magic.arcane.plantRoot",
-  "metadata": {
-    "id": 16,
-    "name": "plantRoot"
-  }
-}

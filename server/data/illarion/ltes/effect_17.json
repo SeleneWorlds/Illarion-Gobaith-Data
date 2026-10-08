@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "stallMana",
-  "script": "magic.arcane.stallMana",
-  "metadata": {
-    "id": 17,
-    "name": "stallMana"
-  }
-}

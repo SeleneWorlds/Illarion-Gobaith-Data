@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "Milking",
-  "script": "lte.milking",
-  "metadata": {
-    "id": 401,
-    "name": "Milking"
-  }
-}

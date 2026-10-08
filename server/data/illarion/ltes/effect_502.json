@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "magicdamage",
-  "script": "lte.magic_damage",
-  "metadata": {
-    "id": 502,
-    "name": "magicdamage"
-  }
-}

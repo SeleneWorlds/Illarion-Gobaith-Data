@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "Damagefield Poison",
-  "script": "lte.damagefield_poisoncloud",
-  "metadata": {
-    "id": 112,
-    "name": "Damagefield Poison"
-  }
-}

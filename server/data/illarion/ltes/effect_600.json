@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "Gods cooldowns",
-  "script": "lte.gods_cooldowns",
-  "metadata": {
-    "id": 600,
-    "name": "Gods cooldowns"
-  }
-}

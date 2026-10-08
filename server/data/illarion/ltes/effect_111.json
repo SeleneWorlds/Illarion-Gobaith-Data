@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "Damagefield Ice",
-  "script": "lte.damagefield_icefield",
-  "metadata": {
-    "id": 111,
-    "name": "Damagefield Ice"
-  }
-}

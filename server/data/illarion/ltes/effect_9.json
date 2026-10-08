@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "reduceMana",
-  "script": "magic.arcane.reduceMana",
-  "metadata": {
-    "id": 9,
-    "name": "reduceMana"
-  }
-}
