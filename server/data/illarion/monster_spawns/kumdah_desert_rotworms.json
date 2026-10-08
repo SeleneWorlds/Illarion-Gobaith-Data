@@ -1,0 +1,15 @@
+{
+    "coordinate": {
+        "x": 183,
+        "y": -228,
+        "z": 0
+    },
+    "range": 12,
+    "spawnRange": 12,
+    "spawnTime": {
+        "min": 5,
+        "max": 15
+    },
+    "spawnAll": true,
+    "enabled": true
+}
