@@ -1,0 +1,256 @@
+{
+  "stock": [
+    {
+      "name": "red shirt",
+      "item": 180,
+      "sellToPlayerPrice": 80,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 5,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        66,
+        77
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "short green trousers",
+      "item": 183,
+      "sellToPlayerPrice": 50,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 5,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        66,
+        77
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "leather shoes",
+      "item": 369,
+      "sellToPlayerPrice": 120,
+      "initialStock": 3,
+      "buyFromPlayerPrice": 3,
+      "defaultStock": 3,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        66,
+        77
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "green robe",
+      "item": 55,
+      "sellToPlayerPrice": 250,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 3,
+      "defaultStock": 5,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        66,
+        77
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "leather gloves",
+      "item": 48,
+      "sellToPlayerPrice": 200,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 4,
+      "defaultStock": 5,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        66,
+        77
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "leather boots",
+      "item": 53,
+      "sellToPlayerPrice": 350,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 4,
+      "defaultStock": 5,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        66,
+        77
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "hat",
+      "item": 356,
+      "sellToPlayerPrice": 120,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 5,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        66,
+        77
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "saw",
+      "item": 9,
+      "sellToPlayerPrice": 25,
+      "initialStock": 3,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 3,
+      "quality": [
+        4,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "sickle",
+      "item": 126,
+      "sellToPlayerPrice": 25,
+      "initialStock": 4,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 4,
+      "quality": [
+        4,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "shovel",
+      "item": 24,
+      "sellToPlayerPrice": 25,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 5,
+      "quality": [
+        4,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "pickaxe",
+      "item": 2763,
+      "sellToPlayerPrice": 40,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 5,
+      "quality": [
+        4,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "hammer",
+      "item": 23,
+      "sellToPlayerPrice": 25,
+      "initialStock": 3,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 3,
+      "quality": [
+        4,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "glass blow pipe",
+      "item": 311,
+      "sellToPlayerPrice": 40,
+      "initialStock": 3,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 3,
+      "quality": [
+        4,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "hatchet",
+      "item": 74,
+      "sellToPlayerPrice": 25,
+      "initialStock": 3,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 3,
+      "quality": [
+        4,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    }
+  ]
+}

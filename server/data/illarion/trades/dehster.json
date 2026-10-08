@@ -1,0 +1,328 @@
+{
+  "stock": [
+    {
+      "name": "wooden shovel",
+      "item": 312,
+      "sellToPlayerPrice": 25,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 50,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "cooking spoon",
+      "item": 227,
+      "sellToPlayerPrice": 25,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 50,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "peel",
+      "item": 121,
+      "sellToPlayerPrice": 25,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 50,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "rolling pin",
+      "item": 118,
+      "sellToPlayerPrice": 25,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 50,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "dyeing rod",
+      "item": 2781,
+      "sellToPlayerPrice": 25,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 50,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "sickle",
+      "item": 126,
+      "sellToPlayerPrice": 40,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 4,
+      "defaultStock": 50,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "saw",
+      "item": 9,
+      "sellToPlayerPrice": 40,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 4,
+      "defaultStock": 50,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "hatchet",
+      "item": 74,
+      "sellToPlayerPrice": 40,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 4,
+      "defaultStock": 50,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "plane",
+      "item": 2715,
+      "sellToPlayerPrice": 50,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 5,
+      "defaultStock": 50,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "carving tools",
+      "item": 2752,
+      "sellToPlayerPrice": 50,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 5,
+      "defaultStock": 50,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "green plate",
+      "item": 1001,
+      "sellToPlayerPrice": 5,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 50,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "soup bowl",
+      "item": 2935,
+      "sellToPlayerPrice": 5,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 50,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "candle mould",
+      "item": 429,
+      "sellToPlayerPrice": 25,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 50,
+      "quality": [
+        5,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "small candlestick",
+      "item": 399,
+      "sellToPlayerPrice": 150,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 10,
+      "defaultStock": 50,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "candles",
+      "item": 43,
+      "sellToPlayerPrice": 10,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 200,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "potato bread",
+      "item": 49,
+      "sellToPlayerPrice": 20,
+      "initialStock": 200,
+      "buyFromPlayerPrice": 4,
+      "defaultStock": 200,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "onion soup",
+      "item": 2923,
+      "sellToPlayerPrice": 30,
+      "initialStock": 200,
+      "buyFromPlayerPrice": 4,
+      "defaultStock": 50,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "salmon dish",
+      "item": 556,
+      "sellToPlayerPrice": 50,
+      "initialStock": 200,
+      "buyFromPlayerPrice": 5,
+      "defaultStock": 50,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    }
+  ]
+}

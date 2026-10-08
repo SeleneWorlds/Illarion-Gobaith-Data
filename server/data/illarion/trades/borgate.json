@@ -1,0 +1,160 @@
+{
+  "stock": [
+    {
+      "name": "blue bottle",
+      "item": 2496,
+      "sellToPlayerPrice": 15,
+      "initialStock": 50,
+      "buyFromPlayerPrice": 5,
+      "defaultStock": 100,
+      "quality": [4, 6],
+      "durability": [33, 66],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "orange bottle",
+      "item": 2497,
+      "sellToPlayerPrice": 25,
+      "initialStock": 50,
+      "buyFromPlayerPrice": 8,
+      "defaultStock": 100,
+      "quality": [4, 6],
+      "durability": [33, 66],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "green bottle",
+      "item": 2499,
+      "sellToPlayerPrice": 25,
+      "initialStock": 50,
+      "buyFromPlayerPrice": 8,
+      "defaultStock": 100,
+      "quality": [4, 6],
+      "durability": [33, 66],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "red bottle",
+      "item": 2500,
+      "sellToPlayerPrice": 25,
+      "initialStock": 50,
+      "buyFromPlayerPrice": 8,
+      "defaultStock": 100,
+      "quality": [4, 6],
+      "durability": [33, 66],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "black bottle",
+      "item": 2501,
+      "sellToPlayerPrice": 25,
+      "initialStock": 50,
+      "buyFromPlayerPrice": 8,
+      "defaultStock": 100,
+      "quality": [4, 6],
+      "durability": [33, 66],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "goblet with red wine",
+      "item": 1860,
+      "sellToPlayerPrice": 15,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 500,
+      "quality": [4, 6],
+      "durability": [33, 66],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "goblet with water",
+      "item": 1855,
+      "sellToPlayerPrice": 11,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 500,
+      "quality": [4, 6],
+      "durability": [33, 66],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "goblet with cider",
+      "item": 1859,
+      "sellToPlayerPrice": 15,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 500,
+      "quality": [4, 6],
+      "durability": [33, 66],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "goblet with mead",
+      "item": 1853,
+      "sellToPlayerPrice": 15,
+      "initialStock": 50,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 500,
+      "quality": [4, 6],
+      "durability": [33, 66],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "glass mug mug",
+      "item": 1908,
+      "sellToPlayerPrice": 0,
+      "initialStock": 50,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 100,
+      "quality": [4, 6],
+      "durability": [33, 66],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "beer mug",
+      "item": 1909,
+      "sellToPlayerPrice": 15,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 100,
+      "quality": [4, 6],
+      "durability": [33, 66],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "goblet",
+      "item": 1858,
+      "sellToPlayerPrice": 10,
+      "initialStock": 50,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 100,
+      "quality": [4, 6],
+      "durability": [33, 66],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "grey bottle",
+      "item": 2498,
+      "sellToPlayerPrice": 0,
+      "initialStock": 20,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 100,
+      "quality": [4, 6],
+      "durability": [33, 66],
+      "data": 0,
+      "category": 0
+    }
+  ]
+}

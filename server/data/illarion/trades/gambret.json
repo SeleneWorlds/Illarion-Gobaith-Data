@@ -1,0 +1,172 @@
+{
+  "stock": [
+    {
+      "name": "cooking spoon",
+      "item": 227,
+      "sellToPlayerPrice": 30,
+      "initialStock": 20,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 30,
+      "quality": [4, 6],
+      "durability": [77, 90],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "peel",
+      "item": 121,
+      "sellToPlayerPrice": 30,
+      "initialStock": 20,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 30,
+      "quality": [4, 6],
+      "durability": [77, 90],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "rolling pin",
+      "item": 118,
+      "sellToPlayerPrice": 30,
+      "initialStock": 20,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 30,
+      "quality": [4, 6],
+      "durability": [77, 90],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "wooden plate",
+      "item": 2952,
+      "sellToPlayerPrice": 10,
+      "initialStock": 20,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 36,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "soup bowl",
+      "item": 2935,
+      "sellToPlayerPrice": 10,
+      "initialStock": 20,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 36,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "cutlery",
+      "item": 2647,
+      "sellToPlayerPrice": 0,
+      "initialStock": 0,
+      "buyFromPlayerPrice": 5,
+      "defaultStock": 36,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "glass mug",
+      "item": 1908,
+      "sellToPlayerPrice": 0,
+      "initialStock": 0,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 36,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "wooden cup",
+      "item": 2185,
+      "sellToPlayerPrice": 0,
+      "initialStock": 0,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 36,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "iron goblet",
+      "item": 223,
+      "sellToPlayerPrice": 0,
+      "initialStock": 0,
+      "buyFromPlayerPrice": 6,
+      "defaultStock": 36,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "silver goblet",
+      "item": 1858,
+      "sellToPlayerPrice": 0,
+      "initialStock": 0,
+      "buyFromPlayerPrice": 4,
+      "defaultStock": 36,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "big empty bottle",
+      "item": 164,
+      "sellToPlayerPrice": 0,
+      "initialStock": 0,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 36,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "empty bottle",
+      "item": 1317,
+      "sellToPlayerPrice": 0,
+      "initialStock": 0,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 36,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "grey bottle",
+      "item": 2498,
+      "sellToPlayerPrice": 0,
+      "initialStock": 0,
+      "buyFromPlayerPrice": 3,
+      "defaultStock": 36,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "glass",
+      "item": 2055,
+      "sellToPlayerPrice": 0,
+      "initialStock": 0,
+      "buyFromPlayerPrice": 3,
+      "defaultStock": 36,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "stock": [
+    {
+      "name": "leather gloves",
+      "item": 48,
+      "sellToPlayerPrice": 150,
+      "initialStock": 20,
+      "buyFromPlayerPrice": 5,
+      "defaultStock": 15,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "leather boots",
+      "item": 53,
+      "sellToPlayerPrice": 300,
+      "initialStock": 20,
+      "buyFromPlayerPrice": 5,
+      "defaultStock": 15,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "short leather leggings",
+      "item": 367,
+      "sellToPlayerPrice": 500,
+      "initialStock": 20,
+      "buyFromPlayerPrice": 8,
+      "defaultStock": 10,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "leather leggings",
+      "item": 366,
+      "sellToPlayerPrice": 900,
+      "initialStock": 20,
+      "buyFromPlayerPrice": 15,
+      "defaultStock": 5,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "fur trousers",
+      "item": 2113,
+      "sellToPlayerPrice": 400,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 35,
+      "defaultStock": 5,
+      "quality": [
+        2,
+        4
+      ],
+      "durability": [
+        33,
+        66
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "full leather armour",
+      "item": 362,
+      "sellToPlayerPrice": 0,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 35,
+      "defaultStock": 5,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "leather scale armour",
+      "item": 363,
+      "sellToPlayerPrice": 0,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 15,
+      "defaultStock": 5,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "reinforced hunting armour",
+      "item": 364,
+      "sellToPlayerPrice": 0,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 55,
+      "defaultStock": 10,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "half leather armour",
+      "item": 365,
+      "sellToPlayerPrice": 0,
+      "initialStock": 10,
+      "buyFromPlayerPrice": 15,
+      "defaultStock": 10,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "simple dagger",
+      "item": 27,
+      "sellToPlayerPrice": 250,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 3,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "dagger",
+      "item": 189,
+      "sellToPlayerPrice": 550,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 5,
+      "defaultStock": 10,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "short sword",
+      "item": 78,
+      "sellToPlayerPrice": 750,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 7,
+      "defaultStock": 10,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "javelin",
+      "item": 293,
+      "sellToPlayerPrice": 10,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 10,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "crossbow bolt",
+      "item": 237,
+      "sellToPlayerPrice": 4,
+      "initialStock": 60,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 40,
+      "quality": [
+        3,
+        3
+      ],
+      "durability": [
+        33,
+        33
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "crossbow",
+      "item": 70,
+      "sellToPlayerPrice": 0,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 10,
+      "defaultStock": 5,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "ham",
+      "item": 306,
+      "sellToPlayerPrice": 15,
+      "initialStock": 50,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 50,
+      "quality": [
+        3,
+        3
+      ],
+      "durability": [
+        33,
+        33
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "mushroom soup",
+      "item": 2456,
+      "sellToPlayerPrice": 120,
+      "initialStock": 20,
+      "buyFromPlayerPrice": 10,
+      "defaultStock": 15,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        55,
+        88
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "potato bread",
+      "item": 49,
+      "sellToPlayerPrice": 20,
+      "initialStock": 50,
+      "buyFromPlayerPrice": 5,
+      "defaultStock": 50,
+      "quality": [
+        3,
+        3
+      ],
+      "durability": [
+        33,
+        33
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "honeycomb",
+      "item": 2529,
+      "sellToPlayerPrice": 5,
+      "initialStock": 40,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 15,
+      "quality": [
+        3,
+        3
+      ],
+      "durability": [
+        33,
+        33
+      ],
+      "data": 0,
+      "category": 0
+    }
+  ]
+}

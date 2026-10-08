@@ -1,0 +1,148 @@
+{
+  "stock": [
+    {
+      "name": "bread",
+      "item": 49,
+      "sellToPlayerPrice": 20,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 3,
+      "defaultStock": 300,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "roll",
+      "item": 191,
+      "sellToPlayerPrice": 0,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 300,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "ham",
+      "item": 306,
+      "sellToPlayerPrice": 10,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 2,
+      "defaultStock": 300,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "trout",
+      "item": 73,
+      "sellToPlayerPrice": 10,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 300,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "salmon",
+      "item": 355,
+      "sellToPlayerPrice": 15,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 300,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "flail",
+      "item": 258,
+      "sellToPlayerPrice": 40,
+      "initialStock": 60,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 60,
+      "quality": [5, 5],
+      "durability": [88, 88],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "scythe",
+      "item": 271,
+      "sellToPlayerPrice": 40,
+      "initialStock": 70,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 70,
+      "quality": [5, 5],
+      "durability": [88, 88],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "sickle",
+      "item": 126,
+      "sellToPlayerPrice": 40,
+      "initialStock": 30,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 30,
+      "quality": [5, 5],
+      "durability": [88, 88],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "fishing rod",
+      "item": 72,
+      "sellToPlayerPrice": 40,
+      "initialStock": 50,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 50,
+      "quality": [5, 5],
+      "durability": [88, 88],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "grain",
+      "item": 259,
+      "sellToPlayerPrice": 3,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 500,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "onion seeds",
+      "item": 534,
+      "sellToPlayerPrice": 3,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 500,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "cabbage seeds",
+      "item": 291,
+      "sellToPlayerPrice": 3,
+      "initialStock": 100,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 500,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    }
+  ]
+}

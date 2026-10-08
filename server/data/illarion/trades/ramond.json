@@ -1,0 +1,22 @@
+{
+  "stock": [
+    {
+      "name": "shovel",
+      "item": 24,
+      "sellToPlayerPrice": 24,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 5,
+      "quality": [
+        2,
+        3
+      ],
+      "durability": [
+        11,
+        22
+      ],
+      "data": 0,
+      "category": 0
+    }
+  ]
+}

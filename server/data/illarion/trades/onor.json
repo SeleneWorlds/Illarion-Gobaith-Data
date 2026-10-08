@@ -1,0 +1,28 @@
+{
+  "stock": [
+    {
+      "name": "silver coins",
+      "item": 3077,
+      "sellToPlayerPrice": 100,
+      "initialStock": 4294967295,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 4294967295,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "gold coins",
+      "item": 61,
+      "sellToPlayerPrice": 10000,
+      "initialStock": 4294967295,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 4294967295,
+      "quality": [3, 3],
+      "durability": [33, 33],
+      "data": 0,
+      "category": 0
+    }
+  ]
+}

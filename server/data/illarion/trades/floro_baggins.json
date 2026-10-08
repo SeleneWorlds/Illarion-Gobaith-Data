@@ -1,0 +1,166 @@
+{
+  "stock": [
+    {
+      "name": "anger berry",
+      "item": 136,
+      "sellToPlayerPrice": 8,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 1000,
+      "quality": [
+        3,
+        3
+      ],
+      "durability": [
+        33,
+        33
+      ],
+      "data": 9004,
+      "category": 0
+    },
+    {
+      "name": "flamegoblet blossom",
+      "item": 137,
+      "sellToPlayerPrice": 8,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 1000,
+      "quality": [
+        3,
+        3
+      ],
+      "durability": [
+        33,
+        33
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "night angels blossom",
+      "item": 138,
+      "sellToPlayerPrice": 8,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 1000,
+      "quality": [
+        3,
+        3
+      ],
+      "durability": [
+        33,
+        33
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "donf blade",
+      "item": 140,
+      "sellToPlayerPrice": 8,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 1000,
+      "quality": [
+        3,
+        3
+      ],
+      "durability": [
+        33,
+        33
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "sandberry",
+      "item": 142,
+      "sellToPlayerPrice": 8,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 1000,
+      "quality": [
+        3,
+        3
+      ],
+      "durability": [
+        33,
+        33
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "desert sky capsule",
+      "item": 146,
+      "sellToPlayerPrice": 8,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 1000,
+      "quality": [
+        3,
+        3
+      ],
+      "durability": [
+        33,
+        33
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "firnis blossom",
+      "item": 148,
+      "sellToPlayerPrice": 8,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 1000,
+      "quality": [
+        3,
+        3
+      ],
+      "durability": [
+        33,
+        33
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "empty potion",
+      "item": 164,
+      "sellToPlayerPrice": 20,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 5,
+      "defaultStock": 1000,
+      "quality": [
+        3,
+        3
+      ],
+      "durability": [
+        33,
+        33
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "empty liquor bottle",
+      "item": 1317,
+      "sellToPlayerPrice": 25,
+      "initialStock": 500,
+      "buyFromPlayerPrice": 5,
+      "defaultStock": 1000,
+      "quality": [
+        3,
+        3
+      ],
+      "durability": [
+        33,
+        33
+      ],
+      "data": 0,
+      "category": 0
+    }
+  ]
+}

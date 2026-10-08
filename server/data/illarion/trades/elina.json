@@ -1,0 +1,292 @@
+{
+  "stock": [
+    {
+      "name": "arrow",
+      "item": 64,
+      "sellToPlayerPrice": 5,
+      "initialStock": 1000,
+      "buyFromPlayerPrice": 1,
+      "defaultStock": 1000,
+      "quality": [
+        5,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "short bow",
+      "item": 65,
+      "sellToPlayerPrice": 80,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 8,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "hunting bow",
+      "item": 2714,
+      "sellToPlayerPrice": 120,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 12,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "serinjahriders bow",
+      "item": 2646,
+      "sellToPlayerPrice": 150,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 16,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "elven composite longbow",
+      "item": 2718,
+      "sellToPlayerPrice": 500,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 50,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "long bow",
+      "item": 2708,
+      "sellToPlayerPrice": 200,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 20,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "flute",
+      "item": 90,
+      "sellToPlayerPrice": 100,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 10,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "lute",
+      "item": 335,
+      "sellToPlayerPrice": 400,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 40,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "harp",
+      "item": 332,
+      "sellToPlayerPrice": 500,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 50,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "small wooden shield",
+      "item": 2445,
+      "sellToPlayerPrice": 200,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 20,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "wooden shield",
+      "item": 17,
+      "sellToPlayerPrice": 100,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 10,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "short scale greaves",
+      "item": 2194,
+      "sellToPlayerPrice": 200,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 20,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "scale greaves",
+      "item": 2193,
+      "sellToPlayerPrice": 400,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 40,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "battle staff",
+      "item": 207,
+      "sellToPlayerPrice": 250,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 25,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "ornate mages staff",
+      "item": 208,
+      "sellToPlayerPrice": 500,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 50,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "elven mages staff",
+      "item": 209,
+      "sellToPlayerPrice": 500,
+      "initialStock": 90,
+      "buyFromPlayerPrice": 50,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        6
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "stock": [
+    { "name": "amethyst", "item": 197, "sellToPlayerPrice": 0, "initialStock": 15, "buyFromPlayerPrice": 10, "defaultStock": 10, "quality": [5, 7], "durability": [44, 66], "data": 0, "category": 0 },
+    { "name": "topaz", "item": 198, "sellToPlayerPrice": 0, "initialStock": 15, "buyFromPlayerPrice": 10, "defaultStock": 10, "quality": [5, 7], "durability": [44, 66], "data": 0, "category": 0 },
+    { "name": "emerald", "item": 45, "sellToPlayerPrice": 0, "initialStock": 15, "buyFromPlayerPrice": 10, "defaultStock": 10, "quality": [5, 7], "durability": [44, 66], "data": 0, "category": 0 },
+    { "name": "ruby", "item": 46, "sellToPlayerPrice": 0, "initialStock": 15, "buyFromPlayerPrice": 10, "defaultStock": 10, "quality": [5, 7], "durability": [44, 66], "data": 0, "category": 0 },
+    { "name": "throwing axe", "item": 2645, "sellToPlayerPrice": 200, "initialStock": 10, "buyFromPlayerPrice": 10, "defaultStock": 5, "quality": [7, 8], "durability": [66, 88], "data": 0, "category": 0 },
+    { "name": "waraxe", "item": 188, "sellToPlayerPrice": 600, "initialStock": 5, "buyFromPlayerPrice": 15, "defaultStock": 5, "quality": [7, 8], "durability": [66, 88], "data": 0, "category": 0 },
+    { "name": "double axe", "item": 205, "sellToPlayerPrice": 700, "initialStock": 5, "buyFromPlayerPrice": 15, "defaultStock": 5, "quality": [7, 8], "durability": [66, 88], "data": 0, "category": 0 },
+    { "name": "dwarven axe", "item": 383, "sellToPlayerPrice": 0, "initialStock": 5, "buyFromPlayerPrice": 15, "defaultStock": 5, "quality": [7, 8], "durability": [66, 88], "data": 0, "category": 0 },
+    { "name": "longaxe", "item": 88, "sellToPlayerPrice": 1000, "initialStock": 5, "buyFromPlayerPrice": 12, "defaultStock": 5, "quality": [7, 8], "durability": [66, 88], "data": 0, "category": 0 },
+    { "name": "chain shirt", "item": 101, "sellToPlayerPrice": 1200, "initialStock": 10, "buyFromPlayerPrice": 50, "defaultStock": 5, "quality": [4, 6], "durability": [33, 66], "data": 0, "category": 0 },
+    { "name": "plate armor", "item": 4, "sellToPlayerPrice": 1500, "initialStock": 5, "buyFromPlayerPrice": 60, "defaultStock": 5, "quality": [4, 6], "durability": [33, 66], "data": 0, "category": 0 },
+    { "name": "dwarvenplate", "item": 2395, "sellToPlayerPrice": 0, "initialStock": 5, "buyFromPlayerPrice": 100, "defaultStock": 5, "quality": [4, 6], "durability": [33, 66], "data": 0, "category": 0 },
+    { "name": "short blue steel greave", "item": 2112, "sellToPlayerPrice": 500, "initialStock": 10, "buyFromPlayerPrice": 20, "defaultStock": 10, "quality": [4, 6], "durability": [33, 66], "data": 0, "category": 0 },
+    { "name": "iron plate", "item": 2535, "sellToPlayerPrice": 15, "initialStock": 40, "buyFromPlayerPrice": 3, "defaultStock": 20, "quality": [3, 3], "durability": [33, 33], "data": 0, "category": 0 },
+    { "name": "salkamaerian paladin's helmet", "item": 2444, "sellToPlayerPrice": 600, "initialStock": 20, "buyFromPlayerPrice": 25, "defaultStock": 5, "quality": [7, 8], "durability": [66, 88], "data": 0, "category": 0 },
+    { "name": "chain helmet", "item": 324, "sellToPlayerPrice": 400, "initialStock": 20, "buyFromPlayerPrice": 10, "defaultStock": 5, "quality": [7, 8], "durability": [66, 88], "data": 0, "category": 0 },
+    { "name": "round steel hat", "item": 2290, "sellToPlayerPrice": 200, "initialStock": 20, "buyFromPlayerPrice": 10, "defaultStock": 5, "quality": [7, 8], "durability": [66, 88], "data": 0, "category": 0 },
+    { "name": "hammer", "item": 23, "sellToPlayerPrice": 30, "initialStock": 20, "buyFromPlayerPrice": 0, "defaultStock": 20, "quality": [5, 7], "durability": [77, 90], "data": 0, "category": 0 },
+    { "name": "crucible pincers", "item": 2751, "sellToPlayerPrice": 50, "initialStock": 20, "buyFromPlayerPrice": 0, "defaultStock": 20, "quality": [5, 7], "durability": [77, 90], "data": 0, "category": 0 },
+    { "name": "tongs", "item": 2140, "sellToPlayerPrice": 40, "initialStock": 10, "buyFromPlayerPrice": 3, "defaultStock": 10, "quality": [4, 5], "durability": [77, 90], "data": 0, "category": 0 }
+  ]
+}

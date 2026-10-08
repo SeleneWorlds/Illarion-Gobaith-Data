@@ -1,0 +1,346 @@
+{
+  "stock": [
+    {
+      "name": "light shield",
+      "item": 18,
+      "sellToPlayerPrice": 100,
+      "initialStock": 20,
+      "buyFromPlayerPrice": 10,
+      "defaultStock": 25,
+      "quality": [
+        3,
+        4
+      ],
+      "durability": [
+        44,
+        66
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "knight shield",
+      "item": 20,
+      "sellToPlayerPrice": 300,
+      "initialStock": 25,
+      "buyFromPlayerPrice": 15,
+      "defaultStock": 25,
+      "quality": [
+        3,
+        4
+      ],
+      "durability": [
+        44,
+        66
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "round metal shield",
+      "item": 186,
+      "sellToPlayerPrice": 400,
+      "initialStock": 15,
+      "buyFromPlayerPrice": 20,
+      "defaultStock": 15,
+      "quality": [
+        3,
+        4
+      ],
+      "durability": [
+        44,
+        66
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "metal shield",
+      "item": 19,
+      "sellToPlayerPrice": 150,
+      "initialStock": 19,
+      "buyFromPlayerPrice": 15,
+      "defaultStock": 25,
+      "quality": [
+        3,
+        4
+      ],
+      "durability": [
+        44,
+        66
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "mace",
+      "item": 230,
+      "sellToPlayerPrice": 250,
+      "initialStock": 25,
+      "buyFromPlayerPrice": 10,
+      "defaultStock": 25,
+      "quality": [
+        3,
+        4
+      ],
+      "durability": [
+        44,
+        66
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "short sword",
+      "item": 78,
+      "sellToPlayerPrice": 200,
+      "initialStock": 15,
+      "buyFromPlayerPrice": 20,
+      "defaultStock": 10,
+      "quality": [
+        3,
+        4
+      ],
+      "durability": [
+        44,
+        66
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "longsword",
+      "item": 2701,
+      "sellToPlayerPrice": 300,
+      "initialStock": 25,
+      "buyFromPlayerPrice": 10,
+      "defaultStock": 25,
+      "quality": [
+        3,
+        4
+      ],
+      "durability": [
+        44,
+        66
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "simple dagger",
+      "item": 27,
+      "sellToPlayerPrice": 100,
+      "initialStock": 25,
+      "buyFromPlayerPrice": 5,
+      "defaultStock": 25,
+      "quality": [
+        3,
+        4
+      ],
+      "durability": [
+        44,
+        66
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "ornate dagger",
+      "item": 190,
+      "sellToPlayerPrice": 200,
+      "initialStock": 25,
+      "buyFromPlayerPrice": 10,
+      "defaultStock": 25,
+      "quality": [
+        3,
+        4
+      ],
+      "durability": [
+        44,
+        66
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "steel cap",
+      "item": 202,
+      "sellToPlayerPrice": 100,
+      "initialStock": 15,
+      "buyFromPlayerPrice": 10,
+      "defaultStock": 15,
+      "quality": [
+        3,
+        4
+      ],
+      "durability": [
+        44,
+        66
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "steel hat",
+      "item": 187,
+      "sellToPlayerPrice": 150,
+      "initialStock": 25,
+      "buyFromPlayerPrice": 10,
+      "defaultStock": 25,
+      "quality": [
+        3,
+        4
+      ],
+      "durability": [
+        44,
+        66
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "chain mail",
+      "item": 101,
+      "sellToPlayerPrice": 1200,
+      "initialStock": 10,
+      "buyFromPlayerPrice": 50,
+      "defaultStock": 5,
+      "quality": [
+        4,
+        6
+      ],
+      "durability": [
+        44,
+        66
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "wooden shovel",
+      "item": 312,
+      "sellToPlayerPrice": 30,
+      "initialStock": 50,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 30,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "shovel",
+      "item": 24,
+      "sellToPlayerPrice": 30,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 30,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "pickaxe",
+      "item": 2763,
+      "sellToPlayerPrice": 30,
+      "initialStock": 5,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 30,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "hammer",
+      "item": 23,
+      "sellToPlayerPrice": 30,
+      "initialStock": 3,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 30,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "crucible pincers",
+      "item": 2751,
+      "sellToPlayerPrice": 50,
+      "initialStock": 20,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 20,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "tongs",
+      "item": 2140,
+      "sellToPlayerPrice": 40,
+      "initialStock": 10,
+      "buyFromPlayerPrice": 3,
+      "defaultStock": 10,
+      "quality": [
+        4,
+        5
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    },
+    {
+      "name": "glass blow pipe",
+      "item": 311,
+      "sellToPlayerPrice": 30,
+      "initialStock": 3,
+      "buyFromPlayerPrice": 0,
+      "defaultStock": 30,
+      "quality": [
+        5,
+        7
+      ],
+      "durability": [
+        77,
+        90
+      ],
+      "data": 0,
+      "category": 0
+    }
+  ]
+}
