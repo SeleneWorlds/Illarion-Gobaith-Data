@@ -1,19 +1,19 @@
 {
-  "enabled": true,
-  "type": 0,
-  "coordinate": {
-    "x": 43,
-    "y": 34,
-    "z": 50
-  },
-  "facing": 2,
-  "name": "Arimedus Dalahorn",
-  "sex": 0,
-  "race": "illarion:race_0",
-  "entity": "illarion:races/race_0_0",
-  "metadata": {
-    "id": 35,
-    "name": "Arimedus Dalahorn"
-  },
-  "consequence": "illarion-gobaith:npc/arimedus"
+    "enabled": true,
+    "type": 0,
+    "coordinate": {
+        "x": 43,
+        "y": 34,
+        "z": 50
+    },
+    "facing": 6,
+    "name": "Arimedus Dalahorn",
+    "sex": 0,
+    "race": "illarion:race_0",
+    "entity": "illarion:races/race_0_0",
+    "metadata": {
+        "id": 35,
+        "name": "Arimedus Dalahorn"
+    },
+    "consequence": "illarion-gobaith:npc/arimedus"
 }
