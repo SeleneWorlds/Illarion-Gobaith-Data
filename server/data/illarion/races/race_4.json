@@ -1,26 +1,48 @@
 {
-  "minAge": 18,
-  "maxAge": 80,
-  "minHeight": 51,
-  "maxHeight": 75,
-  "minWeight": 40000,
-  "maxWeight": 120000,
-  "minAgility": 4,
-  "maxAgility": 19,
-  "minStrength": 5,
-  "maxStrength": 20,
-  "minIntelligence": 2,
-  "maxIntelligence": 17,
-  "minWillpower": 1,
-  "maxWillpower": 16,
-  "minConstitution": 3,
-  "maxConstitution": 18,
-  "minDexterity": 3,
-  "maxDexterity": 18,
-  "minEssence": 3,
-  "maxEssence": 18,
-  "minPerception": 3,
-  "maxPerception": 18,
+  "age": {
+    "min": 18,
+    "max": 80
+  },
+  "height": {
+    "min": 51,
+    "max": 75
+  },
+  "weight": {
+    "min": 40000,
+    "max": 120000
+  },
+  "agility": {
+    "min": 4,
+    "max": 19
+  },
+  "strength": {
+    "min": 5,
+    "max": 20
+  },
+  "intelligence": {
+    "min": 2,
+    "max": 17
+  },
+  "willpower": {
+    "min": 1,
+    "max": 16
+  },
+  "constitution": {
+    "min": 3,
+    "max": 18
+  },
+  "dexterity": {
+    "min": 3,
+    "max": 18
+  },
+  "essence": {
+    "min": 3,
+    "max": 18
+  },
+  "perception": {
+    "min": 3,
+    "max": 18
+  },
   "name": "orc",
   "maxAttributePoints": 84,
   "strokeArmor": 0,

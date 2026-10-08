@@ -1,26 +1,48 @@
 {
-  "minAge": 20,
-  "maxAge": 700,
-  "minHeight": 59,
-  "maxHeight": 83,
-  "minWeight": 35000,
-  "maxWeight": 115000,
-  "minAgility": 4,
-  "maxAgility": 19,
-  "minStrength": 3,
-  "maxStrength": 18,
-  "minIntelligence": 3,
-  "maxIntelligence": 18,
-  "minWillpower": 5,
-  "maxWillpower": 20,
-  "minConstitution": 3,
-  "maxConstitution": 18,
-  "minDexterity": 1,
-  "maxDexterity": 16,
-  "minEssence": 2,
-  "maxEssence": 17,
-  "minPerception": 3,
-  "maxPerception": 18,
+  "age": {
+    "min": 20,
+    "max": 700
+  },
+  "height": {
+    "min": 59,
+    "max": 83
+  },
+  "weight": {
+    "min": 35000,
+    "max": 115000
+  },
+  "agility": {
+    "min": 4,
+    "max": 19
+  },
+  "strength": {
+    "min": 3,
+    "max": 18
+  },
+  "intelligence": {
+    "min": 3,
+    "max": 18
+  },
+  "willpower": {
+    "min": 5,
+    "max": 20
+  },
+  "constitution": {
+    "min": 3,
+    "max": 18
+  },
+  "dexterity": {
+    "min": 1,
+    "max": 16
+  },
+  "essence": {
+    "min": 2,
+    "max": 17
+  },
+  "perception": {
+    "min": 3,
+    "max": 18
+  },
   "name": "lizardman",
   "maxAttributePoints": 84,
   "strokeArmor": 0,

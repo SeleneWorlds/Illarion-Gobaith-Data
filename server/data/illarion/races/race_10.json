@@ -1,26 +1,48 @@
 {
-  "minAge": 18,
-  "maxAge": 80,
-  "minHeight": 55,
-  "maxHeight": 87,
-  "minWeight": 40000,
-  "maxWeight": 120000,
-  "minAgility": 2,
-  "maxAgility": 20,
-  "minStrength": 2,
-  "maxStrength": 20,
-  "minIntelligence": 2,
-  "maxIntelligence": 20,
-  "minWillpower": 2,
-  "maxWillpower": 20,
-  "minConstitution": 2,
-  "maxConstitution": 20,
-  "minDexterity": 2,
-  "maxDexterity": 20,
-  "minEssence": 2,
-  "maxEssence": 20,
-  "minPerception": 2,
-  "maxPerception": 20,
+  "age": {
+    "min": 18,
+    "max": 80
+  },
+  "height": {
+    "min": 55,
+    "max": 87
+  },
+  "weight": {
+    "min": 40000,
+    "max": 120000
+  },
+  "agility": {
+    "min": 2,
+    "max": 20
+  },
+  "strength": {
+    "min": 2,
+    "max": 20
+  },
+  "intelligence": {
+    "min": 2,
+    "max": 20
+  },
+  "willpower": {
+    "min": 2,
+    "max": 20
+  },
+  "constitution": {
+    "min": 2,
+    "max": 20
+  },
+  "dexterity": {
+    "min": 2,
+    "max": 20
+  },
+  "essence": {
+    "min": 2,
+    "max": 20
+  },
+  "perception": {
+    "min": 2,
+    "max": 20
+  },
   "name": "mummy",
   "maxAttributePoints": 84,
   "strokeArmor": 2,

@@ -1,26 +1,48 @@
 {
-  "minAge": 30,
-  "maxAge": 300,
-  "minHeight": 39,
-  "maxHeight": 63,
-  "minWeight": 50000,
-  "maxWeight": 130000,
-  "minAgility": 3,
-  "maxAgility": 18,
-  "minStrength": 3,
-  "maxStrength": 18,
-  "minIntelligence": 2,
-  "maxIntelligence": 17,
-  "minWillpower": 3,
-  "maxWillpower": 18,
-  "minConstitution": 5,
-  "maxConstitution": 20,
-  "minDexterity": 4,
-  "maxDexterity": 19,
-  "minEssence": 3,
-  "maxEssence": 18,
-  "minPerception": 1,
-  "maxPerception": 16,
+  "age": {
+    "min": 30,
+    "max": 300
+  },
+  "height": {
+    "min": 39,
+    "max": 63
+  },
+  "weight": {
+    "min": 50000,
+    "max": 130000
+  },
+  "agility": {
+    "min": 3,
+    "max": 18
+  },
+  "strength": {
+    "min": 3,
+    "max": 18
+  },
+  "intelligence": {
+    "min": 2,
+    "max": 17
+  },
+  "willpower": {
+    "min": 3,
+    "max": 18
+  },
+  "constitution": {
+    "min": 5,
+    "max": 20
+  },
+  "dexterity": {
+    "min": 4,
+    "max": 19
+  },
+  "essence": {
+    "min": 3,
+    "max": 18
+  },
+  "perception": {
+    "min": 1,
+    "max": 16
+  },
   "name": "dwarf",
   "maxAttributePoints": 84,
   "strokeArmor": 0,

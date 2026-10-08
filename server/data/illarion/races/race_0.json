@@ -1,26 +1,48 @@
 {
-  "minAge": 18,
-  "maxAge": 100,
-  "minHeight": 55,
-  "maxHeight": 79,
-  "minWeight": 45000,
-  "maxWeight": 125000,
-  "minAgility": 3,
-  "maxAgility": 18,
-  "minStrength": 3,
-  "maxStrength": 18,
-  "minIntelligence": 3,
-  "maxIntelligence": 18,
-  "minWillpower": 2,
-  "maxWillpower": 18,
-  "minConstitution": 3,
-  "maxConstitution": 18,
-  "minDexterity": 3,
-  "maxDexterity": 18,
-  "minEssence": 3,
-  "maxEssence": 18,
-  "minPerception": 3,
-  "maxPerception": 18,
+  "age": {
+    "min": 18,
+    "max": 100
+  },
+  "height": {
+    "min": 55,
+    "max": 79
+  },
+  "weight": {
+    "min": 45000,
+    "max": 125000
+  },
+  "agility": {
+    "min": 3,
+    "max": 18
+  },
+  "strength": {
+    "min": 3,
+    "max": 18
+  },
+  "intelligence": {
+    "min": 3,
+    "max": 18
+  },
+  "willpower": {
+    "min": 2,
+    "max": 18
+  },
+  "constitution": {
+    "min": 3,
+    "max": 18
+  },
+  "dexterity": {
+    "min": 3,
+    "max": 18
+  },
+  "essence": {
+    "min": 3,
+    "max": 18
+  },
+  "perception": {
+    "min": 3,
+    "max": 18
+  },
   "name": "human",
   "maxAttributePoints": 84,
   "types": {
