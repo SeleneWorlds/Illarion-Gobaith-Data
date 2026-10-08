@@ -1,0 +1,17 @@
+{
+    "coordinate": {
+        "x": 123,
+        "y": -416,
+        "z": 0
+    },
+    "range": 16,
+    "spawnTime": {
+        "min": 5,
+        "max": 15
+    },
+    "spawnRange": 16,
+    "spawnAll": true,
+    "monsters": {
+        "illarion:monster_46": 3
+    }
+}
