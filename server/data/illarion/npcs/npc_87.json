@@ -1,19 +1,19 @@
 {
-  "enabled": true,
-  "type": 0,
-  "coordinate": {
-    "x": -263,
-    "y": -309,
-    "z": 0
-  },
-  "facing": 6,
-  "name": "Nadir",
-  "sex": 0,
-  "race": "illarion:race_0",
-  "entity": "illarion:races/race_0_0",
-  "metadata": {
-    "id": 87,
-    "name": "Nadir"
-  },
-  "consequence": "illarion-gobaith:npc/nadir"
+    "enabled": true,
+    "type": 0,
+    "coordinate": {
+        "x": 250,
+        "y": -295,
+        "z": 0
+    },
+    "facing": 2,
+    "name": "Nadir",
+    "sex": 0,
+    "race": "illarion:race_0",
+    "entity": "illarion:races/race_0_0",
+    "metadata": {
+        "id": 87,
+        "name": "Nadir"
+    },
+    "consequence": "illarion-gobaith:npc/nadir"
 }

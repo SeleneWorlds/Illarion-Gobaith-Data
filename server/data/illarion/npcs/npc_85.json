@@ -1,19 +1,19 @@
 {
-  "enabled": true,
-  "type": 0,
-  "coordinate": {
-    "x": -56,
-    "y": -96,
-    "z": 0
-  },
-  "facing": 6,
-  "name": "Morgan Gronwan",
-  "sex": 0,
-  "race": "illarion:race_0",
-  "entity": "illarion:races/race_0_0",
-  "metadata": {
-    "id": 85,
-    "name": "Morgan Gronwan"
-  },
-  "consequence": "illarion-gobaith:npc/morgan"
+    "enabled": true,
+    "type": 0,
+    "coordinate": {
+        "x": -68,
+        "y": -120,
+        "z": 0
+    },
+    "facing": 6,
+    "name": "Morgan Gronwan",
+    "sex": 0,
+    "race": "illarion:race_0",
+    "entity": "illarion:races/race_0_0",
+    "metadata": {
+        "id": 85,
+        "name": "Morgan Gronwan"
+    },
+    "consequence": "illarion-gobaith:npc/morgan"
 }

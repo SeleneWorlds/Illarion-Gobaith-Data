@@ -1,19 +1,19 @@
 {
-  "enabled": true,
-  "type": 0,
-  "coordinate": {
-    "x": -454,
-    "y": 244,
-    "z": 0
-  },
-  "facing": 4,
-  "name": "Hyronimus",
-  "sex": 0,
-  "race": "illarion:race_0",
-  "entity": "illarion:races/race_0_0",
-  "metadata": {
-    "id": 65,
-    "name": "Hyronimus"
-  },
-  "consequence": "illarion-gobaith:npc/hyronimus"
+    "enabled": true,
+    "type": 0,
+    "coordinate": {
+        "x": -453,
+        "y": 244,
+        "z": 0
+    },
+    "facing": 6,
+    "name": "Hyronimus",
+    "sex": 0,
+    "race": "illarion:race_0",
+    "entity": "illarion:races/race_0_0",
+    "metadata": {
+        "id": 65,
+        "name": "Hyronimus"
+    },
+    "consequence": "illarion-gobaith:npc/hyronimus"
 }

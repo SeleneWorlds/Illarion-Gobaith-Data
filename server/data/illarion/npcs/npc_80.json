@@ -1,19 +1,19 @@
 {
-  "enabled": true,
-  "type": 0,
-  "coordinate": {
-    "x": -107,
-    "y": -117,
-    "z": 0
-  },
-  "facing": 6,
-  "name": "Maris Maroqu",
-  "consequence": "illarion-gobaith:npc/maris",
-  "sex": 0,
-  "race": "illarion:race_0",
-  "entity": "illarion:races/race_0_0",
-  "metadata": {
-    "id": 80,
-    "name": "Maris Maroqu"
-  }
+    "enabled": true,
+    "type": 0,
+    "coordinate": {
+        "x": -59,
+        "y": -138,
+        "z": 0
+    },
+    "facing": 4,
+    "name": "Maris Maroqu",
+    "consequence": "illarion-gobaith:npc/maris",
+    "sex": 0,
+    "race": "illarion:race_0",
+    "entity": "illarion:races/race_0_0",
+    "metadata": {
+        "id": 80,
+        "name": "Maris Maroqu"
+    }
 }
