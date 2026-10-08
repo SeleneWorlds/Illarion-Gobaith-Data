@@ -1,19 +1,19 @@
 {
-  "enabled": true,
-  "type": 0,
-  "coordinate": {
-    "x": -62,
-    "y": -126,
-    "z": 0
-  },
-  "facing": 4,
-  "name": "Mugush",
-  "sex": 0,
-  "race": "illarion:race_0",
-  "entity": "illarion:races/race_0_0",
-  "metadata": {
-    "id": 86,
-    "name": "Mugush"
-  },
-  "consequence": "illarion-gobaith:npc/mugush"
+    "enabled": true,
+    "type": 0,
+    "coordinate": {
+        "x": -56,
+        "y": -131,
+        "z": 0
+    },
+    "facing": 4,
+    "name": "Mugush",
+    "sex": 0,
+    "race": "illarion:race_0",
+    "entity": "illarion:races/race_0_0",
+    "metadata": {
+        "id": 86,
+        "name": "Mugush"
+    },
+    "consequence": "illarion-gobaith:npc/mugush"
 }
