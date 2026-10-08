@@ -1,19 +1,18 @@
 {
-  "volume": 1,
-  "weight": 50,
-  "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_2952",
-  "script": "druid.item.id_2952_plate",
-  "rotsInInventory": false,
-  "brightness": 0,
-  "worth": 200,
-  "buyStack": 1,
-  "maxStack": 1000,
-  "rareness": 1,
-  "name": "woodenPlate",
-  "level": 5,
-  "visual": "illarion:items/item_2952",
-  "metadata": {
-    "id": 2952
-  }
+    "volume": 1,
+    "weight": 50,
+    "agingSpeed": 254,
+    "objectAfterRot": "illarion:item_2952",
+    "rotsInInventory": false,
+    "brightness": 0,
+    "worth": 200,
+    "buyStack": 1,
+    "maxStack": 1000,
+    "rareness": 1,
+    "name": "woodenPlate",
+    "level": 5,
+    "visual": "illarion:items/item_2952",
+    "metadata": {
+        "id": 2952
+    }
 }
