@@ -10,7 +10,10 @@
       "registry": "illarion:items",
       "optional": true
     },
-    "script": "script",
+    "script": {
+      "type": "script",
+      "optional": true
+    },
     "rotsInInventory": "boolean",
     "brightness": "integer",
     "worth": "integer",
