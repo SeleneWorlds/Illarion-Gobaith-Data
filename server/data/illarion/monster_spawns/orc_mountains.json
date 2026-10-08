@@ -13,5 +13,6 @@
     "spawnAll": true,
     "monsters": {
         "illarion:monster_46": 3
-    }
+    },
+    "enabled": true
 }

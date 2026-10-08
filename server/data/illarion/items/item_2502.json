@@ -1,19 +1,19 @@
 {
-  "volume": 1,
-  "weight": 50,
-  "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_2502",
-  "script": "item.id_2502_gynkfire",
-  "rotsInInventory": false,
-  "brightness": 0,
-  "worth": 800,
-  "buyStack": 1,
-  "maxStack": 1000,
-  "rareness": 1,
-  "name": "bottleOfMilk",
-  "level": 20,
-  "visual": "illarion:items/item_2502",
-  "metadata": {
-    "id": 2502
-  }
+    "volume": 1,
+    "weight": 50,
+    "agingSpeed": 254,
+    "objectAfterRot": "illarion:item_2502",
+    "script": "item.id_2502_gynkfire",
+    "rotsInInventory": false,
+    "brightness": 0,
+    "worth": 800,
+    "buyStack": 1,
+    "maxStack": 1000,
+    "rareness": 1,
+    "name": "gynkeseFire",
+    "level": 20,
+    "visual": "illarion:items/item_2502",
+    "metadata": {
+        "id": 2502
+    }
 }
