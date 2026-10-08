@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "script": "scheduled.closedoors",
   "function": "closeDoors",
   "minInterval": 10,

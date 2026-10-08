@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "script": "scheduled.weather",
   "function": "changeWeather",
   "minInterval": 3500,

@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "script": "scheduled.spread_illness",
   "function": "spreadIllness",
   "minInterval": 10,

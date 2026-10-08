@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "script": "scheduled.gaia",
   "function": "plantdrop",
   "minInterval": 10,

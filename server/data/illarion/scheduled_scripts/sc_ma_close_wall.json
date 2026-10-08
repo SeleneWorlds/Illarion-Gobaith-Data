@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "script": "scheduled.sc_ma_close_wall",
   "function": "CloseSecretWall",
   "minInterval": 10,
