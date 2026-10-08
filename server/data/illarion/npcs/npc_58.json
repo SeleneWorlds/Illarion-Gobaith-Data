@@ -1,19 +1,19 @@
 {
-  "enabled": true,
-  "type": 1,
-  "coordinate": {
-    "x": 110,
-    "y": -210,
-    "z": -3
-  },
-  "facing": 4,
-  "name": "Garabosch",
-  "sex": 0,
-  "race": "illarion:race_1",
-  "entity": "illarion:races/race_1_0",
-  "metadata": {
-    "id": 58,
-    "name": "Garabosch"
-  },
-  "consequence": "illarion-gobaith:npc/graubart"
+    "enabled": true,
+    "type": 1,
+    "coordinate": {
+        "x": 106,
+        "y": -207,
+        "z": -3
+    },
+    "facing": 2,
+    "name": "Garabosch",
+    "sex": 0,
+    "race": "illarion:race_1",
+    "entity": "illarion:races/race_1_0",
+    "metadata": {
+        "id": 58,
+        "name": "Garabosch"
+    },
+    "consequence": "illarion-gobaith:npc/graubart"
 }
