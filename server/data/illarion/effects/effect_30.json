@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "snareThree",
   "script": "magic.arcane.snare",
   "metadata": {

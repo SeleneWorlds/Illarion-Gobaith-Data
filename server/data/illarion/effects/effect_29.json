@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "parish_nargun",
   "script": "lte.parish_nargun",
   "metadata": {

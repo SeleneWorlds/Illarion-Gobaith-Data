@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Lif Granors punishment",
   "script": "lte.liftGranorsPunishment",
   "metadata": {

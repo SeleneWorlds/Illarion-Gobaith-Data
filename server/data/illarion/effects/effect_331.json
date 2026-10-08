@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "alchemy_potionspam",
   "script": "alchemy.lte.id_331_potionspam",
   "metadata": {

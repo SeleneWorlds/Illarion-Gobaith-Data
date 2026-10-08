@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "fighting",
   "script": "lte.fighting",
   "metadata": {

@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "paralysis",
   "script": "lte.paralysis",
   "metadata": {

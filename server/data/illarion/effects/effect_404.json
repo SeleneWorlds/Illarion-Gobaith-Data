@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "drinkEffect",
   "script": "lte.drinkEffect",
   "metadata": {

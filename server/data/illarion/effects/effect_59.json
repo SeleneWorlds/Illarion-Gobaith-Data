@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "alchemy_attribs",
   "script": "alchemy.lte.id_59_attribs",
   "metadata": {

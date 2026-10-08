@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "plantRootThree",
   "script": "magic.arcane.plantRoot",
   "metadata": {

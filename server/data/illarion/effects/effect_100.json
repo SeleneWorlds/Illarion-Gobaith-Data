@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Perception debuff",
   "script": "lte.debuff_perception",
   "metadata": {

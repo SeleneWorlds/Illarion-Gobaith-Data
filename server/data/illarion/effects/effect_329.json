@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "alchemy_transformation",
   "script": "alchemy.lte.id_329_transformation",
   "metadata": {

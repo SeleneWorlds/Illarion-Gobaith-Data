@@ -2,6 +2,7 @@
   "name": "effects",
   "platform": "server",
   "schema": {
+    "enabled": "enabled",
     "name": "string",
     "script": "script",
     "metadata": {

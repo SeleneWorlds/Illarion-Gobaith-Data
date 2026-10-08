@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "alchemy_language",
   "script": "alchemy.lte.id_330_language",
   "metadata": {

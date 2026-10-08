@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Longterm Cooldown",
   "script": "lte.longterm_cooldown",
   "metadata": {

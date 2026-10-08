@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "magicparalyse",
   "script": "lte.magic_paralyse",
   "metadata": {

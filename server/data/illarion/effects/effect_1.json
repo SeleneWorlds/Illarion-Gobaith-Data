@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "magicDoT",
   "script": "magic.arcane.magicDoT",
   "metadata": {

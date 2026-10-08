@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "char_reg",
   "script": "lte.chr_reg",
   "metadata": {

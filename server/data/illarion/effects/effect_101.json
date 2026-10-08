@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Constitution debuff",
   "script": "lte.debuff_constitution",
   "metadata": {

@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "activity_tracker",
   "script": "lte.activity_tracker",
   "metadata": {

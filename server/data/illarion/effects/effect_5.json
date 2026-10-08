@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "AttribBoost",
   "script": "lte.attrib_boost",
   "metadata": {

@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Damagefield Poison",
   "script": "lte.damagefield_poisoncloud",
   "metadata": {

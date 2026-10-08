@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "cursed_ring",
   "script": "lte.cursed_ring",
   "metadata": {

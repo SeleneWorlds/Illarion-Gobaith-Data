@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "diamondGolemAura",
   "script": "lte.diamondGolemAura",
   "metadata": {

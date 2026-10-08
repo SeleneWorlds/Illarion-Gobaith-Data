@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "fireSpitting",
   "script": "lte.fireSpitting",
   "metadata": {

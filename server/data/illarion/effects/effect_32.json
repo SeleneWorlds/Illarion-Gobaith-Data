@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "druidsescape",
   "script": "lte.druids_escape",
   "metadata": {

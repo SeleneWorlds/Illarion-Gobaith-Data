@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "glyph_equip_inform",
   "script": "lte.glyph_equip_inform",
   "metadata": {

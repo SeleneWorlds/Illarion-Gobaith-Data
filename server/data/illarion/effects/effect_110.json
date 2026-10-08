@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Damagefield Fire",
   "script": "lte.damagefield_firefield",
   "metadata": {

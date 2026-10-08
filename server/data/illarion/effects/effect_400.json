@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "resurrection",
   "script": "lte.resurrected",
   "metadata": {

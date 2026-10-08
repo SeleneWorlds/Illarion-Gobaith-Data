@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "stallMana",
   "script": "magic.arcane.stallMana",
   "metadata": {
