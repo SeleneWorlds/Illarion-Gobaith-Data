@@ -1,4 +1,5 @@
 {
+  "name": "gnomeFemale",
   "age": {
     "min": 18,
     "max": 80

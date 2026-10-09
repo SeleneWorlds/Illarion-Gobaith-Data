@@ -1,4 +1,5 @@
 {
+  "name": "forestTroll",
   "age": {
     "min": 18,
     "max": 80
