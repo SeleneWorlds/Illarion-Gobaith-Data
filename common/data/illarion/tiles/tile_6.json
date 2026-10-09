@@ -1,4 +1,5 @@
 {
+  "movementDuration": 0.20,
   "impassable": true,
   "metadata": {
     "tileId": 6,
