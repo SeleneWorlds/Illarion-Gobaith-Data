@@ -15,7 +15,7 @@
         "id": 100,
         "name": "Sorgan Stonemate"
     },
-    "consequence": "illarion-gobaith:npc/sorgan",
+    "consequence": "illarion-gobaith:npc/sorgan_stonemate",
     "skills": {
         "illarion:skill_0": 100
     }

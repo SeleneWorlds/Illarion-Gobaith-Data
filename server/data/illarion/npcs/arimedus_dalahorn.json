@@ -15,7 +15,7 @@
         "id": 35,
         "name": "Arimedus Dalahorn"
     },
-    "consequence": "illarion-gobaith:npc/arimedus",
+    "consequence": "illarion-gobaith:npc/arimedus_dalahorn",
     "skills": {
         "illarion:skill_0": 100
     }

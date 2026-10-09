@@ -15,7 +15,7 @@
         "id": 85,
         "name": "Morgan Gronwan"
     },
-    "consequence": "illarion-gobaith:npc/morgan",
+    "consequence": "illarion-gobaith:npc/morgan_gronwan",
     "skills": {
         "illarion:skill_0": 100
     }

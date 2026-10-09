@@ -15,7 +15,7 @@
         "id": 123,
         "name": "Teplip Efrullop"
     },
-    "consequence": "illarion-gobaith:npc/teplip",
+    "consequence": "illarion-gobaith:npc/teplip_efrullop",
     "skills": {
         "illarion:skill_0": 100
     }

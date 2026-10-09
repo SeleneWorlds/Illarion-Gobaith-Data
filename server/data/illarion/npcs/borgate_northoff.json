@@ -8,7 +8,7 @@
   },
   "facing": "west",
   "name": "Borgate Northoff",
-  "consequence": "illarion-gobaith:npc/borgate",
+  "consequence": "illarion-gobaith:npc/borgate_northoff",
   "sex": 0,
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
