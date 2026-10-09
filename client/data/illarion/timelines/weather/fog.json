@@ -1,0 +1,9 @@
+{
+  "events": [
+    {
+      "type": "screen_overlay",
+      "texture": "client/textures/illarion/ui/fog_overlay.png",
+      "alphaMultiplier": "fogDensity"
+    }
+  ]
+}
