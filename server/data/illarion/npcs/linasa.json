@@ -15,9 +15,9 @@
     "id": 75,
     "name": "Linasa"
   },
-  "consequence": "illarion-gobaith:npc/linasa",
   "skills": {
     "illarion:skill_0": 100,
     "illarion:skill_3": 100
-  }
+  },
+  "npc": "illarion-gobaith:npc/linasa"
 }

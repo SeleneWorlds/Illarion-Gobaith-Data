@@ -1,23 +1,23 @@
 {
-    "enabled": true,
-    "type": 1,
-    "coordinate": {
-        "x": 80,
-        "y": -193,
-        "z": 0
-    },
-    "facing": "west",
-    "name": "Gambi",
-    "sex": "male",
-    "race": "illarion:race_1",
-    "entity": "illarion:races/race_1_0",
-    "metadata": {
-        "id": 53,
-        "name": "Gambi"
-    },
-    "consequence": "illarion-gobaith:npc/gambi",
-    "skills": {
-      "illarion:skill_0": 100,
-      "illarion:skill_2": 100
-    }
+  "enabled": true,
+  "type": 1,
+  "coordinate": {
+    "x": 80,
+    "y": -193,
+    "z": 0
+  },
+  "facing": "west",
+  "name": "Gambi",
+  "sex": "male",
+  "race": "illarion:race_1",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 53,
+    "name": "Gambi"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_2": 100
+  },
+  "npc": "illarion-gobaith:npc/gambi"
 }

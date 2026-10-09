@@ -15,9 +15,9 @@
     "id": 97,
     "name": "Rijana Thelingham"
   },
-  "consequence": "illarion-gobaith:npc/rijana_thelingham",
   "skills": {
     "illarion:skill_0": 100,
     "illarion:skill_1": 100
-  }
+  },
+  "npc": "illarion-gobaith:npc/rijana_thelingham"
 }

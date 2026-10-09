@@ -15,9 +15,9 @@
     "id": 91,
     "name": "Norbert"
   },
-  "consequence": "illarion-gobaith:npc/norbert",
   "skills": {
     "illarion:skill_0": 100,
     "illarion:skill_1": 100
-  }
+  },
+  "npc": "illarion-gobaith:npc/norbert"
 }

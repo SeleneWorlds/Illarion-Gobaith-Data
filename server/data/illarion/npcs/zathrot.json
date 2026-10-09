@@ -1,23 +1,23 @@
 {
-    "enabled": true,
-    "type": 5,
-    "coordinate": {
-        "x": -120,
-        "y": -93,
-        "z": 0
-    },
-    "facing": "east",
-    "name": "Zathrot",
-    "consequence": "illarion-gobaith:npc/zathrot",
-    "sex": "male",
-    "race": "illarion:race_5",
-    "entity": "illarion:races/race_5_0",
-    "metadata": {
-        "id": 136,
-        "name": "Zathrot"
-    },
-    "skills": {
-      "illarion:skill_0": 100,
-      "illarion:skill_6": 100
-    }
+  "enabled": true,
+  "type": 5,
+  "coordinate": {
+    "x": -120,
+    "y": -93,
+    "z": 0
+  },
+  "facing": "east",
+  "name": "Zathrot",
+  "sex": "male",
+  "race": "illarion:race_5",
+  "entity": "illarion:races/race_5_0",
+  "metadata": {
+    "id": 136,
+    "name": "Zathrot"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_6": 100
+  },
+  "npc": "illarion-gobaith:npc/zathrot"
 }

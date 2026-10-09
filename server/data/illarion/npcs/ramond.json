@@ -15,9 +15,9 @@
     "id": 95,
     "name": "Ramond"
   },
-  "consequence": "illarion-gobaith:npc/ramond",
   "skills": {
     "illarion:skill_0": 100,
     "illarion:skill_1": 100
-  }
+  },
+  "npc": "illarion-gobaith:npc/ramond"
 }

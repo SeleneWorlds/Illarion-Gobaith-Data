@@ -1,23 +1,23 @@
 {
-    "enabled": true,
-    "type": 0,
-    "coordinate": {
-        "x": -286,
-        "y": 46,
-        "z": 0
-    },
-    "facing": "south",
-    "name": "Jarmal",
-    "sex": "male",
-    "race": "illarion:race_0",
-    "entity": "illarion:races/race_0_0",
-    "metadata": {
-        "id": 67,
-        "name": "Jarmal"
-    },
-    "consequence": "illarion-gobaith:npc/jarmal",
-    "skills": {
-      "illarion:skill_0": 100,
-      "illarion:skill_1": 100
-    }
+  "enabled": true,
+  "type": 0,
+  "coordinate": {
+    "x": -286,
+    "y": 46,
+    "z": 0
+  },
+  "facing": "south",
+  "name": "Jarmal",
+  "sex": "male",
+  "race": "illarion:race_0",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 67,
+    "name": "Jarmal"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
+  },
+  "npc": "illarion-gobaith:npc/jarmal"
 }

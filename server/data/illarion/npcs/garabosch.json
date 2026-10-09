@@ -1,23 +1,23 @@
 {
-    "enabled": true,
-    "type": 1,
-    "coordinate": {
-        "x": 106,
-        "y": -207,
-        "z": -3
-    },
-    "facing": "east",
-    "name": "Garabosch",
-    "sex": "male",
-    "race": "illarion:race_1",
-    "entity": "illarion:races/race_1_0",
-    "metadata": {
-        "id": 58,
-        "name": "Garabosch"
-    },
-    "consequence": "illarion-gobaith:npc/garabosch",
-    "skills": {
-      "illarion:skill_0": 100,
-      "illarion:skill_2": 100
-    }
+  "enabled": true,
+  "type": 1,
+  "coordinate": {
+    "x": 106,
+    "y": -207,
+    "z": -3
+  },
+  "facing": "east",
+  "name": "Garabosch",
+  "sex": "male",
+  "race": "illarion:race_1",
+  "entity": "illarion:races/race_1_0",
+  "metadata": {
+    "id": 58,
+    "name": "Garabosch"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_2": 100
+  },
+  "npc": "illarion-gobaith:npc/garabosch"
 }

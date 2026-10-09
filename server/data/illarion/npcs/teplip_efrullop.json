@@ -1,23 +1,23 @@
 {
-    "enabled": true,
-    "type": 8,
-    "coordinate": {
-        "x": 254,
-        "y": -297,
-        "z": 0
-    },
-    "facing": "south",
-    "name": "Teplip Efrullop",
-    "sex": "male",
-    "race": "illarion:race_32",
-    "entity": "illarion:races/race_32_0",
-    "metadata": {
-        "id": 123,
-        "name": "Teplip Efrullop"
-    },
-    "consequence": "illarion-gobaith:npc/teplip_efrullop",
-    "skills": {
-      "illarion:skill_0": 100,
-      "illarion:skill_71": 100
-    }
+  "enabled": true,
+  "type": 8,
+  "coordinate": {
+    "x": 254,
+    "y": -297,
+    "z": 0
+  },
+  "facing": "south",
+  "name": "Teplip Efrullop",
+  "sex": "male",
+  "race": "illarion:race_32",
+  "entity": "illarion:races/race_32_0",
+  "metadata": {
+    "id": 123,
+    "name": "Teplip Efrullop"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_71": 100
+  },
+  "npc": "illarion-gobaith:npc/teplip_efrullop"
 }

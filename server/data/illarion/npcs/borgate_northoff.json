@@ -8,7 +8,6 @@
   },
   "facing": "west",
   "name": "Borgate Northoff",
-  "consequence": "illarion-gobaith:npc/borgate_northoff",
   "sex": "male",
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
@@ -19,5 +18,6 @@
   "skills": {
     "illarion:skill_0": 100,
     "illarion:skill_2": 100
-  }
+  },
+  "npc": "illarion-gobaith:npc/borgate_northoff"
 }

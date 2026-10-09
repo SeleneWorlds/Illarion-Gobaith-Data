@@ -15,9 +15,9 @@
     "id": 74,
     "name": "Leonard Hierbe"
   },
-  "consequence": "illarion-gobaith:npc/leonard_hierbe",
   "skills": {
     "illarion:skill_0": 100,
     "illarion:skill_1": 100
-  }
+  },
+  "npc": "illarion-gobaith:npc/leonard_hierbe"
 }

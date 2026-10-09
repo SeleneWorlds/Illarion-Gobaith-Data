@@ -1,23 +1,23 @@
 {
-    "enabled": true,
-    "type": 2,
-    "coordinate": {
-        "x": -118,
-        "y": -68,
-        "z": 0
-    },
-    "facing": "south",
-    "name": "Feliam Wardstrok",
-    "consequence": "illarion-gobaith:npc/feliam_wardstrok",
-    "sex": "male",
-    "race": "illarion:race_2",
-    "entity": "illarion:races/race_2_0",
-    "metadata": {
-        "id": 48,
-        "name": "Feliam Wardstrok"
-    },
-    "skills": {
-      "illarion:skill_0": 100,
-      "illarion:skill_4": 100
-    }
+  "enabled": true,
+  "type": 2,
+  "coordinate": {
+    "x": -118,
+    "y": -68,
+    "z": 0
+  },
+  "facing": "south",
+  "name": "Feliam Wardstrok",
+  "sex": "male",
+  "race": "illarion:race_2",
+  "entity": "illarion:races/race_2_0",
+  "metadata": {
+    "id": 48,
+    "name": "Feliam Wardstrok"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_4": 100
+  },
+  "npc": "illarion-gobaith:npc/feliam_wardstrok"
 }

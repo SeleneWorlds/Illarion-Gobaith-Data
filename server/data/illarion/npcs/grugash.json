@@ -16,9 +16,9 @@
     "id": 59,
     "name": "Grugash"
   },
-  "consequence": "illarion-gobaith:npc/grugash",
   "skills": {
     "illarion:skill_0": 100,
     "illarion:skill_5": 100
-  }
+  },
+  "npc": "illarion-gobaith:npc/grugash"
 }
