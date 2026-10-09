@@ -6,11 +6,7 @@
       "type": "object",
       "properties": {
         "key": "string",
-        "name": "string",
-        "base": {
-          "type": "boolean",
-          "optional": true
-        }
+        "name": "string"
       }
     }
   }
