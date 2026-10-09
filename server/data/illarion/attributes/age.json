@@ -1,1 +1,4 @@
-{ "metadata": { "key": "age", "name": "Age" } }
+{
+  "id": "age",
+  "name": "Age"
+}

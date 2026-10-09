@@ -1,1 +1,4 @@
-{ "metadata": { "key": "body_height", "name": "Body Height" } }
+{
+  "id": "body_height",
+  "name": "Body Height"
+}

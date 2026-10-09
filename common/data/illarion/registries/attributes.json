@@ -2,12 +2,7 @@
   "name": "attributes",
   "platform": "server",
   "schema": {
-    "metadata": {
-      "type": "object",
-      "properties": {
-        "key": "string",
-        "name": "string"
-      }
-    }
+    "id": "string",
+    "name": "string"
   }
 }

@@ -1,1 +1,4 @@
-{ "metadata": { "key": "poisonvalue", "name": "Poison Value" } }
+{
+  "id": "poisonvalue",
+  "name": "Poison Value"
+}
