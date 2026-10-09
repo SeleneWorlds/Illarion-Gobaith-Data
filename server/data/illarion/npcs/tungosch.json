@@ -8,7 +8,7 @@
   },
   "facing": "south",
   "name": "Tungosch",
-  "sex": 0,
+  "sex": "male",
   "race": "illarion:race_1",
   "entity": "illarion:races/race_1_0",
   "metadata": {

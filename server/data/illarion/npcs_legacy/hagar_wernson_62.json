@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Hagar Wernson",
   "script": "npc.hagar_wernson",
-  "sex": 0,
+  "sex": "male",
   "hair": 1,
   "beard": 1,
   "hairRed": 112,

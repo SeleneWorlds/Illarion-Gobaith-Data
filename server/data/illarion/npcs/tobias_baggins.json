@@ -8,7 +8,7 @@
   },
   "facing": "north",
   "name": "Tobias Baggins",
-  "sex": 0,
+  "sex": "male",
   "race": "illarion:race_2",
   "entity": "illarion:races/race_2_0",
   "metadata": {

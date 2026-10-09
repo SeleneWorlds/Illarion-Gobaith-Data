@@ -8,7 +8,7 @@
     },
     "facing": "south",
     "name": "Teplip Efrullop",
-    "sex": 0,
+    "sex": "male",
     "race": "illarion:race_32",
     "entity": "illarion:races/race_32_0",
     "metadata": {

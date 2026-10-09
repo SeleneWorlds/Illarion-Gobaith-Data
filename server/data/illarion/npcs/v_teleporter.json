@@ -9,7 +9,7 @@
   "facing": "north",
   "name": "V Teleporter",
   "script": "npc.special.static_teleport",
-  "sex": 0,
+  "sex": "male",
   "race": "illarion:race_26",
   "entity": "illarion:races/race_26_0",
   "metadata": {

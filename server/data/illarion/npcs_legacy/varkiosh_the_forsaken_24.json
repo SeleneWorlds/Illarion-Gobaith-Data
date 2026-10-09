@@ -6,7 +6,7 @@
   "facing": "west",
   "name": "Varkiosh the Forsaken",
   "script": "npc.varkiosh",
-  "sex": 0,
+  "sex": "male",
   "hair": 0,
   "beard": 0,
   "hairRed": 255,

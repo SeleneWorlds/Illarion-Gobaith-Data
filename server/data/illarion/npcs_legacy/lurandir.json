@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Lurandir",
   "script": "npc.lurandir",
-  "sex": 0,
+  "sex": "male",
   "hair": 7,
   "beard": 0,
   "hairRed": 174,

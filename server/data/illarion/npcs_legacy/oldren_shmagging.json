@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Oldren Shmagging",
   "script": "npc.oldren_shmagging",
-  "sex": 0,
+  "sex": "male",
   "hair": 1,
   "beard": 0,
   "hairRed": 192,

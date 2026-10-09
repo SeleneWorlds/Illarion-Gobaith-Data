@@ -6,7 +6,7 @@
   "facing": "west",
   "name": "Dorothy Applesong",
   "script": "npc.dorothy_applesong",
-  "sex": 1,
+  "sex": "female",
   "hair": 1,
   "beard": 0,
   "hairRed": 192,

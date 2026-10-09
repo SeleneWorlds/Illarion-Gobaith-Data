@@ -6,7 +6,7 @@
   "facing": "north",
   "name": "Aeron Ranthir",
   "script": "npc.aeron_ranthir",
-  "sex": 0,
+  "sex": "male",
   "hair": 1,
   "beard": 1,
   "hairRed": 112,

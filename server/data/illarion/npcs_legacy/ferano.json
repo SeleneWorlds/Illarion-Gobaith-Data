@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Ferano",
   "script": "npc.ferano",
-  "sex": 0,
+  "sex": "male",
   "hair": 7,
   "beard": 0,
   "hairRed": 174,

@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Bippi",
   "script": "npc.bippi_aquest28",
-  "sex": 0,
+  "sex": "male",
   "hair": 1,
   "beard": 0,
   "hairRed": 192,

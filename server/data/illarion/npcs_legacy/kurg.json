@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Kurg",
   "script": "npc.kurg",
-  "sex": 0,
+  "sex": "male",
   "hair": 0,
   "beard": 0,
   "hairRed": 255,

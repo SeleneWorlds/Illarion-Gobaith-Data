@@ -9,7 +9,7 @@
   "facing": "west",
   "name": "Eliza",
   "consequence": "illarion-gobaith:npc/eliza",
-  "sex": 0,
+  "sex": "male",
   "race": "illarion:race_5",
   "entity": "illarion:races/race_5_0",
   "metadata": {

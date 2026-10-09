@@ -6,7 +6,7 @@
   "facing": "west",
   "name": "Kar'kish",
   "script": "npc.karkish_orcguard",
-  "sex": 1,
+  "sex": "female",
   "hair": 0,
   "beard": 0,
   "hairRed": 255,

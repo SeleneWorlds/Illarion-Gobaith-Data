@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Irmtrud",
   "script": "npc.irmtrud",
-  "sex": 1,
+  "sex": "female",
   "hair": 2,
   "beard": 0,
   "hairRed": 192,

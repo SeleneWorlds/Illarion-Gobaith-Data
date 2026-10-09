@@ -6,7 +6,7 @@
   "facing": "west",
   "name": "Rosi Baggins",
   "script": "npc.rosi",
-  "sex": 1,
+  "sex": "female",
   "hair": 1,
   "beard": 0,
   "hairRed": 192,

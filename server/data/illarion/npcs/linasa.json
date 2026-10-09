@@ -8,7 +8,7 @@
   },
   "facing": "west",
   "name": "Linasa",
-  "sex": 1,
+  "sex": "female",
   "race": "illarion:race_3",
   "entity": "illarion:races/race_3_1",
   "metadata": {

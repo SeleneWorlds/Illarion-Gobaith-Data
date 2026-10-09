@@ -9,7 +9,7 @@
     "facing": "south",
     "name": "Maris Maroqu",
     "consequence": "illarion-gobaith:npc/maris_maroqu",
-    "sex": 0,
+    "sex": "male",
     "race": "illarion:race_0",
     "entity": "illarion:races/race_0_0",
     "metadata": {

@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Findecáno Melwasúl",
   "script": "npc.findecano_melwasul",
-  "sex": 0,
+  "sex": "male",
   "hair": 7,
   "beard": 0,
   "hairRed": 174,

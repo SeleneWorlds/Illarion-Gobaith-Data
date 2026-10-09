@@ -6,7 +6,7 @@
   "facing": "west",
   "name": "Rian Delarn",
   "script": "npc.rian_delarn",
-  "sex": 0,
+  "sex": "male",
   "hair": 1,
   "beard": 1,
   "hairRed": 112,

@@ -6,7 +6,7 @@
   "facing": "west",
   "name": "Magda Rosenzopf",
   "script": "npc.magda_rosenzopf",
-  "sex": 1,
+  "sex": "female",
   "hair": 2,
   "beard": 0,
   "hairRed": 192,

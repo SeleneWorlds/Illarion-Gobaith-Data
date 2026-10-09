@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Miss Piggy",
   "script": "npc.miss_piggy",
-  "sex": 1,
+  "sex": "female",
   "hair": 7,
   "beard": 0,
   "hairRed": 174,

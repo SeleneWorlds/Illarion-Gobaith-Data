@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Arax Ironheart",
   "script": "npc.arax_ironheart",
-  "sex": 0,
+  "sex": "male",
   "hair": 2,
   "beard": 2,
   "hairRed": 192,

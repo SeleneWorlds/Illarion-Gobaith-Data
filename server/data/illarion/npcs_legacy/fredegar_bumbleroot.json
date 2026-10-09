@@ -6,7 +6,7 @@
   "facing": "west",
   "name": "Fredegar Bumbleroot",
   "script": "npc.fredegar_bumbleroot",
-  "sex": 0,
+  "sex": "male",
   "hair": 1,
   "beard": 0,
   "hairRed": 192,

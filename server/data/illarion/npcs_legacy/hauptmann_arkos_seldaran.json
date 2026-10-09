@@ -6,7 +6,7 @@
   "facing": "east",
   "name": "Hauptmann Arkos Seldaran",
   "script": "npc.hauptmann_arkos_seldaran",
-  "sex": 0,
+  "sex": "male",
   "hair": 1,
   "beard": 1,
   "hairRed": 112,

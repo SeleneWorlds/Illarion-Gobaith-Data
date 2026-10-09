@@ -6,7 +6,7 @@
   "facing": "west",
   "name": "Asgrimur",
   "script": "npc.asgrimur",
-  "sex": 0,
+  "sex": "male",
   "hair": 2,
   "beard": 2,
   "hairRed": 192,

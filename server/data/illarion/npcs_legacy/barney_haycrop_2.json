@@ -6,7 +6,7 @@
   "facing": "west",
   "name": "Barney Haycrop",
   "script": "npc.barney_haycrop",
-  "sex": 0,
+  "sex": "male",
   "hair": 1,
   "beard": 0,
   "hairRed": 192,

@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Penny Copperneedle",
   "script": "npc.penny_copperneedle",
-  "sex": 0,
+  "sex": "male",
   "hair": 1,
   "beard": 1,
   "hairRed": 112,

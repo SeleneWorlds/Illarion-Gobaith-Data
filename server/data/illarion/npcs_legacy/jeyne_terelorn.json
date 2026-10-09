@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Jeyne Terelorn",
   "script": "npc.jeyne_terelorn",
-  "sex": 0,
+  "sex": "male",
   "hair": 1,
   "beard": 1,
   "hairRed": 112,

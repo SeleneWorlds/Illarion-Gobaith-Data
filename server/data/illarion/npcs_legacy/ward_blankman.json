@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Ward Blankman",
   "script": "npc.ward_blankman",
-  "sex": 0,
+  "sex": "male",
   "hair": 1,
   "beard": 1,
   "hairRed": 112,

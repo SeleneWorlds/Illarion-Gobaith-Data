@@ -6,7 +6,7 @@
   "facing": "west",
   "name": "Saszsar Zszar",
   "script": "npc.saszsar_zszar",
-  "sex": 0,
+  "sex": "male",
   "hair": 0,
   "beard": 0,
   "hairRed": 255,

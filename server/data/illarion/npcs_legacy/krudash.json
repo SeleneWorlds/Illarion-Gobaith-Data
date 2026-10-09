@@ -6,7 +6,7 @@
   "facing": "west",
   "name": "Krudash",
   "script": "npc.krudash_orcguard",
-  "sex": 1,
+  "sex": "female",
   "hair": 0,
   "beard": 0,
   "hairRed": 255,

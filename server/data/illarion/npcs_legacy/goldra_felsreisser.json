@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Goldra Felsreisser",
   "script": "npc.goldra_felsreisser",
-  "sex": 1,
+  "sex": "female",
   "hair": 2,
   "beard": 0,
   "hairRed": 192,

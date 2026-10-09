@@ -9,7 +9,7 @@
   "facing": "north",
   "name": "Yellow Cross",
   "script": "npc.special.yellowcross",
-  "sex": 0,
+  "sex": "male",
   "race": "illarion:race_7",
   "entity": "illarion:races/race_7_0",
   "metadata": {

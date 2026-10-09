@@ -6,7 +6,7 @@
   "facing": "west",
   "name": "Nargon Hammerfaust",
   "script": "npc.nargon_hammerfaust",
-  "sex": 0,
+  "sex": "male",
   "hair": 2,
   "beard": 2,
   "hairRed": 192,

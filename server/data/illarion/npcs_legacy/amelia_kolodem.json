@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Amelia Kolodem",
   "script": "npc.amelia_kolodem",
-  "sex": 1,
+  "sex": "female",
   "hair": 1,
   "beard": 0,
   "hairRed": 112,

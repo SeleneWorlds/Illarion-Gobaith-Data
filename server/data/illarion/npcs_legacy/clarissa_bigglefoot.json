@@ -6,7 +6,7 @@
   "facing": "south",
   "name": "Clarissa Bigglefoot",
   "script": "npc.aq003_2",
-  "sex": 0,
+  "sex": "male",
   "hair": 1,
   "beard": 0,
   "hairRed": 192,

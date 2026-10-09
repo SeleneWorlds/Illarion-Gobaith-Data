@@ -6,7 +6,7 @@
   "facing": "west",
   "name": "...",
   "script": "npc.noobia_npc",
-  "sex": 0,
+  "sex": "male",
   "hair": 1,
   "beard": 0,
   "hairRed": 192,
