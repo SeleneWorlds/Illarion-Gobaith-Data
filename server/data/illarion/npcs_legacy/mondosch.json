@@ -22,5 +22,9 @@
   "metadata": {
     "id": 84,
     "name": "Mondosch"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_2": 100
   }
 }

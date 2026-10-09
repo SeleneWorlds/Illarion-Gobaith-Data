@@ -22,5 +22,9 @@
   "metadata": {
     "id": 30,
     "name": "Progor Flowerpride"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_4": 100
   }
 }

@@ -22,5 +22,9 @@
   "metadata": {
     "id": 8,
     "name": "Bippi"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_4": 100
   }
 }

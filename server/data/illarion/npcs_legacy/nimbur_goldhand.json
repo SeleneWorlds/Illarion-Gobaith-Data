@@ -22,5 +22,9 @@
   "metadata": {
     "id": 90,
     "name": "Nimbur Goldhand"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_2": 100
   }
 }

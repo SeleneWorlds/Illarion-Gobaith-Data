@@ -22,5 +22,9 @@
   "metadata": {
     "id": 57,
     "name": "Goldra Felsreisser"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_2": 100
   }
 }

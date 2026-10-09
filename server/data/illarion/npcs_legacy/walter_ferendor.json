@@ -22,5 +22,9 @@
   "metadata": {
     "id": 25,
     "name": "Walter Ferendor"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
   }
 }

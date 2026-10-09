@@ -22,5 +22,9 @@
   "metadata": {
     "id": 133,
     "name": "Magister Winfried Birks"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
   }
 }

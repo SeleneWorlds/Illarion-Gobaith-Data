@@ -22,5 +22,9 @@
   "metadata": {
     "id": 18,
     "name": "Nicolas"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
   }
 }

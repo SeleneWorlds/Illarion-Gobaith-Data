@@ -22,5 +22,9 @@
   "metadata": {
     "id": 37,
     "name": "Asgrimur"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_2": 100
   }
 }

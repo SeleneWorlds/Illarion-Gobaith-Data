@@ -22,5 +22,9 @@
   "metadata": {
     "id": 45,
     "name": "Elina Doron"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
   }
 }

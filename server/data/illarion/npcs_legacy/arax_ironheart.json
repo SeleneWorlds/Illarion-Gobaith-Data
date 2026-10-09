@@ -22,5 +22,9 @@
   "metadata": {
     "id": 34,
     "name": "Arax Ironheart"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_2": 100
   }
 }

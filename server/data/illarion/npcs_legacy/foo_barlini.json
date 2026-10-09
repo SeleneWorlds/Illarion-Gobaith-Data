@@ -22,5 +22,9 @@
   "metadata": {
     "id": 52,
     "name": "Foo Barlini"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
   }
 }

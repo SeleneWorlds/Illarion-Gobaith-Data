@@ -22,5 +22,9 @@
   "metadata": {
     "id": 23,
     "name": "Vandor Serias"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
   }
 }

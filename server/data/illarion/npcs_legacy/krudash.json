@@ -22,5 +22,9 @@
   "metadata": {
     "id": 72,
     "name": "Krudash"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_5": 100
   }
 }

@@ -22,5 +22,9 @@
   "metadata": {
     "id": 68,
     "name": "Jenny Copperneedle"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
   }
 }

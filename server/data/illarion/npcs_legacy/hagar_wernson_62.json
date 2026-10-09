@@ -22,5 +22,9 @@
   "metadata": {
     "id": 62,
     "name": "Hagar Wernson"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
   }
 }

@@ -22,5 +22,9 @@
   "metadata": {
     "id": 124,
     "name": "Tihgorac"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_5": 100
   }
 }

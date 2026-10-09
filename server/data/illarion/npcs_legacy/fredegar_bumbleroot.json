@@ -22,5 +22,9 @@
   "metadata": {
     "id": 13,
     "name": "Fredegar Bumbleroot"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_4": 100
   }
 }

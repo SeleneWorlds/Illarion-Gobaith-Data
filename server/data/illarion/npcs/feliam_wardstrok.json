@@ -17,6 +17,7 @@
         "name": "Feliam Wardstrok"
     },
     "skills": {
-        "illarion:skill_0": 100
+      "illarion:skill_0": 100,
+      "illarion:skill_4": 100
     }
 }

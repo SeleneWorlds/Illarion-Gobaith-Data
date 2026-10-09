@@ -22,5 +22,9 @@
   "metadata": {
     "id": 41,
     "name": "Capitain Blackbeard"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
   }
 }

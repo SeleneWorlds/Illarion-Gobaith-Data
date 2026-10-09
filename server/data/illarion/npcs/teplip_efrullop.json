@@ -17,6 +17,7 @@
     },
     "consequence": "illarion-gobaith:npc/teplip_efrullop",
     "skills": {
-        "illarion:skill_0": 100
+      "illarion:skill_0": 100,
+      "illarion:skill_71": 100
     }
 }

@@ -22,5 +22,9 @@
   "metadata": {
     "id": 20,
     "name": "Saszsar Zszar"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_6": 100
   }
 }

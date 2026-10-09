@@ -22,5 +22,9 @@
   "metadata": {
     "id": 32,
     "name": "Teophus"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
   }
 }

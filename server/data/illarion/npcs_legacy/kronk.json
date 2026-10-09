@@ -22,5 +22,9 @@
   "metadata": {
     "id": 71,
     "name": "Kronk"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_5": 100
   }
 }

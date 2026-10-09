@@ -22,5 +22,9 @@
   "metadata": {
     "id": 132,
     "name": "Warkol Hammerfaust"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_2": 100
   }
 }

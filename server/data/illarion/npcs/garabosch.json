@@ -17,6 +17,7 @@
     },
     "consequence": "illarion-gobaith:npc/garabosch",
     "skills": {
-        "illarion:skill_0": 100
+      "illarion:skill_0": 100,
+      "illarion:skill_2": 100
     }
 }

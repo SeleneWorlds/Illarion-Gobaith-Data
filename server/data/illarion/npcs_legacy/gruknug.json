@@ -22,5 +22,9 @@
   "metadata": {
     "id": 60,
     "name": "Gruknug"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_5": 100
   }
 }

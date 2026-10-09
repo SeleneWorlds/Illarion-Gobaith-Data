@@ -22,5 +22,9 @@
   "metadata": {
     "id": 19,
     "name": "Oldren Shmagging"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_4": 100
   }
 }

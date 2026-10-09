@@ -17,6 +17,7 @@
     "name": "Eltareon"
   },
   "skills": {
-    "illarion:skill_0": 100
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
   }
 }

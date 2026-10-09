@@ -22,5 +22,9 @@
   "metadata": {
     "id": 88,
     "name": "Nargon Hammerfaust"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_2": 100
   }
 }

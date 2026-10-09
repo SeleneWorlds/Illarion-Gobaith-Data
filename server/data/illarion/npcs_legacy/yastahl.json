@@ -22,5 +22,9 @@
   "metadata": {
     "id": 134,
     "name": "Yastahl"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_3": 100
   }
 }

@@ -22,5 +22,9 @@
   "metadata": {
     "id": 5,
     "name": "Amelia Kolodem"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
   }
 }

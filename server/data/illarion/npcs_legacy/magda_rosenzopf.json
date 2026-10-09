@@ -22,5 +22,9 @@
   "metadata": {
     "id": 78,
     "name": "Magda Rosenzopf"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_2": 100
   }
 }
