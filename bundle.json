@@ -1,4 +1,5 @@
 {
   "name": "illarion-gobaith-data",
-  "description": "Data definitions for Illarion as a Selene bundle."
+  "description": "Data definitions for Illarion as a Selene bundle.",
+  "entrypoints": ["server/lua/item_definitions.lua"]
 }
