@@ -3,7 +3,7 @@
   "x": 156,
   "y": -448,
   "z": 0,
-  "facing": 4,
+  "facing": "south",
   "name": "Meegog",
   "script": "npc.meegog",
   "sex": 0,

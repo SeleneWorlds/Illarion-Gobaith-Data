@@ -6,7 +6,7 @@
     "y": -122,
     "z": 0
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Eliza",
   "consequence": "illarion-gobaith:npc/eliza",
   "sex": 0,

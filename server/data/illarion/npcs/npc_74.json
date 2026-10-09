@@ -6,7 +6,7 @@
     "y": -208,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Leonard Hierbe",
   "sex": 0,
   "race": "illarion:race_0",

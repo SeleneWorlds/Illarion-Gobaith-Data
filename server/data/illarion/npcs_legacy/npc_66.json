@@ -3,7 +3,7 @@
   "x": 136,
   "y": -161,
   "z": -9,
-  "facing": 4,
+  "facing": "south",
   "name": "Irmtrud",
   "script": "npc.irmtrud",
   "sex": 1,

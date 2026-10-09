@@ -6,7 +6,7 @@
         "y": -193,
         "z": 0
     },
-    "facing": 6,
+    "facing": "west",
     "name": "Gambi",
     "sex": 0,
     "race": "illarion:race_1",

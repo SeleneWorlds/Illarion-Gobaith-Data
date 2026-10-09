@@ -6,7 +6,7 @@
         "y": -295,
         "z": 0
     },
-    "facing": 2,
+    "facing": "east",
     "name": "Nadir",
     "sex": 0,
     "race": "illarion:race_0",

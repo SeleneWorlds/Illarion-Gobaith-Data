@@ -3,7 +3,7 @@
   "x": 49,
   "y": 51,
   "z": 100,
-  "facing": 4,
+  "facing": "south",
   "name": "Warkol Hammerfaust",
   "script": "npc.warkol_hammerfaust",
   "sex": 0,

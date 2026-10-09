@@ -3,7 +3,7 @@
   "x": 137,
   "y": -191,
   "z": -3,
-  "facing": 6,
+  "facing": "west",
   "name": "Asgrimur",
   "script": "npc.asgrimur",
   "sex": 0,

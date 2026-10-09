@@ -6,7 +6,7 @@
     "y": -107,
     "z": -3
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Gambret Mandarett",
   "consequence": "illarion-gobaith:npc/gambret",
   "sex": 0,

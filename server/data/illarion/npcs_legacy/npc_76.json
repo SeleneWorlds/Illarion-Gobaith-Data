@@ -3,7 +3,7 @@
   "x": 267,
   "y": -303,
   "z": 0,
-  "facing": 6,
+  "facing": "west",
   "name": "Lucius van Sareth",
   "script": "npc.lucius",
   "sex": 0,

@@ -3,7 +3,7 @@
   "x": -112,
   "y": -128,
   "z": 0,
-  "facing": 4,
+  "facing": "south",
   "name": "Arax Ironheart",
   "script": "npc.arax_ironheart",
   "sex": 0,

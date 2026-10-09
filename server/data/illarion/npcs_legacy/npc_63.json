@@ -3,7 +3,7 @@
   "x": -86,
   "y": -23,
   "z": 0,
-  "facing": 2,
+  "facing": "east",
   "name": "Hauptmann Arkos Seldaran",
   "script": "npc.hauptmann_arkos_seldaran",
   "sex": 0,

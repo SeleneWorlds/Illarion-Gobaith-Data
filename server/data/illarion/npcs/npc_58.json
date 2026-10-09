@@ -6,7 +6,7 @@
         "y": -207,
         "z": -3
     },
-    "facing": 2,
+    "facing": "east",
     "name": "Garabosch",
     "sex": 0,
     "race": "illarion:race_1",

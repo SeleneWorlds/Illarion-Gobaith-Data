@@ -3,7 +3,7 @@
   "x": 0,
   "y": 0,
   "z": 0,
-  "facing": 4,
+  "facing": "south",
   "name": "Henry Cunnigan",
   "script": "npc.henry_cunnigan",
   "sex": 0,

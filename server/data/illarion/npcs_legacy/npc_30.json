@@ -3,7 +3,7 @@
   "x": -404,
   "y": 82,
   "z": 0,
-  "facing": 6,
+  "facing": "west",
   "name": "Progor Flowerpride",
   "script": "npc.aq003_1",
   "sex": 0,

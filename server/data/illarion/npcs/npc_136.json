@@ -6,7 +6,7 @@
         "y": -93,
         "z": 0
     },
-    "facing": 2,
+    "facing": "east",
     "name": "Zathrot",
     "consequence": "illarion-gobaith:npc/zathrot",
     "sex": 0,

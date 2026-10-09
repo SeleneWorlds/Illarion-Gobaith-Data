@@ -6,7 +6,7 @@
         "y": -120,
         "z": 0
     },
-    "facing": 6,
+    "facing": "west",
     "name": "Morgan Gronwan",
     "sex": 0,
     "race": "illarion:race_0",

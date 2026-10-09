@@ -6,7 +6,7 @@
     "y": -334,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Grugash",
   "script": "",
   "sex": 0,

@@ -3,7 +3,7 @@
   "x": 44,
   "y": 67,
   "z": 50,
-  "facing": 4,
+  "facing": "south",
   "name": "Stalljunge",
   "script": "npc.stalljunge_ma",
   "sex": 0,

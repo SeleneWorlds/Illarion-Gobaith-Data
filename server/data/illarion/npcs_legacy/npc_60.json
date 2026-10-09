@@ -3,7 +3,7 @@
   "x": 187,
   "y": -445,
   "z": 1,
-  "facing": 2,
+  "facing": "east",
   "name": "Gruknug",
   "script": "npc.gruknug_orcguard",
   "sex": 0,

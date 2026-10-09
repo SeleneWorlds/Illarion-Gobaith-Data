@@ -3,7 +3,7 @@
   "x": -417,
   "y": 44,
   "z": 0,
-  "facing": 6,
+  "facing": "west",
   "name": "Barney Haycrop",
   "script": "npc.barney_haycrop",
   "sex": 0,

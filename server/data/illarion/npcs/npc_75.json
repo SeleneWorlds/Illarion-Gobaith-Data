@@ -6,7 +6,7 @@
     "y": 214,
     "z": 1
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Linasa",
   "sex": 1,
   "race": "illarion:race_3",

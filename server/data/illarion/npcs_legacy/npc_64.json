@@ -3,7 +3,7 @@
   "x": 75,
   "y": 80,
   "z": 100,
-  "facing": 4,
+  "facing": "south",
   "name": "Hirk",
   "script": "npc.hirk",
   "sex": 0,

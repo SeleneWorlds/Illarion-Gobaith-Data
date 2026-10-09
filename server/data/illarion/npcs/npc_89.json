@@ -6,7 +6,7 @@
         "y": -89,
         "z": 0
     },
-    "facing": 4,
+    "facing": "south",
     "name": "Nebaar",
     "sex": 0,
     "race": "illarion:race_0",

@@ -3,7 +3,7 @@
   "x": 363,
   "y": 214,
   "z": -3,
-  "facing": 4,
+  "facing": "south",
   "name": "Garair",
   "script": "npc.garair",
   "sex": 0,

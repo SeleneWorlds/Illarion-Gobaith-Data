@@ -3,7 +3,7 @@
   "x": -120,
   "y": -93,
   "z": 0,
-  "facing": 2,
+  "facing": "east",
   "name": "Walter Ferendor",
   "script": "npc.walter_ferendor",
   "sex": 0,

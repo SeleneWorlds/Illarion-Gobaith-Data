@@ -6,7 +6,7 @@
         "y": -218,
         "z": 0
     },
-    "facing": 6,
+    "facing": "west",
     "name": "Artoss Ishem",
     "sex": 0,
     "race": "illarion:race_0",

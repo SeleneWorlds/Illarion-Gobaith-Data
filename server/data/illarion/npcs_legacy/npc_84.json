@@ -3,7 +3,7 @@
   "x": 137,
   "y": -212,
   "z": -3,
-  "facing": 4,
+  "facing": "south",
   "name": "Mondosch",
   "script": "npc.mondosch",
   "sex": 0,

@@ -6,7 +6,7 @@
         "y": -94,
         "z": 0
     },
-    "facing": 6,
+    "facing": "west",
     "name": "Tony Baggins",
     "sex": 0,
     "race": "illarion:race_2",

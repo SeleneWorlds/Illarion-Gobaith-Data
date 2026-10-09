@@ -6,7 +6,7 @@
         "y": 34,
         "z": 50
     },
-    "facing": 6,
+    "facing": "west",
     "name": "Arimedus Dalahorn",
     "sex": 0,
     "race": "illarion:race_0",

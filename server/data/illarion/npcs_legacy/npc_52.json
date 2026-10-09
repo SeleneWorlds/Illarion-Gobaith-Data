@@ -3,7 +3,7 @@
   "x": 31,
   "y": 56,
   "z": 50,
-  "facing": 4,
+  "facing": "south",
   "name": "Foo Barlini",
   "script": "npc.foo_barlini",
   "sex": 0,

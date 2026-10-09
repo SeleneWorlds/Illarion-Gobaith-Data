@@ -6,7 +6,7 @@
         "y": -297,
         "z": 0
     },
-    "facing": 4,
+    "facing": "south",
     "name": "Teplip Efrullop",
     "sex": 0,
     "race": "illarion:race_32",

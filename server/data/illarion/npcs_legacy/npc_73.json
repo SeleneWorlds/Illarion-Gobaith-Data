@@ -3,7 +3,7 @@
   "x": 183,
   "y": -447,
   "z": 1,
-  "facing": 4,
+  "facing": "south",
   "name": "Kurg",
   "script": "npc.kurg",
   "sex": 0,

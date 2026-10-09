@@ -3,7 +3,7 @@
   "x": -102,
   "y": -110,
   "z": 0,
-  "facing": 4,
+  "facing": "south",
   "name": "Amelia Kolodem",
   "script": "npc.amelia_kolodem",
   "sex": 1,

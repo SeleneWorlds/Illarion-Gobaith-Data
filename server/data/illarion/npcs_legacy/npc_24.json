@@ -3,7 +3,7 @@
   "x": -6,
   "y": -6,
   "z": 0,
-  "facing": 6,
+  "facing": "west",
   "name": "Varkiosh the Forsaken",
   "script": "npc.varkiosh",
   "sex": 0,

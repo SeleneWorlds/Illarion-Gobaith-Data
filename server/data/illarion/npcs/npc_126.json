@@ -6,7 +6,7 @@
     "y": 82,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Tobias Baggins",
   "sex": 0,
   "race": "illarion:race_2",

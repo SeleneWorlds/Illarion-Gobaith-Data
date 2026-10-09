@@ -3,7 +3,7 @@
   "x": 58,
   "y": 58,
   "z": 50,
-  "facing": 4,
+  "facing": "south",
   "name": "Gloria",
   "script": "npc.gloria",
   "sex": 0,

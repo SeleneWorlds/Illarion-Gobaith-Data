@@ -3,7 +3,7 @@
   "x": 30,
   "y": -37,
   "z": -6,
-  "facing": 4,
+  "facing": "south",
   "name": "Ethereal Presence",
   "script": "npc.malachin_knight",
   "sex": 0,

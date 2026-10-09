@@ -3,7 +3,7 @@
   "x": -23,
   "y": -122,
   "z": 0,
-  "facing": 4,
+  "facing": "south",
   "name": "Sylvester",
   "script": "npc.aq005",
   "sex": 0,

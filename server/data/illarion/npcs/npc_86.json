@@ -6,7 +6,7 @@
         "y": -131,
         "z": 0
     },
-    "facing": 6,
+    "facing": "west",
     "name": "Mugush",
     "sex": 0,
     "race": "illarion:race_0",

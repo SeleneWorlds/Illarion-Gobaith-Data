@@ -3,7 +3,7 @@
   "x": 1,
   "y": 1,
   "z": 0,
-  "facing": 4,
+  "facing": "south",
   "name": "Uluhad",
   "script": "npc.uluhad",
   "sex": 0,

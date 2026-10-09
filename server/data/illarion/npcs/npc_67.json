@@ -6,7 +6,7 @@
         "y": 46,
         "z": 0
     },
-    "facing": 4,
+    "facing": "south",
     "name": "Jarmal",
     "sex": 0,
     "race": "illarion:race_0",

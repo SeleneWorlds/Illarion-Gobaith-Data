@@ -3,7 +3,7 @@
   "x": 1,
   "y": 1,
   "z": 1,
-  "facing": 4,
+  "facing": "south",
   "name": "Oldren Shmagging",
   "script": "npc.oldren_shmagging",
   "sex": 0,

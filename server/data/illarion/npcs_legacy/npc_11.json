@@ -3,7 +3,7 @@
   "x": 66,
   "y": 36,
   "z": 101,
-  "facing": 4,
+  "facing": "south",
   "name": "Findecáno Melwasúl",
   "script": "npc.findecano_melwasul",
   "sex": 0,

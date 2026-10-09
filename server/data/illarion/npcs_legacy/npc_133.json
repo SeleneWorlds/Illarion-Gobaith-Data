@@ -3,7 +3,7 @@
   "x": 261,
   "y": -317,
   "z": -3,
-  "facing": 2,
+  "facing": "east",
   "name": "Magister Winfried Birks",
   "script": "npc.winfried_birks",
   "sex": 0,

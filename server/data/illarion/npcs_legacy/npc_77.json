@@ -3,7 +3,7 @@
   "x": -166,
   "y": -107,
   "z": 0,
-  "facing": 4,
+  "facing": "south",
   "name": "Lurandir",
   "script": "npc.lurandir",
   "sex": 0,

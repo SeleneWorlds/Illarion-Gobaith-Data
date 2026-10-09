@@ -3,7 +3,7 @@
   "x": 31,
   "y": 56,
   "z": 50,
-  "facing": 6,
+  "facing": "west",
   "name": "Rian Delarn",
   "script": "npc.rian_delarn",
   "sex": 0,

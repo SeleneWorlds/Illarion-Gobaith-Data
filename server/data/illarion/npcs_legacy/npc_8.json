@@ -3,7 +3,7 @@
   "x": 514,
   "y": 741,
   "z": 0,
-  "facing": 4,
+  "facing": "south",
   "name": "Bippi",
   "script": "npc.bippi_aquest28",
   "sex": 0,

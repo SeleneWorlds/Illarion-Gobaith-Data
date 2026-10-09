@@ -3,7 +3,7 @@
   "x": -81,
   "y": -151,
   "z": 0,
-  "facing": 6,
+  "facing": "west",
   "name": "Augham",
   "script": "npc.augham",
   "sex": 0,

@@ -6,7 +6,7 @@
         "y": -138,
         "z": 0
     },
-    "facing": 4,
+    "facing": "south",
     "name": "Maris Maroqu",
     "consequence": "illarion-gobaith:npc/maris",
     "sex": 0,

@@ -6,7 +6,7 @@
         "y": -68,
         "z": 0
     },
-    "facing": 4,
+    "facing": "south",
     "name": "Feliam Wardstrok",
     "consequence": "illarion-gobaith:npc/feliam_wardstrok",
     "sex": 0,

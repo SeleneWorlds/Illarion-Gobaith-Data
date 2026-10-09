@@ -3,7 +3,7 @@
   "x": 43,
   "y": 40,
   "z": 100,
-  "facing": 6,
+  "facing": "west",
   "name": "...",
   "script": "npc.noobia_npc",
   "sex": 0,

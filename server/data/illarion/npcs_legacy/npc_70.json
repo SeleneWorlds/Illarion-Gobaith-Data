@@ -3,7 +3,7 @@
   "x": 159,
   "y": -435,
   "z": 0,
-  "facing": 6,
+  "facing": "west",
   "name": "Kar'kish",
   "script": "npc.karkish_orcguard",
   "sex": 1,

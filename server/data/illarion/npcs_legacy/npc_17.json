@@ -3,7 +3,7 @@
   "x": -61,
   "y": -134,
   "z": 0,
-  "facing": 2,
+  "facing": "east",
   "name": "Marcus",
   "script": "npc.marcus",
   "sex": 0,

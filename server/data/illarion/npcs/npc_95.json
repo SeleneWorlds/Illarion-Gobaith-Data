@@ -6,7 +6,7 @@
     "y": 36,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "Ramond",
   "sex": 0,
   "race": "illarion:race_0",

@@ -3,7 +3,7 @@
   "x": 263,
   "y": -309,
   "z": 0,
-  "facing": 4,
+  "facing": "south",
   "name": "Gru'shub",
   "script": "npc.grushub",
   "sex": 0,

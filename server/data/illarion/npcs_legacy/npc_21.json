@@ -3,7 +3,7 @@
   "x": -413,
   "y": -145,
   "z": 0,
-  "facing": 6,
+  "facing": "west",
   "name": "Siloli",
   "script": "npc.siloli",
   "sex": 0,

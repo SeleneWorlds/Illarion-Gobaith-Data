@@ -3,7 +3,7 @@
   "x": 112,
   "y": -198,
   "z": -3,
-  "facing": 4,
+  "facing": "south",
   "name": "Goldra Felsreisser",
   "script": "npc.goldra_felsreisser",
   "sex": 1,

@@ -3,7 +3,7 @@
   "x": -74,
   "y": -104,
   "z": 0,
-  "facing": 4,
+  "facing": "south",
   "name": "Penny Copperneedle",
   "script": "npc.penny_copperneedle",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": 69,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Floro Baggins",
   "sex": 0,
   "race": "illarion:race_2",

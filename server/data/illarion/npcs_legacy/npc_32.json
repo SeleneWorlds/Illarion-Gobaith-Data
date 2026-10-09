@@ -3,7 +3,7 @@
   "x": -8,
   "y": 6,
   "z": 0,
-  "facing": 6,
+  "facing": "west",
   "name": "Teophus",
   "script": "npc.aq004_1",
   "sex": 0,

@@ -6,7 +6,7 @@
     "y": -212,
     "z": -3
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Tungosch",
   "sex": 0,
   "race": "illarion:race_1",

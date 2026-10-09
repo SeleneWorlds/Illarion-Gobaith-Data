@@ -3,7 +3,7 @@
   "x": 100,
   "y": -179,
   "z": -3,
-  "facing": 6,
+  "facing": "west",
   "name": "Magda Rosenzopf",
   "script": "npc.magda_rosenzopf",
   "sex": 1,

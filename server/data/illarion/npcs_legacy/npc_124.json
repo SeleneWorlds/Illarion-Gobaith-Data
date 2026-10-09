@@ -3,7 +3,7 @@
   "x": 235,
   "y": -324,
   "z": 0,
-  "facing": 0,
+  "facing": "north",
   "name": "Tihgorac",
   "script": "npc.tihgorac",
   "sex": 0,

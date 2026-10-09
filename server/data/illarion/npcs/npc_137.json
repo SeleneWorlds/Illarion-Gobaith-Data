@@ -6,7 +6,7 @@
     "y": -84,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Gloarn",
   "consequence": "illarion-gobaith:npc/gloarn",
   "sex": 0,

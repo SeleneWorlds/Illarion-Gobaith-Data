@@ -6,7 +6,7 @@
     "y": 153,
     "z": 0
   },
-  "facing": 4,
+  "facing": "south",
   "name": "Dehster",
   "sex": 0,
   "race": "illarion:race_3",

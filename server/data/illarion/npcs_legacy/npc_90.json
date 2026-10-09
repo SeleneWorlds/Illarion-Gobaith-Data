@@ -3,7 +3,7 @@
   "x": -107,
   "y": -126,
   "z": 0,
-  "facing": 4,
+  "facing": "south",
   "name": "Nimbur Goldhand",
   "script": "npc.nimbur_goldhand",
   "sex": 0,

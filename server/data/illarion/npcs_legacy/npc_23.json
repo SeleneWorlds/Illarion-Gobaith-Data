@@ -3,7 +3,7 @@
   "x": 169,
   "y": 108,
   "z": 100,
-  "facing": 6,
+  "facing": "west",
   "name": "Vandor Serias",
   "script": "npc.vandor_serias",
   "sex": 0,

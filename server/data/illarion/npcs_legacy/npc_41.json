@@ -3,7 +3,7 @@
   "x": -281,
   "y": 53,
   "z": 0,
-  "facing": 0,
+  "facing": "north",
   "name": "Capitain Blackbeard",
   "script": "npc.blackbeard",
   "sex": 0,

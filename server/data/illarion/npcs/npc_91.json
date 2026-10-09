@@ -6,7 +6,7 @@
     "y": 65,
     "z": 51
   },
-  "facing": 6,
+  "facing": "west",
   "name": "Norbert",
   "sex": 0,
   "race": "illarion:race_0",

@@ -3,7 +3,7 @@
   "x": -372,
   "y": 85,
   "z": 0,
-  "facing": 6,
+  "facing": "west",
   "name": "Rosi Baggins",
   "script": "npc.rosi",
   "sex": 1,

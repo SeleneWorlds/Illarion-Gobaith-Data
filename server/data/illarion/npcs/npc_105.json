@@ -6,7 +6,7 @@
     "y": -185,
     "z": 0
   },
-  "facing": 0,
+  "facing": "north",
   "name": "SB Teleporter",
   "script": "npc.special.static_teleport",
   "sex": 0,

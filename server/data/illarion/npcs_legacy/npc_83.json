@@ -3,7 +3,7 @@
   "x": -98,
   "y": -82,
   "z": 0,
-  "facing": 4,
+  "facing": "south",
   "name": "Miss Piggy",
   "script": "npc.miss_piggy",
   "sex": 1,

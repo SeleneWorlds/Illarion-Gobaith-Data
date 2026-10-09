@@ -3,7 +3,7 @@
   "x": 42,
   "y": 49,
   "z": 100,
-  "facing": 6,
+  "facing": "west",
   "name": "Nargon Hammerfaust",
   "script": "npc.nargon_hammerfaust",
   "sex": 0,

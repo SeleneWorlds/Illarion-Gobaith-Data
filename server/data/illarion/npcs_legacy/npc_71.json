@@ -3,7 +3,7 @@
   "x": 162,
   "y": -448,
   "z": -1,
-  "facing": 6,
+  "facing": "west",
   "name": "Kronk",
   "script": "npc.kronk_orcguard",
   "sex": 1,
