@@ -15,5 +15,8 @@
         "id": 67,
         "name": "Jarmal"
     },
-    "consequence": "illarion-gobaith:npc/jarmal"
+    "consequence": "illarion-gobaith:npc/jarmal",
+    "skills": {
+        "illarion:skill_0": 100
+    }
 }

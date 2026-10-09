@@ -15,5 +15,8 @@
     "id": 44,
     "name": "Elinas"
   },
-  "consequence": "illarion-gobaith:npc/elina"
+  "consequence": "illarion-gobaith:npc/elina",
+  "skills": {
+    "illarion:skill_0": 100
+  }
 }

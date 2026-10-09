@@ -15,5 +15,8 @@
     "id": 43,
     "name": "Dehster"
   },
-  "consequence": "illarion-gobaith:npc/dehster"
+  "consequence": "illarion-gobaith:npc/dehster",
+  "skills": {
+    "illarion:skill_0": 100
+  }
 }

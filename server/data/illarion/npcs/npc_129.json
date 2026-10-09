@@ -15,5 +15,8 @@
     "id": 129,
     "name": "Tungosch"
   },
-  "consequence": "illarion-gobaith:npc/tungosch"
+  "consequence": "illarion-gobaith:npc/tungosch",
+  "skills": {
+    "illarion:skill_0": 100
+  }
 }

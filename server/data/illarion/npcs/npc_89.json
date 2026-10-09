@@ -15,5 +15,8 @@
         "id": 89,
         "name": "Nebaar"
     },
-    "consequence": "illarion-gobaith:npc/nebaar"
+    "consequence": "illarion-gobaith:npc/nebaar",
+    "skills": {
+        "illarion:skill_0": 100
+    }
 }

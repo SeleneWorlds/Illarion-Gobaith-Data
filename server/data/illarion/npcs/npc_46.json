@@ -15,5 +15,8 @@
   "metadata": {
     "id": 46,
     "name": "Eliza"
+  },
+  "skills": {
+    "illarion:skill_0": 100
   }
 }

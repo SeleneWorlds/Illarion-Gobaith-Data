@@ -15,5 +15,8 @@
         "id": 53,
         "name": "Gambi"
     },
-    "consequence": "illarion-gobaith:npc/gambi"
+    "consequence": "illarion-gobaith:npc/gambi",
+    "skills": {
+        "illarion:skill_0": 100
+    }
 }

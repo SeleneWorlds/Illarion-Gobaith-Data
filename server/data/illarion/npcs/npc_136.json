@@ -15,5 +15,8 @@
     "metadata": {
         "id": 136,
         "name": "Zathrot"
+    },
+    "skills": {
+        "illarion:skill_0": 100
     }
 }

@@ -15,5 +15,8 @@
     "id": 126,
     "name": "Tobias Baggins"
   },
-  "consequence": "illarion-gobaith:npc/tobias_baggins"
+  "consequence": "illarion-gobaith:npc/tobias_baggins",
+  "skills": {
+    "illarion:skill_0": 100
+  }
 }

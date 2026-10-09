@@ -15,5 +15,8 @@
     "metadata": {
         "id": 80,
         "name": "Maris Maroqu"
+    },
+    "skills": {
+        "illarion:skill_0": 100
     }
 }

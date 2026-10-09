@@ -15,5 +15,18 @@
   "metadata": {
     "id": 104,
     "name": "TB Teleporter"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100,
+    "illarion:skill_2": 100,
+    "illarion:skill_3": 100,
+    "illarion:skill_6": 100,
+    "illarion:skill_5": 100,
+    "illarion:skill_4": 100,
+    "illarion:skill_69": 100,
+    "illarion:skill_70": 100,
+    "illarion:skill_71": 100,
+    "illarion:skill_7": 100
   }
 }

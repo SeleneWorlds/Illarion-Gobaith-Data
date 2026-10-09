@@ -15,5 +15,8 @@
   "metadata": {
     "id": 137,
     "name": "Gloarn"
+  },
+  "skills": {
+    "illarion:skill_0": 100
   }
 }

@@ -15,5 +15,8 @@
         "id": 65,
         "name": "Hyronimus"
     },
-    "consequence": "illarion-gobaith:npc/hyronimus"
+    "consequence": "illarion-gobaith:npc/hyronimus",
+    "skills": {
+        "illarion:skill_0": 100
+    }
 }

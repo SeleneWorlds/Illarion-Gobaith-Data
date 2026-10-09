@@ -15,5 +15,8 @@
         "id": 58,
         "name": "Garabosch"
     },
-    "consequence": "illarion-gobaith:npc/graubart"
+    "consequence": "illarion-gobaith:npc/graubart",
+    "skills": {
+        "illarion:skill_0": 100
+    }
 }

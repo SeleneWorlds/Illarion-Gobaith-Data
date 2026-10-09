@@ -15,5 +15,8 @@
   "metadata": {
     "id": 42,
     "name": "Borgate Northoff"
+  },
+  "skills": {
+    "illarion:skill_0": 100
   }
 }

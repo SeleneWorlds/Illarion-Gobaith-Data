@@ -15,5 +15,8 @@
         "id": 87,
         "name": "Nadir"
     },
-    "consequence": "illarion-gobaith:npc/nadir"
+    "consequence": "illarion-gobaith:npc/nadir",
+    "skills": {
+        "illarion:skill_0": 100
+    }
 }

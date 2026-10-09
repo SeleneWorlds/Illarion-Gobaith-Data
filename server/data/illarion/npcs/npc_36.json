@@ -15,5 +15,8 @@
         "id": 36,
         "name": "Artoss Ishem"
     },
-    "consequence": "illarion-gobaith:npc/artoss_ishem"
+    "consequence": "illarion-gobaith:npc/artoss_ishem",
+    "skills": {
+        "illarion:skill_0": 100
+    }
 }

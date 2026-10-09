@@ -15,5 +15,8 @@
     "id": 125,
     "name": "Timo"
   },
-  "consequence": "illarion-gobaith:npc/timo"
+  "consequence": "illarion-gobaith:npc/timo",
+  "skills": {
+    "illarion:skill_0": 100
+  }
 }

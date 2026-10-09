@@ -15,5 +15,8 @@
         "id": 86,
         "name": "Mugush"
     },
-    "consequence": "illarion-gobaith:npc/mugush"
+    "consequence": "illarion-gobaith:npc/mugush",
+    "skills": {
+        "illarion:skill_0": 100
+    }
 }

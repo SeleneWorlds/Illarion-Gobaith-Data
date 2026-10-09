@@ -15,5 +15,9 @@
         "id": 128,
         "name": "Tony Baggins"
     },
-    "consequence": "illarion-gobaith:npc/tony_baggins"
+    "consequence": "illarion-gobaith:npc/tony_baggins",
+    "skills": {
+        "illarion:skill_0": 100,
+        "illarion:skill_4": 100
+    }
 }

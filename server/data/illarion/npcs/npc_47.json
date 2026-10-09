@@ -15,5 +15,8 @@
   "metadata": {
     "id": 47,
     "name": "Eltareon"
+  },
+  "skills": {
+    "illarion:skill_0": 100
   }
 }

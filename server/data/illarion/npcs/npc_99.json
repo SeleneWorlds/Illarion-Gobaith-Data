@@ -15,5 +15,8 @@
         "id": 99,
         "name": "Sam"
     },
-    "consequence": "illarion-gobaith:npc/sam"
+    "consequence": "illarion-gobaith:npc/sam",
+    "skills": {
+        "illarion:skill_0": 100
+    }
 }

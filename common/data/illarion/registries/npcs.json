@@ -32,6 +32,15 @@
       "type": "registry",
       "registry": "selene:entities"
     },
+    "skills": {
+      "type": "map",
+      "optional": true,
+      "keyType": {
+        "type": "registry",
+        "registry": "illarion:skills"
+      },
+      "valueType": { "type": "integer", "min": 0, "max": 100 }
+    },
     "consequence": {
       "type": "registry",
       "registry": "consequence:interactions",

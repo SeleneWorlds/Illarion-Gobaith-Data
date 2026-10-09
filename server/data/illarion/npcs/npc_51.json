@@ -15,5 +15,8 @@
     "id": 51,
     "name": "Floro Baggins"
   },
-  "consequence": "illarion-gobaith:npc/floro_baggins"
+  "consequence": "illarion-gobaith:npc/floro_baggins",
+  "skills": {
+    "illarion:skill_0": 100
+  }
 }

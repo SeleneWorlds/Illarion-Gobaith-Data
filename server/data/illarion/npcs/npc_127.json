@@ -15,5 +15,8 @@
     "id": 127,
     "name": "Todd Baggins"
   },
-  "consequence": "illarion-gobaith:npc/todd_baggins"
+  "consequence": "illarion-gobaith:npc/todd_baggins",
+  "skills": {
+    "illarion:skill_0": 100
+  }
 }

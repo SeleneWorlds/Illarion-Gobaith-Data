@@ -15,5 +15,8 @@
   "metadata": {
     "id": 135,
     "name": "Zaruk"
+  },
+  "skills": {
+    "illarion:skill_0": 100
   }
 }
