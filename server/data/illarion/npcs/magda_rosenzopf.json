@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 1,
+  "coordinate": {
+    "x": 100,
+    "y": -179,
+    "z": -3
+  },
+  "facing": "west",
+  "name": "Magda Rosenzopf",
+  "sex": "female",
+  "race": "illarion:race_1",
+  "entity": "illarion:races/race_1_1",
+  "metadata": {
+    "id": 160,
+    "name": "Magda Rosenzopf"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_2": 100
+  },
+  "npc": "illarion-gobaith:npc/magda_rosenzopf"
+}

@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 4,
+  "coordinate": {
+    "x": 263,
+    "y": -309,
+    "z": 0
+  },
+  "facing": "south",
+  "name": "Gru'shub",
+  "sex": "male",
+  "race": "illarion:race_4",
+  "entity": "illarion:races/race_4_0",
+  "metadata": {
+    "id": 146,
+    "name": "Gru'shub"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_5": 100
+  },
+  "npc": "illarion-gobaith:npc/grushub"
+}

@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 3,
+  "coordinate": {
+    "x": -281,
+    "y": -436,
+    "z": 0
+  },
+  "facing": "south",
+  "name": "Yastahl",
+  "sex": "male",
+  "race": "illarion:race_3",
+  "entity": "illarion:races/race_3_0",
+  "metadata": {
+    "id": 177,
+    "name": "Yastahl"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_4": 100
+  },
+  "npc": "illarion-gobaith:npc/yastahl"
+}

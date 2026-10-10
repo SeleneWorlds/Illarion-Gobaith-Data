@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 3,
+  "coordinate": {
+    "x": 363,
+    "y": 214,
+    "z": -3
+  },
+  "facing": "south",
+  "name": "Garair",
+  "sex": "male",
+  "race": "illarion:race_3",
+  "entity": "illarion:races/race_3_0",
+  "metadata": {
+    "id": 142,
+    "name": "Garair"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_4": 100
+  },
+  "npc": "illarion-gobaith:npc/garair"
+}

@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 3,
+  "coordinate": {
+    "x": -166,
+    "y": -107,
+    "z": 0
+  },
+  "facing": "south",
+  "name": "Lurandir",
+  "sex": "male",
+  "race": "illarion:race_3",
+  "entity": "illarion:races/race_3_0",
+  "metadata": {
+    "id": 159,
+    "name": "Lurandir"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_4": 100
+  },
+  "npc": "illarion-gobaith:npc/lurandir"
+}

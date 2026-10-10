@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 4,
+  "coordinate": {
+    "x": 235,
+    "y": -324,
+    "z": 0
+  },
+  "facing": "north",
+  "name": "Tihgorac",
+  "sex": "male",
+  "race": "illarion:race_4",
+  "entity": "illarion:races/race_4_0",
+  "metadata": {
+    "id": 173,
+    "name": "Tihgorac"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_5": 100
+  },
+  "npc": "illarion-gobaith:npc/tihgorac"
+}

@@ -1,0 +1,18 @@
+{
+  "enabled": false,
+  "type": 2,
+  "name": "Stalljunge",
+  "sex": "male",
+  "race": "illarion:race_2",
+  "entity": "illarion:races/race_2_0",
+  "metadata": {
+    "id": 167,
+    "name": "Stalljunge",
+    "note": "No reliable placement in the source."
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_3": 100
+  },
+  "npc": "illarion-gobaith:npc/stalljunge_gb"
+}

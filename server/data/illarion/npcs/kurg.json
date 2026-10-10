@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 4,
+  "coordinate": {
+    "x": 183,
+    "y": -447,
+    "z": 1
+  },
+  "facing": "south",
+  "name": "Kurg",
+  "sex": "male",
+  "race": "illarion:race_4",
+  "entity": "illarion:races/race_4_0",
+  "metadata": {
+    "id": 154,
+    "name": "Kurg"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_5": 100
+  },
+  "npc": "illarion-gobaith:npc/kurg"
+}

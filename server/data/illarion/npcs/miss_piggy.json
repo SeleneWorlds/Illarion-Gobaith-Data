@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 3,
+  "coordinate": {
+    "x": -98,
+    "y": -82,
+    "z": 0
+  },
+  "facing": "south",
+  "name": "Miss Piggy",
+  "sex": "female",
+  "race": "illarion:race_3",
+  "entity": "illarion:races/race_3_1",
+  "metadata": {
+    "id": 162,
+    "name": "Miss Piggy"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_4": 100
+  },
+  "npc": "illarion-gobaith:npc/miss_piggy"
+}

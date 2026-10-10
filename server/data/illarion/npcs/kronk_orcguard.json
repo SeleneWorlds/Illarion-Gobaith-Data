@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 4,
+  "coordinate": {
+    "x": 162,
+    "y": -448,
+    "z": -1
+  },
+  "facing": "south",
+  "name": "Kronk Orcguard",
+  "sex": "male",
+  "race": "illarion:race_4",
+  "entity": "illarion:races/race_4_0",
+  "metadata": {
+    "id": 152,
+    "name": "Kronk Orcguard"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_5": 100
+  },
+  "npc": "illarion-gobaith:npc/kronk_orcguard"
+}

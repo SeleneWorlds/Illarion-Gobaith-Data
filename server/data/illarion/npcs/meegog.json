@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "type": 8,
+  "coordinate": {
+    "x": 156,
+    "y": -448,
+    "z": 0
+  },
+  "facing": "south",
+  "name": "Meegog",
+  "sex": "male",
+  "race": "illarion:race_8",
+  "entity": "illarion:races/race_8_0",
+  "metadata": {
+    "id": 161,
+    "name": "Meegog"
+  },
+  "skills": {
+    "illarion:skill_0": 100
+  },
+  "npc": "illarion-gobaith:npc/meegog"
+}

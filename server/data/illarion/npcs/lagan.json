@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "name": "Lagan",
+  "metadata": {
+    "id": 155,
+    "name": "Lagan",
+    "note": "Appearance and placement are missing from the source."
+  },
+  "npc": "illarion-gobaith:npc/lagan"
+}

@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 1,
+  "coordinate": {
+    "x": 136,
+    "y": -161,
+    "z": -9
+  },
+  "facing": "south",
+  "name": "Irmtrud",
+  "sex": "female",
+  "race": "illarion:race_1",
+  "entity": "illarion:races/race_1_1",
+  "metadata": {
+    "id": 149,
+    "name": "Irmtrud"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_2": 100
+  },
+  "npc": "illarion-gobaith:npc/irmtrud"
+}

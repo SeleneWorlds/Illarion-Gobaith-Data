@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 4,
+  "coordinate": {
+    "x": 187,
+    "y": -445,
+    "z": 1
+  },
+  "facing": "east",
+  "name": "Gruknug Orcguard",
+  "sex": "male",
+  "race": "illarion:race_4",
+  "entity": "illarion:races/race_4_0",
+  "metadata": {
+    "id": 145,
+    "name": "Gruknug Orcguard"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_5": 100
+  },
+  "npc": "illarion-gobaith:npc/gruknug_orcguard"
+}

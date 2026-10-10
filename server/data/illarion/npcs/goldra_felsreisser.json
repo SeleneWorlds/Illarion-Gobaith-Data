@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 1,
+  "coordinate": {
+    "x": 112,
+    "y": -198,
+    "z": -3
+  },
+  "facing": "south",
+  "name": "Goldra Felsreisser",
+  "sex": "female",
+  "race": "illarion:race_1",
+  "entity": "illarion:races/race_1_1",
+  "metadata": {
+    "id": 144,
+    "name": "Goldra Felsreisser"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_2": 100
+  },
+  "npc": "illarion-gobaith:npc/goldra_felsreisser"
+}

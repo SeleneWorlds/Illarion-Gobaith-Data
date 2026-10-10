@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 0,
+  "coordinate": {
+    "x": 31,
+    "y": 56,
+    "z": 50
+  },
+  "facing": "south",
+  "name": "Foo Barlini",
+  "sex": "male",
+  "race": "illarion:race_0",
+  "entity": "illarion:races/race_0_0",
+  "metadata": {
+    "id": 141,
+    "name": "Foo Barlini"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100
+  },
+  "npc": "illarion-gobaith:npc/foo_barlini"
+}

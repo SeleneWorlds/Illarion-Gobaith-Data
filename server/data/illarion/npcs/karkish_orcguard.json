@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "type": 4,
+  "coordinate": {
+    "x": 159,
+    "y": -435,
+    "z": 0
+  },
+  "facing": "west",
+  "name": "Karkish Orcguard",
+  "sex": "female",
+  "race": "illarion:race_4",
+  "entity": "illarion:races/race_4_1",
+  "metadata": {
+    "id": 151,
+    "name": "Karkish Orcguard"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_5": 100
+  },
+  "npc": "illarion-gobaith:npc/karkish_orcguard"
+}
