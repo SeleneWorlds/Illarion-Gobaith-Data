@@ -1,7 +1,0 @@
-{
-  "enabled": true,
-  "script": "scheduled.newgaia",
-  "function": "plantdrop",
-  "minInterval": 10,
-  "maxInterval": 30
-}
