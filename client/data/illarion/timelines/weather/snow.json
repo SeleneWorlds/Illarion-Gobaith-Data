@@ -1,6 +1,7 @@
 {
   "events": [
     {
+      "outdoorsOnly": true,
       "type": "particle_system",
       "particle": "illarion:snow",
       "space": "screen",
