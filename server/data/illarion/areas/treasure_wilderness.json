@@ -6,11 +6,51 @@
         "include": [
             {
                 "type": "rectangle",
-                "x": 475,
-                "y": 0,
+                "x": -420,
+                "y": -418,
                 "z": 0,
-                "width": 526,
-                "height": 651
+                "width": 427,
+                "height": 179
+            },
+            {
+                "type": "rectangle",
+                "x": 86,
+                "y": -491,
+                "z": 0,
+                "width": 133,
+                "height": 266
+            },
+            {
+                "type": "rectangle",
+                "x": -374,
+                "y": -202,
+                "z": 0,
+                "width": 208,
+                "height": 180
+            },
+            {
+                "type": "rectangle",
+                "x": -155,
+                "y": -36,
+                "z": 0,
+                "width": 224,
+                "height": 297
+            },
+            {
+                "type": "rectangle",
+                "x": 158,
+                "y": 148,
+                "z": 0,
+                "width": 85,
+                "height": 46
+            },
+            {
+                "type": "rectangle",
+                "x": 176,
+                "y": -173,
+                "z": 0,
+                "width": 168,
+                "height": 181
             }
         ],
         "exclude": []
