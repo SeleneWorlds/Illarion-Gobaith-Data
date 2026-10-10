@@ -1,0 +1,13 @@
+{
+  "name": "treasure_levels",
+  "platform": "server",
+  "schema": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "id": "integer",
+        "name": "string"
+      }
+    }
+  }
+}
