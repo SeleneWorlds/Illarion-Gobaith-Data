@@ -1,18 +1,23 @@
 {
-  "enabled": false,
-  "type": 0,
-  "name": "Bob",
-  "sex": "female",
-  "race": "illarion:race_0",
-  "entity": "illarion:races/race_0_1",
-  "metadata": {
-    "id": 174,
-    "name": "Bob",
-    "note": "No reliable placement in the source."
-  },
-  "skills": {
-    "illarion:skill_0": 100,
-    "illarion:skill_1": 100
-  },
-  "npc": "illarion-gobaith:npc/torina_scibri"
+    "enabled": false,
+    "type": 0,
+    "name": "Torina Scibri",
+    "sex": "female",
+    "race": "illarion:race_0",
+    "entity": "illarion:races/race_0_1",
+    "metadata": {
+        "id": 174,
+        "name": "Torina Scibri"
+    },
+    "skills": {
+        "illarion:skill_0": 100,
+        "illarion:skill_1": 100
+    },
+    "npc": "illarion-gobaith:npc/torina_scibri",
+    "coordinate": {
+        "x": -54,
+        "y": -236,
+        "z": 1
+    },
+    "facing": "north"
 }
