@@ -3,11 +3,11 @@
   "platform": "server",
   "schema": {
     "area": "area",
-    "metadata": {
-      "type": "object",
-      "properties": {
-        "name": "string"
-      }
+    "name": "string",
+    "description": "message",
+    "ignoreFloor": {
+      "type": "boolean",
+      "optional": true
     }
   }
 }
