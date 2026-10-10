@@ -4,6 +4,7 @@
   "metadata": {
     "tileId": 16
   },
+  "mapColor": "#9b785a",
   "visual": "illarion:tiles/tile_16",
   "tags": [
     "illarion:tile"

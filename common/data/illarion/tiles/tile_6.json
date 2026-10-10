@@ -5,6 +5,7 @@
     "tileId": 6,
     "script": "tile.id_6_water"
   },
+  "mapColor": "#7ec1ee",
   "visual": "illarion:tiles/tile_6",
   "tags": [
     "illarion:tile"

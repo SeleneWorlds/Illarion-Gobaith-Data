@@ -5,6 +5,7 @@
     "tileId": 10,
     "script": "tile.id_10_snow"
   },
+  "mapColor": "#ffffff",
   "visual": "illarion:tiles/tile_10",
   "tags": [
     "illarion:tile"

@@ -13,6 +13,7 @@ function Items.derive(item, options)
     local itemId = assert(item:getMetadata("id"), "Item is missing metadata.id")
     local tile = {
         visual = visual,
+        mapColor = "#ffffff",
         impassable = item:getField("impassable") or false,
         passableAbove = item:getField("passableAbove") or false,
         metadata = { itemId = itemId },

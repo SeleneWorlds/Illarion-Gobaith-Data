@@ -5,6 +5,7 @@
     "tileId": 11,
     "script": "tile.id_11_gras"
   },
+  "mapColor": "#b6d69e",
   "visual": "illarion:tiles/tile_11",
   "tags": [
     "illarion:tile"
