@@ -1,0 +1,13 @@
+{
+  "name": "areas",
+  "platform": "server",
+  "schema": {
+    "area": "area",
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "name": "string"
+      }
+    }
+  }
+}
