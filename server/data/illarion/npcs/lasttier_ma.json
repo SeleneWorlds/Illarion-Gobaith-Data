@@ -13,5 +13,6 @@
   "skills": {
     "illarion:skill_0": 100
   },
-  "npc": "illarion-gobaith:npc/lasttier_ma"
+  "npc": "illarion-gobaith:npc/lasttier_ma",
+  "facing": "south"
 }

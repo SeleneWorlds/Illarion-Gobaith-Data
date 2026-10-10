@@ -14,5 +14,6 @@
     "illarion:skill_0": 100,
     "illarion:skill_1": 100
   },
-  "npc": "illarion-gobaith:npc/stalljunge_vs"
+  "npc": "illarion-gobaith:npc/stalljunge_vs",
+  "facing": "south"
 }
