@@ -1,4 +1,14 @@
 {
+  "attributes": {
+    "strength": 13,
+    "dexterity": 4,
+    "agility": 4,
+    "constitution": 16,
+    "perception": 8,
+    "intelligence": 13,
+    "willpower": 13,
+    "essence": 13
+  },
   "skills": {
     "illarion:skill_19": {
       "value": 5
