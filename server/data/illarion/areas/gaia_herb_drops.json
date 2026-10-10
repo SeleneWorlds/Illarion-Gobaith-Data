@@ -1,0 +1,21 @@
+{
+    "enabled": true,
+    "name": "Gaia Herb Drops",
+    "description": "Surface region sampled for seasonal herb and feather drops. Plant-specific ground requirements are applied by the Gaia script.",
+    "area": {
+        "include": [
+            {
+                "type": "rectangle",
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "width": 1001,
+                "height": 1001
+            }
+        ],
+        "exclude": []
+    },
+    "metadata": {
+        "source": "scheduled.gaia.plantdrop"
+    }
+}

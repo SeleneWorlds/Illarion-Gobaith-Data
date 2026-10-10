@@ -1,0 +1,21 @@
+{
+    "enabled": true,
+    "name": "Treasure Maps",
+    "description": "Wilderness where treasure maps place buried treasure. Terrain and item checks are applied by the treasure script.",
+    "area": {
+        "include": [
+            {
+                "type": "rectangle",
+                "x": 475,
+                "y": 0,
+                "z": 0,
+                "width": 526,
+                "height": 651
+            }
+        ],
+        "exclude": []
+    },
+    "metadata": {
+        "source": "base.treasure.findPosition"
+    }
+}
