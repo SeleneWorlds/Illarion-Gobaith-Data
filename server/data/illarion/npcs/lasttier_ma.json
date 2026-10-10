@@ -1,10 +1,10 @@
 {
   "enabled": false,
-  "type": 50,
+  "type": 30,
   "name": "Transportkuh",
   "sex": "male",
-  "race": "illarion:race_50",
-  "entity": "illarion:races/race_50_0",
+  "race": "illarion:race_30",
+  "entity": "illarion:races/race_30_0",
   "metadata": {
     "id": 157,
     "name": "Transportkuh",
@@ -13,6 +13,6 @@
   "skills": {
     "illarion:skill_0": 100
   },
-  "npc": "illarion-gobaith:npc/lasttier_ma",
-  "facing": "south"
+  "facing": "south",
+  "script": "npc.special.lasttier"
 }
