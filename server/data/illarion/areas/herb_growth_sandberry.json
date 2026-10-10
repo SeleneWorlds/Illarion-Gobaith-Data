@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Herbs — Sandberry",
   "description": "The growth and harvesting plots for sandberries.",
   "area": {

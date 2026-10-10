@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Mine — Desert",
   "description": "The resource-gathering region of the desert mine.",
   "area": {

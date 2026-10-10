@@ -2,11 +2,17 @@
   "name": "areas",
   "platform": "server",
   "schema": {
+    "enabled": "enabled",
     "area": "area",
     "name": "string",
     "description": "message",
     "ignoreFloor": {
       "type": "boolean",
+      "optional": true
+    },
+    "tags": {
+      "type": "array",
+      "valueType": "string",
       "optional": true
     }
   }

@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Troll’s Bane Toilet",
   "description": "The toilet in Troll's Bane where logout triggers door and bucket cleanup.",
   "area": {

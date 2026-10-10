@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Herbs — Desert Sky Capsule",
   "description": "The growth and harvesting plots for desert sky capsules.",
   "area": {

@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Teleport blocked — Vanima Garden Island",
   "description": "The protected Vanima Garden Island where teleport gates cannot be created.",
   "area": {
@@ -17,5 +18,8 @@
   "metadata": {
     "source": "item.book.id_1061_teleport"
   },
-  "ignoreFloor": true
+  "ignoreFloor": true,
+  "tags": [
+    "teleport_blocked"
+  ]
 }

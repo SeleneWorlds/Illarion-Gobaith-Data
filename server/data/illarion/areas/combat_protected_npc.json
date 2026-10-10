@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Protected NPC combat region",
   "description": "Reserved combat protection region for the special NPC. Currently empty because the original bounds exclude every integer floor.",
   "area": {

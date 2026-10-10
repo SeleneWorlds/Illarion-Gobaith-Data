@@ -1,21 +1,22 @@
 {
-  "name": "Transporter destination — Vanima",
-  "description": "The Vanima destination zone used by the livestock transporter.",
-  "area": {
-    "include": [
-      {
-        "type": "rectangle",
-        "x": 297,
-        "y": 224,
-        "z": 0,
-        "width": 8,
-        "height": 74
-      }
-    ],
-    "exclude": []
-  },
-  "metadata": {
-    "source": "npc.lasttier / npc.lasttier_ma",
-    "notes": "Preserves the existing upper y bound of 298 (exclusive)."
-  }
+    "enabled": true,
+    "name": "Transporter Destination — Vanima",
+    "description": "The Vanima destination zone used by the livestock transporter.",
+    "area": {
+        "include": [
+            {
+                "type": "rectangle",
+                "x": 297,
+                "y": 224,
+                "z": 0,
+                "width": 8,
+                "height": 74
+            }
+        ],
+        "exclude": []
+    },
+    "metadata": {
+        "source": "npc.lasttier / npc.lasttier_ma",
+        "notes": "Preserves the existing upper y bound of 298 (exclusive)."
+    }
 }

@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Clay Digging",
   "description": "Areas that clay can be dug from.",
   "area": {

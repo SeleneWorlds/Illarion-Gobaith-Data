@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Planting — Tobacco",
   "description": "The region where tobacco can be planted.",
   "area": {

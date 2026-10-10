@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Resurrection — Blackstone Temple",
   "description": "The resurrection zone surrounding the invisible cross at Blackstone Temple.",
   "area": {

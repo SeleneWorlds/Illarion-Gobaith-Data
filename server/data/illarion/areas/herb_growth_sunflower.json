@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Herbs — Sunflower",
   "description": "The growth and harvesting plots for sunflowers.",
   "area": {

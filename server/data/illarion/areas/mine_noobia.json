@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Mine — Noobia",
   "description": "The resource-gathering region of the Noobia mine.",
   "area": {

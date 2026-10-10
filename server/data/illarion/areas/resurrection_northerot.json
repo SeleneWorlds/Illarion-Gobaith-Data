@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Resurrection — Northerot",
   "description": "The resurrection zone surrounding the invisible cross at Northerot.",
   "area": {

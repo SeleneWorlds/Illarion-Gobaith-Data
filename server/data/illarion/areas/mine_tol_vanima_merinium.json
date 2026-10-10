@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Mine — Tol Vanima Merinium",
   "description": "The resource-gathering region of the Merinium mine in Tol Vanima.",
   "area": {

@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Planting — Sugar cane",
   "description": "The region where sugar cane can be planted.",
   "area": {

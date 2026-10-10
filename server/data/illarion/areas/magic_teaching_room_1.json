@@ -1,20 +1,21 @@
 {
-  "name": "Magic teaching room — floor -60",
-  "description": "The underground magic teaching room on floor -60.",
-  "area": {
-    "include": [
-      {
-        "type": "rectangle",
-        "x": 14,
-        "y": 3,
-        "z": -60,
-        "width": 3,
-        "height": 3
-      }
-    ],
-    "exclude": []
-  },
-  "metadata": {
-    "source": "magic.base.teachspell"
-  }
+    "enabled": true,
+    "name": "Teaching Room — Magic Academy",
+    "description": "The underground magic teaching room on floor -60.",
+    "area": {
+        "include": [
+            {
+                "type": "rectangle",
+                "x": 14,
+                "y": 3,
+                "z": -60,
+                "width": 3,
+                "height": 3
+            }
+        ],
+        "exclude": []
+    },
+    "metadata": {
+        "source": "magic.base.teachspell"
+    }
 }

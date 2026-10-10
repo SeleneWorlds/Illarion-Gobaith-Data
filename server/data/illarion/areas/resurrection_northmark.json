@@ -1,4 +1,5 @@
 {
+  "enabled": true,
   "name": "Resurrection — Northmark",
   "description": "The resurrection zone surrounding the invisible cross at Northmark.",
   "area": {

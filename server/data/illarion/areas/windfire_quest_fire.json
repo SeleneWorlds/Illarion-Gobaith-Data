@@ -1,20 +1,21 @@
 {
-  "name": "Wind/fire quest — fire",
-  "description": "The fire-effect region of the wind and fire quest.",
-  "area": {
-    "include": [
-      {
-        "type": "circle",
-        "x": -99,
-        "y": 146,
-        "z": 0,
-        "radius": 15
-      }
-    ],
-    "exclude": []
-  },
-  "metadata": {
-    "source": "scheduled.scs_windfire_quest",
-    "notes": "Circle models the fixed center/range query. Legacy getPlayersInRangeOf is currently unimplemented; verify distance boundary semantics before migration."
-  }
+    "enabled": true,
+    "name": "Wind/Fire Quest — Fire",
+    "description": "The fire-effect region of the wind and fire quest.",
+    "area": {
+        "include": [
+            {
+                "type": "circle",
+                "x": -99,
+                "y": 146,
+                "z": 0,
+                "radius": 15
+            }
+        ],
+        "exclude": []
+    },
+    "metadata": {
+        "source": "scheduled.scs_windfire_quest",
+        "notes": "Circle models the fixed center/range query. Legacy getPlayersInRangeOf is currently unimplemented; verify distance boundary semantics before migration."
+    }
 }
