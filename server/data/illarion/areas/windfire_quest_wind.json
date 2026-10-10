@@ -1,0 +1,20 @@
+{
+  "name": "Wind/fire quest — wind",
+  "description": "The wind-effect region of the wind and fire quest.",
+  "area": {
+    "include": [
+      {
+        "type": "circle",
+        "x": -240,
+        "y": -86,
+        "z": 0,
+        "radius": 15
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "scheduled.scs_windfire_quest",
+    "notes": "Circle models the fixed center/range query. Legacy getPlayersInRangeOf is currently unimplemented; verify distance boundary semantics before migration."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Planting — tomatoes",
+  "description": "The region where tomatoes can be planted.",
+  "area": {
+    "include": [
+      {
+        "type": "rectangle",
+        "x": -2147483647,
+        "y": 0,
+        "z": 0,
+        "width": 4294967295,
+        "height": 501
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "item.seeds",
+    "notes": "Original restriction is an inclusive y band, with unrestricted x and floor. Rectangle covers the supported integer x domain."
+  },
+  "ignoreFloor": true
+}

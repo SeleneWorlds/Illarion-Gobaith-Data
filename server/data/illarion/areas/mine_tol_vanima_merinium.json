@@ -1,0 +1,20 @@
+{
+  "name": "Mine — Tol Vanima Merinium",
+  "description": "The resource-gathering region of the Merinium mine in Tol Vanima.",
+  "area": {
+    "include": [
+      {
+        "type": "circle",
+        "x": 401,
+        "y": 134,
+        "z": -13,
+        "radius": 10
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "item.id_2763_pickaxe",
+    "notes": "Legacy mining area ID 12."
+  }
+}

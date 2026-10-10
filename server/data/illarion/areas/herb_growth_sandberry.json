@@ -1,0 +1,20 @@
+{
+  "name": "Herbs — Sandberry",
+  "description": "The growth and harvesting plots for sandberries.",
+  "area": {
+    "include": [
+      {
+        "type": "rectangle",
+        "x": 143,
+        "y": 648,
+        "z": 0,
+        "width": 2,
+        "height": 2
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "scheduled.newgaia / item.id_126_sickle"
+  }
+}

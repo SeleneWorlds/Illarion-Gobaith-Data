@@ -1,0 +1,21 @@
+{
+  "name": "Teleport blocked — Grey Rose cell",
+  "description": "The ritual-protected Grey Rose cell where teleport gates cannot be created.",
+  "area": {
+    "include": [
+      {
+        "type": "rectangle",
+        "x": -72,
+        "y": -220,
+        "z": 0,
+        "width": 6,
+        "height": 5
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "item.book.id_1061_teleport"
+  },
+  "ignoreFloor": true
+}

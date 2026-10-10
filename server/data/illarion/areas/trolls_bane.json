@@ -1,40 +1,39 @@
 {
-    "area": {
-        "include": [
-            {
-                "type": "rectangle",
-                "x": -166,
-                "y": -153,
-                "z": 0,
-                "width": 121,
-                "height": 92
-            }
-        ],
-        "exclude": [
-            {
-                "type": "circle",
-                "x": -171,
-                "y": -151,
-                "z": 0,
-                "radius": 32
-            },
-            {
-                "type": "circle",
-                "x": -169,
-                "y": -51,
-                "z": 0,
-                "radius": 25
-            },
-            {
-                "type": "circle",
-                "x": -38,
-                "y": -55,
-                "z": 0,
-                "radius": 28
-            }
-        ]
-    },
-    "metadata": {
-        "name": "Troll's Bane"
-    }
+  "name": "Troll's Bane",
+  "description": "The town of Troll's Bane and its surrounding territory.",
+  "area": {
+    "include": [
+      {
+        "type": "rectangle",
+        "x": -166,
+        "y": -153,
+        "z": 0,
+        "width": 121,
+        "height": 92
+      }
+    ],
+    "exclude": [
+      {
+        "type": "circle",
+        "x": -171,
+        "y": -151,
+        "z": 0,
+        "radius": 32
+      },
+      {
+        "type": "circle",
+        "x": -169,
+        "y": -51,
+        "z": 0,
+        "radius": 25
+      },
+      {
+        "type": "circle",
+        "x": -38,
+        "y": -55,
+        "z": 0,
+        "radius": 28
+      }
+    ]
+  }
 }

@@ -1,0 +1,21 @@
+{
+  "name": "Planting — Tobacco",
+  "description": "The region where tobacco can be planted.",
+  "area": {
+    "include": [
+      {
+        "type": "rectangle",
+        "x": -250,
+        "y": -100,
+        "z": 0,
+        "width": 251,
+        "height": 201
+      }
+    ],
+    "exclude": []
+  },
+  "ignoreFloor": true,
+  "metadata": {
+    "source": "item.seeds"
+  }
+}

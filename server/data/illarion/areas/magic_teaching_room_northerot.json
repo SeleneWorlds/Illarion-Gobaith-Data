@@ -1,0 +1,20 @@
+{
+  "name": "Magic teaching room — Northerot",
+  "description": "The Northerot magic teaching room on floor -6.",
+  "area": {
+    "include": [
+      {
+        "type": "rectangle",
+        "x": 290,
+        "y": -342,
+        "z": -6,
+        "width": 7,
+        "height": 7
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "magic.base.teachspell"
+  }
+}

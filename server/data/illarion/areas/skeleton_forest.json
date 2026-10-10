@@ -1,0 +1,20 @@
+{
+  "name": "Skeleton forest",
+  "description": "The forest region where nearby players can trigger skeleton encounters.",
+  "area": {
+    "include": [
+      {
+        "type": "circle",
+        "x": -54,
+        "y": 72,
+        "z": 0,
+        "radius": 35
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "scheduled.scs_skeleton_forest",
+    "notes": "Circle models the fixed center/range query. Legacy getPlayersInRangeOf is currently unimplemented; verify distance boundary semantics before migration."
+  }
+}

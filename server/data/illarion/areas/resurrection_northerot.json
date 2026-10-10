@@ -1,0 +1,20 @@
+{
+  "name": "Resurrection — Northerot",
+  "description": "The resurrection zone surrounding the invisible cross at Northerot.",
+  "area": {
+    "include": [
+      {
+        "type": "circle",
+        "x": 295,
+        "y": -341,
+        "z": -6,
+        "radius": 4
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "scheduled.invisible_crosses",
+    "notes": "Circle models the fixed center/range query. Legacy getPlayersInRangeOf is currently unimplemented; verify distance boundary semantics before migration."
+  }
+}

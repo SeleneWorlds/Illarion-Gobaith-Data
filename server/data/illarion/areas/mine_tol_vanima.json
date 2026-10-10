@@ -1,0 +1,20 @@
+{
+  "name": "Mine — Tol Vanima",
+  "description": "The resource-gathering region of the Tol Vanima mine.",
+  "area": {
+    "include": [
+      {
+        "type": "circle",
+        "x": 388,
+        "y": 157,
+        "z": -10,
+        "radius": 10
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "item.id_2763_pickaxe",
+    "notes": "Legacy mining area ID 5."
+  }
+}

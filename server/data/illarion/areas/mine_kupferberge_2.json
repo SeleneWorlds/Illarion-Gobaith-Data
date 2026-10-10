@@ -1,0 +1,20 @@
+{
+  "name": "Mine — Kupferberge 2",
+  "description": "The resource-gathering region of the second Kupferberge mine.",
+  "area": {
+    "include": [
+      {
+        "type": "circle",
+        "x": 49,
+        "y": -124,
+        "z": 0,
+        "radius": 20
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "item.id_2763_pickaxe",
+    "notes": "Legacy mining area ID 8."
+  }
+}

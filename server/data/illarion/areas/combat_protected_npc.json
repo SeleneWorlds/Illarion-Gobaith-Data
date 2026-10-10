@@ -1,0 +1,12 @@
+{
+  "name": "Protected NPC combat region",
+  "description": "Reserved combat protection region for the special NPC. Currently empty because the original bounds exclude every integer floor.",
+  "area": {
+    "include": [],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "server.standardfighting / base.common",
+    "notes": "Preserves the currently empty region: GetInArea excludes z endpoints 0 and 1, leaving no integer floor. Intended x/y bounds are -35<x<-20 and -135<y<-110. Choose an explicit floor before enabling this region; defender ID is 1502327199."
+  }
+}

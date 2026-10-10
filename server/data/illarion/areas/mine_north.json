@@ -1,0 +1,20 @@
+{
+  "name": "Mine — North",
+  "description": "The resource-gathering region of the northern mine.",
+  "area": {
+    "include": [
+      {
+        "type": "circle",
+        "x": -73,
+        "y": -332,
+        "z": 0,
+        "radius": 10
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "item.id_2763_pickaxe",
+    "notes": "Legacy mining area ID 11."
+  }
+}

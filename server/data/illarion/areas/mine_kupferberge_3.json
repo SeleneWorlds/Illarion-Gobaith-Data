@@ -1,0 +1,20 @@
+{
+  "name": "Mine — Kupferberge 3",
+  "description": "The resource-gathering region of the third Kupferberge mine.",
+  "area": {
+    "include": [
+      {
+        "type": "circle",
+        "x": 84,
+        "y": -141,
+        "z": 0,
+        "radius": 5
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "item.id_2763_pickaxe",
+    "notes": "Legacy mining area ID 9."
+  }
+}

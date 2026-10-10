@@ -1,0 +1,20 @@
+{
+  "name": "Resurrection — Grey Rose",
+  "description": "The resurrection zone surrounding the invisible cross at Grey Rose.",
+  "area": {
+    "include": [
+      {
+        "type": "circle",
+        "x": -26,
+        "y": -213,
+        "z": -3,
+        "radius": 4
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "scheduled.invisible_crosses",
+    "notes": "Circle models the fixed center/range query. Legacy getPlayersInRangeOf is currently unimplemented; verify distance boundary semantics before migration."
+  }
+}

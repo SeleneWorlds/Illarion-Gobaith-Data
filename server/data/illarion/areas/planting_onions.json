@@ -1,0 +1,22 @@
+{
+  "name": "Planting — onions",
+  "description": "The region where onions can be planted.",
+  "area": {
+    "include": [
+      {
+        "type": "rectangle",
+        "x": -2147483647,
+        "y": -500,
+        "z": 0,
+        "width": 4294967295,
+        "height": 351
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "item.seeds",
+    "notes": "Original restriction is an inclusive y band, with unrestricted x and floor. Rectangle covers the supported integer x domain."
+  },
+  "ignoreFloor": true
+}

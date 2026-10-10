@@ -1,0 +1,20 @@
+{
+  "name": "Magic Academy Training Grounds",
+  "description": "Nothing grows on the Magic Academy's burnt training grounds.",
+  "area": {
+    "include": [
+      {
+        "type": "rectangle",
+        "x": 55,
+        "y": 36,
+        "z": 50,
+        "width": 9,
+        "height": 13
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "item.id_52_filledbucket"
+  }
+}

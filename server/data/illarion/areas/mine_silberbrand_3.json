@@ -1,0 +1,20 @@
+{
+  "name": "Mine — Silberbrand 3",
+  "description": "The resource-gathering region of the third Silberbrand mine.",
+  "area": {
+    "include": [
+      {
+        "type": "circle",
+        "x": 134,
+        "y": -144,
+        "z": -9,
+        "radius": 10
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "item.id_2763_pickaxe",
+    "notes": "Legacy mining area ID 3."
+  }
+}

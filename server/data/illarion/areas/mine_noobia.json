@@ -1,0 +1,20 @@
+{
+  "name": "Mine — Noobia",
+  "description": "The resource-gathering region of the Noobia mine.",
+  "area": {
+    "include": [
+      {
+        "type": "circle",
+        "x": 122,
+        "y": 25,
+        "z": 100,
+        "radius": 10
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "item.id_2763_pickaxe",
+    "notes": "Legacy mining area ID 13."
+  }
+}

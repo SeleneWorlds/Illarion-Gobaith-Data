@@ -1,0 +1,29 @@
+{
+  "name": "Clay Digging",
+  "description": "Areas that clay can be dug from.",
+  "area": {
+    "include": [
+      {
+        "type": "rectangle",
+        "x": -408,
+        "y": -244,
+        "z": 0,
+        "width": 151,
+        "height": 57
+      },
+      {
+        "type": "rectangle",
+        "x": 115,
+        "y": -128,
+        "z": 0,
+        "width": 63,
+        "height": 53
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "item.id_24_shovel"
+  },
+  "ignoreFloor": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Herbs — Sunflower",
+  "description": "The growth and harvesting plots for sunflowers.",
+  "area": {
+    "include": [
+      {
+        "type": "rectangle",
+        "x": 132,
+        "y": 648,
+        "z": 0,
+        "width": 2,
+        "height": 2
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "scheduled.newgaia / item.id_126_sickle"
+  }
+}

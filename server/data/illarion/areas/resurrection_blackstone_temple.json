@@ -1,0 +1,20 @@
+{
+  "name": "Resurrection — Blackstone Temple",
+  "description": "The resurrection zone surrounding the invisible cross at Blackstone Temple.",
+  "area": {
+    "include": [
+      {
+        "type": "circle",
+        "x": -249,
+        "y": 41,
+        "z": -25,
+        "radius": 4
+      }
+    ],
+    "exclude": []
+  },
+  "metadata": {
+    "source": "scheduled.invisible_crosses",
+    "notes": "Circle models the fixed center/range query. Legacy getPlayersInRangeOf is currently unimplemented; verify distance boundary semantics before migration."
+  }
+}
