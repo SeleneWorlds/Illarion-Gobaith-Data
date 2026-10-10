@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "type": 8,
+  "coordinate": {
+    "x": -208,
+    "y": 29,
+    "z": 0
+  },
+  "facing": "south",
+  "name": "Guggkain Teewee",
+  "sex": "male",
+  "race": "illarion:race_32",
+  "entity": "illarion:races/race_32_0",
+  "metadata": {
+    "id": 8,
+    "name": "Guggkain Teewee"
+  },
+  "skills": {
+    "illarion:skill_0": 100,
+    "illarion:skill_1": 100,
+    "illarion:skill_4": 100
+  },
+  "npc": "illarion-gobaith:npc/guggkain_teewee"
+}
