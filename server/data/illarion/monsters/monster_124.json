@@ -1,0 +1,120 @@
+{
+  "race": "illarion:race_27",
+  "hitpoints": 10000,
+  "movementType": "fly",
+  "canAttack": true,
+  "size": {
+    "min": 60,
+    "max": 80
+  },
+  "attributes": {
+    "strength": {
+      "min": 1,
+      "max": 3
+    },
+    "constitution": {
+      "min": 1,
+      "max": 3
+    },
+    "dexterity": {
+      "min": 1,
+      "max": 3
+    },
+    "agility": {
+      "min": 1,
+      "max": 3
+    },
+    "intelligence": {
+      "min": 1,
+      "max": 3
+    },
+    "willpower": {
+      "min": 1,
+      "max": 3
+    },
+    "perception": {
+      "min": 1,
+      "max": 3
+    },
+    "essence": {
+      "min": 1,
+      "max": 3
+    }
+  },
+  "skills": {
+    "illarion:skill_21": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_27": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_26": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_28": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_29": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_25": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_23": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_24": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_22": {
+      "min": 10,
+      "max": 20
+    },
+    "illarion:skill_37": {
+      "min": 10,
+      "max": 20
+    }
+  },
+  "items": {
+    "breast": {
+      "item": "illarion:item_182",
+      "count": {
+        "min": 1,
+        "max": 1
+      }
+    }
+  },
+  "drops": {
+    "1": {
+      "3154": {
+        "chance": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 3
+        },
+        "durability": {
+          "min": 33,
+          "max": 33
+        },
+        "item": "illarion:item_2529"
+      }
+    }
+  },
+  "script": "monster.mon_12_wasps",
+  "metadata": {
+    "id": 124,
+    "name": "Small Wasp"
+  }
+}

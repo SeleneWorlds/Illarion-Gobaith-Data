@@ -1,0 +1,379 @@
+{
+  "race": "illarion:race_53",
+  "hitpoints": 10000,
+  "movementType": "walk",
+  "canAttack": true,
+  "size": {
+    "min": 120,
+    "max": 150
+  },
+  "attributes": {
+    "strength": {
+      "min": 25,
+      "max": 33
+    },
+    "constitution": {
+      "min": 25,
+      "max": 33
+    },
+    "dexterity": {
+      "min": 25,
+      "max": 33
+    },
+    "agility": {
+      "min": 25,
+      "max": 33
+    },
+    "intelligence": {
+      "min": 25,
+      "max": 33
+    },
+    "perception": {
+      "min": 25,
+      "max": 33
+    },
+    "essence": {
+      "min": 25,
+      "max": 33
+    },
+    "willpower": {
+      "min": 28,
+      "max": 32
+    }
+  },
+  "skills": {
+    "illarion:skill_21": {
+      "min": 70,
+      "max": 80
+    },
+    "illarion:skill_27": {
+      "min": 70,
+      "max": 80
+    },
+    "illarion:skill_26": {
+      "min": 70,
+      "max": 80
+    },
+    "illarion:skill_28": {
+      "min": 70,
+      "max": 80
+    },
+    "illarion:skill_29": {
+      "min": 70,
+      "max": 80
+    },
+    "illarion:skill_25": {
+      "min": 70,
+      "max": 80
+    },
+    "illarion:skill_23": {
+      "min": 70,
+      "max": 80
+    },
+    "illarion:skill_24": {
+      "min": 70,
+      "max": 80
+    },
+    "illarion:skill_22": {
+      "min": 70,
+      "max": 80
+    },
+    "illarion:skill_37": {
+      "min": 70,
+      "max": 80
+    }
+  },
+  "items": {
+    "head": {
+      "item": "illarion:item_2303",
+      "count": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "breast": {
+      "item": "illarion:item_2367",
+      "count": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "right hand": {
+      "item": "illarion:item_209",
+      "count": {
+        "min": 1,
+        "max": 1
+      }
+    }
+  },
+  "drops": {
+    "1": {
+      "1539": {
+        "chance": 0.2,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_2760"
+      },
+      "1540": {
+        "chance": 0.1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_155"
+      },
+      "1541": {
+        "chance": 0.01,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_192"
+      },
+      "1542": {
+        "chance": 0.01,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_46"
+      },
+      "1543": {
+        "chance": 0.01,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_283"
+      }
+    },
+    "2": {
+      "1544": {
+        "chance": 0.2,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_53"
+      },
+      "1545": {
+        "chance": 0.1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_366"
+      },
+      "1546": {
+        "chance": 0.01,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_363"
+      },
+      "1547": {
+        "chance": 0.01,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_365"
+      },
+      "1548": {
+        "chance": 0.01,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_324"
+      }
+    },
+    "3": {
+      "1549": {
+        "chance": 0.2,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_2664"
+      },
+      "1550": {
+        "chance": 0.1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_77"
+      },
+      "1551": {
+        "chance": 0.01,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_124"
+      },
+      "1552": {
+        "chance": 0.01,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_230"
+      },
+      "1553": {
+        "chance": 0.01,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 6,
+          "max": 7
+        },
+        "durability": {
+          "min": 66,
+          "max": 77
+        },
+        "item": "illarion:item_77"
+      }
+    },
+    "4": {
+      "1554": {
+        "chance": 1,
+        "count": {
+          "min": 10,
+          "max": 30
+        },
+        "quality": {
+          "min": 7,
+          "max": 7
+        },
+        "durability": {
+          "min": 73,
+          "max": 73
+        },
+        "item": "illarion:item_3077"
+      }
+    }
+  },
+  "metadata": {
+    "id": 354,
+    "name": "Ancient Ice Dragon"
+  }
+}

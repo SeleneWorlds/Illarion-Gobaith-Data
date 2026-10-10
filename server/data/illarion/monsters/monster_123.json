@@ -1,0 +1,127 @@
+{
+  "race": "illarion:race_27",
+  "hitpoints": 10000,
+  "movementType": "fly",
+  "canAttack": true,
+  "size": {
+    "min": 100,
+    "max": 130
+  },
+  "attributes": {
+    "strength": {
+      "min": 5,
+      "max": 9
+    },
+    "constitution": {
+      "min": 5,
+      "max": 9
+    },
+    "dexterity": {
+      "min": 5,
+      "max": 9
+    },
+    "agility": {
+      "min": 5,
+      "max": 9
+    },
+    "intelligence": {
+      "min": 5,
+      "max": 9
+    },
+    "willpower": {
+      "min": 5,
+      "max": 9
+    },
+    "perception": {
+      "min": 5,
+      "max": 9
+    },
+    "essence": {
+      "min": 5,
+      "max": 9
+    }
+  },
+  "skills": {
+    "illarion:skill_21": {
+      "min": 30,
+      "max": 40
+    },
+    "illarion:skill_27": {
+      "min": 30,
+      "max": 40
+    },
+    "illarion:skill_26": {
+      "min": 30,
+      "max": 40
+    },
+    "illarion:skill_28": {
+      "min": 30,
+      "max": 40
+    },
+    "illarion:skill_29": {
+      "min": 30,
+      "max": 40
+    },
+    "illarion:skill_25": {
+      "min": 30,
+      "max": 40
+    },
+    "illarion:skill_23": {
+      "min": 30,
+      "max": 40
+    },
+    "illarion:skill_24": {
+      "min": 30,
+      "max": 40
+    },
+    "illarion:skill_22": {
+      "min": 30,
+      "max": 40
+    },
+    "illarion:skill_37": {
+      "min": 30,
+      "max": 40
+    }
+  },
+  "items": {
+    "breast": {
+      "item": "illarion:item_101",
+      "count": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "right hand": {
+      "item": "illarion:item_2642",
+      "count": {
+        "min": 1,
+        "max": 1
+      }
+    }
+  },
+  "drops": {
+    "1": {
+      "3154": {
+        "chance": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 3
+        },
+        "durability": {
+          "min": 33,
+          "max": 33
+        },
+        "item": "illarion:item_2529"
+      }
+    }
+  },
+  "script": "monster.mon_12_wasps",
+  "metadata": {
+    "id": 123,
+    "name": "Big Wasp"
+  }
+}

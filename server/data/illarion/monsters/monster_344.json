@@ -1,0 +1,121 @@
+{
+  "race": "illarion:race_48",
+  "hitpoints": 10000,
+  "movementType": "walk",
+  "canAttack": true,
+  "size": {
+    "min": 80,
+    "max": 120
+  },
+  "attributes": {
+    "strength": {
+      "min": 32,
+      "max": 41
+    },
+    "constitution": {
+      "min": 32,
+      "max": 41
+    },
+    "dexterity": {
+      "min": 32,
+      "max": 41
+    },
+    "agility": {
+      "min": 32,
+      "max": 41
+    },
+    "intelligence": {
+      "min": 32,
+      "max": 41
+    },
+    "perception": {
+      "min": 32,
+      "max": 41
+    },
+    "essence": {
+      "min": 32,
+      "max": 41
+    },
+    "willpower": {
+      "min": 33,
+      "max": 35
+    }
+  },
+  "skills": {
+    "illarion:skill_21": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_27": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_26": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_28": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_29": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_25": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_23": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_24": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_22": {
+      "min": 80,
+      "max": 90
+    },
+    "illarion:skill_37": {
+      "min": 80,
+      "max": 90
+    }
+  },
+  "items": {
+    "head": {
+      "item": "illarion:item_2303",
+      "count": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "breast": {
+      "item": "illarion:item_2402",
+      "count": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "left hand": {
+      "item": "illarion:item_95",
+      "count": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "right hand": {
+      "item": "illarion:item_2775",
+      "count": {
+        "min": 1,
+        "max": 1
+      }
+    }
+  },
+  "drops": {},
+  "metadata": {
+    "id": 344,
+    "name": "Swamp Crawler"
+  }
+}

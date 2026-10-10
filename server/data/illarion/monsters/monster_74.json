@@ -1,0 +1,152 @@
+{
+  "race": "illarion:race_43",
+  "hitpoints": 10000,
+  "movementType": "walk",
+  "canAttack": true,
+  "size": {
+    "min": 100,
+    "max": 130
+  },
+  "attributes": {
+    "strength": {
+      "min": 8,
+      "max": 13
+    },
+    "constitution": {
+      "min": 8,
+      "max": 13
+    },
+    "dexterity": {
+      "min": 8,
+      "max": 13
+    },
+    "agility": {
+      "min": 8,
+      "max": 13
+    },
+    "intelligence": {
+      "min": 8,
+      "max": 13
+    },
+    "perception": {
+      "min": 8,
+      "max": 13
+    },
+    "essence": {
+      "min": 8,
+      "max": 13
+    },
+    "willpower": {
+      "min": 9,
+      "max": 14
+    }
+  },
+  "skills": {
+    "illarion:skill_21": {
+      "min": 40,
+      "max": 50
+    },
+    "illarion:skill_27": {
+      "min": 40,
+      "max": 50
+    },
+    "illarion:skill_26": {
+      "min": 40,
+      "max": 50
+    },
+    "illarion:skill_28": {
+      "min": 40,
+      "max": 50
+    },
+    "illarion:skill_29": {
+      "min": 40,
+      "max": 50
+    },
+    "illarion:skill_25": {
+      "min": 40,
+      "max": 50
+    },
+    "illarion:skill_23": {
+      "min": 40,
+      "max": 50
+    },
+    "illarion:skill_24": {
+      "min": 40,
+      "max": 50
+    },
+    "illarion:skill_22": {
+      "min": 40,
+      "max": 50
+    },
+    "illarion:skill_37": {
+      "min": 40,
+      "max": 50
+    }
+  },
+  "items": {
+    "breast": {
+      "item": "illarion:item_2407",
+      "count": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "legs": {
+      "item": "illarion:item_34",
+      "count": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "right hand": {
+      "item": "illarion:item_57",
+      "count": {
+        "min": 1,
+        "max": 1
+      }
+    }
+  },
+  "drops": {
+    "1": {
+      "1221": {
+        "chance": 0.5,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 1,
+          "max": 2
+        },
+        "durability": {
+          "min": 11,
+          "max": 22
+        },
+        "item": "illarion:item_63"
+      }
+    },
+    "2": {
+      "1222": {
+        "chance": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        },
+        "quality": {
+          "min": 3,
+          "max": 3
+        },
+        "durability": {
+          "min": 33,
+          "max": 33
+        },
+        "item": "illarion:item_2586"
+      }
+    }
+  },
+  "script": "monster.mon_7_panthers",
+  "metadata": {
+    "id": 74,
+    "name": "Big Panther"
+  }
+}
