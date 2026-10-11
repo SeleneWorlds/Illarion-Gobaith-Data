@@ -6,11 +6,11 @@
         "include": [
             {
                 "type": "rectangle",
-                "x": 0,
-                "y": 0,
+                "x": -500,
+                "y": -500,
                 "z": 0,
-                "width": 1001,
-                "height": 1001
+                "width": 957,
+                "height": 775
             }
         ],
         "exclude": []
