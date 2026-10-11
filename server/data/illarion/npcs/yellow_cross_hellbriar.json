@@ -1,0 +1,20 @@
+{
+    "enabled": true,
+    "type": 7,
+    "coordinate": {
+        "x": -490,
+        "y": 159,
+        "z": 0
+    },
+    "facing": "north",
+    "name": "Yellow Cross",
+    "script": "npc.special.yellowcross",
+    "sex": "male",
+    "race": "illarion:race_7",
+    "entity": "illarion:races/race_7_0",
+    "metadata": {
+        "id": 114,
+        "name": "Yellow Cross"
+    },
+    "skills": {}
+}
