@@ -13,5 +13,6 @@
     "spawnRange": 7,
     "monsters": {
         "illarion:monster_155": 4
-    }
+    },
+    "enabled": true
 }
