@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_437",
+  "objectAfterRot": null,
   "script": "item.lever",
   "rotsInInventory": false,
   "brightness": 0,

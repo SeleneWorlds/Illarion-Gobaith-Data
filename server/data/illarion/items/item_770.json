@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 120,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_770",
+  "objectAfterRot": null,
   "script": "item.general.metal",
   "rotsInInventory": false,
   "brightness": 0,

@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_727",
+  "objectAfterRot": null,
   "script": "item.id_727_sieve",
   "rotsInInventory": false,
   "brightness": 0,

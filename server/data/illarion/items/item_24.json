@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 100,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_24",
+  "objectAfterRot": null,
   "script": "item.id_24_shovel",
   "rotsInInventory": false,
   "brightness": 0,

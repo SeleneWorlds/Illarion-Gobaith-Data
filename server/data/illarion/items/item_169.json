@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_169",
+  "objectAfterRot": null,
   "script": "item.id_169_loom",
   "rotsInInventory": false,
   "brightness": 0,

@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 100,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_335",
+  "objectAfterRot": null,
   "script": "item.id_335_lute",
   "rotsInInventory": false,
   "brightness": 0,

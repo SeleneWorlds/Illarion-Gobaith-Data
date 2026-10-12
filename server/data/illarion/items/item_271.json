@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 100,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_271",
+  "objectAfterRot": null,
   "script": "item.id_271_scythe",
   "rotsInInventory": false,
   "brightness": 0,

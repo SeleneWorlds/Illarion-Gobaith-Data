@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 75,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_465",
+  "objectAfterRot": null,
   "script": "item.general.jewel",
   "rotsInInventory": false,
   "brightness": 0,

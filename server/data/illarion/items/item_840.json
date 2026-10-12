@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 100,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_840",
+  "objectAfterRot": null,
   "script": "item.general.cloth",
   "rotsInInventory": false,
   "brightness": 0,

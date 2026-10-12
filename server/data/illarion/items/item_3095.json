@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_3095",
+  "objectAfterRot": null,
   "script": "item.spidernet",
   "rotsInInventory": false,
   "brightness": 0,

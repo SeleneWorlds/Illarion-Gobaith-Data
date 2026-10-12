@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 50,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_99",
+  "objectAfterRot": null,
   "script": "gm.items.id_99_lockpicks",
   "rotsInInventory": false,
   "brightness": 0,

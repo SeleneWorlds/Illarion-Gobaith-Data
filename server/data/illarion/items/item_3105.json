@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_3105",
+  "objectAfterRot": null,
   "script": "item.id_3105_bookrest",
   "rotsInInventory": false,
   "brightness": 0,

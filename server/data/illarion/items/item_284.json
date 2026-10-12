@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 5,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_284",
+  "objectAfterRot": null,
   "script": "item.gems",
   "rotsInInventory": false,
   "brightness": 0,

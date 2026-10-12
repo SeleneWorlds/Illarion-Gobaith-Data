@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 50,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_382",
+  "objectAfterRot": null,
   "script": "gm.items.id_382_ceilingtrowel",
   "rotsInInventory": false,
   "brightness": 0,

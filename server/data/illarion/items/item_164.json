@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 25,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_164",
+  "objectAfterRot": null,
   "script": "item.id_164_emptybottle",
   "rotsInInventory": false,
   "brightness": 0,

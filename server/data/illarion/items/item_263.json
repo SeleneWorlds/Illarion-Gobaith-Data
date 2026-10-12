@@ -2,7 +2,7 @@
   "volume": 5000,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_263",
+  "objectAfterRot": null,
   "script": "item.general.wood",
   "rotsInInventory": false,
   "brightness": 0,

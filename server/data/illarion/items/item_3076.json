@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 0,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_3076",
+  "objectAfterRot": null,
   "script": "item.id_3076_coppercoins",
   "rotsInInventory": false,
   "brightness": 0,

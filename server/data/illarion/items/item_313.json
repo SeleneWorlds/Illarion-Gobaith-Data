@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_313",
+  "objectAfterRot": null,
   "script": "item.id_313_glassmeltoven",
   "rotsInInventory": false,
   "brightness": 2,

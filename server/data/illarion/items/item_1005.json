@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_1005",
+  "objectAfterRot": null,
   "script": "item.id_1005_beehive",
   "rotsInInventory": false,
   "brightness": 0,

@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 50,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_429",
+  "objectAfterRot": null,
   "script": "item.id_429_candlemold",
   "rotsInInventory": false,
   "brightness": 0,

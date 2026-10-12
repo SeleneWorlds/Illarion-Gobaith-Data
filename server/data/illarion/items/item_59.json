@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 25,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_59",
+  "objectAfterRot": null,
   "script": "druid.item.id_59_red_bottle",
   "rotsInInventory": false,
   "brightness": 0,

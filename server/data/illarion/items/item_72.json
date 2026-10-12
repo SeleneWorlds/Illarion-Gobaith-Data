@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 100,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_72",
+  "objectAfterRot": null,
   "script": "item.id_72_fishingrod",
   "rotsInInventory": false,
   "brightness": 0,

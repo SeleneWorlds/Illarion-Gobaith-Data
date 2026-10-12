@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 25,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_224",
+  "objectAfterRot": null,
   "script": "item.id_224_goldengoblet",
   "rotsInInventory": false,
   "brightness": 0,

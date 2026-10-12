@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 50,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_227",
+  "objectAfterRot": null,
   "script": "item.id_227_cookingspoon",
   "rotsInInventory": false,
   "brightness": 0,

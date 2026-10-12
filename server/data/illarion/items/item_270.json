@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_270",
+  "objectAfterRot": null,
   "script": "item.id_270_grindstone",
   "rotsInInventory": false,
   "brightness": 0,

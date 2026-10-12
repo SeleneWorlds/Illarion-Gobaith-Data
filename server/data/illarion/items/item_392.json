@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 50,
   "agingSpeed": 20,
-  "objectAfterRot": "illarion:item_392",
+  "objectAfterRot": null,
   "script": "item.lights",
   "rotsInInventory": true,
   "brightness": 5,

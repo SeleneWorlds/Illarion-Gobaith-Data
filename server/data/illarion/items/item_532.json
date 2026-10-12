@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 50,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_532",
+  "objectAfterRot": null,
   "script": "item.id_532_panpipe",
   "rotsInInventory": false,
   "brightness": 0,

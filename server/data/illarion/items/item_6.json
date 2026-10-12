@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 50,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_6",
+  "objectAfterRot": null,
   "script": "item.id_6_scissors",
   "rotsInInventory": false,
   "brightness": 0,

@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 100,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_2922",
+  "objectAfterRot": null,
   "script": "item.food",
   "rotsInInventory": false,
   "brightness": 0,

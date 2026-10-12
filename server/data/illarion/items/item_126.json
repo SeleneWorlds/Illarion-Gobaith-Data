@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 50,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_126",
+  "objectAfterRot": null,
   "script": "item.id_126_sickle",
   "rotsInInventory": false,
   "brightness": 0,

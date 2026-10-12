@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 50,
   "agingSpeed": 254,
-  "objectAfterRot": "illarion:item_2752",
+  "objectAfterRot": null,
   "script": "item.id_2752_carvingtools",
   "rotsInInventory": false,
   "brightness": 0,

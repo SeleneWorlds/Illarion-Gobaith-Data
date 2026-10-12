@@ -2,7 +2,7 @@
   "volume": 1,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_220",
+  "objectAfterRot": null,
   "script": "item.id_220_barrel",
   "rotsInInventory": false,
   "brightness": 0,

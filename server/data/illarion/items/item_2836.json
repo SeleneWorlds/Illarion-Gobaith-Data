@@ -2,7 +2,7 @@
   "volume": 5000,
   "weight": 30000,
   "agingSpeed": 255,
-  "objectAfterRot": "illarion:item_2836",
+  "objectAfterRot": null,
   "script": "item.id_2836_forge",
   "rotsInInventory": false,
   "brightness": 0,
