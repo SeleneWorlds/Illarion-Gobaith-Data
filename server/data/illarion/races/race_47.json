@@ -1,8 +1,8 @@
 {
   "name": "gnome",
   "age": {
-    "min": 18,
-    "max": 80
+    "min": 30,
+    "max": 300
   },
   "height": {
     "min": 55,

@@ -1,7 +1,7 @@
 {
   "name": "goblin",
   "age": {
-    "min": 18,
+    "min": 20,
     "max": 80
   },
   "height": {
