@@ -1,6 +1,8 @@
 {
-  "x": -72,
-  "y": -67,
-  "z": 0,
+  "coordinate": {
+    "x": -72,
+    "y": -67,
+    "z": 0
+  },
   "script": "triggerfield.loo_seat"
 }

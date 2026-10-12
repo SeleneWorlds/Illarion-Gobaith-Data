@@ -1,6 +1,8 @@
 {
-  "x": 59,
-  "y": 97,
-  "z": 100,
+  "coordinate": {
+    "x": 59,
+    "y": 97,
+    "z": 100
+  },
   "script": "triggerfield.noobia_wall_desert"
 }

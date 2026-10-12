@@ -1,6 +1,8 @@
 {
-  "x": 244,
-  "y": -362,
-  "z": -6,
+  "coordinate": {
+    "x": 244,
+    "y": -362,
+    "z": -6
+  },
   "script": "triggerfield.notherot_entrace"
 }

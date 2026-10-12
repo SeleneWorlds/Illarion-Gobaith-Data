@@ -1,6 +1,8 @@
 {
-  "x": 28,
-  "y": 190,
-  "z": -12,
+  "coordinate": {
+    "x": 28,
+    "y": 190,
+    "z": -12
+  },
   "script": "triggerfield.aq001_wcgate"
 }

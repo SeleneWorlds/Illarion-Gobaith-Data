@@ -1,6 +1,8 @@
 {
-  "x": -72,
-  "y": -67,
-  "z": -3,
+  "coordinate": {
+    "x": -72,
+    "y": -67,
+    "z": -3
+  },
   "script": "triggerfield.loo_ladder"
 }

@@ -1,6 +1,8 @@
 {
-  "x": -29,
-  "y": 193,
-  "z": -8,
+  "coordinate": {
+    "x": -29,
+    "y": 193,
+    "z": -8
+  },
   "script": "triggerfield.aq001_mirror"
 }

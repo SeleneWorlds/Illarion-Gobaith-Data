@@ -2,9 +2,7 @@
   "name": "triggerfields",
   "platform": "server",
   "schema": {
-    "x": "integer",
-    "y": "integer",
-    "z": "integer",
+    "coordinate": "coordinate",
     "script": "script"
   }
 }
