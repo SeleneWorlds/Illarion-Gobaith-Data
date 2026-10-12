@@ -3,7 +3,7 @@
   "weight": 100,
   "agingSpeed": 254,
   "objectAfterRot": null,
-  "script": "I_2760_seil",
+  "script": "item.I_2760_seil",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 2000,
