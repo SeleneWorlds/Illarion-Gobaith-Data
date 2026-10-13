@@ -28,10 +28,6 @@
       "type": "registry",
       "registry": "illarion:races"
     },
-    "entity": {
-      "type": "registry",
-      "registry": "selene:entities"
-    },
     "skills": {
       "type": "map",
       "optional": true,
