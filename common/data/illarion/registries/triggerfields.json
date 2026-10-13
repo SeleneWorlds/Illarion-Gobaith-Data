@@ -2,6 +2,7 @@
   "name": "triggerfields",
   "platform": "server",
   "schema": {
+    "enabled": "enabled",
     "coordinate": "coordinate",
     "script": "script",
     "data": {
