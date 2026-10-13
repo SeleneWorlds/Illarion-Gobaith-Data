@@ -3,7 +3,6 @@
   "platform": "server",
   "schema": {
     "enabled": "enabled",
-    "type": "integer",
     "coordinate": "coordinate",
     "facing": "Direction",
     "name": "string",
@@ -27,6 +26,11 @@
     "race": {
       "type": "registry",
       "registry": "illarion:races"
+    },
+    "type": {
+      "type": "registry_field_reference",
+      "reference": "race",
+      "property": "types"
     },
     "skills": {
       "type": "map",
