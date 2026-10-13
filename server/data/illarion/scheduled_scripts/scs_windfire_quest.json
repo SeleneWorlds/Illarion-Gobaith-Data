@@ -2,6 +2,8 @@
   "enabled": true,
   "script": "scheduled.scs_windfire_quest",
   "function": "SoundEffects",
-  "minInterval": 10,
-  "maxInterval": 30
+  "interval": {
+    "min": 10,
+    "max": 30
+  }
 }

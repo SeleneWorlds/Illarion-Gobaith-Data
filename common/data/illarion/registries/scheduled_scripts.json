@@ -9,7 +9,6 @@
       "property": "script"
     },
     "function": "string",
-    "minInterval": "integer",
-    "maxInterval": "integer"
+    "interval": "range"
   }
 }

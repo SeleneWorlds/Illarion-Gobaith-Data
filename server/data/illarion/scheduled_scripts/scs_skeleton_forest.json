@@ -2,6 +2,8 @@
   "enabled": true,
   "script": "scheduled.scs_skeleton_forest",
   "function": "ForestSkells",
-  "minInterval": 3000,
-  "maxInterval": 9000
+  "interval": {
+    "min": 3000,
+    "max": 9000
+  }
 }
