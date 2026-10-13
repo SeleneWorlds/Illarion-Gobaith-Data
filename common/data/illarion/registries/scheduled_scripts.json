@@ -4,6 +4,10 @@
   "schema": {
     "enabled": "enabled",
     "script": "script",
+    "data": {
+      "type": "scripted_schema_lookup",
+      "property": "script"
+    },
     "function": "string",
     "minInterval": "integer",
     "maxInterval": "integer"
