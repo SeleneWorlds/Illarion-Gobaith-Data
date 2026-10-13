@@ -8,7 +8,7 @@
     "facing": "Direction",
     "name": "string",
     "script": {
-      "type": "string",
+      "type": "script",
       "optional": true
     },
     "sex": {
