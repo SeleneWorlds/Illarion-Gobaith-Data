@@ -2,13 +2,6 @@
   "name": "skills",
   "platform": "server",
   "schema": {
-    "metadata": {
-      "type": "object",
-      "properties": {
-        "id": "integer",
-        "name": "string"
-      }
-    },
     "group": {
       "type": "registry",
       "registry": "illarion:skill_groups"

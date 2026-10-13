@@ -2,12 +2,6 @@
   "name": "quests",
   "platform": "server",
   "schema": {
-    "script": "script",
-    "metadata": {
-      "type": "object",
-      "properties": {
-        "id": "integer"
-      }
-    }
+    "script": "script"
   }
 }

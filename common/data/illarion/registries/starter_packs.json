@@ -29,12 +29,6 @@
           "quality": "integer"
         }
       }
-    },
-    "metadata": {
-      "type": "object",
-      "properties": {
-        "id": "integer"
-      }
     }
   }
 }

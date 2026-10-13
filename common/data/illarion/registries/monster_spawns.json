@@ -23,12 +23,6 @@
         "registry": "illarion:monsters"
       },
       "valueType": "integer"
-    },
-    "metadata": {
-      "type": "object",
-      "properties": {
-        "id": "integer"
-      }
     }
   }
 }

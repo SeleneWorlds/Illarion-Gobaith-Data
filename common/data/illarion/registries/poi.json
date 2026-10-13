@@ -2,12 +2,6 @@
   "name": "poi",
   "platform": "server",
   "schema": {
-    "coordinate": "coordinate",
-    "metadata": {
-      "type": "object",
-      "properties": {
-        "name": "string"
-      }
-    }
+    "coordinate": "coordinate"
   }
 }
