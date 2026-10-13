@@ -1,2295 +1,2296 @@
 {
-  "enabled": true,
-  "script": "scheduled.gaia",
-  "function": "spawnHerbs",
-  "interval": {
-    "min": 180,
-    "max": 300
-  },
-  "data": {
-    "herbs": {
-      "pools": [
-        {
-          "name": "Spring",
-          "rolls": 1,
-          "conditions": [
-            {
-              "type": "is_season",
-              "data": "spring"
-            }
-          ],
-          "entries": [
-            {
-              "type": "herb",
-              "weight": 8,
-              "data": {
-                "item": "illarion:item_133"
-              },
-              "conditions": [
+    "enabled": true,
+    "script": "scheduled.gaia",
+    "function": "spawnHerbs",
+    "interval": {
+        "min": 180,
+        "max": 300
+    },
+    "data": {
+        "herbs": {
+            "pools": [
                 {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_4",
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_134"
-              },
-              "conditions": [
+                    "name": "Spring",
+                    "rolls": 1,
+                    "conditions": [
+                        {
+                            "type": "is_season",
+                            "data": "spring"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "type": "herb",
+                            "weight": 8,
+                            "data": {
+                                "item": "illarion:item_133"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_4",
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_134"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_135"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_4"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_136"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 3,
+                            "data": {
+                                "item": "illarion:item_137"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 2,
+                            "data": {
+                                "item": "illarion:item_138"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9",
+                                        "illarion:tile_8"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_140"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 3,
+                            "data": {
+                                "item": "illarion:item_141"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 2,
+                            "data": {
+                                "item": "illarion:item_142"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_143"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 5,
+                            "data": {
+                                "item": "illarion:item_144"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_145"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_146"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 2,
+                            "data": {
+                                "item": "illarion:item_148"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_152"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9",
+                                        "illarion:tile_3",
+                                        "illarion:tile_2",
+                                        "illarion:tile_15",
+                                        "illarion:tile_6"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_153"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_155"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_8"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_156"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_2696",
+                                "data": 80
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9",
+                                        "illarion:tile_11",
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 8,
+                            "data": {
+                                "item": "illarion:item_133",
+                                "data": 9001
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_134",
+                                "data": 9002
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_135",
+                                "data": 9003
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_136",
+                                "data": 9004
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_137",
+                                "data": 9005
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_138",
+                                "data": 9006
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_140",
+                                "data": 9007
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_141",
+                                "data": 9008
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_142",
+                                "data": 9009
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_152",
+                                "data": 9013
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_144",
+                                "data": 9010
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_145",
+                                "data": 9011
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_146",
+                                "data": 9012
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_148",
+                                "data": 9014
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_156",
+                                "data": 9015
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_153",
+                                "data": 9016
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_135"
-              },
-              "conditions": [
+                    "name": "Summer",
+                    "rolls": 1,
+                    "conditions": [
+                        {
+                            "type": "is_season",
+                            "data": "summer"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_133"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_4",
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 1,
+                            "data": {
+                                "item": "illarion:item_134"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_135"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_4"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 3,
+                            "data": {
+                                "item": "illarion:item_136"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 1,
+                            "data": {
+                                "item": "illarion:item_137"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 2,
+                            "data": {
+                                "item": "illarion:item_138"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9",
+                                        "illarion:tile_8"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 2,
+                            "data": {
+                                "item": "illarion:item_140"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_141"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 3,
+                            "data": {
+                                "item": "illarion:item_142"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 5,
+                            "data": {
+                                "item": "illarion:item_143"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_144"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_145"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 5,
+                            "data": {
+                                "item": "illarion:item_146"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_148"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_152"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9",
+                                        "illarion:tile_3",
+                                        "illarion:tile_2",
+                                        "illarion:tile_15",
+                                        "illarion:tile_6"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_153"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_155"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_8"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 1,
+                            "data": {
+                                "item": "illarion:item_156"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_2696",
+                                "data": 80
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9",
+                                        "illarion:tile_11",
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_133",
+                                "data": 9001
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_134",
+                                "data": 9002
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_135",
+                                "data": 9003
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_136",
+                                "data": 9004
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_137",
+                                "data": 9005
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_138",
+                                "data": 9006
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_140",
+                                "data": 9007
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_141",
+                                "data": 9008
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_142",
+                                "data": 9009
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_152",
+                                "data": 9013
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_144",
+                                "data": 9010
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_145",
+                                "data": 9011
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_146",
+                                "data": 9012
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_148",
+                                "data": 9014
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_156",
+                                "data": 9015
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_153",
+                                "data": 9016
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_4"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_136"
-              },
-              "conditions": [
+                    "name": "Autumn",
+                    "rolls": 1,
+                    "conditions": [
+                        {
+                            "type": "is_season",
+                            "data": "autumn"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "type": "herb",
+                            "weight": 2,
+                            "data": {
+                                "item": "illarion:item_133"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_4",
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 5,
+                            "data": {
+                                "item": "illarion:item_134"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 3,
+                            "data": {
+                                "item": "illarion:item_135"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_4"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_136"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_137"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 9,
+                            "data": {
+                                "item": "illarion:item_138"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9",
+                                        "illarion:tile_8"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 7,
+                            "data": {
+                                "item": "illarion:item_140"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 5,
+                            "data": {
+                                "item": "illarion:item_141"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_142"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_143"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 2,
+                            "data": {
+                                "item": "illarion:item_144"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 3,
+                            "data": {
+                                "item": "illarion:item_145"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_146"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 3,
+                            "data": {
+                                "item": "illarion:item_148"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_152"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9",
+                                        "illarion:tile_3",
+                                        "illarion:tile_2",
+                                        "illarion:tile_15",
+                                        "illarion:tile_6"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 1,
+                            "data": {
+                                "item": "illarion:item_153"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 5,
+                            "data": {
+                                "item": "illarion:item_155"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_8"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 2,
+                            "data": {
+                                "item": "illarion:item_156"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 8,
+                            "data": {
+                                "item": "illarion:item_2696",
+                                "data": 80
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9",
+                                        "illarion:tile_11",
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_133",
+                                "data": 9001
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_134",
+                                "data": 9002
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_135",
+                                "data": 9003
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_136",
+                                "data": 9004
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_137",
+                                "data": 9005
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_138",
+                                "data": 9006
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_140",
+                                "data": 9007
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_141",
+                                "data": 9008
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_142",
+                                "data": 9009
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_152",
+                                "data": 9013
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_144",
+                                "data": 9010
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_145",
+                                "data": 9011
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_146",
+                                "data": 9012
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_148",
+                                "data": 9014
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_156",
+                                "data": 9015
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_153",
+                                "data": 9016
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
+                    "name": "Winter",
+                    "rolls": 1,
+                    "conditions": [
+                        {
+                            "type": "is_season",
+                            "data": "winter"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_133"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_4",
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_134"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_135"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_4"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 7,
+                            "data": {
+                                "item": "illarion:item_136"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_137"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 5,
+                            "data": {
+                                "item": "illarion:item_138"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9",
+                                        "illarion:tile_8"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 3,
+                            "data": {
+                                "item": "illarion:item_140"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_141"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_142"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 5,
+                            "data": {
+                                "item": "illarion:item_143"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_144"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_145"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 5,
+                            "data": {
+                                "item": "illarion:item_146"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_148"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_152"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9",
+                                        "illarion:tile_3",
+                                        "illarion:tile_2",
+                                        "illarion:tile_15",
+                                        "illarion:tile_6"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_153"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 1,
+                            "data": {
+                                "item": "illarion:item_155"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_8"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_156"
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 1,
+                            "data": {
+                                "item": "illarion:item_2696",
+                                "data": 80
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9",
+                                        "illarion:tile_11",
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_133",
+                                "data": 9001
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_134",
+                                "data": 9002
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 8,
+                            "data": {
+                                "item": "illarion:item_135",
+                                "data": 9003
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 7,
+                            "data": {
+                                "item": "illarion:item_136",
+                                "data": 9004
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_137",
+                                "data": 9005
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_138",
+                                "data": 9006
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_140",
+                                "data": 9007
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_141",
+                                "data": 9008
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_2",
+                                        "illarion:tile_15"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_142",
+                                "data": 9009
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 4,
+                            "data": {
+                                "item": "illarion:item_152",
+                                "data": 9013
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 10,
+                            "data": {
+                                "item": "illarion:item_144",
+                                "data": 9010
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_145",
+                                "data": 9011
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_146",
+                                "data": 9012
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_3"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_148",
+                                "data": 9014
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 6,
+                            "data": {
+                                "item": "illarion:item_156",
+                                "data": 9015
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_9"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "herb",
+                            "weight": 0,
+                            "data": {
+                                "item": "illarion:item_153",
+                                "data": 9016
+                            },
+                            "conditions": [
+                                {
+                                    "type": "ground_is_any_of",
+                                    "data": [
+                                        "illarion:tile_11"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 3,
-              "data": {
-                "item": "illarion:item_137"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 2,
-              "data": {
-                "item": "illarion:item_138"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9",
-                    "illarion:tile_8"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_140"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 3,
-              "data": {
-                "item": "illarion:item_141"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 2,
-              "data": {
-                "item": "illarion:item_142"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_143"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 5,
-              "data": {
-                "item": "illarion:item_144"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_145"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_146"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 2,
-              "data": {
-                "item": "illarion:item_148"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_152"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9",
-                    "illarion:tile_3",
-                    "illarion:tile_2",
-                    "illarion:tile_15",
-                    "illarion:tile_6"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_153"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_155"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_8"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_156"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_2696",
-                "data": 80
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9",
-                    "illarion:tile_11",
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 8,
-              "data": {
-                "item": "illarion:item_133",
-                "data": 9001
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_134",
-                "data": 9002
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_135",
-                "data": 9003
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_136",
-                "data": 9004
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_137",
-                "data": 9005
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_138",
-                "data": 9006
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_140",
-                "data": 9007
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_141",
-                "data": 9008
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_142",
-                "data": 9009
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_152",
-                "data": 9013
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_144",
-                "data": 9010
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_145",
-                "data": 9011
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_146",
-                "data": 9012
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_148",
-                "data": 9014
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_156",
-                "data": 9015
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_153",
-                "data": 9016
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            }
-          ]
+            ]
         },
-        {
-          "name": "Summer",
-          "rolls": 1,
-          "conditions": [
-            {
-              "type": "is_season",
-              "data": "summer"
-            }
-          ],
-          "entries": [
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_133"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_4",
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 1,
-              "data": {
-                "item": "illarion:item_134"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_135"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_4"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 3,
-              "data": {
-                "item": "illarion:item_136"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 1,
-              "data": {
-                "item": "illarion:item_137"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 2,
-              "data": {
-                "item": "illarion:item_138"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9",
-                    "illarion:tile_8"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 2,
-              "data": {
-                "item": "illarion:item_140"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_141"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 3,
-              "data": {
-                "item": "illarion:item_142"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 5,
-              "data": {
-                "item": "illarion:item_143"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_144"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_145"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 5,
-              "data": {
-                "item": "illarion:item_146"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_148"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_152"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9",
-                    "illarion:tile_3",
-                    "illarion:tile_2",
-                    "illarion:tile_15",
-                    "illarion:tile_6"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_153"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_155"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_8"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 1,
-              "data": {
-                "item": "illarion:item_156"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_2696",
-                "data": 80
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9",
-                    "illarion:tile_11",
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_133",
-                "data": 9001
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_134",
-                "data": 9002
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_135",
-                "data": 9003
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_136",
-                "data": 9004
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_137",
-                "data": 9005
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_138",
-                "data": 9006
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_140",
-                "data": 9007
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_141",
-                "data": 9008
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_142",
-                "data": 9009
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_152",
-                "data": 9013
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_144",
-                "data": 9010
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_145",
-                "data": 9011
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_146",
-                "data": 9012
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_148",
-                "data": 9014
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_156",
-                "data": 9015
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_153",
-                "data": 9016
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Autumn",
-          "rolls": 1,
-          "conditions": [
-            {
-              "type": "is_season",
-              "data": "autumn"
-            }
-          ],
-          "entries": [
-            {
-              "type": "herb",
-              "weight": 2,
-              "data": {
-                "item": "illarion:item_133"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_4",
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 5,
-              "data": {
-                "item": "illarion:item_134"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 3,
-              "data": {
-                "item": "illarion:item_135"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_4"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_136"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_137"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 9,
-              "data": {
-                "item": "illarion:item_138"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9",
-                    "illarion:tile_8"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 7,
-              "data": {
-                "item": "illarion:item_140"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 5,
-              "data": {
-                "item": "illarion:item_141"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_142"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_143"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 2,
-              "data": {
-                "item": "illarion:item_144"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 3,
-              "data": {
-                "item": "illarion:item_145"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_146"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 3,
-              "data": {
-                "item": "illarion:item_148"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_152"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9",
-                    "illarion:tile_3",
-                    "illarion:tile_2",
-                    "illarion:tile_15",
-                    "illarion:tile_6"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 1,
-              "data": {
-                "item": "illarion:item_153"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 5,
-              "data": {
-                "item": "illarion:item_155"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_8"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 2,
-              "data": {
-                "item": "illarion:item_156"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 8,
-              "data": {
-                "item": "illarion:item_2696",
-                "data": 80
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9",
-                    "illarion:tile_11",
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_133",
-                "data": 9001
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_134",
-                "data": 9002
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_135",
-                "data": 9003
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_136",
-                "data": 9004
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_137",
-                "data": 9005
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_138",
-                "data": 9006
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_140",
-                "data": 9007
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_141",
-                "data": 9008
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_142",
-                "data": 9009
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_152",
-                "data": 9013
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_144",
-                "data": 9010
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_145",
-                "data": 9011
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_146",
-                "data": 9012
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_148",
-                "data": 9014
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_156",
-                "data": 9015
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_153",
-                "data": 9016
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winter",
-          "rolls": 1,
-          "conditions": [
-            {
-              "type": "is_season",
-              "data": "winter"
-            }
-          ],
-          "entries": [
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_133"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_4",
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_134"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_135"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_4"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 7,
-              "data": {
-                "item": "illarion:item_136"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_137"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 5,
-              "data": {
-                "item": "illarion:item_138"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9",
-                    "illarion:tile_8"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 3,
-              "data": {
-                "item": "illarion:item_140"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_141"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_142"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 5,
-              "data": {
-                "item": "illarion:item_143"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_144"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_145"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 5,
-              "data": {
-                "item": "illarion:item_146"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_148"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_152"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9",
-                    "illarion:tile_3",
-                    "illarion:tile_2",
-                    "illarion:tile_15",
-                    "illarion:tile_6"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_153"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 1,
-              "data": {
-                "item": "illarion:item_155"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_8"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_156"
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 1,
-              "data": {
-                "item": "illarion:item_2696",
-                "data": 80
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9",
-                    "illarion:tile_11",
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_133",
-                "data": 9001
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_134",
-                "data": 9002
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 8,
-              "data": {
-                "item": "illarion:item_135",
-                "data": 9003
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 7,
-              "data": {
-                "item": "illarion:item_136",
-                "data": 9004
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_137",
-                "data": 9005
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_138",
-                "data": 9006
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_140",
-                "data": 9007
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_141",
-                "data": 9008
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_2",
-                    "illarion:tile_15"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_142",
-                "data": 9009
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 4,
-              "data": {
-                "item": "illarion:item_152",
-                "data": 9013
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 10,
-              "data": {
-                "item": "illarion:item_144",
-                "data": 9010
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_145",
-                "data": 9011
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_146",
-                "data": 9012
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_3"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_148",
-                "data": 9014
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 6,
-              "data": {
-                "item": "illarion:item_156",
-                "data": 9015
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_9"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "herb",
-              "weight": 0,
-              "data": {
-                "item": "illarion:item_153",
-                "data": 9016
-              },
-              "conditions": [
-                {
-                  "type": "ground_is_any_of",
-                  "data": [
-                    "illarion:tile_11"
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
+        "rolls": 40
     }
-  }
 }
