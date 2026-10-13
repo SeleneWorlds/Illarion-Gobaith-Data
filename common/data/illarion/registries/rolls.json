@@ -1,0 +1,7 @@
+{
+  "name": "rolls",
+  "platform": "server",
+  "schema": {
+    "definition": "moonlight:rolls"
+  }
+}

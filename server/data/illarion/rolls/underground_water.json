@@ -1,0 +1,123 @@
+{
+    "definition": {
+        "pools": [
+            {
+                "rolls": 1,
+                "entries": [
+                    {
+                        "type": "scenario",
+                        "weight": 10,
+                        "data": {
+                            "actions": [
+                                {
+                                    "type": "inform",
+                                    "data": {
+                                        "message": "Du trittst unvorsichtig in eine Pfütze, und etwas Braunes quillt unter deinen Stiefeln hervor. Igitt!",
+                                        "messageEnglish": "You step into a puddle of... something, and a brown goo emerges from under your boots. Yuk!"
+                                    },
+                                    "conditions": [
+                                        {
+                                            "type": "has_any_item_equipped_at",
+                                            "data": {
+                                                "slot": 10,
+                                                "equipped": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "inform",
+                                    "data": {
+                                        "message": "Du trittst barfuss in eine Pfütze. Etwas kaltes, glitschiges und stinkendes quillt zwischen deinen Zehen hervor. Ieeeeeh!",
+                                        "messageEnglish": "Something glibbery, cold and stinking quills up between your toes. Yuk, you really should wear boots down here!"
+                                    },
+                                    "conditions": [
+                                        {
+                                            "type": "has_any_item_equipped_at",
+                                            "data": {
+                                                "slot": 10,
+                                                "equipped": false
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "label": "puddle"
+                    },
+                    {
+                        "type": "scenario",
+                        "weight": 10,
+                        "data": {
+                            "actions": [
+                                {
+                                    "type": "inform",
+                                    "data": {
+                                        "message": "Als du in die Pfütze trittst, steigt ein abartiger Urin- und Kotgestank auf. Dir wird übel.",
+                                        "messageEnglish": "A horrid smell of urine and excrement fills your nose as you step into the puddle. You want to throw up."
+                                    }
+                                }
+                            ]
+                        },
+                        "label": "smell"
+                    },
+                    {
+                        "type": "scenario",
+                        "weight": 10,
+                        "data": {
+                            "actions": [
+                                {
+                                    "type": "inform",
+                                    "data": {
+                                        "message": "Du trittst in die Pfütze und rutscht aus. Patsch! Igitt, du willst gar nicht wissen, worin du gelandet bist, aber es stinkt höllisch...",
+                                        "messageEnglish": "You slip on something in the puddle. Splat! Bah, you don't even want to know what it is that you landed in, but it stinks like hell...."
+                                    }
+                                },
+                                {
+                                    "type": "poison",
+                                    "data": {
+                                        "amount": 20
+                                    }
+                                },
+                                {
+                                    "type": "decrease_movepoints",
+                                    "data": {
+                                        "amount": 40
+                                    }
+                                }
+                            ]
+                        },
+                        "label": "fall"
+                    },
+                    {
+                        "type": "scenario",
+                        "weight": 10,
+                        "data": {
+                            "actions": [
+                                {
+                                    "type": "inform",
+                                    "data": {
+                                        "message": "Du rutschst auf irgendwas aus, aber kannst mit einem schnellen Schritt zum Glück dein Gleichgewicht halten.",
+                                        "messageEnglish": "You slip, but make a quick move forward and are able to keep your balance."
+                                    }
+                                },
+                                {
+                                    "type": "move_forward"
+                                }
+                            ]
+                        },
+                        "label": "slip"
+                    },
+                    {
+                        "type": "scenario",
+                        "weight": 60,
+                        "label": "nothing",
+                        "data": {
+                            "actions": []
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
