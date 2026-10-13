@@ -3,6 +3,10 @@
   "platform": "server",
   "schema": {
     "coordinate": "coordinate",
-    "script": "script"
+    "script": "script",
+    "data": {
+      "type": "scripted_schema_lookup",
+      "property": "script"
+    }
   }
 }
