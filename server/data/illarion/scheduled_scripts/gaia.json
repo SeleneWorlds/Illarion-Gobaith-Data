@@ -10,6 +10,7 @@
     "herbs": {
       "pools": [
         {
+          "name": "Spring",
           "rolls": 1,
           "conditions": [
             {
@@ -579,6 +580,7 @@
           ]
         },
         {
+          "name": "Summer",
           "rolls": 1,
           "conditions": [
             {
@@ -1148,6 +1150,7 @@
           ]
         },
         {
+          "name": "Autumn",
           "rolls": 1,
           "conditions": [
             {
@@ -1717,6 +1720,7 @@
           ]
         },
         {
+          "name": "Winter",
           "rolls": 1,
           "conditions": [
             {
