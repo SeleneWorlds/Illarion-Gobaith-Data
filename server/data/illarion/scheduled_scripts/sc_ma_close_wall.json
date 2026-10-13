@@ -5,5 +5,13 @@
     "interval": {
         "min": 10,
         "max": 30
+    },
+    "data": {
+        "door": {
+            "x": 73,
+            "y": 42,
+            "z": 50
+        },
+        "wall": "illarion:item_342"
     }
 }
