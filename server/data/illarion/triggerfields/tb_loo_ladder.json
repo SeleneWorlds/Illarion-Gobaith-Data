@@ -1,0 +1,25 @@
+{
+    "coordinate": {
+        "x": -72,
+        "y": -67,
+        "z": -3
+    },
+    "script": "triggerfield.loo_ladder",
+    "data": {
+        "target": {
+            "x": -72,
+            "y": -67,
+            "z": 0
+        },
+        "bucket": {
+            "x": -72,
+            "y": -69,
+            "z": 0
+        },
+        "door": {
+            "x": -74,
+            "y": -68,
+            "z": 0
+        }
+    }
+}
