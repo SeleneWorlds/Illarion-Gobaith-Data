@@ -1,6 +1,6 @@
 {
     "enabled": false,
-    "script": "triggerfield.roll_scenario",
+    "script": "triggerfield.roll_behavior",
     "data": {
         "events": "illarion:underground_water"
     }
