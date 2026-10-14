@@ -1,6 +1,7 @@
 {
   "name": "races",
   "platform": "server",
+  "icon": "users-round",
   "schema": {
     "age": {
       "type": "range",

@@ -1,6 +1,7 @@
 {
   "name": "quests",
   "platform": "server",
+  "icon": "scroll-text",
   "schema": {
     "script": "script"
   }

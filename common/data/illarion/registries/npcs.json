@@ -1,6 +1,7 @@
 {
   "name": "npcs",
   "platform": "server",
+  "icon": "user-round",
   "schema": {
     "enabled": "enabled",
     "coordinate": "coordinate",

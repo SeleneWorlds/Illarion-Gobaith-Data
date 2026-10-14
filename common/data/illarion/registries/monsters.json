@@ -1,6 +1,7 @@
 {
   "name": "monsters",
   "platform": "server",
+  "icon": "skull",
   "schema": {
     "race": {
       "type": "registry",

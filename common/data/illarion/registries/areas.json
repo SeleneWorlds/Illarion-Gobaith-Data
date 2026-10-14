@@ -1,6 +1,7 @@
 {
   "name": "areas",
   "platform": "server",
+  "icon": "map",
   "schema": {
     "enabled": "enabled",
     "area": "area",

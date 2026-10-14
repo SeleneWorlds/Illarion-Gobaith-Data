@@ -1,6 +1,7 @@
 {
   "name": "gfx",
   "platform": "server",
+  "icon": "image",
   "schema": {
     "visual": {
       "type": "registry",

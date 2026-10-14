@@ -1,6 +1,7 @@
 {
   "name": "poi",
   "platform": "server",
+  "icon": "map-pin",
   "schema": {
     "coordinate": "coordinate"
   }

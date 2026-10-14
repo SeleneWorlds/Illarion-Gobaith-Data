@@ -1,6 +1,7 @@
 {
   "name": "ltes",
   "platform": "server",
+  "icon": "hourglass",
   "schema": {
     "enabled": "enabled",
     "name": "string",

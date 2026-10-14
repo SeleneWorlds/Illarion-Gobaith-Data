@@ -1,6 +1,7 @@
 {
   "name": "skills",
   "platform": "server",
+  "icon": "graduation-cap",
   "schema": {
     "group": {
       "type": "registry",

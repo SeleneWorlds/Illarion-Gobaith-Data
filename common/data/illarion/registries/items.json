@@ -1,6 +1,7 @@
 {
   "name": "items",
   "platform": "server",
+  "icon": "package",
   "schema": {
     "volume": "integer",
     "weight": "integer",

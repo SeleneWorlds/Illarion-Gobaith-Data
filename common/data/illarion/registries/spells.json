@@ -1,6 +1,7 @@
 {
   "name": "spells",
   "platform": "server",
+  "icon": "sparkles",
   "schema": {
     "magicType": "integer",
     "runes": "integer",

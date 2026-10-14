@@ -1,6 +1,7 @@
 {
   "name": "starter_packs",
   "platform": "server",
+  "icon": "backpack",
   "schema": {
     "skills": {
       "type": "map",

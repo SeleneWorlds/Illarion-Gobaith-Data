@@ -1,5 +1,6 @@
 {
   "name": "skill_groups",
   "platform": "server",
+  "icon": "library",
   "schema": {}
 }

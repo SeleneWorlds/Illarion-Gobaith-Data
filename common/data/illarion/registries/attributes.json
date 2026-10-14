@@ -1,6 +1,7 @@
 {
   "name": "attributes",
   "platform": "server",
+  "icon": "sliders-horizontal",
   "schema": {
     "id": "string",
     "name": "string"

@@ -1,5 +1,6 @@
 {
   "name": "treasure_levels",
   "platform": "server",
+  "icon": "gem",
   "schema": {}
 }

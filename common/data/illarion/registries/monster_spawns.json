@@ -1,6 +1,7 @@
 {
   "name": "monster_spawns",
   "platform": "server",
+  "icon": "paw-print",
   "schema": {
     "enabled": "enabled",
     "coordinate": "coordinate",

@@ -1,6 +1,7 @@
 {
   "name": "scheduled_scripts",
   "platform": "server",
+  "icon": "calendar-clock",
   "schema": {
     "enabled": "enabled",
     "script": "script",

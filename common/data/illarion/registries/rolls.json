@@ -1,6 +1,7 @@
 {
   "name": "rolls",
   "platform": "server",
+  "icon": "dices",
   "schema": {
     "definition": "moonlight:rolls"
   }
