@@ -144,6 +144,7 @@
             "type": "item",
             "weight": 0.2,
             "data": {
+              "item": "illarion:item_2291",
               "count": {
                 "min": 1,
                 "max": 1
@@ -155,14 +156,14 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_2441"
+              }
             }
           },
           {
             "type": "item",
             "weight": 0.1,
             "data": {
+              "item": "illarion:item_2194",
               "count": {
                 "min": 1,
                 "max": 1
@@ -174,14 +175,14 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_2194"
+              }
             }
           },
           {
             "type": "item",
             "weight": 0.01,
             "data": {
+              "item": "illarion:item_2365",
               "count": {
                 "min": 1,
                 "max": 1
@@ -193,14 +194,14 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_2365"
+              }
             }
           },
           {
             "type": "item",
             "weight": 0.01,
             "data": {
+              "item": "illarion:item_2360",
               "count": {
                 "min": 1,
                 "max": 1
@@ -212,14 +213,14 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_2360"
+              }
             }
           },
           {
             "type": "item",
             "weight": 0.01,
             "data": {
+              "item": "illarion:item_19",
               "count": {
                 "min": 1,
                 "max": 1
@@ -231,8 +232,7 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_19"
+              }
             }
           },
           {
@@ -249,6 +249,7 @@
             "type": "item",
             "weight": 0.2,
             "data": {
+              "item": "illarion:item_81",
               "count": {
                 "min": 1,
                 "max": 1
@@ -260,14 +261,14 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_81"
+              }
             }
           },
           {
             "type": "item",
             "weight": 0.1,
             "data": {
+              "item": "illarion:item_302",
               "count": {
                 "min": 1,
                 "max": 1
@@ -279,14 +280,14 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_302"
+              }
             }
           },
           {
             "type": "item",
             "weight": 0.01,
             "data": {
+              "item": "illarion:item_80",
               "count": {
                 "min": 1,
                 "max": 1
@@ -298,14 +299,14 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_80"
+              }
             }
           },
           {
             "type": "item",
             "weight": 0.01,
             "data": {
+              "item": "illarion:item_151",
               "count": {
                 "min": 1,
                 "max": 1
@@ -317,14 +318,14 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_151"
+              }
             }
           },
           {
             "type": "item",
             "weight": 0.01,
             "data": {
+              "item": "illarion:item_15",
               "count": {
                 "min": 1,
                 "max": 1
@@ -336,8 +337,7 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item/apple"
+              }
             }
           },
           {
@@ -354,6 +354,7 @@
             "type": "item",
             "weight": 0.2,
             "data": {
+              "item": "illarion:item_1",
               "count": {
                 "min": 1,
                 "max": 1
@@ -365,14 +366,14 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_1"
+              }
             }
           },
           {
             "type": "item",
             "weight": 0.1,
             "data": {
+              "item": "illarion:item_25",
               "count": {
                 "min": 1,
                 "max": 1
@@ -384,14 +385,14 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_25"
+              }
             }
           },
           {
             "type": "item",
             "weight": 0.01,
             "data": {
+              "item": "illarion:item_2757",
               "count": {
                 "min": 1,
                 "max": 1
@@ -403,14 +404,14 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_2757"
+              }
             }
           },
           {
             "type": "item",
             "weight": 0.01,
             "data": {
+              "item": "illarion:item_2658",
               "count": {
                 "min": 1,
                 "max": 1
@@ -422,14 +423,14 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_2658"
+              }
             }
           },
           {
             "type": "item",
             "weight": 0.01,
             "data": {
+              "item": "illarion:item_78",
               "count": {
                 "min": 1,
                 "max": 1
@@ -441,8 +442,7 @@
               "durability": {
                 "min": 44,
                 "max": 55
-              },
-              "item": "illarion:item_78"
+              }
             }
           },
           {
@@ -457,11 +457,12 @@
         "entries": [
           {
             "type": "item",
-            "weight": 1,
+            "weight": 1.0,
             "data": {
+              "item": "illarion:item_3076",
               "count": {
-                "min": 60,
-                "max": 180
+                "min": 6,
+                "max": 18
               },
               "quality": {
                 "min": 3,
@@ -470,38 +471,8 @@
               "durability": {
                 "min": 33,
                 "max": 33
-              },
-              "item": "illarion:item_3076"
+              }
             }
-          }
-        ]
-      },
-      {
-        "name": "5",
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "item",
-            "weight": 0.01,
-            "data": {
-              "count": {
-                "min": 1,
-                "max": 1
-              },
-              "quality": {
-                "min": 9,
-                "max": 9
-              },
-              "durability": {
-                "min": 99,
-                "max": 99
-              },
-              "item": "illarion:item_310"
-            }
-          },
-          {
-            "type": "nothing",
-            "weight": 0.99
           }
         ]
       }

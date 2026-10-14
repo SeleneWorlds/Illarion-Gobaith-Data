@@ -114,7 +114,348 @@
     }
   },
   "drops": {
-    "pools": []
+    "pools": [
+      {
+        "name": "1",
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.2,
+            "data": {
+              "item": "illarion:item_2363",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "item": "illarion:item_326",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "item": "illarion:item_2393",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "item": "illarion:item_185",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "item": "illarion:item_2111",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 0.67
+          }
+        ]
+      },
+      {
+        "name": "2",
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.2,
+            "data": {
+              "item": "illarion:item_281",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "item": "illarion:item_279",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "item": "illarion:item_2647",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "item": "illarion:item_1840",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "item": "illarion:item_45",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 0.67
+          }
+        ]
+      },
+      {
+        "name": "3",
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.2,
+            "data": {
+              "item": "illarion:item_2731",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "item": "illarion:item_204",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "item": "illarion:item_2640",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "item": "illarion:item_383",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "item": "illarion:item_205",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 6,
+                "max": 7
+              },
+              "durability": {
+                "min": 66,
+                "max": 77
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 0.67
+          }
+        ]
+      },
+      {
+        "name": "4",
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1.0,
+            "data": {
+              "item": "illarion:item_3077",
+              "count": {
+                "min": 1,
+                "max": 3
+              },
+              "quality": {
+                "min": 3,
+                "max": 3
+              },
+              "durability": {
+                "min": 33,
+                "max": 33
+              }
+            }
+          }
+        ]
+      }
+    ]
   },
   "script": "monster.mon_17_demonskeletons",
   "metadata": {
