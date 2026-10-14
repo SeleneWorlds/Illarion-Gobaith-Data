@@ -99,7 +99,9 @@
       }
     }
   },
-  "drops": {},
+  "drops": {
+    "pools": []
+  },
   "script": "monster.mon_24_ogres",
   "metadata": {
     "id": 246,

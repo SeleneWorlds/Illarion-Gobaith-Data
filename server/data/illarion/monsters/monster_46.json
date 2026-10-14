@@ -99,7 +99,9 @@
       }
     }
   },
-  "drops": {},
+  "drops": {
+    "pools": []
+  },
   "script": "monster.mon_4_orcs",
   "metadata": {
     "id": 46,

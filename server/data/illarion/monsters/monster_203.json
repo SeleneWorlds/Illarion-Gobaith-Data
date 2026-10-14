@@ -113,7 +113,9 @@
       }
     }
   },
-  "drops": {},
+  "drops": {
+    "pools": []
+  },
   "script": "monster.mon_20_demons",
   "metadata": {
     "id": 203,

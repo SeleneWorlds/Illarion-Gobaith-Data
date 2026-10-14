@@ -106,7 +106,9 @@
       }
     }
   },
-  "drops": {},
+  "drops": {
+    "pools": []
+  },
   "script": "monster.mon_27_maledrows",
   "metadata": {
     "id": 276,

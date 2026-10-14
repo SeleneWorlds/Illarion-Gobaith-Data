@@ -113,7 +113,9 @@
       }
     }
   },
-  "drops": {},
+  "drops": {
+    "pools": []
+  },
   "script": "monster.mon_50_elementary",
   "metadata": {
     "id": 506,

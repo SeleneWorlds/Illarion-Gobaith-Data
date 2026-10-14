@@ -74,34 +74,7 @@
         }
       }
     },
-    "drops": {
-      "type": "map",
-      "optional": true,
-      "keyType": "integer",
-      "valueType": {
-        "type": "map",
-        "keyType": "integer",
-        "valueType": {
-          "type": "object",
-          "properties": {
-            "item": {
-              "type": "registry",
-              "registry": "illarion:items"
-            },
-            "chance": { "type": "number", "min": 0, "max": 1 },
-            "count": { "type": "range", "min": 1 },
-            "quality": "range",
-            "durability": "range",
-            "data": {
-              "type": "map",
-              "optional": true,
-              "keyType": "string",
-              "valueType": "any"
-            }
-          }
-        }
-      }
-    },
+    "drops": { "type": "moonlight:rolls", "optional": true },
     "script": {
       "type": "script",
       "optional": true

@@ -113,7 +113,9 @@
       }
     }
   },
-  "drops": {},
+  "drops": {
+    "pools": []
+  },
   "metadata": {
     "id": 344,
     "name": "Swamp Crawler"

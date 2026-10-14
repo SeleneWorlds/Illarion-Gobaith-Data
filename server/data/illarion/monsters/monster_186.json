@@ -113,7 +113,9 @@
       }
     }
   },
-  "drops": {},
+  "drops": {
+    "pools": []
+  },
   "script": "monster.mon_18_rotworms",
   "metadata": {
     "id": 186,

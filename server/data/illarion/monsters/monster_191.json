@@ -100,270 +100,348 @@
     }
   },
   "drops": {
-    "1": {
-      "330": {
-        "chance": 0.2,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_324"
+    "pools": [
+      {
+        "name": "1",
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.2,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_324"
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_2295"
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_2367"
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_2445"
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_101"
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 0.67
+          }
+        ]
       },
-      "331": {
-        "chance": 0.1,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_2295"
+      {
+        "name": "2",
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.2,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_391"
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_252"
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_2746"
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_223"
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_283"
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 0.67
+          }
+        ]
       },
-      "332": {
-        "chance": 0.01,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_2367"
+      {
+        "name": "3",
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.2,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_2664"
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_230"
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_231"
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_2737"
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.01,
+            "data": {
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "quality": {
+                "min": 2,
+                "max": 3
+              },
+              "durability": {
+                "min": 22,
+                "max": 33
+              },
+              "item": "illarion:item_23"
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 0.67
+          }
+        ]
       },
-      "333": {
-        "chance": 0.01,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_2445"
-      },
-      "334": {
-        "chance": 0.01,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_101"
+      {
+        "name": "4",
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "count": {
+                "min": 20,
+                "max": 60
+              },
+              "quality": {
+                "min": 3,
+                "max": 3
+              },
+              "durability": {
+                "min": 33,
+                "max": 33
+              },
+              "item": "illarion:item_3076"
+            }
+          }
+        ]
       }
-    },
-    "2": {
-      "335": {
-        "chance": 0.2,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_391"
-      },
-      "336": {
-        "chance": 0.1,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_252"
-      },
-      "337": {
-        "chance": 0.01,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_2746"
-      },
-      "338": {
-        "chance": 0.01,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_223"
-      },
-      "339": {
-        "chance": 0.01,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_283"
-      }
-    },
-    "3": {
-      "340": {
-        "chance": 0.2,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_2664"
-      },
-      "341": {
-        "chance": 0.1,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_230"
-      },
-      "342": {
-        "chance": 0.01,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_231"
-      },
-      "343": {
-        "chance": 0.01,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_2737"
-      },
-      "344": {
-        "chance": 0.01,
-        "count": {
-          "min": 1,
-          "max": 1
-        },
-        "quality": {
-          "min": 2,
-          "max": 3
-        },
-        "durability": {
-          "min": 22,
-          "max": 33
-        },
-        "item": "illarion:item_23"
-      }
-    },
-    "4": {
-      "345": {
-        "chance": 1,
-        "count": {
-          "min": 20,
-          "max": 60
-        },
-        "quality": {
-          "min": 3,
-          "max": 3
-        },
-        "durability": {
-          "min": 33,
-          "max": 33
-        },
-        "item": "illarion:item_3076"
-      }
-    }
+    ]
   },
   "script": "monster.mon_19_lesserdemons",
   "metadata": {

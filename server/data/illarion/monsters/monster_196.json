@@ -113,7 +113,9 @@
       }
     }
   },
-  "drops": {},
+  "drops": {
+    "pools": []
+  },
   "script": "monster.mon_19_lesserdemons",
   "metadata": {
     "id": 196,

@@ -106,7 +106,9 @@
       }
     }
   },
-  "drops": {},
+  "drops": {
+    "pools": []
+  },
   "script": "monster.mon_28_femaledrows",
   "metadata": {
     "id": 289,

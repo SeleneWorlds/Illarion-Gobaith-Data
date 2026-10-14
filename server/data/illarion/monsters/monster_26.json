@@ -106,7 +106,9 @@
       }
     }
   },
-  "drops": {},
+  "drops": {
+    "pools": []
+  },
   "script": "monster.mon_2_halflings",
   "metadata": {
     "id": 26,
