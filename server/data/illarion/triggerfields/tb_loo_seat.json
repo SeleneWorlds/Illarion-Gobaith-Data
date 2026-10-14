@@ -23,5 +23,8 @@
             "y": -69,
             "z": 0
         }
+    },
+    "metadata": {
+        "scenario": "moonlight:tb_loo"
     }
 }
