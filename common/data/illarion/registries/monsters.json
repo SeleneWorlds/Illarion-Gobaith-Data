@@ -74,7 +74,26 @@
         }
       }
     },
-    "drops": { "type": "moonlight:rolls", "optional": true },
+    "drops": {
+      "type": "moonlight:rolls",
+      "optional": true,
+      "parameters": {
+        "entryTypes": {
+          "nothing": { "type": "object", "properties": {} },
+          "item": {
+            "type": "object",
+            "properties": {
+              "item": { "type": "registry", "registry": "illarion:items" },
+              "count": { "type": "range", "min": 1, "max": 250 },
+              "quality": { "type": "range", "min": 1, "max": 9 },
+              "durability": { "type": "range", "min": 0, "max": 99 },
+              "data": { "type": "map", "keyType": "string", "valueType": "string", "optional": true }
+            }
+          }
+        },
+        "conditionTypes": {}
+      }
+    },
     "script": {
       "type": "script",
       "optional": true
