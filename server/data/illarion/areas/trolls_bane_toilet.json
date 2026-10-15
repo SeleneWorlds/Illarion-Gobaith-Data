@@ -15,6 +15,45 @@
         ],
         "exclude": []
     },
+    "behaviors": [
+        {
+            "event": "logout",
+            "actions": [
+                {
+                    "type": "unlock_door",
+                    "data": {
+                        "position": {
+                            "x": -74,
+                            "y": -68,
+                            "z": 0
+                        }
+                    }
+                },
+                {
+                    "type": "open_door",
+                    "data": {
+                        "position": {
+                            "x": -74,
+                            "y": -68,
+                            "z": 0
+                        }
+                    }
+                },
+                {
+                    "type": "swap_item",
+                    "data": {
+                        "position": {
+                            "x": -72,
+                            "y": -69,
+                            "z": 0
+                        },
+                        "oldItem": "illarion:item_52",
+                        "item": "illarion:item_51"
+                    }
+                }
+            ]
+        }
+    ],
     "metadata": {
         "source": "server.logout",
         "scenario": "moonlight:tb_loo"

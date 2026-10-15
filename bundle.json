@@ -5,6 +5,7 @@
     "server/lua/item_definitions.lua"
   ],
   "dependencies": [
-    "moonlight-rolls"
+    "moonlight-rolls",
+    "moonlight-behaviors"
   ]
 }
