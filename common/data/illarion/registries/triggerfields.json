@@ -5,10 +5,19 @@
   "schema": {
     "enabled": "enabled",
     "coordinate": "coordinate",
-    "script": "script",
+    "script": {
+      "type": "script",
+      "optional": true
+    },
+    "behaviors": {
+      "type": "array",
+      "optional": true,
+      "valueType": "moonlight:behaviors"
+    },
     "data": {
       "type": "scripted_schema_lookup",
-      "property": "script"
+      "property": "script",
+      "optional": true
     }
   }
 }

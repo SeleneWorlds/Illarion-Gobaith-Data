@@ -7,31 +7,68 @@
             "path": "/positions/ladder"
         }
     },
-    "script": "triggerfield.loo_ladder",
-    "data": {
-        "target": {
-            "$ref": {
-                "registry": "moonlight:scenarios",
-                "entry": "moonlight:tb_loo",
-                "path": "/positions/seat"
-            }
-        },
-        "bucket": {
-            "$ref": {
-                "registry": "moonlight:scenarios",
-                "entry": "moonlight:tb_loo",
-                "path": "/positions/bucket"
-            }
-        },
-        "door": {
-            "$ref": {
-                "registry": "moonlight:scenarios",
-                "entry": "moonlight:tb_loo",
-                "path": "/positions/door"
-            }
-        }
-    },
     "metadata": {
         "scenario": "moonlight:tb_loo"
-    }
+    },
+    "behaviors": [
+        {
+            "event": "move_to_field",
+            "conditions": [
+                {
+                    "type": "is_item_at",
+                    "data": {
+                        "position": {
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/bucket"
+                            }
+                        },
+                        "item": "illarion:item_51"
+                    }
+                }
+            ],
+            "actions": [
+                {
+                    "type": "warp",
+                    "data": {
+                        "position": {
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/seat"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "event": "move_to_field",
+            "conditions": [
+                {
+                    "type": "is_item_at",
+                    "data": {
+                        "position": {
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/bucket"
+                            }
+                        },
+                        "item": "illarion:item_52"
+                    }
+                }
+            ],
+            "actions": [
+                {
+                    "type": "inform",
+                    "data": {
+                        "message": "Der Ort, zu dem diese Leiter reicht, scheint besetzt zu sein.",
+                        "messageEnglish": "The place where this ladder leads to seems to be occupied."
+                    }
+                }
+            ]
+        }
+    ]
 }

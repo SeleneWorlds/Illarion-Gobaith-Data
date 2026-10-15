@@ -7,32 +7,98 @@
             "path": "/positions/seat"
         }
     },
-    "script": "triggerfield.loo_seat",
-    "data": {
-        "password": "hokuslokus",
-        "door": {
-            "$ref": {
-                "registry": "moonlight:scenarios",
-                "entry": "moonlight:tb_loo",
-                "path": "/positions/door"
-            }
-        },
-        "target": {
-            "$ref": {
-                "registry": "moonlight:scenarios",
-                "entry": "moonlight:tb_loo",
-                "path": "/positions/downstairs"
-            }
-        },
-        "bucket": {
-            "$ref": {
-                "registry": "moonlight:scenarios",
-                "entry": "moonlight:tb_loo",
-                "path": "/positions/bucket"
-            }
-        }
-    },
     "metadata": {
         "scenario": "moonlight:tb_loo"
-    }
+    },
+    "behaviors": [
+        {
+            "event": "character_on_field",
+            "conditions": [
+                {
+                    "type": "last_spoken_contains",
+                    "data": {
+                        "phrase": "hokuslokus",
+                        "ignoreCase": true
+                    }
+                },
+                {
+                    "type": "is_item_at",
+                    "data": {
+                        "position": {
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/bucket"
+                            }
+                        },
+                        "item": "illarion:item_52"
+                    }
+                },
+                {
+                    "type": "is_door_closed",
+                    "data": {
+                        "position": {
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/door"
+                            }
+                        }
+                    }
+                }
+            ],
+            "actions": [
+                {
+                    "type": "unlock_door",
+                    "data": {
+                        "position": {
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/door"
+                            }
+                        }
+                    }
+                },
+                {
+                    "type": "open_door",
+                    "data": {
+                        "position": {
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/door"
+                            }
+                        }
+                    }
+                },
+                {
+                    "type": "swap_item",
+                    "data": {
+                        "position": {
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/bucket"
+                            }
+                        },
+                        "oldItem": "illarion:item_52",
+                        "item": "illarion:item_51"
+                    }
+                },
+                {
+                    "type": "warp",
+                    "data": {
+                        "position": {
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/downstairs"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ]
 }
