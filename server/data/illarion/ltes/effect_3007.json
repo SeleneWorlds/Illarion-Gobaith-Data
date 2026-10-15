@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "spookey",
-  "script": "lte.spookey",
-  "metadata": {
-    "id": 3007,
-    "name": "spookey"
-  }
-}
