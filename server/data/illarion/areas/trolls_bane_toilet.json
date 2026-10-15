@@ -1,7 +1,7 @@
 {
     "enabled": true,
     "name": "Troll’s Bane Toilet",
-    "description": "The toilet in Troll's Bane where logout triggers door and bucket cleanup.",
+    "description": "The toilet in Troll's Bane with door and bucket behaviors for logout and bucket use.",
     "area": {
         "$ref": {
             "registry": "moonlight:scenarios",
@@ -52,10 +52,66 @@
                     }
                 }
             ]
+        },
+        {
+            "event": "use_item",
+            "conditions": [
+                {
+                    "type": "is_at",
+                    "data": {
+                        "subject": "item",
+                        "position": {
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/bucket"
+                            }
+                        }
+                    }
+                },
+                {
+                    "type": "is_item_at",
+                    "data": {
+                        "position": {
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/bucket"
+                            }
+                        },
+                        "item": "illarion:item_52"
+                    }
+                }
+            ],
+            "actions": [
+                {
+                    "type": "unlock_door",
+                    "data": {
+                        "position": {
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/door"
+                            }
+                        }
+                    }
+                },
+                {
+                    "type": "open_door",
+                    "data": {
+                        "position": {
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/door"
+                            }
+                        }
+                    }
+                }
+            ]
         }
     ],
     "metadata": {
-        "source": "server.logout",
         "scenario": "moonlight:tb_loo"
     }
 }
