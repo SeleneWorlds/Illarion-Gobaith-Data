@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "name": "godot",
-  "script": "lte.godot",
-  "metadata": {
-    "id": 3002,
-    "name": "godot"
-  }
-}
