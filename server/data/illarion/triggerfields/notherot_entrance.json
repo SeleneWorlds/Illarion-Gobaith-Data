@@ -1,0 +1,45 @@
+{
+    "enabled": true,
+    "coordinate": {
+        "x": 244,
+        "y": -362,
+        "z": -6
+    },
+    "behaviors": [
+        {
+            "event": "character_on_field",
+            "conditions": [
+                {
+                    "type": "not",
+                    "data": {
+                        "type": "has_item_equipped_at",
+                        "data": {
+                            "item": "illarion:item_283",
+                            "data": 6666,
+                            "slot": 6
+                        }
+                    }
+                }
+            ],
+            "actions": [
+                {
+                    "type": "warp",
+                    "data": {
+                        "position": {
+                            "x": 252,
+                            "y": -362,
+                            "z": -6
+                        }
+                    }
+                },
+                {
+                    "type": "inform",
+                    "data": {
+                        "message": "Eine unsichtbare Kraft wirft dich zurück!",
+                        "messageEnglish": "An invisible force throws you backwards!"
+                    }
+                }
+            ]
+        }
+    ]
+}
