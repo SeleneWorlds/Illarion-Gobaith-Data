@@ -3,17 +3,11 @@
     "name": "Troll’s Bane Toilet",
     "description": "The toilet in Troll's Bane where logout triggers door and bucket cleanup.",
     "area": {
-        "include": [
-            {
-                "type": "rectangle",
-                "x": -73,
-                "y": -68,
-                "z": 0,
-                "width": 2,
-                "height": 2
-            }
-        ],
-        "exclude": []
+        "$ref": {
+            "registry": "moonlight:scenarios",
+            "entry": "moonlight:tb_loo",
+            "path": "/areas/room"
+        }
     },
     "behaviors": [
         {
@@ -23,9 +17,11 @@
                     "type": "unlock_door",
                     "data": {
                         "position": {
-                            "x": -74,
-                            "y": -68,
-                            "z": 0
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/door"
+                            }
                         }
                     }
                 },
@@ -33,9 +29,11 @@
                     "type": "open_door",
                     "data": {
                         "position": {
-                            "x": -74,
-                            "y": -68,
-                            "z": 0
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/door"
+                            }
                         }
                     }
                 },
@@ -43,9 +41,11 @@
                     "type": "swap_item",
                     "data": {
                         "position": {
-                            "x": -72,
-                            "y": -69,
-                            "z": 0
+                            "$ref": {
+                                "registry": "moonlight:scenarios",
+                                "entry": "moonlight:tb_loo",
+                                "path": "/positions/bucket"
+                            }
                         },
                         "oldItem": "illarion:item_52",
                         "item": "illarion:item_51"

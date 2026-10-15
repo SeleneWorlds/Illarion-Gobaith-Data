@@ -1,4 +1,51 @@
 {
     "name": "Troll's Bane Toilet",
-    "enabled": true
+    "enabled": true,
+    "positions": {
+        "door": {
+            "x": -74,
+            "y": -68,
+            "z": 0
+        },
+        "bucket": {
+            "x": -72,
+            "y": -69,
+            "z": 0
+        },
+        "entrance": {
+            "x": -73,
+            "y": -68,
+            "z": 0
+        },
+        "seat": {
+            "x": -72,
+            "y": -67,
+            "z": 0
+        },
+        "ladder": {
+            "x": -72,
+            "y": -67,
+            "z": -3
+        },
+        "downstairs": {
+            "x": -71,
+            "y": -67,
+            "z": -3
+        }
+    },
+    "areas": {
+        "room": {
+            "include": [
+                {
+                    "type": "rectangle",
+                    "x": -73,
+                    "y": -68,
+                    "z": 0,
+                    "width": 2,
+                    "height": 2
+                }
+            ],
+            "exclude": []
+        }
+    }
 }

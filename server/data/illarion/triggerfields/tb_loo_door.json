@@ -1,21 +1,27 @@
 {
     "enabled": true,
     "coordinate": {
-        "x": -73,
-        "y": -68,
-        "z": 0
+        "$ref": {
+            "registry": "moonlight:scenarios",
+            "entry": "moonlight:tb_loo",
+            "path": "/positions/entrance"
+        }
     },
     "script": "triggerfield.loo_door",
     "data": {
         "bucket": {
-            "x": -72,
-            "y": -69,
-            "z": 0
+            "$ref": {
+                "registry": "moonlight:scenarios",
+                "entry": "moonlight:tb_loo",
+                "path": "/positions/bucket"
+            }
         },
         "door": {
-            "x": -74,
-            "y": -68,
-            "z": 0
+            "$ref": {
+                "registry": "moonlight:scenarios",
+                "entry": "moonlight:tb_loo",
+                "path": "/positions/door"
+            }
         }
     },
     "metadata": {
