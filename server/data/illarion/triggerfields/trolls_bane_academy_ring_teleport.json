@@ -1,0 +1,178 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -89,
+    "y": -123,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "use_item",
+      "conditions": [
+        {
+          "type": "is_at",
+          "data": {
+            "position": {
+              "x": -89,
+              "y": -123,
+              "z": 0
+            }
+          }
+        },
+        {
+          "type": "is_item",
+          "data": {
+            "item": "illarion:item_235",
+            "data": 666
+          }
+        },
+        {
+          "type": "any",
+          "data": [
+            {
+              "type": "has_item_equipped_at",
+              "data": {
+                "slot": 7,
+                "item": "illarion:item_235",
+                "data": 666
+              }
+            },
+            {
+              "type": "has_item_equipped_at",
+              "data": {
+                "slot": 8,
+                "item": "illarion:item_235",
+                "data": 666
+              }
+            }
+          ]
+        },
+        {
+          "type": "is_active_language",
+          "data": {
+            "language": 10
+          }
+        },
+        {
+          "type": "last_spoken_contains",
+          "data": {
+            "phrase": "honigkuchenpferd",
+            "ignoreCase": true
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "branch",
+          "data": {
+            "conditions": [
+              {
+                "type": "attribute_sum_above",
+                "data": {
+                  "attributes": [
+                    "sex"
+                  ],
+                  "threshold": 0
+                }
+              }
+            ],
+            "thenActions": [
+              {
+                "type": "talk",
+                "data": {
+                  "message": "#me dreht den schmalen Goldring an ihrem Finger.",
+                  "messageEnglish": "#me spins the small gold ring on her finger."
+                }
+              }
+            ],
+            "elseActions": [
+              {
+                "type": "talk",
+                "data": {
+                  "message": "#me dreht den schmalen Goldring an seinem Finger.",
+                  "messageEnglish": "#me spins the small gold ring on his finger."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "play_gfx",
+          "data": {
+            "gfxId": 31,
+            "position": {
+              "x": -88,
+              "y": -123,
+              "z": 0
+            }
+          }
+        },
+        {
+          "type": "play_gfx",
+          "data": {
+            "gfxId": 31,
+            "position": {
+              "x": -90,
+              "y": -123,
+              "z": 0
+            }
+          }
+        },
+        {
+          "type": "play_gfx",
+          "data": {
+            "gfxId": 41,
+            "position": {
+              "x": -89,
+              "y": -123,
+              "z": 0
+            }
+          }
+        },
+        {
+          "type": "warp",
+          "data": {
+            "position": {
+              "x": 35,
+              "y": 26,
+              "z": 50
+            }
+          }
+        },
+        {
+          "type": "play_gfx",
+          "data": {
+            "gfxId": 31,
+            "position": {
+              "x": 34,
+              "y": 26,
+              "z": 50
+            }
+          }
+        },
+        {
+          "type": "play_gfx",
+          "data": {
+            "gfxId": 31,
+            "position": {
+              "x": 36,
+              "y": 26,
+              "z": 50
+            }
+          }
+        },
+        {
+          "type": "play_gfx",
+          "data": {
+            "gfxId": 41,
+            "position": {
+              "x": 35,
+              "y": 26,
+              "z": 50
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
