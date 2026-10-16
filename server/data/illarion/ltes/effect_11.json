@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "name": "shadow_cloack_effect",
-  "script": "lte.shadow_cloack_effect",
+  "name": "the_one_ring",
+  "script": "lte.the_one_ring",
   "metadata": {
     "id": 11,
-    "name": "shadow_cloack_effect"
+    "name": "the_one_ring"
   }
 }
