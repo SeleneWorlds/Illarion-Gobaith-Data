@@ -1,0 +1,83 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 33,
+    "y": 185,
+    "z": -12
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "*click*"
+          }
+        },
+        {
+          "type": "destroy_item_at",
+          "data": {
+            "item": "illarion:item_287",
+            "position": {
+              "x": 28,
+              "y": 190,
+              "z": -12
+            },
+            "amount": 1
+          },
+          "conditions": [
+            {
+              "type": "is_character_at",
+              "data": {
+                "position": {
+                  "x": 33,
+                  "y": 195,
+                  "z": -12
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "event": "move_from_field",
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "*clack*"
+          }
+        },
+        {
+          "type": "create_item_at",
+          "data": {
+            "position": {
+              "x": 28,
+              "y": 190,
+              "z": -12
+            },
+            "item": "illarion:item_287"
+          },
+          "conditions": [
+            {
+              "type": "not",
+              "data": {
+                "type": "is_item_at",
+                "data": {
+                  "item": "illarion:item_287",
+                  "position": {
+                    "x": 28,
+                    "y": 190,
+                    "z": -12
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -29,
+    "y": 193,
+    "z": -8
+  },
+  "behaviors": [
+    {
+      "event": "move_from_field",
+      "conditions": [
+        {
+          "type": "is_item_at",
+          "data": {
+            "item": "illarion:item_35",
+            "position": {
+              "x": -32,
+              "y": 193,
+              "z": -8
+            }
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "Als du dich entfernst ist die Leiter verschwunden...",
+            "messageEnglish": "As you turn away, the ladder has vanished..."
+          }
+        },
+        {
+          "type": "destroy_item_at",
+          "data": {
+            "item": "illarion:item_35",
+            "position": {
+              "x": -32,
+              "y": 193,
+              "z": -8
+            },
+            "amount": 1
+          }
+        }
+      ]
+    },
+    {
+      "event": "character_on_field",
+      "conditions": [
+        {
+          "type": "is_item_at",
+          "data": {
+            "item": "illarion:item_35",
+            "position": {
+              "x": -32,
+              "y": 193,
+              "z": -8
+            }
+          }
+        },
+        {
+          "type": "not",
+          "data": {
+            "type": "is_facing",
+            "data": {
+              "direction": "east"
+            }
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "Als du dich wegdrehst ist die Leiter verschwunden...",
+            "messageEnglish": "As you turn away, the ladder has vanished..."
+          }
+        },
+        {
+          "type": "destroy_item_at",
+          "data": {
+            "item": "illarion:item_35",
+            "position": {
+              "x": -32,
+              "y": 193,
+              "z": -8
+            },
+            "amount": 1
+          }
+        }
+      ]
+    }
+  ]
+}

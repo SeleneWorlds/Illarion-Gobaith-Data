@@ -1,0 +1,156 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 28,
+    "y": 190,
+    "z": -12
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "not",
+          "data": {
+            "type": "any",
+            "data": [
+              {
+                "type": "all",
+                "data": [
+                  {
+                    "type": "has_item_equipped_at",
+                    "data": {
+                      "slot": 5,
+                      "item": "illarion:item_2496",
+                      "data": 1
+                    }
+                  },
+                  {
+                    "type": "has_item_equipped_at",
+                    "data": {
+                      "slot": 6,
+                      "item": "illarion:item_2496",
+                      "data": 2
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "all",
+                "data": [
+                  {
+                    "type": "has_item_equipped_at",
+                    "data": {
+                      "slot": 5,
+                      "item": "illarion:item_2496",
+                      "data": 2
+                    }
+                  },
+                  {
+                    "type": "has_item_equipped_at",
+                    "data": {
+                      "slot": 6,
+                      "item": "illarion:item_2496",
+                      "data": 1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "Eine unsichtbare Wand hält dich zurück.",
+            "messageEnglish": "An invisible wall holds you back."
+          }
+        },
+        {
+          "type": "warp",
+          "data": {
+            "position": {
+              "x": 27,
+              "y": 190,
+              "z": -12
+            }
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "any",
+          "data": [
+            {
+              "type": "all",
+              "data": [
+                {
+                  "type": "has_item_equipped_at",
+                  "data": {
+                    "slot": 5,
+                    "item": "illarion:item_2496",
+                    "data": 1
+                  }
+                },
+                {
+                  "type": "has_item_equipped_at",
+                  "data": {
+                    "slot": 6,
+                    "item": "illarion:item_2496",
+                    "data": 2
+                  }
+                }
+              ]
+            },
+            {
+              "type": "all",
+              "data": [
+                {
+                  "type": "has_item_equipped_at",
+                  "data": {
+                    "slot": 5,
+                    "item": "illarion:item_2496",
+                    "data": 2
+                  }
+                },
+                {
+                  "type": "has_item_equipped_at",
+                  "data": {
+                    "slot": 6,
+                    "item": "illarion:item_2496",
+                    "data": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": "swap_item_in_slot",
+          "data": {
+            "slot": 6,
+            "oldItem": "illarion:item_2496",
+            "item": "illarion:item_2498",
+            "data": 0
+          }
+        },
+        {
+          "type": "swap_item_in_slot",
+          "data": {
+            "slot": 5,
+            "oldItem": "illarion:item_2496",
+            "item": "illarion:item_2498",
+            "data": 0
+          }
+        }
+      ]
+    }
+  ]
+}

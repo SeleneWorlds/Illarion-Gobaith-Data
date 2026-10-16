@@ -1,0 +1,64 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -37,
+    "y": 195,
+    "z": -9
+  },
+  "behaviors": [
+    {
+      "event": "character_on_field",
+      "conditions": [
+        {
+          "type": "last_spoken_contains",
+          "data": {
+            "phrase": "Lothlendar",
+            "ignoreCase": true
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "unlock_door",
+          "data": {
+            "position": {
+              "x": -35,
+              "y": 195,
+              "z": -9
+            }
+          }
+        },
+        {
+          "type": "unlock_door",
+          "data": {
+            "position": {
+              "x": -35,
+              "y": 196,
+              "z": -9
+            }
+          }
+        },
+        {
+          "type": "open_door",
+          "data": {
+            "position": {
+              "x": -35,
+              "y": 195,
+              "z": -9
+            }
+          }
+        },
+        {
+          "type": "open_door",
+          "data": {
+            "position": {
+              "x": -35,
+              "y": 196,
+              "z": -9
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -29,
+    "y": 195,
+    "z": -9
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_item_at",
+          "data": {
+            "item": "illarion:item_35",
+            "position": {
+              "x": -29,
+              "y": 195,
+              "z": -9
+            }
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "warp",
+          "data": {
+            "position": {
+              "x": -30,
+              "y": 195,
+              "z": -8
+            }
+          }
+        },
+        {
+          "type": "destroy_item_at",
+          "data": {
+            "item": "illarion:item_35",
+            "position": {
+              "x": -29,
+              "y": 195,
+              "z": -9
+            },
+            "amount": 1
+          }
+        }
+      ]
+    }
+  ]
+}

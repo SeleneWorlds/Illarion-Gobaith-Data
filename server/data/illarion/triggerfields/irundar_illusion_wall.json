@@ -1,0 +1,40 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -50,
+    "y": 201,
+    "z": -3
+  },
+  "behaviors": [
+    {
+      "event": "move_from_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "Die solide aussehende Höhlenwand war anscheinend nur eine Illusion und du stolperst in einen stockfinsteren Schacht...",
+            "messageEnglish": "Apparently the solid seeming cave wall was just an illusion and you stumble into a pitch-dark shaft..."
+          }
+        },
+        {
+          "type": "warp",
+          "data": {
+            "position": {
+              "x": -50,
+              "y": 200,
+              "z": -9
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

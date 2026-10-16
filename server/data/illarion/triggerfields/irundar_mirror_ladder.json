@@ -1,0 +1,38 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -32,
+    "y": 193,
+    "z": -8
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_item_at",
+          "data": {
+            "item": "illarion:item_35",
+            "position": {
+              "x": -32,
+              "y": 193,
+              "z": -8
+            }
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "warp",
+          "data": {
+            "position": {
+              "x": -31,
+              "y": 193,
+              "z": -7
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
