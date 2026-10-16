@@ -1,0 +1,63 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 33,
+    "y": 21,
+    "z": 100
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "quest_progress",
+          "data": {
+            "questId": 2,
+            "progress": 4,
+            "operator": "less_than"
+          }
+        },
+        {
+          "type": "not",
+          "data": {
+            "type": "quest_progress",
+            "data": {
+              "questId": 2,
+              "progress": 0,
+              "operator": "equals"
+            }
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "Um etwas zu sprechen, gib den gewünschten Text mit deiner Tastatur ein - dieser erscheint automatisch im Nachrichtenfenster. Um ihn schließlich zu senden, drücke die Taste [Enter].",
+            "messageEnglish": "To say something, write the desired text with your keyboard - it will automatically appear in the message window. To finally send it, press the button [Enter]."
+          },
+          "conditions": [
+            {
+              "type": "not",
+              "data": {
+                "type": "quest_progress",
+                "data": {
+                  "questId": 2,
+                  "progress": 3,
+                  "operator": "equals"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "set_quest_progress",
+          "data": {
+            "questId": 2,
+            "progress": 4
+          }
+        }
+      ]
+    }
+  ]
+}

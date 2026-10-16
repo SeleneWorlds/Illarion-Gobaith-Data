@@ -1,0 +1,39 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 62,
+    "y": 64,
+    "z": 100
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "quest_progress",
+          "data": {
+            "questId": 2,
+            "progress": 48,
+            "operator": "equals"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "Um eine Leiter hinauf- oder hinunterzuklettern, trete einfach auf die Leiter.",
+            "messageEnglish": "To climb up or down a ladder, just step on the ladder."
+          }
+        },
+        {
+          "type": "set_quest_progress",
+          "data": {
+            "questId": 2,
+            "progress": 49
+          }
+        }
+      ]
+    }
+  ]
+}

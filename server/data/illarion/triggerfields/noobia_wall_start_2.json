@@ -1,0 +1,79 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 43,
+    "y": 34,
+    "z": 100
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "quest_progress",
+          "data": {
+            "questId": 2,
+            "progress": 20,
+            "operator": "less_than"
+          }
+        },
+        {
+          "type": "not",
+          "data": {
+            "type": "is_admin"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "warp",
+          "data": {
+            "position": {
+              "x": 46,
+              "y": 32,
+              "z": 100
+            }
+          }
+        },
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Du hast die ersten Lektionen noch nicht absolviert. Gehe den Weg zurück zum Hafen und spreche den Menschen Henry an. Wenn du fertig bist, wird er dich weiterschicken.",
+            "messageEnglish": "#w You haven't passed the first lessons. Go this way back to the harbour and talk to the human Henry. He will send you further if you're done."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "not",
+          "data": {
+            "type": "quest_progress",
+            "data": {
+              "questId": 2,
+              "progress": 20,
+              "operator": "less_than"
+            }
+          }
+        },
+        {
+          "type": "not",
+          "data": {
+            "type": "is_admin"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Siehst du den Gnom dort vorn? Vielleicht solltest du zu ihm gehen und 'Hallo' sagen. Wenn du einem NPC begegnest, dann grüße ihn einfach, um ein Gespräch zu beginnen.",
+            "messageEnglish": "#w Du you see the Gnome over there? Perhaps you should go to him and say 'Hello'. If you meet a NPC just greet him to start a conversation."
+          }
+        }
+      ]
+    }
+  ]
+}

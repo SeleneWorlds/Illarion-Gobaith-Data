@@ -1,0 +1,39 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 61,
+    "y": 55,
+    "z": 101
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "quest_progress",
+          "data": {
+            "questId": 2,
+            "progress": 49,
+            "operator": "equals"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "Um eine Türe zu öffnen oder zu schließen, benutze einfach die Türe.",
+            "messageEnglish": "To open or close a door, just use the door."
+          }
+        },
+        {
+          "type": "set_quest_progress",
+          "data": {
+            "questId": 2,
+            "progress": 50
+          }
+        }
+      ]
+    }
+  ]
+}

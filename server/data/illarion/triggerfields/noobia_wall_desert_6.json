@@ -1,0 +1,48 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 59,
+    "y": 94,
+    "z": 100
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "quest_progress",
+          "data": {
+            "questId": 2,
+            "progress": 48,
+            "operator": "less_than"
+          }
+        },
+        {
+          "type": "not",
+          "data": {
+            "type": "is_admin"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "warp",
+          "data": {
+            "position": {
+              "x": 56,
+              "y": 98,
+              "z": 100
+            }
+          }
+        },
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Du hast die Lektionen von Amelia noch nicht absolviert. Gehe den Weg zurück zu ihr und spreche sie an. Wenn du fertig bist, wird sie dich weiterschicken.",
+            "messageEnglish": "#w You haven't passed the lessons of Amelia. Go this way back and talk to her. She will send you further if you're done."
+          }
+        }
+      ]
+    }
+  ]
+}
