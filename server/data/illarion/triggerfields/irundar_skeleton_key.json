@@ -1,0 +1,31 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -59,
+    "y": 204,
+    "z": -3
+  },
+  "behaviors": [
+    {
+      "event": "use_item",
+      "actions": [
+        {
+          "type": "give_item",
+          "data": {
+            "item": "illarion:item_2121",
+            "count": 1,
+            "quality": 999,
+            "data": 23101982
+          }
+        },
+        {
+          "type": "inform",
+          "data": {
+            "message": "Als du zwischen den Knochen stocherst fällt dir ein großer kupferner Schlüssel auf.",
+            "messageEnglish": "As you rake through the bones a large copper key attracts your attention."
+          }
+        }
+      ]
+    }
+  ]
+}

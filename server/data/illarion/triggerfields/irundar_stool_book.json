@@ -1,0 +1,31 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -28,
+    "y": 158,
+    "z": -8
+  },
+  "behaviors": [
+    {
+      "event": "use_item",
+      "actions": [
+        {
+          "type": "give_item",
+          "data": {
+            "item": "illarion:item_2602",
+            "count": 1,
+            "quality": 999,
+            "data": 2
+          }
+        },
+        {
+          "type": "inform",
+          "data": {
+            "message": "Unter dem hölzernen Hocker, von Staub bedeckt, liegt ein kleines Buch welches wohl vor langer Zeit aus Versehen heruntergefallen ist.",
+            "messageEnglish": "Under the wooden stool, beneath some dust there is a small book which seems to have accidently slipped down a long time ago."
+          }
+        }
+      ]
+    }
+  ]
+}

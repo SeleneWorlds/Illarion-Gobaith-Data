@@ -1,0 +1,31 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -47,
+    "y": 210,
+    "z": -3
+  },
+  "behaviors": [
+    {
+      "event": "use_item",
+      "actions": [
+        {
+          "type": "give_item",
+          "data": {
+            "item": "illarion:item_2602",
+            "count": 1,
+            "quality": 999,
+            "data": 1
+          }
+        },
+        {
+          "type": "inform",
+          "data": {
+            "message": "In der linken Hand des Skeletts findest du ein staubiges Tagebuch.",
+            "messageEnglish": "You find a dusty diary in the left hand of the skeletton."
+          }
+        }
+      ]
+    }
+  ]
+}

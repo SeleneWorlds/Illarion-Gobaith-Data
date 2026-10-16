@@ -1,0 +1,121 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -118,
+    "y": 255,
+    "z": -3
+  },
+  "behaviors": [
+    {
+      "event": "use_item",
+      "actions": [
+        {
+          "type": "branch",
+          "data": {
+            "conditions": [
+              {
+                "type": "is_tile",
+                "data": {
+                  "position": {
+                    "x": -119,
+                    "y": 256,
+                    "z": -3
+                  },
+                  "tile": "illarion:tile_55"
+                }
+              }
+            ],
+            "thenActions": [
+              {
+                "type": "swap_tile",
+                "data": {
+                  "position": {
+                    "x": -119,
+                    "y": 256,
+                    "z": -3
+                  },
+                  "oldTile": "illarion:tile_55",
+                  "tile": "illarion:tile_6"
+                }
+              },
+              {
+                "type": "inform",
+                "data": {
+                  "message": "Als du den Stein an einer bestimmten Stelle berührst fährt die Brücke ein.",
+                  "messageEnglish": "As you feel the stone in a certain region the bridge retracts."
+                }
+              }
+            ],
+            "elseActions": [
+              {
+                "type": "swap_tile",
+                "data": {
+                  "position": {
+                    "x": -119,
+                    "y": 256,
+                    "z": -3
+                  },
+                  "oldTile": "illarion:tile_6",
+                  "tile": "illarion:tile_55"
+                }
+              },
+              {
+                "type": "inform",
+                "data": {
+                  "message": "Als du den Stein abtastest fährt auf einmal eine Marmorbrücke von beiden Seiten aus.",
+                  "messageEnglish": "As you feel the stone suddenly a marble bridge extends from both sides."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "branch",
+          "data": {
+            "conditions": [
+              {
+                "type": "is_tile",
+                "data": {
+                  "position": {
+                    "x": -119,
+                    "y": 257,
+                    "z": -3
+                  },
+                  "tile": "illarion:tile_55"
+                }
+              }
+            ],
+            "thenActions": [
+              {
+                "type": "swap_tile",
+                "data": {
+                  "position": {
+                    "x": -119,
+                    "y": 257,
+                    "z": -3
+                  },
+                  "oldTile": "illarion:tile_55",
+                  "tile": "illarion:tile_6"
+                }
+              }
+            ],
+            "elseActions": [
+              {
+                "type": "swap_tile",
+                "data": {
+                  "position": {
+                    "x": -119,
+                    "y": 257,
+                    "z": -3
+                  },
+                  "oldTile": "illarion:tile_6",
+                  "tile": "illarion:tile_55"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

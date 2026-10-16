@@ -1,0 +1,31 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -30,
+    "y": 157,
+    "z": -8
+  },
+  "behaviors": [
+    {
+      "event": "use_item",
+      "actions": [
+        {
+          "type": "give_item",
+          "data": {
+            "item": "illarion:item_2121",
+            "count": 1,
+            "quality": 999,
+            "data": 333
+          }
+        },
+        {
+          "type": "inform",
+          "data": {
+            "message": "Während du unter der Decke suchst zerfällt diese fast zu Staub, jedoch findest du einen schweren Schlüssel unter dem Kopfkissen.",
+            "messageEnglish": "The blanket almost turns into dust while you are searching, but you are able to find a heavy key under the pillow."
+          }
+        }
+      ]
+    }
+  ]
+}

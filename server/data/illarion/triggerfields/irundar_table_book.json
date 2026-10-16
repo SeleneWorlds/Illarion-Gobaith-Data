@@ -1,0 +1,31 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -53,
+    "y": 172,
+    "z": -8
+  },
+  "behaviors": [
+    {
+      "event": "use_item",
+      "actions": [
+        {
+          "type": "give_item",
+          "data": {
+            "item": "illarion:item_2602",
+            "count": 1,
+            "quality": 999,
+            "data": 3
+          }
+        },
+        {
+          "type": "inform",
+          "data": {
+            "message": "Auf dem Tisch liegt ein aufgeschlagenes Buch, als ob kürzlich noch jemand in ihm gelesen hätte.",
+            "messageEnglish": "On the table you find an opened book, as if somebody read it only recently."
+          }
+        }
+      ]
+    }
+  ]
+}
