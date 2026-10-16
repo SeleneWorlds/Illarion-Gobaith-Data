@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": null,
-  "script": "item.id_272_statue",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,
