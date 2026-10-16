@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": null,
-  "script": "item.id_794_fireportal",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,
@@ -13,7 +13,7 @@
   "name": "",
   "level": 0,
   "impassable": false,
-  "specialItem": 1,
+  "specialItem": 0,
   "passableAbove": false,
   "visual": "illarion:items/item_798",
   "metadata": {

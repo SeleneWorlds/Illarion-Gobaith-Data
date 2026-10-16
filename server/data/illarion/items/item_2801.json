@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": null,
-  "script": "item.id_2801_altar",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,
