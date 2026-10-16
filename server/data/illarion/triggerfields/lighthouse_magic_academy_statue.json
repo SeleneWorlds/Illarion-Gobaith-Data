@@ -1,0 +1,45 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -389,
+    "y": -218,
+    "z": 2
+  },
+  "behaviors": [
+    {
+      "event": "use_item",
+      "actions": [
+        {
+          "type": "warp",
+          "data": {
+            "position": {
+              "x": 102,
+              "y": 56,
+              "z": 52
+            }
+          }
+        },
+        {
+          "type": "inform",
+          "data": {
+            "message": "Als du die Statue berührst verschwimmt die Welt um dich und dir wird schwummrig. Als du wieder klar siehst, bist du an einem völlig anderen Ort",
+            "messageEnglish": "You touch the statue and the world around you becomes blurred and you feel a little strange. A moment later you can see clearly again, and you are in a completely different place"
+          }
+        }
+      ],
+      "conditions": [
+        {
+          "type": "attribute_sum_above",
+          "data": {
+            "attributes": [
+              "essence",
+              "willpower",
+              "intelligence"
+            ],
+            "threshold": 29
+          }
+        }
+      ]
+    }
+  ]
+}
