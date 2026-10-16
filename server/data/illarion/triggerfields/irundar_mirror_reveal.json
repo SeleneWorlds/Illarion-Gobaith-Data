@@ -1,0 +1,68 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -28,
+    "y": 193,
+    "z": -8
+  },
+  "behaviors": [
+    {
+      "event": "look_at_item",
+      "conditions": [
+        {
+          "type": "is_at",
+          "data": {
+            "position": {
+              "x": -29,
+              "y": 193,
+              "z": -8
+            }
+          }
+        },
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "item_inform",
+          "data": {
+            "message": "Hinter deinem Rücken erkennst du deutlich eine Leiter im Spiegel",
+            "messageEnglish": "Behind your back you can clearly see a ladder in the mirror"
+          }
+        },
+        {
+          "type": "create_item_at",
+          "conditions": [
+            {
+              "type": "not",
+              "data": {
+                "type": "is_item_at",
+                "data": {
+                  "position": {
+                    "x": -32,
+                    "y": 193,
+                    "z": -8
+                  },
+                  "item": "illarion:item_35"
+                }
+              }
+            }
+          ],
+          "data": {
+            "position": {
+              "x": -32,
+              "y": 193,
+              "z": -8
+            },
+            "item": "illarion:item_35",
+            "quality": 999
+          }
+        }
+      ]
+    }
+  ]
+}
