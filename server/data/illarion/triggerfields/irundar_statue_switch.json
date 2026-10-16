@@ -1,0 +1,75 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -28,
+    "y": 192,
+    "z": -9
+  },
+  "behaviors": [
+    {
+      "event": "use_item",
+      "actions": [
+        {
+          "type": "branch",
+          "data": {
+            "conditions": [
+              {
+                "type": "is_item_at",
+                "data": {
+                  "position": {
+                    "x": -29,
+                    "y": 195,
+                    "z": -9
+                  },
+                  "item": "illarion:item_35"
+                }
+              }
+            ],
+            "thenActions": [
+              {
+                "type": "inform",
+                "data": {
+                  "message": "Nachdem du den verborgenen Schalter erneut betätigst gleitet die Leiter zurück in die Decke und die Luke schließt sich wieder.",
+                  "messageEnglish": "After touching the hidden switch again the ladder slides back into the ceiling and the hatch closes again."
+                }
+              },
+              {
+                "type": "destroy_item_at",
+                "data": {
+                  "position": {
+                    "x": -29,
+                    "y": 195,
+                    "z": -9
+                  },
+                  "item": "illarion:item_35",
+                  "amount": 1
+                }
+              }
+            ],
+            "elseActions": [
+              {
+                "type": "inform",
+                "data": {
+                  "message": "Während du vorsichtig die Statue abtastest öffnet sich plötzlich eine Luke in der Decke und eine hölzerne Leiter fährt herab.",
+                  "messageEnglish": "While you carefully feel the statue, suddenly a hatch in the ceiling opens and a wooden ladder slides down."
+                }
+              },
+              {
+                "type": "create_item_at",
+                "data": {
+                  "position": {
+                    "x": -29,
+                    "y": 195,
+                    "z": -9
+                  },
+                  "item": "illarion:item_35",
+                  "quality": 999
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
