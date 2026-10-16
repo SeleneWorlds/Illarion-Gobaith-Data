@@ -1,0 +1,40 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 99,
+    "y": 40,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "use_item_with",
+      "conditions": [
+        {
+          "type": "is_item",
+          "data": {
+            "item": "illarion:item_24"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "warp",
+          "data": {
+            "position": {
+              "x": 99,
+              "y": 40,
+              "z": -3
+            }
+          }
+        },
+        {
+          "type": "inform",
+          "data": {
+            "message": "Du gräbst ein Loch und der Boden bricht unter dir weg und so fällst du in eine Höhle",
+            "messageEnglish": "You dig a hole and the ground under you collapses and you fall into a cave..."
+          }
+        }
+      ]
+    }
+  ]
+}

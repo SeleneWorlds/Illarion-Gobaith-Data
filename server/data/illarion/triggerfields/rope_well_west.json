@@ -1,0 +1,57 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -131,
+    "y": -123,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "use_item_with",
+      "conditions": [
+        {
+          "type": "is_item",
+          "data": {
+            "item": "illarion:item_2760"
+          }
+        },
+        {
+          "type": "not",
+          "data": {
+            "type": "is_item",
+            "data": {
+              "item": "illarion:item_2760",
+              "data": 1
+            }
+          }
+        },
+        {
+          "type": "is_item",
+          "data": {
+            "subject": "targetItem",
+            "item": "illarion:item_2207"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "talk",
+          "data": {
+            "message": "#me klettert an einem Seil den Brunnen hinunter.",
+            "messageEnglish": "#me climbs down into the well on a rope."
+          }
+        },
+        {
+          "type": "warp",
+          "data": {
+            "position": {
+              "x": -131,
+              "y": -123,
+              "z": -3
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
