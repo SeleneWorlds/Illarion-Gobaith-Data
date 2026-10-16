@@ -1,0 +1,68 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -471,
+    "y": 241,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "not",
+          "data": {
+            "type": "is_item_at",
+            "data": {
+              "position": {
+                "x": -470,
+                "y": 241,
+                "z": 0
+              },
+              "item": "illarion:item_287"
+            }
+          }
+        },
+        {
+          "type": "not",
+          "data": {
+            "type": "is_character_at",
+            "data": {
+              "position": {
+                "x": -470,
+                "y": 241,
+                "z": 0
+              }
+            }
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "create_item_at",
+          "data": {
+            "position": {
+              "x": -470,
+              "y": 241,
+              "z": 0
+            },
+            "item": "illarion:item_287"
+          }
+        },
+        {
+          "type": "inform_nearby",
+          "data": {
+            "position": {
+              "x": -470,
+              "y": 241,
+              "z": 0
+            },
+            "range": 15,
+            "message": "#w Du hörst das Geräusch von sich verschiebendem Gestein.",
+            "messageEnglish": "#w You hear the sound of moving stone."
+          }
+        }
+      ]
+    }
+  ]
+}
