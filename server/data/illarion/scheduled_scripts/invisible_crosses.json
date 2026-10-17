@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "script": "scheduled.invisible_crosses",
-  "function": "InvisibleCross",
-  "interval": {
-    "min": 10,
-    "max": 10
-  }
-}
