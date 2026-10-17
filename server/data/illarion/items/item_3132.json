@@ -1,0 +1,22 @@
+{
+  "volume": 1,
+  "weight": 30000,
+  "agingSpeed": 255,
+  "objectAfterRot": null,
+  "script": "druid.item.research_bookrest",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "druidResearchBookrest",
+  "level": 0,
+  "impassable": true,
+  "specialItem": 0,
+  "passableAbove": false,
+  "visual": "illarion:items/item_3104",
+  "metadata": {
+    "id": 3132
+  }
+}

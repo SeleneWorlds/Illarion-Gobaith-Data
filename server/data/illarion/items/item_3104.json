@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": null,
-  "script": "druid.item.id_3104_bookrest",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,
