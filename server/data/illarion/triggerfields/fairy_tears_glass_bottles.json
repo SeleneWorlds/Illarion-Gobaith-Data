@@ -1,0 +1,32 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 116,
+    "y": -121,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "use_item_with",
+      "conditions": [
+        {
+          "type": "is_item",
+          "data": {
+            "item": "illarion:item_2498"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "transform_item",
+          "data": {
+            "oldItem": "illarion:item_2498",
+            "item": "illarion:item_2496",
+            "quality": 333,
+            "data": 2
+          }
+        }
+      ]
+    }
+  ]
+}
