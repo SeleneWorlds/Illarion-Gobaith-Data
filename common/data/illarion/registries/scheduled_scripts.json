@@ -4,12 +4,24 @@
   "icon": "calendar-clock",
   "schema": {
     "enabled": "enabled",
-    "script": "script",
+    "script": {
+      "type": "script",
+      "optional": true
+    },
     "data": {
       "type": "scripted_schema_lookup",
-      "property": "script"
+      "property": "script",
+      "optional": true
     },
-    "function": "string",
-    "interval": "range"
+    "function": {
+      "type": "string",
+      "optional": true
+    },
+    "interval": "range",
+    "behaviors": {
+      "type": "array",
+      "optional": true,
+      "valueType": "moonlight:behaviors"
+    }
   }
 }
