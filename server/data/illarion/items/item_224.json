@@ -3,7 +3,7 @@
   "weight": 25,
   "agingSpeed": 254,
   "objectAfterRot": null,
-  "script": "item.id_224_goldengoblet",
+  "script": "",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 1600,
