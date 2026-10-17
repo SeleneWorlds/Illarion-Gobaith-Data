@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "script": "scheduled.scs_teleport_effect",
-  "function": "DoEffect",
-  "interval": {
-    "min": 10,
-    "max": 30
-  }
-}
