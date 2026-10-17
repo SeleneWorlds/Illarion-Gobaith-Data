@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "script": "scheduled.closedoors",
-  "function": "closeDoors",
-  "interval": {
-    "min": 10,
-    "max": 10
-  }
-}

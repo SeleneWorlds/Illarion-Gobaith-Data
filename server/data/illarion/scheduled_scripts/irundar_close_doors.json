@@ -1,0 +1,114 @@
+{
+  "enabled": true,
+  "interval": {
+    "min": 30,
+    "max": 30
+  },
+  "behaviors": [
+    {
+      "event": "tick",
+      "actions": [
+        {
+          "type": "close_door",
+          "data": {
+            "position": {
+              "x": -35,
+              "y": 195,
+              "z": -9
+            }
+          }
+        },
+        {
+          "type": "lock_door",
+          "data": {
+            "position": {
+              "x": -35,
+              "y": 195,
+              "z": -9
+            }
+          }
+        },
+        {
+          "type": "close_door",
+          "data": {
+            "position": {
+              "x": -35,
+              "y": 196,
+              "z": -9
+            }
+          }
+        },
+        {
+          "type": "lock_door",
+          "data": {
+            "position": {
+              "x": -35,
+              "y": 196,
+              "z": -9
+            }
+          }
+        },
+        {
+          "type": "close_door",
+          "data": {
+            "position": {
+              "x": -42,
+              "y": 193,
+              "z": -9
+            }
+          }
+        },
+        {
+          "type": "lock_door",
+          "data": {
+            "position": {
+              "x": -42,
+              "y": 193,
+              "z": -9
+            }
+          }
+        },
+        {
+          "type": "close_door",
+          "data": {
+            "position": {
+              "x": -49,
+              "y": 174,
+              "z": -9
+            }
+          }
+        },
+        {
+          "type": "lock_door",
+          "data": {
+            "position": {
+              "x": -49,
+              "y": 174,
+              "z": -9
+            }
+          }
+        },
+        {
+          "type": "close_door",
+          "data": {
+            "position": {
+              "x": -49,
+              "y": 175,
+              "z": -9
+            }
+          }
+        },
+        {
+          "type": "lock_door",
+          "data": {
+            "position": {
+              "x": -49,
+              "y": 175,
+              "z": -9
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
