@@ -1,0 +1,139 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -391,
+    "y": -154,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "use_item_with",
+      "conditions": [
+        {
+          "type": "is_item",
+          "data": {
+            "item": "illarion:item_164"
+          }
+        },
+        {
+          "type": "is_item",
+          "data": {
+            "subject": "targetItem",
+            "item": "illarion:item_513"
+          }
+        },
+        {
+          "type": "is_magic_type",
+          "data": {
+            "magicType": 3
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "branch",
+          "data": {
+            "conditions": [
+              {
+                "type": "quest_progress",
+                "data": {
+                  "questId": 23,
+                  "progress": 10,
+                  "operator": "less_than"
+                }
+              }
+            ],
+            "thenActions": [
+              {
+                "type": "roll",
+                "data": {
+                  "pools": [
+                    {
+                      "rolls": 1,
+                      "entries": [
+                        {
+                          "type": "behavior",
+                          "weight": 1,
+                          "data": {
+                            "actions": [
+                              {
+                                "type": "transform_item",
+                                "data": {
+                                  "item": "illarion:item_330",
+                                  "quality": 888,
+                                  "data": 95738184,
+                                  "oldItem": "illarion:item_164"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "type": "behavior",
+                          "weight": 1,
+                          "data": {
+                            "actions": [
+                              {
+                                "type": "transform_item",
+                                "data": {
+                                  "item": "illarion:item_330",
+                                  "quality": 888,
+                                  "data": 49582625,
+                                  "oldItem": "illarion:item_164"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "type": "behavior",
+                          "weight": 1,
+                          "data": {
+                            "actions": [
+                              {
+                                "type": "transform_item",
+                                "data": {
+                                  "item": "illarion:item_330",
+                                  "quality": 888,
+                                  "data": 53261566,
+                                  "oldItem": "illarion:item_164"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "increase_quest_progress",
+                "data": {
+                  "questId": 23,
+                  "progress": 1
+                }
+              },
+              {
+                "type": "inform",
+                "data": {
+                  "message": "#w Du füllst die Flasche mit einer weißen Flüssigkeit.",
+                  "messageEnglish": "#w You fill the bottle with a white liquid."
+                }
+              }
+            ],
+            "elseActions": [
+              {
+                "type": "inform",
+                "data": {
+                  "message": "#w Anscheinend ist keine Flüssigkeit mehr für dich übrig.",
+                  "messageEnglish": "#w Obviously there is no liquid left for you."
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
