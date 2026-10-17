@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "scenario": "moonlight:irundar"
+  },
+  "enabled": true,
+  "coordinate": {
+    "x": 32,
+    "y": 190,
+    "z": -12
+  },
+  "behaviors": [
+    {
+      "event": "use_item_with",
+      "conditions": [
+        {
+          "type": "is_item",
+          "data": {
+            "item": "illarion:item_2498"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "branch",
+          "data": {
+            "conditions": [
+              {
+                "type": "quest_progress",
+                "data": {
+                  "questId": 90001,
+                  "progress": {
+                    "type": "add",
+                    "left": {
+                      "type": "multiply",
+                      "left": {
+                        "type": "world_time",
+                        "unit": "year"
+                      },
+                      "right": 16
+                    },
+                    "right": {
+                      "type": "world_time",
+                      "unit": "month"
+                    }
+                  }
+                }
+              }
+            ],
+            "thenActions": [
+              {
+                "type": "inform",
+                "data": {
+                  "message": "Der Springbrunnen ist ausgetrocknet.",
+                  "messageEnglish": "The fountain has dried up."
+                }
+              }
+            ],
+            "elseActions": [
+              {
+                "type": "transform_item",
+                "data": {
+                  "oldItem": "illarion:item_2498",
+                  "item": "illarion:item_2496",
+                  "count": 1,
+                  "quality": 999,
+                  "data": 3,
+                  "onSuccess": [
+                    {
+                      "type": "play_gfx",
+                      "data": {
+                        "gfxId": 41
+                      }
+                    },
+                    {
+                      "type": "play_gfx",
+                      "data": {
+                        "gfxId": 41,
+                        "position": {
+                          "x": 25,
+                          "y": 190,
+                          "z": -12
+                        }
+                      }
+                    },
+                    {
+                      "type": "play_sound",
+                      "data": {
+                        "soundId": 13
+                      }
+                    },
+                    {
+                      "type": "play_sound",
+                      "data": {
+                        "soundId": 13,
+                        "position": {
+                          "x": 25,
+                          "y": 190,
+                          "z": -12
+                        }
+                      }
+                    },
+                    {
+                      "type": "warp",
+                      "data": {
+                        "position": {
+                          "x": 25,
+                          "y": 190,
+                          "z": -12
+                        }
+                      }
+                    },
+                    {
+                      "type": "set_quest_progress",
+                      "data": {
+                        "questId": 90001,
+                        "progress": {
+                          "type": "add",
+                          "left": {
+                            "type": "multiply",
+                            "left": {
+                              "type": "world_time",
+                              "unit": "year"
+                            },
+                            "right": 16
+                          },
+                          "right": {
+                            "type": "world_time",
+                            "unit": "month"
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

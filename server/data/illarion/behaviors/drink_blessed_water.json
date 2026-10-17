@@ -1,0 +1,147 @@
+{
+  "name": "Drink blessed water",
+  "enabled": true,
+  "metadata": {
+    "scenario": "moonlight:irundar"
+  },
+  "behaviors": [
+    {
+      "event": "use_item",
+      "conditions": [
+        {
+          "type": "is_item",
+          "data": {
+            "item": "illarion:item_2496",
+            "data": 3
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "consume_event"
+        },
+        {
+          "type": "branch",
+          "data": {
+            "conditions": [
+              {
+                "type": "quest_progress",
+                "data": {
+                  "questId": 90002,
+                  "progress": {
+                    "type": "add",
+                    "left": {
+                      "type": "multiply",
+                      "left": {
+                        "type": "world_time",
+                        "unit": "year"
+                      },
+                      "right": 16
+                    },
+                    "right": {
+                      "type": "world_time",
+                      "unit": "month"
+                    }
+                  }
+                }
+              }
+            ],
+            "thenActions": [
+              {
+                "type": "inform",
+                "data": {
+                  "message": "Plötzlich kommen dir aus unerklärlichen Gründen Bedenken die Flasche zu auszutrinken.",
+                  "messageEnglish": "Suddenly you begin to doubt whether it would be wise to quaff this potion"
+                }
+              }
+            ],
+            "elseActions": [
+              {
+                "type": "increase_attribute",
+                "data": {
+                  "attribute": "hitpoints",
+                  "amount": 10000
+                }
+              },
+              {
+                "type": "increase_attribute",
+                "data": {
+                  "attribute": "mana",
+                  "amount": 10000
+                }
+              },
+              {
+                "type": "set_attribute",
+                "data": {
+                  "attribute": "poisonvalue",
+                  "value": 0
+                }
+              },
+              {
+                "type": "increase_attribute",
+                "data": {
+                  "attribute": "foodlevel",
+                  "amount": 30000
+                }
+              },
+              {
+                "type": "set_attribute",
+                "data": {
+                  "attribute": "mentalcapacity",
+                  "value": 0
+                }
+              },
+              {
+                "type": "set_attribute",
+                "data": {
+                  "attribute": "constitution",
+                  "value": 250,
+                  "duration": 60000
+                }
+              },
+              {
+                "type": "consume_item",
+                "data": {
+                  "count": 1
+                }
+              },
+              {
+                "type": "play_gfx",
+                "data": {
+                  "gfxId": 53
+                }
+              },
+              {
+                "type": "play_sound",
+                "data": {
+                  "soundId": 12
+                }
+              },
+              {
+                "type": "set_quest_progress",
+                "data": {
+                  "questId": 90002,
+                  "progress": {
+                    "type": "add",
+                    "left": {
+                      "type": "multiply",
+                      "left": {
+                        "type": "world_time",
+                        "unit": "year"
+                      },
+                      "right": 16
+                    },
+                    "right": {
+                      "type": "world_time",
+                      "unit": "month"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "weight": 25,
   "agingSpeed": 254,
   "objectAfterRot": null,
-  "script": "item.id_2498_empty_bottle",
+  "script": null,
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 600,
