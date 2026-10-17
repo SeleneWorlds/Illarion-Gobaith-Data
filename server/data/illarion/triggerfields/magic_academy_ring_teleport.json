@@ -22,8 +22,7 @@
         {
           "type": "is_item",
           "data": {
-            "item": "illarion:item_235",
-            "data": 666
+            "item": "illarion:item_3129"
           }
         },
         {
@@ -33,16 +32,14 @@
               "type": "has_item_equipped_at",
               "data": {
                 "slot": 7,
-                "item": "illarion:item_235",
-                "data": 666
+                "item": "illarion:item_3129"
               }
             },
             {
               "type": "has_item_equipped_at",
               "data": {
                 "slot": 8,
-                "item": "illarion:item_235",
-                "data": 666
+                "item": "illarion:item_3129"
               }
             }
           ]
