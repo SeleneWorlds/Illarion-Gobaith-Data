@@ -1,0 +1,70 @@
+{
+  "enabled": true,
+  "name": "Noobia fire protection",
+  "description": "Prevents water buckets from extinguishing tutorial fires while the player is on Noobia floors 100 or 101.",
+  "area": {
+    "include": [
+      {
+        "type": "rectangle",
+        "x": -2147483648,
+        "y": -2147483648,
+        "z": 100,
+        "width": 4294967296,
+        "height": 4294967296
+      },
+      {
+        "type": "rectangle",
+        "x": -2147483648,
+        "y": -2147483648,
+        "z": 101,
+        "width": 4294967296,
+        "height": 4294967296
+      }
+    ],
+    "exclude": []
+  },
+  "behaviors": [
+    {
+      "event": "use_item",
+      "conditions": [
+        {
+          "type": "is_item",
+          "data": {
+            "item": "illarion:item_52"
+          }
+        },
+        {
+          "type": "any",
+          "data": [
+            {
+              "type": "is_item",
+              "data": {
+                "subject": "targetItem",
+                "item": "illarion:item_12"
+              }
+            },
+            {
+              "type": "is_item",
+              "data": {
+                "subject": "targetItem",
+                "item": "illarion:item_359"
+              }
+            }
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "Du solltest das Feuer besser nicht ausmachen, du könntest es noch gebrauchen.",
+            "messageEnglish": "You shouldn't extinguish the fire, you maybe could need it."
+          }
+        },
+        {
+          "type": "consume_event"
+        }
+      ]
+    }
+  ]
+}
