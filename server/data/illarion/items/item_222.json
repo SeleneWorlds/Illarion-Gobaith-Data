@@ -3,7 +3,7 @@
   "weight": 20,
   "agingSpeed": 254,
   "objectAfterRot": null,
-  "script": "item.id_222_amulett",
+  "script": "item.priest.jewel",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 1300,
