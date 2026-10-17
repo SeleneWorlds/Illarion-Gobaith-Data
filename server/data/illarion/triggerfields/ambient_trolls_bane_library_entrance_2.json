@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -94,
+    "y": -127,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Du betrittst die Bibliothek und sofort umhüllt dich die Stille. Vereinzelt hörst du raschelnde Pergamente.",
+            "messageEnglish": "#w You walk in the libary and instantly silence surrounds you. Sporadicly you hear crinkly parchments."
+          }
+        }
+      ]
+    }
+  ]
+}

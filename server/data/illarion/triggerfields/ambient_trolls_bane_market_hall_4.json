@@ -1,0 +1,554 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -66,
+    "y": -116,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              22,
+              23
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              13,
+              14,
+              15,
+              16
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Auch das Markthaus bleibt vom Winter nicht verschont: Der Raum ist eiskalt, du solltest deinen Mantel umwerfen, bevor du dich erkältest.",
+            "messageEnglish": "#w Not even the shops can escape winter: It is icecold in here. You should put on your coat or you will get a cold."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              22,
+              23
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              9,
+              10,
+              11,
+              12
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Die nächtliche Luft im Herbst scheint es den Händlern angetan zu haben, sie haben alle Fenster sperrangelweit offen. Im hinteren Teil des Raumes sitzt ein strickender Mann auf der Theke.",
+            "messageEnglish": "#w The merchants seem to like the fresh air, all windows are opened. In the back of the room, someone sits on a counter knitting."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              22,
+              23
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Es ist nicht mehr viel los im Raum, die meisten Händler bauen gerade ihre Stände ab und reden nochmal über den Tag.",
+            "messageEnglish": "#w Not much is going on in the room. Most of the merchants are packing their bags and summing up the day."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              22,
+              23
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              5,
+              6,
+              7,
+              8
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Hier drin riecht es nach den verschiedensten Sachen. Einige Kaufmänner sind noch immer hier und preisen ihre Waren an.",
+            "messageEnglish": "#w You smell the most different things in here. Some merchants are still touting for their goods."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              5,
+              6,
+              7,
+              8
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Als du den Raum betrittst, zischt dir die Echse an der Theke sofort entgegen: 'Waffen und Rüstungen zu kleinsten Preisen!'",
+            "messageEnglish": "#w As you enter the room, the lizard at the shop counter hisses:'I sell weapons and armor very cheap!'"
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              22,
+              23
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Die Nacht ist kalt. An die Theke gelehnt steht eine schnarchende Echse, die sich ab und zu nach Kunden umsieht.",
+            "messageEnglish": "#w The night is cold. Leaned at the shop counter is a snoring lizard, who sometimes looks around for customers."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Die Vögel zwitschern draußen, im Raum herrscht ein erfrischendes Klima. ",
+            "messageEnglish": "#w The birds are twittering outside and you feel a bracing climate inside."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              9,
+              10,
+              11,
+              12
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Du betrittst den Raum und merkst sofort, dass es zieht. Ein Mann auf einem der Stühle blickt sich ungeduldig um.",
+            "messageEnglish": "#w You enter the room and immediately notice that there is draught. A man on one of the chairs looks around impatient."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              22,
+              23
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              5,
+              6,
+              7,
+              8
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Es ist ziemlich warm im Raum, man sollte hier mal lüften. Hinter der Theke steht eine gähnende Echse, auf einem der Stühle schnarcht ein Mann vor sich hin.",
+            "messageEnglish": "#w It is quite warm in the room, someone should open the windows. Behind the shop counter stands a yawning lizard, on one of the chairs you see a snoring man."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              13,
+              14,
+              15,
+              16
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Im Raum ist es etwas wärmer als draußen, du frierst aber trotzdem etwas. An der Theke steht eine Echse, die in einen dicken Mantel gehüllt ist.",
+            "messageEnglish": "#w It's a little bit warmer inside than outside, but you still feel cold. At the shop counter stands a lizard, who wears a warm coat."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              22,
+              23
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              9,
+              10,
+              11,
+              12
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w In dieser Herbstnacht ist es ruhig im Laden. Wenn du umhergehst knarrt der Boden unter deinen Füßen.",
+            "messageEnglish": "#w This night, it is very quite in the shop. As you walk around the floor under your feets creaks a little."
+          }
+        }
+      ]
+    }
+  ]
+}

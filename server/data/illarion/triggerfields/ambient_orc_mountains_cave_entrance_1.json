@@ -1,0 +1,296 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 156,
+    "y": -433,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Als du die Höhle betrittst, ist es dir als läufst du gegen eine kühle unsichtbare Wand aus Luft die deinen Körper in eiskaltes Wasser zu tauchen scheint. Beisender Rauch und der Gestank verdorbenen Fleisches durchdringen die Luft.",
+            "messageEnglish": "#w As you enter the cave you are met with an invisible wall of cold air, it feels like submerging your body in ice cold water after being burned by fire. The smell of smoke and decaying meat is overpowering"
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              13,
+              14,
+              15,
+              16
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Die Wärme in der Höhle vertreibt gemächlich die Kälte aus deinen Gliedern und lässt den Schnee auf deinen Schultern schmelzen. Der Geruch, gerösteten und geräucherten Fleisches steigt dir in die Nase.",
+            "messageEnglish": "#w  The warm air inside the cave slowly thaws the snow and cold from your body, the stench of roasted meat and smoke fills your nostriles. "
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "south"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              19,
+              20,
+              21,
+              22,
+              23
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              13,
+              14,
+              15,
+              16
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Als du ins Freie trittst, knacken die unzähligen vereisten Stellen am Boden vor der Höhle unter deinen Füßen. Die eisige Luft scheint dir die Brust zu verschnüren und das Atmen fällt dir schwer. Bald bemerkst du, dass deine Haare allmählich vereisen. ",
+            "messageEnglish": "#w A thin carpet of frost smoke covers the frozen ground, the soft cracking of ice is heard comming from above. The cold air fills your lungs with every breath you take making it hard to breath for a few moments as you get used to the biting cold air."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "south"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Angenehm warme Bergluft lädt dich ein, kräftig durch zu atmen. In der Ferne lässt sich manch mal das Brüllen eines läufigen Panthers vernehmen. ",
+            "messageEnglish": "#w The pleasing mountain air invites you to take a deep breath. Sometimes you hear the growl of a panther on the prowl. "
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "south"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              13,
+              14,
+              15,
+              16
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Die eisige Luft, verwandelt deinen Atem in eine nebelige Schwade. Bei jedem Atemzug scheint sich deine Lunge zu verkrampfen und du benötigst einige Zeit, bis dein Körper sich an die Kälte gewöhnt hat. Langsam beginnen deine Haare zu vereisen. ",
+            "messageEnglish": "#w The crisp cold air makes the sweat on your nostriles and forehead freeze instantly, it is difficult to breath for a few moments as your body gets used to the biting cold outside. "
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "south"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              19,
+              20,
+              21,
+              22,
+              23
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Trotz der Finsternis ist es noch angenehm Warm draußen. Unzählige Grillen zirpen im hohen Gras auf dem Plateau. ",
+            "messageEnglish": "#w Despite the darkness it is pleasingly warm outside. Countless crickets chirr in the high grass on the plateu."
+          }
+        }
+      ]
+    }
+  ]
+}

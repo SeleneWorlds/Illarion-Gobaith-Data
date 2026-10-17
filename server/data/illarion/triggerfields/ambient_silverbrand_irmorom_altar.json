@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 96,
+    "y": -211,
+    "z": 3
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "west"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Du siehst einen wundervoll gearbeiteten Altar, flankiert von zwei nagelneuen Amboßen. Die Säulen sind mit Bildern verziert, die offenbar die Erschaffung Illarions von Irmorom zeigen.",
+            "messageEnglish": "#w You can see a wounderful crafted altar, flanked by two new anvils. The pillars are ornated with pictures, that obviosly show the creation of Gobaith by Irmorom."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 191,
+    "y": -337,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "roll",
+          "data": {
+            "pools": [
+              {
+                "rolls": 1,
+                "entries": [
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "inform",
+                          "data": {
+                            "message": "#w Dies scheint eine Grenze zu sein. Wenige Schritte weiter, siehst du verschiedene barbarische Totems und der Geruch von Verwesung steigt dir in die Nase. Wer immer hier lebt, ist weder zivilisiert noch besonders freundlich.",
+                            "messageEnglish": "#w This looks like a frontier. A few steps further, you see several barbaric totems and a smell of decay reaching your nostrils. Whoever here lives, is not civilized nor friendly."
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "inform",
+                          "data": {
+                            "message": "#w Hier wurde eine lange Reihe aufgespießter Köpfe aufgestellt. Deren Gestank steigt dir bereits in die Nase. Ein ständiger Trommelschlag erhallt in der Ferne, oft durchsetzt von schrecklichem Gebrüll und Waffengeklirr, deren Echo über das Ganze Tal zu hören ist.",
+                            "messageEnglish": "#w You see an ordered long line of impaled severed heads, their reached stench reaching your nostrils. A steady drumbeat can be heard in the distance, often acompanied by loud screams and weapon clashes that echo all over the the valley. "
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "inform",
+                          "data": {
+                            "message": "#w Kühler Wind bläst über die Wüste und Geheul ist in der Ferne zu hören. Plötzlich hallt ein markerschütternder Schrei durch das Tal, ein kalter Schauer läuft dir über den Rücken.",
+                            "messageEnglish": "#w A chill wind blows across the desert, and howls can be heard in the distance. Suddenly a scream echoes across the valley floor sending chills up your spine!"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 111,
+    "y": -200,
+    "z": -3
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "west"
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Dir schlägt eine Hitze entgegen, die ihren Ursprung wohl bei den drei Heizöfen hat. Die Ambosse sehen sehr abgenutzt aus und die Esse ist bedeckt von Ruß. Es ist sehr stickig und der Geruch von verbrannter Kohle liegt in der Luft.",
+            "messageEnglish": "#w Some hot air streams straight into your face, probably coming from the three heat ovens. The anvils look quite used up and the forge is covered under a layer of ash. It is very stuffy and the smell of burned coal is in the air."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "west"
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              13,
+              14,
+              15,
+              16
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Nach der Kälte draußen schlägt dir hier eine angenehme Wärme entgegen, die ihren Ursprung wohl bei den drei Heizöfen hat. Die Ambosse sehen sehr abgenutzt aus und die Esse ist bedeckt von Ruß. Es ist sehr stickig und der Geruch von verbrannter Kohle liegt in der Luft.",
+            "messageEnglish": "#w After the coldness outside, you like the warm air, streaming your face, probably coming from the three heat ovens. The anvils look quite used up and the forge is covered under a layer of ash. It is very stuffy and the smell of burned coal is in the air"
+          }
+        }
+      ]
+    }
+  ]
+}

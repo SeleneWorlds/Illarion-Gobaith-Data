@@ -1,0 +1,50 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -86,
+    "y": -99,
+    "z": -3
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Du verlässt den Schankraum und steigst die knarrende Treppe in den kühlen Keller hinab. Deine Augen gewöhnen sich langsam an die Dunkelheit.",
+            "messageEnglish": "#w You leave the taproom and steps down the creaking stairs to the cool, dark cellar. Your eyes start adapting to the darkness slowly."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "west"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Du verlässt den Schankraum und steigst die knarrende Treppe in den kühlen Keller hinab. Deine Augen gewöhnen sich langsam an die Dunkelheit.",
+            "messageEnglish": "#w You leave the taproom and steps down the creaking stairs to the cool, dark cellar. Your eyes start adapting to the darkness slowly."
+          }
+        }
+      ]
+    }
+  ]
+}

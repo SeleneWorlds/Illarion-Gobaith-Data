@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 158,
+    "y": -200,
+    "z": -6
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w In der Gruft riecht es abgestanden und modrig. Die Wände sind mit uralten Zwergenrunen versehen. Es ist kalt und feucht hier untem im Berg, soweit weg von allem Wärmequellen. ",
+            "messageEnglish": "#w In the crypt it smells moldy. On the walls you can see ancient dwarven runes. It is cold and clammy down here, far away from all sources of heat."
+          }
+        }
+      ]
+    }
+  ]
+}

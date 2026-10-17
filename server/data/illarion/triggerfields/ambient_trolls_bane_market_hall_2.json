@@ -1,0 +1,218 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -62,
+    "y": -125,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              9,
+              10,
+              11,
+              12
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Der Boden im Raum ist nass, hier suchen wohl viele Leute Unterschlupf, wenn es regnet. Die Stimmung unter den Händlern scheint genau so schlecht zu sein wie das Wetter.",
+            "messageEnglish": "#w The floor in the room is wet, it seems that many people seek shelter in here when it rains. The mood of the merchants appears to be as bad as the weather."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              13,
+              14,
+              15,
+              16
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Der Schnee glitzert durch die Fenster und bringt den Raum zum Leuchten. Es riecht nach Wintergebäck, die Händler sind in guter Stimmung.",
+            "messageEnglish": "#w The glittering snow outside lights up the whole room. You can smell winter pastry, the merchants are in a very good mood."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Sofort als du durch die Tür trittst, nimmst du die verschiedensten Düfte wahr, einige Kaufleute unterhalten sich, andere sortieren ihre Waren.",
+            "messageEnglish": "#w As you go through the door, you immediately notice different fragrances, some merchants are having a conversation, others are sorting their goods."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        },
+        {
+          "type": "is_hour",
+          "data": {
+            "hours": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              5,
+              6,
+              7,
+              8
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Vor dir steht ein reich gekleideter Mann, hinter dem einige Truhen randgefüllt mit Gold zu erkennen sind. Er sieht dich misstrauisch an.",
+            "messageEnglish": "#w The man in front of you is clad in fine clothes, behind him you see many chests filled to the brim with gold. He eyes you suspiciously."
+          }
+        }
+      ]
+    }
+  ]
+}

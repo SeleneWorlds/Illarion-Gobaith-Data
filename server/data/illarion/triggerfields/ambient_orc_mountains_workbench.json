@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 158,
+    "y": -448,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Du endeckst eine grobe Gravierung im Bein der Werkbank. 'Gestohlen bei Murgo!'",
+            "messageEnglish": "#w You find a rude engraving at the leg of the workbench. 'Stolen by Murgo!'"
+          }
+        }
+      ]
+    }
+  ]
+}

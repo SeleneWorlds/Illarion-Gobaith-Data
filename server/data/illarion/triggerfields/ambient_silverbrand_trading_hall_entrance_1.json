@@ -1,0 +1,130 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 96,
+    "y": -203,
+    "z": -3
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "roll",
+          "data": {
+            "pools": [
+              {
+                "rolls": 1,
+                "entries": [
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "inform",
+                          "data": {
+                            "message": "#w Dein Blick fällt auf die fein gearbeiteten Säulen, die die unglaublich hohe Decke abstützen – ein einzigartiges Stück Zwergischer Baukunst. Die Luft in dieser Halle es ist ziemlich warm. Du hörst das Klirren von Waffen und Hammerschläge. Hinter einen Tisch steht ein alter Zwerg, der aufmerksam deinen Gürtel nach einem Geldbeutel absucht..",
+                            "messageEnglish": "#w You can see the well-worked pillars, which hold up the incredibile high ceilling – a unique piece of dwarven architecture. The air in this hall is quite warm. You can hear the clang of arms and hammers. Behind one table there is an old dwarf, who examines your belt, searching for a money bag."
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "inform",
+                          "data": {
+                            "message": "#w Dein Blick fällt auf die fein gearbeiteten Säulen, die die unglaublich hohe Decke abstützen – ein einzigartiges Stück Zwergischer Baukunst. Die Luft in dieser Halle ist es noch recht kalt. Du hörst das Klirren von Waffen und Hammerschläge. Hinter einen Tisch steht ein mürrischer alter Zwerg, der dich unfreundlich anbrummt.",
+                            "messageEnglish": "#w You can see the well-worked pillars, which hold up the incredibile high ceilling – a unique piece of dwarven architecture. The air in this hall is still quite cold. You can hear the clang of arms and hammers. Behind one table there is an crusty old dwarf, who grumbles unfriendly at you."
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "inform",
+                          "data": {
+                            "message": "#w Dein Blick fällt auf die fein gearbeiteten Säulen, die die unglaublich hohe Decke abstützen – ein einzigartiges Stück Zwergischer Baukunst. Die Luft in dieser Halle ist es ziemlich warm. Du hörst das Klirren von Waffen und Hammerschläge. Hinter einen Tisch steht ein mürrischer alter Zwerg, der dich unfreundlich anbrummt.",
+                            "messageEnglish": "#w You can see the well-worked pillars, which hold up the incredibile high ceilling – a unique piece of dwarven architecture. The air in this hall is quite warm. You can hear the clang of arms and hammers. Behind one table there is an crusty old dwarf, who grumbles unfriendly at you."
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              13,
+              14,
+              15,
+              16
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Dein Blick fällt auf die fein gearbeiteten Säulen, die die unglaublich hohe Decke abstützen – ein einzigartiges Stück Zwergischer Baukunst. Die Luft in dieser Halle ist es noch recht kalt. Du hörst das Klirren von Waffen und Hammerschläge. Hinter einen Tisch steht ein alter Zwerg, der aufmerksam deinen Gürtel nach einem Geldbeutel absucht..",
+            "messageEnglish": "#w You can see the well-worked pillars, which hold up the incredibile high ceilling – a unique piece of dwarven architecture. The air in this hall is still quite cold. You can hear the clang of arms and hammers. Behind one table there is an old dwarf, who examines your belt, searching for a money bag."
+          }
+        }
+      ]
+    }
+  ]
+}

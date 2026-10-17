@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "coordinate": {
-    "x": -62,
-    "y": -125,
-    "z": 0
-  },
-  "script": "triggerfield.ambient"
-}

@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -87,
+    "y": -116,
+    "z": 1
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Du trittst auf den Balkon der Bibliothek und hörst den Wind leise durch die Ecken pfeifen.",
+            "messageEnglish": "#w You step on the balcony of the libary and hear the sough of the wind whistles quietly in the corners."
+          }
+        }
+      ]
+    }
+  ]
+}

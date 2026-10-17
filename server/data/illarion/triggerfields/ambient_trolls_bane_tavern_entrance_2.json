@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -89,
+    "y": -90,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Du betrittst die Taverne und sogleich umhüllt dich wohlige Wärme und der Geruch von starkem Bier strömt in deine Nase.",
+            "messageEnglish": "#w You are walking in the tavern and instantly the warmth encloses you and the smell of strong beer pours into your nose."
+          }
+        }
+      ]
+    }
+  ]
+}

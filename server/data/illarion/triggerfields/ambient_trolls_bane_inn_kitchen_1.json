@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -138,
+    "y": -97,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Der Duft von frisch Gekochtem liegt in der Luft.",
+            "messageEnglish": "#w The air is filled with a flavour of fresh cooked meals."
+          }
+        }
+      ]
+    }
+  ]
+}

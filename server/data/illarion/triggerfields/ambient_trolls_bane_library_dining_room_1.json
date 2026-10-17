@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -94,
+    "y": -123,
+    "z": 1
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "south"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Beim Betreten des Raumes fallen Dir die gedeckten Tische auf. Sie laden zum Verweilen ein.",
+            "messageEnglish": "#w As you walk in the room, the set table catch your eyes. They invite to take a rest."
+          }
+        }
+      ]
+    }
+  ]
+}

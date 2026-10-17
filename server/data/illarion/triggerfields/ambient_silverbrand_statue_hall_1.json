@@ -1,0 +1,80 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 86,
+    "y": -204,
+    "z": 2
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Dein Blick fällt sofort auf die erfurchtgebietende Statue hinter dem Feuer. Erst danach fallen dir die schönen Säulen mit ihren altzwergischen Runen auf. Die Temperatur im Raum ist angenehm und es riecht nach Qualm.",
+            "messageEnglish": "#w  Immediately, you see the awe-inspiring statue behind the fire. Later, you notice the fine pillars with its ancient dwarven runes. The temperature in the room is comfortable and you smell smoke."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              13,
+              14,
+              15,
+              16
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Dein Blick fällt sofort auf die erfurchtgebietende Statue hinter dem Feuer. Erst danach fallen dir die schönen Säulen mit ihren altzwergischen Runen auf. Die Temperatur im Raum ist etwas wärmer als draußen, doch immer noch ziemlich kalt und es riecht nach Qualm.",
+            "messageEnglish": "#w Immediantly, you see the awe-inspiring statue behind the fire. Later, you notice the fine pillars with ist ancient dwarven runes. The temperature in the room is warmer than outside, but still quite cold and you smell smoke."
+          }
+        }
+      ]
+    }
+  ]
+}

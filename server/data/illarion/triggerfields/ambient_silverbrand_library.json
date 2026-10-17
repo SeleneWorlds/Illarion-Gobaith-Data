@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": 170,
+    "y": -194,
+    "z": -3
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "north"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Der Geruch von Pergament dringt dir in die Nase. Die meisten Bücher in den Regalen sind verstaubt. In der Ecke liegen einige zusammengeknüllte Blätter. ",
+            "messageEnglish": "#w The smell of pergament comes into your nose. Most of the books in the cupboard are dusty. In one corner there are waded papers."
+          }
+        }
+      ]
+    }
+  ]
+}

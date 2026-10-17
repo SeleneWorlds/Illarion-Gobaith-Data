@@ -1,0 +1,80 @@
+{
+  "enabled": true,
+  "coordinate": {
+    "x": -91,
+    "y": -115,
+    "z": 0
+  },
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              16
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Du betrittst den Altarraum und heute spürst du die göttliche Stille noch stärker als sonst. Die Götter stehen dir im Mas bei.",
+            "messageEnglish": "#w You walk into the sanctuary and instantly you feel the divine silence stronger then otherwise. The gods stand by you in the time of Mas."
+          }
+        }
+      ]
+    },
+    {
+      "event": "move_to_field",
+      "conditions": [
+        {
+          "type": "is_facing",
+          "data": {
+            "direction": "east"
+          }
+        },
+        {
+          "type": "is_month",
+          "data": {
+            "months": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          }
+        }
+      ],
+      "actions": [
+        {
+          "type": "inform",
+          "data": {
+            "message": "#w Du betrittst den Altarraum und sofort spürst du etwas wie göttliche Inspiration und göttliche Stille.",
+            "messageEnglish": "#w You walk into the sanctuary and instantly you feel something like afflatus and divine silence."
+          }
+        }
+      ]
+    }
+  ]
+}
