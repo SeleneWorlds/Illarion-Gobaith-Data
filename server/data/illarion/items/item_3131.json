@@ -1,0 +1,19 @@
+{
+  "volume": 1,
+  "weight": 25,
+  "agingSpeed": 254,
+  "objectAfterRot": null,
+  "script": "item.summoning_scroll",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "summoningScroll",
+  "level": 0,
+  "visual": "illarion:items/item_3110",
+  "metadata": {
+    "id": 3131
+  }
+}
