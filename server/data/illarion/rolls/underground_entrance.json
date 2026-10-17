@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "behavior",
+            "weight": 10,
+            "data": {
+              "actions": [
+                {
+                  "type": "inform",
+                  "data": {
+                    "message": "Ein Luftzug kommt von unten an und bringt einen Gestank mit, der dir den Atem nimmt. Hast du etwa die Kanalisation gefunden?",
+                    "messageEnglish": "A draught of air engulfs you in a cloud of unbearable stench. Should you have found the canalization of Troll's Bane?"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "behavior",
+            "weight": 10,
+            "data": {
+              "actions": [
+                {
+                  "type": "inform",
+                  "data": {
+                    "message": "Ein unangenehmer, modriger Geruch zieht von der Oeffnung im Boden zu dir herueber.",
+                    "messageEnglish": "An unpleasant smell reaches you from the hole in the floor."
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "behavior",
+            "weight": 10,
+            "data": {
+              "actions": [
+                {
+                  "type": "inform",
+                  "data": {
+                    "message": "Der Gestank vom Loch im Boden ist nicht zu uebersehen. Ist das wirklich der richtige Ort, um Trinkwasser zu holen?",
+                    "messageEnglish": "The stench coming from the hole in the floor makes you wonder if the well is the right place for getting drinking water..."
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

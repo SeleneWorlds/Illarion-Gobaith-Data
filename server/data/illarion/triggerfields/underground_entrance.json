@@ -1,0 +1,20 @@
+{
+  "enabled": false,
+  "behaviors": [
+    {
+      "event": "move_to_field",
+      "actions": [
+        {
+          "type": "roll",
+          "data": {
+            "$ref": {
+              "registry": "illarion:rolls",
+              "entry": "illarion:underground_entrance",
+              "path": "/definition"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
