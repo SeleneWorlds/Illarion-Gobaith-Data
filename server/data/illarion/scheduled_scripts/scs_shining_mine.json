@@ -1,9 +1,267 @@
 {
   "enabled": true,
-  "script": "scheduled.scs_shining_mine",
-  "function": "makelight",
   "interval": {
     "min": 10,
     "max": 30
-  }
+  },
+  "behaviors": [
+    {
+      "event": "tick",
+      "actions": [
+        {
+          "type": "roll",
+          "data": {
+            "pools": [
+              {
+                "rolls": 4,
+                "strategy": "deduplicate_skip",
+                "entries": [
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 37,
+                            "position": {
+                              "x": 395,
+                              "y": 129,
+                              "z": -13
+                            }
+                          }
+                        },
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 53,
+                            "position": {
+                              "x": 395,
+                              "y": 129,
+                              "z": -13
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 37,
+                            "position": {
+                              "x": 405,
+                              "y": 129,
+                              "z": -13
+                            }
+                          }
+                        },
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 53,
+                            "position": {
+                              "x": 405,
+                              "y": 129,
+                              "z": -13
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 37,
+                            "position": {
+                              "x": 407,
+                              "y": 136,
+                              "z": -13
+                            }
+                          }
+                        },
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 53,
+                            "position": {
+                              "x": 407,
+                              "y": 136,
+                              "z": -13
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 37,
+                            "position": {
+                              "x": 401,
+                              "y": 135,
+                              "z": -13
+                            }
+                          }
+                        },
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 53,
+                            "position": {
+                              "x": 401,
+                              "y": 135,
+                              "z": -13
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 37,
+                            "position": {
+                              "x": 398,
+                              "y": 141,
+                              "z": -13
+                            }
+                          }
+                        },
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 53,
+                            "position": {
+                              "x": 398,
+                              "y": 141,
+                              "z": -13
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 37,
+                            "position": {
+                              "x": 394,
+                              "y": 135,
+                              "z": -13
+                            }
+                          }
+                        },
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 53,
+                            "position": {
+                              "x": 394,
+                              "y": 135,
+                              "z": -13
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 37,
+                            "position": {
+                              "x": 398,
+                              "y": 132,
+                              "z": -13
+                            }
+                          }
+                        },
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 53,
+                            "position": {
+                              "x": 398,
+                              "y": 132,
+                              "z": -13
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "behavior",
+                    "weight": 1,
+                    "data": {
+                      "actions": [
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 37,
+                            "position": {
+                              "x": 405,
+                              "y": 140,
+                              "z": -13
+                            }
+                          }
+                        },
+                        {
+                          "type": "play_gfx",
+                          "data": {
+                            "gfxId": 53,
+                            "position": {
+                              "x": 405,
+                              "y": 140,
+                              "z": -13
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
 }
