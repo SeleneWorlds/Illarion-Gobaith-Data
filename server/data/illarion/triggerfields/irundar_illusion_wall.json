@@ -1,4 +1,7 @@
 {
+  "metadata": {
+    "scenario": "moonlight:irundar"
+  },
   "enabled": true,
   "coordinate": {
     "x": -50,
