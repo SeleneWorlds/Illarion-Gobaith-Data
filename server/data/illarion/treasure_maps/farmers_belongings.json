@@ -1,0 +1,2166 @@
+{
+  "metadata": {
+    "id": 1,
+    "name": "1: Buried belongings of farmers"
+  },
+  "description": {
+    "de": "vergrabene Habseligkeiten von Bauern",
+    "en": "buried belongings of farmers"
+  },
+  "summary": {
+    "de": "einen kleinen Schatz",
+    "en": "a small treasure"
+  },
+  "mapWeight": 19,
+  "quality": {
+    "min": 6,
+    "max": 9
+  },
+  "durability": {
+    "min": 50,
+    "max": 99
+  },
+  "loot": {
+    "pools": [
+      {
+        "name": "top",
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_97",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_254",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_384",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_390",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_391",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_399",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_463",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_466",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_469",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_828",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_829",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_830",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_831",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_832",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_1318",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_1319",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_1862",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_1909",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2445",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2647",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2719",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2744",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_17",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_283",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_284",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_356",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2278",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2295",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_18",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_369",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_34",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_45",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_67",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_79",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_183",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_198",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_235",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_324",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_447",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_450",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_459",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_460",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_461",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_821",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_822",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_823",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_824",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_825",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_826",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_827",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2664",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_27",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_39",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2290",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2635",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2668",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2711",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "middle",
+        "rolls": 2,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_252",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_253",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_43",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_46",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_164",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_197",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_222",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_223",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_224",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_236",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_256",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_257",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_310",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_445",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_1001",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_1317",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_1840",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_1858",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_1908",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2031",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2055",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2183",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2184",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2185",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2457",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2498",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2525",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2527",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2528",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2530",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2537",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2541",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2544",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2548",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2549",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2561",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2566",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2567",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2570",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2571",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2572",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2573",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2584",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2585",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2588",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2696",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2745",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2935",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2952",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "base",
+        "rolls": 3,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_64",
+              "count": {
+                "min": 10,
+                "max": 10
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_237",
+              "count": {
+                "min": 10,
+                "max": 10
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_294",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_322",
+              "count": {
+                "min": 10,
+                "max": 10
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_549",
+              "count": {
+                "min": 10,
+                "max": 10
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_1266",
+              "count": {
+                "min": 10,
+                "max": 10
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2645",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_3",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_21",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_22",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_26",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_50",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_56",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_69",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_168",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_170",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_293",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_314",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_333",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_543",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_544",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_726",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_733",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_735",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2529",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2536",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2560",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2586",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2786",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_41",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_54",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_104",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_174",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_175",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_176",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_177",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_178",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_179",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_234",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_251",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_255",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_316",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_431",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_545",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_546",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_736",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2534",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2535",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2543",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2547",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2550",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2577",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2579",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2716",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2717",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_2738",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "data": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "guardians": {
+    "pools": [
+      {
+        "name": "top",
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_131"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_132"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_133"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_134"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_124"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_126"
+            }
+          }
+        ]
+      },
+      {
+        "name": "middle",
+        "rolls": 2,
+        "entries": [
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_131"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_132"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_133"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_134"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_124"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_126"
+            }
+          }
+        ]
+      },
+      {
+        "name": "base",
+        "rolls": 3,
+        "entries": [
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_131"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_132"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_133"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_134"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_124"
+            }
+          },
+          {
+            "type": "monster",
+            "weight": 1,
+            "data": {
+              "monster": "illarion:monster_126"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "currency": {
+    "pools": [
+      {
+        "name": "coins",
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "item": "illarion:item_3077",
+              "count": {
+                "min": 1,
+                "max": 2
+              },
+              "quality": {
+                "min": 3,
+                "max": 3
+              },
+              "durability": {
+                "min": 33,
+                "max": 33
+              },
+              "data": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

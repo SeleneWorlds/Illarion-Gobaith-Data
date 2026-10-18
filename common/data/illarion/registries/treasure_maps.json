@@ -1,0 +1,136 @@
+{
+  "name": "treasure_maps",
+  "platform": "server",
+  "icon": "gem",
+  "schema": {
+    "description": {
+      "type": "object",
+      "properties": {
+        "de": "string",
+        "en": "string"
+      }
+    },
+    "summary": {
+      "type": "object",
+      "properties": {
+        "de": "string",
+        "en": "string"
+      }
+    },
+    "mapWeight": {
+      "type": "integer",
+      "min": 0
+    },
+    "quality": {
+      "type": "range",
+      "min": 1,
+      "max": 9
+    },
+    "durability": {
+      "type": "range",
+      "min": 0,
+      "max": 99
+    },
+    "loot": {
+      "type": "moonlight:rolls",
+      "parameters": {
+        "entryTypes": {
+          "item": {
+            "type": "object",
+            "properties": {
+              "item": {
+                "type": "registry",
+                "registry": "illarion:items"
+              },
+              "count": {
+                "type": "range",
+                "min": 1,
+                "max": 1000
+              },
+              "data": {
+                "type": "integer",
+                "optional": true
+              },
+              "quality": {
+                "type": "range",
+                "min": 1,
+                "max": 9,
+                "optional": true
+              },
+              "durability": {
+                "type": "range",
+                "min": 0,
+                "max": 99,
+                "optional": true
+              }
+            }
+          },
+          "nothing": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "conditionTypes": {}
+      }
+    },
+    "guardians": {
+      "type": "moonlight:rolls",
+      "parameters": {
+        "entryTypes": {
+          "monster": {
+            "type": "object",
+            "properties": {
+              "monster": {
+                "type": "registry",
+                "registry": "illarion:monsters"
+              }
+            }
+          }
+        },
+        "conditionTypes": {}
+      }
+    },
+    "currency": {
+      "type": "moonlight:rolls",
+      "parameters": {
+        "entryTypes": {
+          "item": {
+            "type": "object",
+            "properties": {
+              "item": {
+                "type": "registry",
+                "registry": "illarion:items"
+              },
+              "count": {
+                "type": "range",
+                "min": 1,
+                "max": 1000
+              },
+              "data": {
+                "type": "integer",
+                "optional": true
+              },
+              "quality": {
+                "type": "range",
+                "min": 1,
+                "max": 9,
+                "optional": true
+              },
+              "durability": {
+                "type": "range",
+                "min": 0,
+                "max": 99,
+                "optional": true
+              }
+            }
+          },
+          "nothing": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "conditionTypes": {}
+      }
+    }
+  }
+}
