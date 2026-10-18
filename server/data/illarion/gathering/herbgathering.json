@@ -2,7 +2,28 @@
   "attribute": "perception",
   "skill": "herb lore",
   "food": 100,
-  "interruptions": [],
+  "interruptions": [
+    {
+      "de": "Du wischst dir den Schweiß von der Stirn.",
+      "en": "You wipe sweat off your forehead."
+    },
+    {
+      "de": "Ein kleines pelziges Tier springt aus dem Gebüsch und rennt davon. Für einen Moment bist du fürchterlich erschrocken.",
+      "en": "A small, furry critter jumps out of a bush and darts off. That really surprised you."
+    },
+    {
+      "de": "Du greifst mit der Hand in eine Blattlauskolonie. Verärgert wischt du dir die Hand an der Hose ab.",
+      "en": "The plant is crowded with lice. Annoyed, you wipe your hand clean on your trousers."
+    },
+    {
+      "de": "Während du nach Kräutern suchst, verhakt sich deine Sichel und rutscht dir fast aus der Hand.",
+      "en": "While searching for herbs your sickle gets stuck and it nearly slides out of your hand."
+    },
+    {
+      "de": "Ein aufdringliches Insekt schwirrt um deinen Kopf herum. Du schlägst mit der Hand danach und versuchst es zu vertreiben.",
+      "en": "An annoying bug buzzes around your head. You strike at it in order to drive it away."
+    }
+  ],
   "events": {
     "pools": [
       {
