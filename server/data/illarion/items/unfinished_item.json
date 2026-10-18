@@ -1,0 +1,18 @@
+{
+  "volume": 1,
+  "weight": 100,
+  "agingSpeed": 254,
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 0,
+  "buyStack": 1,
+  "maxStack": 1,
+  "rareness": 1,
+  "name": "unfinished_item",
+  "level": 0,
+  "visual": "illarion:items/item_1",
+  "metadata": {
+    "id": 3133
+  },
+  "script": "item.unfinished_item"
+}
