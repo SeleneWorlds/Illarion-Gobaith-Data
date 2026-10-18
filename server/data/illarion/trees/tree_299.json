@@ -1,0 +1,90 @@
+{
+  "items": [
+    299,
+    300
+  ],
+  "stump": 541,
+  "fallenLogs": {
+    "north": 564,
+    "east": 565,
+    "south": 566,
+    "west": 567
+  },
+  "maxLogs": 15,
+  "timber": {
+    "pools": [
+      {
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "id": 543,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          }
+        ]
+      },
+      {
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "id": 2786,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      {
+        "type": "woodcutting_success",
+        "data": {
+          "base": 2,
+          "perSkill": -0.01
+        }
+      }
+    ]
+  },
+  "roots": {
+    "conditions": [
+      {
+        "type": "uprooting_success",
+        "data": {
+          "perSkill": 1,
+          "perStrength": 1
+        }
+      }
+    ],
+    "pools": [
+      {
+        "entries": [
+          {
+            "type": "root",
+            "weight": 1,
+            "data": {
+              "id": 152,
+              "quantity": 1,
+              "quality": 999,
+              "data": 0,
+              "message": {
+                "de": "Unter dem Baumstumpf findest du seltsame Wurzeln.",
+                "en": "Below the tree stump you find strange roots."
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

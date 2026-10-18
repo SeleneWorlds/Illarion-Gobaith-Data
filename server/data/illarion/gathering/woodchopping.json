@@ -1,0 +1,132 @@
+{
+  "attribute": "strength",
+  "skill": "lumberjacking",
+  "food": 100,
+  "interruptions": [],
+  "events": {
+    "pools": [
+      {
+        "name": "treasure",
+        "entries": [
+          {
+            "type": "treasure",
+            "weight": 0.015,
+            "data": {
+              "message": {
+                "de": "Fein säuberlich aufgerollt findest du eine Schatzkarte in einem ausgehöhlten Ast.",
+                "en": "You find a treasure map in a hollowed-out branch, neatly rolled up."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.985
+          }
+        ]
+      },
+      {
+        "name": "monster",
+        "entries": [
+          {
+            "type": "monster",
+            "weight": 0.02,
+            "data": {
+              "id": 221,
+              "message": {
+                "de": "Dein Frevel gegen die Natur ruft die Wächter der Bäume herbei. Wie aus dem Nichts stampft ein wütender Troll auf dich zu.",
+                "en": "Your crimes against nature summon the guardian of the trees. Out of nowhere, an angry troll stomps towards you."
+              },
+              "sound": 4,
+              "gfx": [
+                7
+              ]
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.98
+          }
+        ]
+      },
+      {
+        "name": "items",
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2551,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Für deine harte und ehrliche Arbeit belohnt dich Findari, die Göttin der Luft, mit einem Kleinod aus Reiner Luft.",
+                "en": "For your hard and honest labour, Findari, the Godess of Air, awards you with a treasure of Pure Air."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 45,
+              "quantity": 1,
+              "quality": 333,
+              "data": 1,
+              "message": {
+                "de": "Im Unterholz erspähst du einen grün funkelnden Gegenstand. Du findest einen magischen Smaragd.",
+                "en": "In the undergrowth you spot a green sparkling object. You find a magical emerald."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2441,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Im Erdboben machst du einen alten, rostigen Helm aus. Ein Überbleibsel einer längst vergessenen Schlacht?",
+                "en": "On the soil you find an old, rusty helmet. A remnant of a long-forgotten battle?"
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.05,
+            "data": {
+              "id": 235,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "In einer Spechthöhle findest du einen goldenen Ring. Wird er dich ins Dunkle treiben?",
+                "en": "In a woodpecker's hole you find a golden ring. Will it bring them all, and in the darkness bind them?"
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "id": 2664,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Du findest einen Ast, den man auch sehr gut als Keule verwenden könnte.",
+                "en": "You find a branch that could be used as a club."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.835
+          }
+        ]
+      }
+    ]
+  }
+}

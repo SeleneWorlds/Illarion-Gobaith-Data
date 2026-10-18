@@ -1,0 +1,64 @@
+{
+  "name": "trees",
+  "platform": "server",
+  "icon": "tree-deciduous",
+  "schema": {
+    "items": {
+      "type": "array",
+      "valueType": "integer"
+    },
+    "stump": "integer",
+    "fallenLogs": {
+      "type": "object",
+      "properties": {
+        "north": "integer",
+        "east": "integer",
+        "south": "integer",
+        "west": "integer"
+      }
+    },
+    "maxLogs": "integer",
+    "timber": {
+      "type": "moonlight:rolls",
+      "parameters": {
+        "entryTypes": {
+          "item": "illarion:roll_item",
+          "nothing": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "conditionTypes": {
+          "woodcutting_success": {
+            "type": "object",
+            "properties": {
+              "base": "number",
+              "perSkill": "number"
+            }
+          }
+        }
+      }
+    },
+    "roots": {
+      "type": "moonlight:rolls",
+      "parameters": {
+        "entryTypes": {
+          "root": "illarion:roll_item",
+          "nothing": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "conditionTypes": {
+          "uprooting_success": {
+            "type": "object",
+            "properties": {
+              "perSkill": "number",
+              "perStrength": "number"
+            }
+          }
+        }
+      }
+    }
+  }
+}

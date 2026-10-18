@@ -1,0 +1,20 @@
+{
+  "name": "fishing",
+  "platform": "server",
+  "icon": "fish",
+  "schema": {
+    "catch": {
+      "type": "moonlight:rolls",
+      "parameters": {
+        "entryTypes": {
+          "item": "illarion:roll_item",
+          "nothing": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "conditionTypes": {}
+      }
+    }
+  }
+}

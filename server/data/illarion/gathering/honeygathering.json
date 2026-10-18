@@ -1,0 +1,153 @@
+{
+  "attribute": "constitution",
+  "skill": "peasantry",
+  "food": 100,
+  "interruptions": [
+    {
+      "de": "Du wirst von etwas in dem Bienenstock gestochen. Was das wohl wahr?",
+      "en": "Something stings you inside the beehive. What could that be?"
+    },
+    {
+      "de": "Du wischst dir den Schweiß von der Stirn.",
+      "en": "You wipe sweat off your forehead."
+    },
+    {
+      "de": "Du wirfst kurz einen Blick in den Bienenkorb um nach einer besseren Stelle für Honigwaben zu suchen.",
+      "en": "You decide to search deeper for honeycombs."
+    },
+    {
+      "de": "Du greifst direkt in eine Stelle mit Honig und ziehst die Hand zurück. Nun bleibt dir wohl nichts anderes übrig als dir die Finger abzulecken.",
+      "en": "You decide to take a short break to lick off honey from your hands"
+    },
+    {
+      "de": "Ein aufdringliches Insekt schwirrt um deinen Kopf herum. Du schlägst mit der Hand danach und versuchst es zu vertreiben.",
+      "en": "A curious bee buzzes around your head and you try to scare it away."
+    }
+  ],
+  "events": {
+    "pools": [
+      {
+        "name": "treasure",
+        "entries": [
+          {
+            "type": "treasure",
+            "weight": 0.015,
+            "data": {
+              "message": {
+                "de": "Oh! Jemand hat eine Schatzkarte in diesem Bienenstock versteckt. Was für eine Überrachung!",
+                "en": "Oh! Someone has hidden a treasure map in this hive. What a surprise!"
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.985
+          }
+        ]
+      },
+      {
+        "name": "monster",
+        "entries": [
+          {
+            "type": "monster",
+            "weight": 0.02,
+            "data": {
+              "id": 122,
+              "message": {
+                "de": "Eine über deine Handlungen etwas erboste Biene scheint sich dazu entschlossen zu haben, deinen Handlungen ein Ende zu setzten.",
+                "en": "A bee, unamused by your deeds, appears to have decided to put them to an end."
+              },
+              "sound": 4,
+              "gfx": [
+                7
+              ]
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.98
+          }
+        ]
+      },
+      {
+        "name": "items",
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2551,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Für deine harte und ehrliche Arbeit belohnt dich Findari, die Göttin der Luft, mit einem Kleinod aus Reiner Luft.",
+                "en": "For your hard and honest labour, Findari, the Godess of Air, awards you with a treasure of Pure Air."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 46,
+              "quantity": 1,
+              "quality": 333,
+              "data": 1,
+              "message": {
+                "de": "Im Inneren des Bienenstocks bemerkst du ein rot glühendes Licht. Du findest einen magischen Rubin.",
+                "en": "Inside the hive, you notice a red light. You find a magical ruby."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2744,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Ein Imkerkollege scheint hier seine Pfeife vergessen zu haben. Du nimmst sie an dich.",
+                "en": "A beekeeper colleague seems to have forgotten his pipe. You take it with you."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.05,
+            "data": {
+              "id": 151,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Die Bienen haben offensichtlich Vorräte angelegt. Sogar eine ganze Erdbeere haben sie in ihren Stock geschleppt.",
+                "en": "The bees seem to have gathered a stash. They have dragged even an entire strawberry to their hive."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "id": 431,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "An deinen Händen bleibt klebriger Wachs hängen.",
+                "en": "Your hands get stuck in sticky wax."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.835
+          }
+        ]
+      }
+    ]
+  }
+}

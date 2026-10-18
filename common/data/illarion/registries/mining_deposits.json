@@ -1,0 +1,35 @@
+{
+  "name": "mining_deposits",
+  "platform": "server",
+  "icon": "pickaxe",
+  "schema": {
+    "area": {
+      "type": "registry",
+      "registry": "illarion:areas"
+    },
+    "rock": "integer",
+    "depletedRock": "integer",
+    "yield": {
+      "type": "moonlight:rolls",
+      "parameters": {
+        "entryTypes": {
+          "item": "illarion:roll_item",
+          "nothing": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "conditionTypes": {
+          "minimum_skill": "number",
+          "mining_success": {
+            "type": "object",
+            "properties": {
+              "base": "number",
+              "perSkill": "number"
+            }
+          }
+        }
+      }
+    }
+  }
+}

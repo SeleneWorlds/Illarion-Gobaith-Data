@@ -1,0 +1,132 @@
+{
+  "attribute": "constitution",
+  "skill": "peasantry",
+  "food": 100,
+  "interruptions": [],
+  "events": {
+    "pools": [
+      {
+        "name": "treasure",
+        "entries": [
+          {
+            "type": "treasure",
+            "weight": 0.015,
+            "data": {
+              "message": {
+                "de": "Ein herumliegendes Stück Papier scheint sich vorzüglich dazu zu eignen, die Früchte einzuwickeln. Als du es dir genauer anschaust, erlebst du eine Überraschung…",
+                "en": "A piece of paper, lying around, seems to be specifically suited to wrap the fruits. On closer inspection you experience a surprise..."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.985
+          }
+        ]
+      },
+      {
+        "name": "monster",
+        "entries": [
+          {
+            "type": "monster",
+            "weight": 0.02,
+            "data": {
+              "id": 121,
+              "message": {
+                "de": "Eine Wespe schnellt heran, um dir die süßen Früchte streitig zu machen.",
+                "en": "A wasp shoots up to you to dispute the sweet fruit."
+              },
+              "sound": 4,
+              "gfx": [
+                7
+              ]
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.98
+          }
+        ]
+      },
+      {
+        "name": "items",
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2551,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Für deine harte und ehrliche Arbeit belohnt dich Findari, die Göttin der Luft, mit einem Kleinod aus Reiner Luft.",
+                "en": "For your hard and honest labour, Findari, the Godess of Air, awards you with a treasure of Pure Air."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 197,
+              "quantity": 1,
+              "quality": 333,
+              "data": 1,
+              "message": {
+                "de": "Zwischen all den Früchten siehst du auf einmal ein strahlendes Etwas. Du findest einen magischen Amethyst.",
+                "en": "Between all the fruit you suddenly spot a flickering reflection. You find a magical amethyst."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 65,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Bei genauer Betrachtung entpuppt sich ein Ast am Boden als Bogen. Ob den ein elfischer Späher hier deponiert hat?",
+                "en": "On closer inspection, a branch on the ground turns out to be bow. Was it disposed by an elven scout here?"
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.05,
+            "data": {
+              "id": 2295,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Über einem Ast hängt ein paar alter Handschuhe. Der Besitzer vermisst die offenbahr nicht.",
+                "en": "Over a branch hangs a pair of old gloves. The owner does not miss them it would seem."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "id": 463,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Eine Feder hat sich zwischen den Zweigen verfangen. Ob man mit ihr auch schreiben kann?",
+                "en": "A feather lies entangled among the branches. Perhaps one could write with it?"
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.835
+          }
+        ]
+      }
+    ]
+  }
+}

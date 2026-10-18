@@ -1,0 +1,30 @@
+{
+  "name": "herb_harvests",
+  "platform": "server",
+  "icon": "leaf",
+  "schema": {
+    "item": "integer",
+    "ground": "integer",
+    "minimumSkill": "number",
+    "consumePlant": "boolean",
+    "yield": {
+      "type": "moonlight:rolls",
+      "parameters": {
+        "entryTypes": {
+          "item": "illarion:roll_item",
+          "nothing": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "conditionTypes": {
+          "chance": "number",
+          "seasonal_chance": {
+            "type": "array",
+            "valueType": "number"
+          }
+        }
+      }
+    }
+  }
+}

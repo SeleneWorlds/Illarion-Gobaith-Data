@@ -1,0 +1,28 @@
+{
+  "name": "fruit_harvests",
+  "platform": "server",
+  "icon": "apple",
+  "schema": {
+    "item": "integer",
+    "ground": "integer",
+    "depletedItem": "integer",
+    "seasons": {
+      "type": "array",
+      "valueType": "integer"
+    },
+    "stock": "integer",
+    "yield": {
+      "type": "moonlight:rolls",
+      "parameters": {
+        "entryTypes": {
+          "item": "illarion:roll_item",
+          "nothing": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "conditionTypes": {}
+      }
+    }
+  }
+}

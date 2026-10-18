@@ -1,0 +1,27 @@
+{
+  "definition": {
+    "type": "object",
+    "properties": {
+      "id": "integer",
+      "quantity": "integer",
+      "quality": "integer",
+      "data": "integer",
+      "message": {
+        "type": "object",
+        "properties": {
+          "de": "string",
+          "en": "string"
+        },
+        "optional": true
+      },
+      "qualityMin": {
+        "type": "integer",
+        "optional": true
+      },
+      "qualityMax": {
+        "type": "integer",
+        "optional": true
+      }
+    }
+  }
+}

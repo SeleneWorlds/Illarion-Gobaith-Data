@@ -1,0 +1,62 @@
+{
+  "area": "illarion:mine_kupferberge_1",
+  "rock": 914,
+  "depletedRock": 1265,
+  "yield": {
+    "pools": [
+      {
+        "entries": [
+          {
+            "type": "item",
+            "weight": 20,
+            "data": {
+              "id": 2536,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 50,
+            "data": {
+              "id": 22,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 2,
+            "data": {
+              "id": 234,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 29,
+            "data": {
+              "id": 735,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      {
+        "type": "mining_success",
+        "data": {
+          "base": 40,
+          "perSkill": 0.5
+        }
+      }
+    ]
+  }
+}

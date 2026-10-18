@@ -1,0 +1,26 @@
+{
+  "input": {
+    "id": 170,
+    "quantity": 2,
+    "location": "belt"
+  },
+  "yield": {
+    "pools": [
+      {
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "id": 50,
+              "quantity": 2,
+              "quality": 333,
+              "data": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "priority": 0
+}

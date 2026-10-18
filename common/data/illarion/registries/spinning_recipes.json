@@ -1,0 +1,29 @@
+{
+  "name": "spinning_recipes",
+  "platform": "server",
+  "icon": "scissors",
+  "schema": {
+    "input": {
+      "type": "object",
+      "properties": {
+        "id": "integer",
+        "quantity": "integer",
+        "location": "string"
+      }
+    },
+    "yield": {
+      "type": "moonlight:rolls",
+      "parameters": {
+        "entryTypes": {
+          "item": "illarion:roll_item",
+          "nothing": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "conditionTypes": {}
+      }
+    },
+    "priority": "integer"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "attribute": "strength",
+  "skill": "mining",
+  "food": 100,
+  "interruptions": [
+    {
+      "de": "Du wischst dir den Schweiß von der Stirn.",
+      "en": "You wipe sweat off your forehead."
+    },
+    {
+      "de": "Du stößt beim Graben auf einen großen Stein. Der plötzliche Schlag auf die Schaufel lässt sie dir beinahe aus der Hand rutschen",
+      "en": "While digging you hit a big stone, the sudden impact makes you almost drop your shovel."
+    },
+    {
+      "de": "Ein aufdringliches Insekt schwirrt um deinen Kopf herum. Du schlägst mit der Hand danach und versuchst es zu vertreiben.",
+      "en": "An annoying bug buzzes around your head. You strike at it in order to drive it away."
+    },
+    {
+      "de": "Das Graben im Sand macht dich sehr durstig und du hälst kurz inne.",
+      "en": "Digging for sand makes you thirsty. You have to take a short break."
+    },
+    {
+      "de": "Du meinst du hättest etwas vor dir gesehen, aber es war wohl nur eine Luftspiegelung.",
+      "en": "Something in front of you catches your attention. Just a mirage..."
+    }
+  ],
+  "events": {
+    "pools": [
+      {
+        "name": "treasure",
+        "entries": [
+          {
+            "type": "treasure",
+            "weight": 0.015,
+            "data": {
+              "message": {
+                "de": "Der Sand gibt eine gut erhaltene Karte frei. Die Hitze konnte dem Pergament nichts anhaben.",
+                "en": "In the sand there is a well-preserved map. The heat could not harm the parchment."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.985
+          }
+        ]
+      },
+      {
+        "name": "monster",
+        "entries": [
+          {
+            "type": "monster",
+            "weight": 0.02,
+            "data": {
+              "id": 161,
+              "message": {
+                "de": "Tief im Sand stößt du auf etwas schwarzes, krabbelndes. Ein vorschnellender Stachel ist nur der Vorbote dessen, was du gerade erweckt hast.",
+                "en": "Deep in the sand you reveal something black, crawling. A darting sting is only the harbinger of what you've just awakened."
+              },
+              "sound": 4,
+              "gfx": [
+                7
+              ]
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.98
+          }
+        ]
+      },
+      {
+        "name": "items",
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2553,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Für deine harte und ehrliche Arbeit belohnt dich Brágon, die Gott des Feuers, mit einem Kleinod aus Reinem Feuer.",
+                "en": "For your hard and honest labour, Brágon, the God of Fire, awards you with a treasure of Pure Fire."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 198,
+              "quantity": 1,
+              "quality": 333,
+              "data": 1,
+              "message": {
+                "de": "Ein Stein, strahlend wie die heiße Wüstensonne, kommt zwischen all dem Sand zum Vorschein. Du findest einen magischen Topa.",
+                "en": "A stone, bright as the hot desert sun, reveals itself between all the sand. You find a magic topaz."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 3077,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Eine funkelnde Münze liegt auf deinem Schaufelblatt. Hat sich die harte Arbeit doch gelohnt!",
+                "en": "A shining coin is on your shovel blade. The hard work pays off, finally!"
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.05,
+            "data": {
+              "id": 21,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Du findest einige noch heiße Kohlen im Sand. Ein Glück, dass du nicht auf diese Überreste einer nächtlichen Grillfeier getreten bist.",
+                "en": "You find some hot coals in the sand. It's lucky that you did not stomp on the remains of a midnight barbeque."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "id": 1266,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Deine Schaufel stößt auf einen runden Kieselstein.",
+                "en": "Your shovel encounters a round pebble."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.835
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "attribute": "perception",
+  "skill": "herb lore",
+  "food": 100,
+  "interruptions": [],
+  "events": {
+    "pools": [
+      {
+        "name": "treasure",
+        "entries": [
+          {
+            "type": "treasure",
+            "weight": 0.015,
+            "data": {
+              "message": {
+                "de": "Unter einer Lage Blätter stößt du auf eine Schatzkarte. Hoffentlich ist der Besitzer nicht in der Nähe.",
+                "en": "Under a layer of leaves you find a treasure map. Hopefully, the owner is not nearby."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.985
+          }
+        ]
+      },
+      {
+        "name": "monster",
+        "entries": [
+          {
+            "type": "monster",
+            "weight": 0.02,
+            "data": {
+              "id": 132,
+              "message": {
+                "de": "Einige Fliegen steigen aus dem Gestrüpp auf, offensichtlich unerfreut über die Störung.",
+                "en": "Some flies appear from the bushes, apparently displeased about the disturbance."
+              },
+              "sound": 4,
+              "gfx": [
+                7
+              ]
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.98
+          }
+        ]
+      },
+      {
+        "name": "items",
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2553,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Für deine harte und ehrliche Arbeit belohnt dich Brágon, die Gott des Feuers, mit einem Kleinod aus Reinem Feuer.",
+                "en": "For your hard and honest labour, Brágon, the God of Fire, awards you with a treasure of Pure Fire."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 284,
+              "quantity": 1,
+              "quality": 333,
+              "data": 1,
+              "message": {
+                "de": "Tief im Gestrüpp machst du ein blaues, unheimliches Leuchten aus. Du findest einen magischen Blaustein.",
+                "en": "Deep in the shrub you notice a blue, eerie glow. You find a magical bluestone."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2183,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Ein alter Krug liegt verlassen und einsam im Gebüsch.",
+                "en": "An old mug lies abandoned and lonesome in the bushes."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.05,
+            "data": {
+              "id": 799,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Ein Weidenkorb liegt am Boden. Er scheint noch brauchbar zu sein.",
+                "en": "A wicker basket lies on the ground. It still seems to be usable."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "id": 2570,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Ein Griff einer alten Sichel liegt achtlos weggeworfen zwischen Blättern und Ästen herum.",
+                "en": "A handle of an old sickle lies between the leaves and branches, carelessly tossed away."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.835
+          }
+        ]
+      }
+    ]
+  }
+}

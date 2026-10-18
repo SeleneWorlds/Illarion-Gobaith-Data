@@ -1,0 +1,20 @@
+{
+  "name": "honey_harvests",
+  "platform": "server",
+  "icon": "flower",
+  "schema": {
+    "yield": {
+      "type": "moonlight:rolls",
+      "parameters": {
+        "entryTypes": {
+          "item": "illarion:roll_item",
+          "nothing": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "conditionTypes": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "attribute": "perception",
+  "skill": "fishing",
+  "food": 100,
+  "interruptions": [],
+  "events": {
+    "pools": [
+      {
+        "name": "treasure",
+        "entries": [
+          {
+            "type": "treasure",
+            "weight": 0.015,
+            "data": {
+              "message": {
+                "de": "Statt eines Fisches hast du eine Karte am Haken hängen.",
+                "en": "Instead of a fish you find a map hanging on your hook."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.985
+          }
+        ]
+      },
+      {
+        "name": "monster",
+        "entries": [
+          {
+            "type": "monster",
+            "weight": 0.02,
+            "data": {
+              "id": 101,
+              "message": {
+                "de": "Ein heftiger Ruck reißt dir fast die Angel aus der Hand. Noch während du dich wunderst teilt sich das Wasser vor dir und eine glitschige Wasserleiche steigt aus den Wellen empor.",
+                "en": "A heavy force pulls on your fishing rod. While you are wondering what it could be, the water in front of you ripples and a slimy mummy climbs out of the water."
+              },
+              "sound": 4,
+              "gfx": [
+                7
+              ]
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.98
+          }
+        ]
+      },
+      {
+        "name": "items",
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2554,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Für deine harte und ehrliche Arbeit belohnt dich Tanora, die Göttin des Wassers, mit einem Kleinod aus Reinem Wasser.",
+                "en": "For your hard and honest labour, Tanora, the Godess of Water, awards you with a treasure of Pure Water."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 284,
+              "quantity": 1,
+              "quality": 333,
+              "data": 1,
+              "message": {
+                "de": "Im Wasser kaum auszumachen, erspähst du ein blaues Funkeln am Boden des Gewässers. Du findest einen magischen Blaustein.",
+                "en": "In the water, you spot a barely noticeable blue sparkle at the bottom of the water. You find a magical bluestone."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 51,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Ein Eimer verfängt sich in deiner Angelschnur. Den hat hier wohl jemand verloren.",
+                "en": "A bucket gets caught in your fishing line. Someone must have lost it here."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.05,
+            "data": {
+              "id": 92,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Du ziehst eine glitzernde Öllampe aus dem Wasser. Wo die wohl herkommt...?",
+                "en": "You pull a sparkling oil lamp out of the water. Where did that come from?"
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "id": 53,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Ein alter, durchlöcherter Lederstiefel hängt am Haken.",
+                "en": "An old, perforated leather boot hangs on your hook."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.835
+          }
+        ]
+      }
+    ]
+  }
+}

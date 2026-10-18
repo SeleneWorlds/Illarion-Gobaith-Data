@@ -1,0 +1,26 @@
+{
+  "input": {
+    "id": 544,
+    "quantity": 1,
+    "location": "all"
+  },
+  "yield": {
+    "pools": [
+      {
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "id": 314,
+              "quantity": 3,
+              "quality": 333,
+              "data": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "priority": 2
+}

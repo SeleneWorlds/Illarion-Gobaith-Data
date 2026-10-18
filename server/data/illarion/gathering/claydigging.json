@@ -1,0 +1,153 @@
+{
+  "attribute": "strength",
+  "skill": "mining",
+  "food": 100,
+  "interruptions": [
+    {
+      "de": "Du wischst dir den Schweiß von der Stirn.",
+      "en": "You wipe sweat off your forehead."
+    },
+    {
+      "de": "Du stößt beim Graben auf einen großen Stein. Der plötzliche Schlag auf die Schaufel lässt sie dir beinahe aus der Hand rutschen",
+      "en": "While digging you hit a big stone, the sudden impact makes you almost drop your shovel."
+    },
+    {
+      "de": "Ein aufdringliches Insekt schwirrt um deinen Kopf herum. Du schlägst mit der Hand danach und versuchst es zu vertreiben.",
+      "en": "An annoying bug buzzes around your head. You strike at it in order to drive it away."
+    },
+    {
+      "de": "Du bekommst einen Schlammspritzer ins Gesicht und musst ihn kurz mit den Ärmel abwischen.",
+      "en": "Mud splatters your face. You clean your face with your sleave."
+    },
+    {
+      "de": "Das Loch, in dem du gräbst, füllt sich mit Wasser und du mußt es kurz abschöpfen.",
+      "en": "The pit you are digging fills with water you have to scoop first."
+    }
+  ],
+  "events": {
+    "pools": [
+      {
+        "name": "treasure",
+        "entries": [
+          {
+            "type": "treasure",
+            "weight": 0.015,
+            "data": {
+              "message": {
+                "de": "Von einer Lederhülle umgeben, findest du eine alte Karte. Die hat definitiv niemand absichtlich hier hinterlassen.",
+                "en": "Surrounded by a leather cover, you find an old map. It was definitely not left here intentionally."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.985
+          }
+        ]
+      },
+      {
+        "name": "monster",
+        "entries": [
+          {
+            "type": "monster",
+            "weight": 0.02,
+            "data": {
+              "id": 341,
+              "message": {
+                "de": "Im Morast stößt du auf eine bedauernswerte Moorleiche. Jedoch scheinst du derjenige zu sein, den man fortan betrauern wird.",
+                "en": "In the mud you find an deplorable bog body. However, you seem to be the one who will be mourned henceforth."
+              },
+              "sound": 4,
+              "gfx": [
+                7
+              ]
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.98
+          }
+        ]
+      },
+      {
+        "name": "items",
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2554,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Für deine harte und ehrliche Arbeit belohnt dich Tanora, die Göttin des Wassers, mit einem Kleinod aus Reinem Wasser.",
+                "en": "For your hard and honest labour, Tanora, the Godess of Water, awards you with a treasure of Pure Water."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 283,
+              "quantity": 1,
+              "quality": 333,
+              "data": 1,
+              "message": {
+                "de": "Tief im Matsch stößt deine Schaufel auf etwas hartes. Du findest einen magischen Schwarzstein.",
+                "en": "Deep in the mud your shovel hits on something hard. You find a magical blackstone."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2658,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Du findest eine Knochenhand im Matsch. Sie umklammert ein altes Schwert.",
+                "en": "You find a boney hand in the mud. It clutches an old sword."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.05,
+            "data": {
+              "id": 51,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Du ziehst einen alten Eimer aus dem Schlick.",
+                "en": "You draw an old bucket from the silt."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "id": 2184,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Ein Tonkrug offenbahrt sich im Matsch. Die Überreste einer alten Zivilisation oder einfach nur vom letzten Saufgelage?",
+                "en": "A clay mug reveals itself in the mud. The remains of an ancient civilisation, or just of the last drinking bout?"
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.835
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "item": 300,
+  "ground": 0,
+  "depletedItem": 299,
+  "seasons": [
+    6,
+    10,
+    9,
+    0
+  ],
+  "stock": 20,
+  "yield": {
+    "pools": [
+      {
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "id": 302,
+              "quantity": 1,
+              "quality": 333,
+              "data": 83,
+              "qualityMin": 111,
+              "qualityMax": 999
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

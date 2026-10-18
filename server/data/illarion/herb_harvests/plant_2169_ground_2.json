@@ -1,0 +1,35 @@
+{
+  "item": 2169,
+  "ground": 2,
+  "minimumSkill": 30,
+  "consumePlant": false,
+  "yield": {
+    "pools": [
+      {
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "id": 157,
+              "quantity": 1,
+              "quality": 333,
+              "data": 11
+            }
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      {
+        "type": "seasonal_chance",
+        "data": [
+          10,
+          16,
+          10,
+          1
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "item": 537,
+  "ground": 0,
+  "minimumSkill": 0,
+  "consumePlant": true,
+  "yield": {
+    "pools": [
+      {
+        "entries": [
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "id": 201,
+              "quantity": 1,
+              "quality": 333,
+              "data": 74
+            }
+          }
+        ]
+      }
+    ],
+    "conditions": []
+  }
+}

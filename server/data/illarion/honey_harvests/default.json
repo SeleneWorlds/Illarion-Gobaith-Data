@@ -1,0 +1,24 @@
+{
+  "yield": {
+    "pools": [
+      {
+        "entries": [
+          {
+            "type": "item",
+            "weight": 6,
+            "data": {
+              "id": 2529,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 4
+          }
+        ]
+      }
+    ]
+  }
+}

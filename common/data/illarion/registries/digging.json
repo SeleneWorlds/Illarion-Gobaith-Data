@@ -1,0 +1,54 @@
+{
+  "name": "digging",
+  "platform": "server",
+  "icon": "shovel",
+  "schema": {
+    "yield": {
+      "type": "moonlight:rolls",
+      "parameters": {
+        "entryTypes": {
+          "material": {
+            "type": "object",
+            "properties": {
+              "id": "integer",
+              "quality": "integer",
+              "data": "integer",
+              "message": {
+                "type": "object",
+                "properties": {
+                  "de": "string",
+                  "en": "string"
+                },
+                "optional": true
+              },
+              "qualityMin": {
+                "type": "integer",
+                "optional": true
+              },
+              "qualityMax": {
+                "type": "integer",
+                "optional": true
+              },
+              "perSkill": "number",
+              "perPerception": "number"
+            }
+          },
+          "nothing": {
+            "type": "object",
+            "properties": {}
+          }
+        },
+        "conditionTypes": {
+          "digging_success": {
+            "type": "object",
+            "properties": {
+              "base": "number",
+              "perSkill": "number",
+              "perDexterity": "number"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "attribute": "dexterity",
+  "skill": "peasantry",
+  "food": 100,
+  "interruptions": [],
+  "events": {
+    "pools": [
+      {
+        "name": "treasure",
+        "entries": [
+          {
+            "type": "treasure",
+            "weight": 0.015,
+            "data": {
+              "message": {
+                "de": "Mit einem lauten 'Mäh' kratzt und schnüffelt das Schaf am Boden. Was du dort findest, macht dich sprachlos…",
+                "en": "With a loud 'Baa' the sheep scratches and sniffs on the ground. What you find there makes you speechless..."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.985
+          }
+        ]
+      },
+      {
+        "name": "monster",
+        "entries": [
+          {
+            "type": "monster",
+            "weight": 0.02,
+            "data": {
+              "id": 131,
+              "message": {
+                "de": "Während du die Wolle einsammelst, formiert sich ein lästiger Schwarm ungeöhnlich agressiver Fliegen.",
+                "en": "While you gather the wool, a swarm of annoying, aggressive flies forms. They dart towards you!"
+              },
+              "sound": 4,
+              "gfx": [
+                7
+              ]
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.98
+          }
+        ]
+      },
+      {
+        "name": "items",
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2553,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Für deine harte und ehrliche Arbeit belohnt dich Brágon, der Gott des Feuers, mit einem Kleinod aus Reinem Feuer.",
+                "en": "For your hard and honest labour, Brágon, the God of Fire, awards you with a treasure of Pure Fire."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 285,
+              "quantity": 1,
+              "quality": 333,
+              "data": 1,
+              "message": {
+                "de": "Während du das Schaf scherst, tritt dein Fuss achtlos gegen einen Stein, welcher sich aber als durchaus beachtenswert herausstellt. Du findest einen magischen Diamant.",
+                "en": "While you shear the sheep your foot kicks a stone carelessly. It turns out to be quite remarkable. You find a magical diamond."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 222,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Dieses Schaf trägt ein merkwürdiges Amulett um den Hals. Wer kommt auf solch eine Idee?",
+                "en": "This sheep is bearing a strange amulet around its neck. Who had such an idea?"
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.05,
+            "data": {
+              "id": 153,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Ein großes Blatt hat sich im Fell des Schafes verfangen. Du betreibst zunächst ein wenig Fellpflege, bevor du weiter scherst.",
+                "en": "A large leaf was tangled in the fur of the sheep. You do a little grooming before you continue shearing."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "id": 156,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Etwas Gras hat sich im Fell des Schafs verfangen. Du entfernst das klebrige Grünzeug.",
+                "en": "Some grass was ensnared in the fur of the sheep. You remove the sticky green substance."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.835
+          }
+        ]
+      }
+    ]
+  }
+}

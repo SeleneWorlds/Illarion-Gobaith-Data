@@ -1,0 +1,78 @@
+{
+  "name": "gathering",
+  "platform": "server",
+  "icon": "timer",
+  "schema": {
+    "attribute": "string",
+    "skill": "string",
+    "food": "integer",
+    "interruptions": {
+      "type": "array",
+      "valueType": {
+        "type": "object",
+        "properties": {
+          "de": "string",
+          "en": "string"
+        }
+      }
+    },
+    "events": {
+      "type": "moonlight:rolls",
+      "parameters": {
+        "entryTypes": {
+          "nothing": {
+            "type": "object",
+            "properties": {}
+          },
+          "treasure": {
+            "type": "object",
+            "properties": {
+              "message": {
+                "type": "object",
+                "properties": {
+                  "de": "string",
+                  "en": "string"
+                }
+              }
+            }
+          },
+          "monster": {
+            "type": "object",
+            "properties": {
+              "id": "integer",
+              "message": {
+                "type": "object",
+                "properties": {
+                  "de": "string",
+                  "en": "string"
+                }
+              },
+              "sound": "integer",
+              "gfx": {
+                "type": "array",
+                "valueType": "integer"
+              }
+            }
+          },
+          "item": {
+            "type": "object",
+            "properties": {
+              "id": "integer",
+              "quantity": "integer",
+              "quality": "integer",
+              "data": "integer",
+              "message": {
+                "type": "object",
+                "properties": {
+                  "de": "string",
+                  "en": "string"
+                }
+              }
+            }
+          }
+        },
+        "conditionTypes": {}
+      }
+    }
+  }
+}

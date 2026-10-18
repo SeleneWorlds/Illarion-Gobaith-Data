@@ -1,0 +1,62 @@
+{
+  "area": "illarion:mine_silberbrand_1",
+  "rock": 1246,
+  "depletedRock": 915,
+  "yield": {
+    "pools": [
+      {
+        "entries": [
+          {
+            "type": "item",
+            "weight": 40,
+            "data": {
+              "id": 21,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 5,
+            "data": {
+              "id": 251,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "id": 255,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 55,
+            "data": {
+              "id": 735,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      {
+        "type": "mining_success",
+        "data": {
+          "base": 40,
+          "perSkill": 0.5
+        }
+      }
+    ]
+  }
+}

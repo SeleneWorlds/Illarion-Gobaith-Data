@@ -1,0 +1,34 @@
+{
+  "catch": {
+    "pools": [
+      {
+        "entries": [
+          {
+            "type": "item",
+            "weight": 3,
+            "data": {
+              "id": 73,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 5,
+            "data": {
+              "id": 355,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 2
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "area": "illarion:mine_desert",
+  "rock": 914,
+  "depletedRock": 1265,
+  "yield": {
+    "pools": [
+      {
+        "entries": [
+          {
+            "type": "item",
+            "weight": 70,
+            "data": {
+              "id": 22,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 1,
+            "data": {
+              "id": 234,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 2,
+            "data": {
+              "id": 254,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "data": {
+              "id": 257,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            },
+            "conditions": [
+              {
+                "type": "minimum_skill",
+                "data": 10
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 24,
+            "data": {
+              "id": 735,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0
+            }
+          }
+        ]
+      }
+    ],
+    "conditions": [
+      {
+        "type": "mining_success",
+        "data": {
+          "base": 40,
+          "perSkill": 0.5
+        }
+      }
+    ]
+  }
+}

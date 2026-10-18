@@ -1,0 +1,66 @@
+{
+  "attribute": "dexterity",
+  "skill": "lumberjacking",
+  "food": 100,
+  "interruptions": [],
+  "events": {
+    "pools": [
+      {
+        "name": "treasure",
+        "entries": [
+          {
+            "type": "treasure",
+            "weight": 0.015,
+            "data": {
+              "message": {
+                "de": "Fein säuberlich aufgerollt findest du eine Schatzkarte in einem ausgehählten Ast. Gut, dass du das Holz noch nicht verbrannt hattest!",
+                "en": "You find a treasure map in a hollowed-out branch, neatly rolled up. Luckily you did not burn it!"
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.985
+          }
+        ]
+      },
+      {
+        "name": "items",
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2553,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Für deine harte und ehrliche Arbeit belohnt dich Brágon, die Gott des Feuers, mit einem Kleinod aus Reinem Feuer.",
+                "en": "For your hard and honest labour, Brágon, the God of Fire, awards you with a treasure of Pure Fire."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 45,
+              "quantity": 1,
+              "quality": 333,
+              "data": 1,
+              "message": {
+                "de": "In der Asche erspähst du einen grün funkelnden Gegenstand. Du findest einen magischen Smaragd.",
+                "en": "In the potash you spot a green sparkling object. You find a magical emerald."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.99
+          }
+        ]
+      }
+    ]
+  }
+}

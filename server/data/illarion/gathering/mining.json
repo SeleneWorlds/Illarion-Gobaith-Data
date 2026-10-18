@@ -1,0 +1,153 @@
+{
+  "attribute": "strength",
+  "skill": "mining",
+  "food": 100,
+  "interruptions": [
+    {
+      "de": "Du wischst dir den Schweiß von der Stirn.",
+      "en": "You wipe sweat off your forehead."
+    },
+    {
+      "de": "Dir fliegt ein Steinsplitter entgegen. Du kannst gerade noch ausweichen.",
+      "en": "A shiver of rock darts at you. You can barely dodge it."
+    },
+    {
+      "de": "Du bekommst etwas Schmutz ins Auge und reibst dir kurz die Augen.",
+      "en": "You get some dirt into your eyes and have to rub them."
+    },
+    {
+      "de": "Du überprüfst kurz die Struktur der Ader, an der du gerade gräbst.",
+      "en": "You interrupt to examine the deposit you are mining at."
+    },
+    {
+      "de": "Du verlierst kurz das Gleichgewicht durch einen losen Gesteinsbrocken am Boden.",
+      "en": "Some lose rubble on the ground makes you trip."
+    }
+  ],
+  "events": {
+    "pools": [
+      {
+        "name": "treasure",
+        "entries": [
+          {
+            "type": "treasure",
+            "weight": 0.015,
+            "data": {
+              "message": {
+                "de": "In einer engen Felsspalte findest du ein altes Pergament. Kein Versteck ist so sicher, dass es nicht gefunden wird.",
+                "en": "In a narrow crevice you find an old parchment. No hiding place is so safe that it cannot be found."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.985
+          }
+        ]
+      },
+      {
+        "name": "monster",
+        "entries": [
+          {
+            "type": "monster",
+            "weight": 0.02,
+            "data": {
+              "id": 301,
+              "message": {
+                "de": "Als du den Fels malträtierst, erbebt die Erde und der Stein, den du eben noch mit der Spitzhacke schlugst, erhebt sich...",
+                "en": "While you mistreat the rock, the earth shakes and the stone you just struck with a pickaxe rises..."
+              },
+              "sound": 4,
+              "gfx": [
+                7
+              ]
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.98
+          }
+        ]
+      },
+      {
+        "name": "items",
+        "entries": [
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 2552,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Für deine harte und ehrliche Arbeit belohnt dich Ushara, die Göttin der Erde, mit einem Kleinod aus Reiner Erde.",
+                "en": "For your hard and honest labour, Ushara, the Godess of Earth, awards you with a treasure of Pure Earth."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 197,
+              "quantity": 1,
+              "quality": 333,
+              "data": 1,
+              "message": {
+                "de": "Deine Spitzhacke zertrümmert den Fels und zum Vorschein kommt ein eingeschlossener Edelstein. Du findest einen magischen Amethyst.",
+                "en": "Your pickaxe smashes the rock and reveals an enclosed gemstone. You find a magical amethyst."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.005,
+            "data": {
+              "id": 310,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Zwerge scheinen alten Krügen keine Beachtung beizumessen, insbesondere, wenn sie leer sind. Auch hier liegt einfach einer herum.",
+                "en": "Dwarves seem to pay no attention to old pitchers, especially if they are empty. Here, one lies around."
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.05,
+            "data": {
+              "id": 1908,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "Diese Mine wurde offensichtlich kürzlich von Zwergen aufgesucht. Wie sonst erklärt sich der Bierkrug, den du zwischen dem Geröll findest?",
+                "en": "This mine was apparently recently visited by dwarves. How else would you explain the mug, which you find among the rubble?"
+              }
+            }
+          },
+          {
+            "type": "item",
+            "weight": 0.1,
+            "data": {
+              "id": 391,
+              "quantity": 1,
+              "quality": 333,
+              "data": 0,
+              "message": {
+                "de": "In einer Felsspalte liegt eine alte Fackel. Hier ist wohl jemanden ein Licht aufgegangen.",
+                "en": "In a crevice you spot an old torch. Probably someone was enlightened here."
+              }
+            }
+          },
+          {
+            "type": "nothing",
+            "weight": 99.835
+          }
+        ]
+      }
+    ]
+  }
+}
