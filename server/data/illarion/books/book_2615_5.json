@@ -1,0 +1,101 @@
+{
+  "itemId": 2615,
+  "variant": 5,
+  "de": "Buch mit dem Titel \"Topase\"",
+  "en": "Book with the title \"Topas\"",
+  "language": "common language",
+  "pagesDe": [
+    {
+      "difficulty": 0,
+      "image": 198,
+      "text": "\n\n~~Topase~~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Topasenergien von magischen Topasen haben wohl die unterschiedlichsten Wirkungen, abhängig davon, in welchen Gegenstand man ihre Energien fließen lässt."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "So werden magische Topase von fast allen Schichten gleichermaßen verwendet und geschützt. Da sie zudem zu den seltensten Edelsteinen gehören, macht sie das gleichzeitig auch zu den wertvollsten."
+    },
+    {
+      "difficulty": 0,
+      "image": 205,
+      "text": "Waffen:\n\nDie Engerien von magischen Topasen, die in eine Waffe gebunden werden machen die Klinge schärfer und verursachen so mehr Schaden beim Gegner."
+    },
+    {
+      "difficulty": 0,
+      "image": 2403,
+      "text": "Rüstungen und Schilde:\n\nIn Rüstungen und Schilden bewirken Topasenergien einen höheren Schutz vor Schneidschaden."
+    },
+    {
+      "difficulty": 0,
+      "image": 2782,
+      "text": "Magierstäbe:\n\nTopasenergien, welche durch Magierstäbe fließen erhöhen die Manaregernation des Trägers."
+    },
+    {
+      "difficulty": 0,
+      "image": 724,
+      "text": "Werkzeuge:\n\nGegenstände, die mit einem Werkzeug hergestellt wurden, welches mit Topasenergien verstärkt wurde, haben grundsätzlich eine höhereQualität als es normal der Fall wäre."
+    },
+    {
+      "difficulty": 0,
+      "image": 83,
+      "text": "Schmuckstücke:\n\nIn Schmuckstücken erhöhen die magischen Energien von Topasen sowohl die Essenz als auch die Willenskraft des Trägers. Beides jedoch nur in halben maße, als es bei anderen Ringen der Fall ist."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Zu beachten ist hierbei, dass man niemals die Energien eines Topases in ein Schmuckstück fließen lassen sollte, in welches ein andersartiger Stein eingefasst wurde."
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 0,
+      "image": 198,
+      "text": "\n\n~~Topaz~~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "The energies of Topaz appear to have the most different effects, independent of the item you let them flow into."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "This is why magic topaz are used and appreciated by nearly all stratums. They tend to belong to the most rare gems, they are also the most valuable."
+    },
+    {
+      "difficulty": 0,
+      "image": 205,
+      "text": "Weapons: The energies of magic topaz that are bound in a weapon are used to sharpen the blade and therefore cause more damage."
+    },
+    {
+      "difficulty": 0,
+      "image": 2403,
+      "text": "Armors and shields: Topaz energies enhance protection against slashing damage."
+    },
+    {
+      "difficulty": 0,
+      "image": 2782,
+      "text": "Magic wands: Topaz energies flowing through wands enhance the mana regeneration of their bearers."
+    },
+    {
+      "difficulty": 0,
+      "image": 724,
+      "text": "Tools: Items crafted by a tool empowered by topaz energies have a better quality than usual."
+    },
+    {
+      "difficulty": 0,
+      "image": 83,
+      "text": "Trinkets: In trinkets, magic energies tend to raise the essence as well as the willpower of the bearer. Although, both of these attributes are only raised half as strong as they are by other trinkets."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "There is one important thing to note: One should never let the energies of a topaz flow into a trinket in which there is another stone embedded."
+    }
+  ]
+}

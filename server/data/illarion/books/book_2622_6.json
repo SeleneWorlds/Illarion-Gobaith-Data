@@ -1,0 +1,611 @@
+{
+  "itemId": 2622,
+  "variant": 6,
+  "de": "Buch mit dem Titel \"Buch der Witze\"",
+  "en": "Book with the title \"Book of the jokes\"",
+  "language": "halfling language",
+  "pagesDe": [
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Das Buch der Witze"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": ""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "1. \nEin Salkamaerianer, ein Albarianer und ein Gynkeesh gehen in eine Taverne.\nWas haben sie am Ende des Abends getan?\n "
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Der Salkamaerianer hat sich betrunken und den Gästen Lektionen über gutes Benehmen erteilt.\nDer Albarianer hat sich betrunken und die Gäste beleidigt."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Der Gynkeesh hat zwei betrunkene Sklaven verkauft."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "2.\nDie letzten Worte eines Wirts\n\n\n\n\"Kein Bier mehr für dich und deinen Zwergenfreund.\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "3.\nWas tut ein Elf, der auf ein leeres Blatt Papier starrt?\n\n\n\nEr studiert seine Rechte in Greenbriar."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "4.\nEin Elf beschwert sich bei einem Halbling:\nElf: Diese Brötchen sind von gestern, ich will welche von heute!"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Der Halbling schaut den Elf dumm an.\nHalbling: Nun, dann kommen sie doch morgen wieder!"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "5.\nWie sollte man den Zwergenkönig niemals anreden?\n\n\n\n\nEure Hoheit..."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "6.\nElf: \"Ich habe festgestellt, dass Zwerge nur ein Drittel ihres Gehirns gebrauchen...\"\nZwerg: \"Ach, und was machen sie mit der anderen Hälfte?\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "7.\nAm Hafen wird ein toter Zwerg aus dem Fluss gezogen. Gefesselt, geknebelt, mit einer Eisenkette umwickelt und mit einem schweren Stein an den Füßen. "
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Die Stadtwache untersucht den Zwerg und der Korporal meint ungerührt: \"Mistzwerge, klauen immer mehr als sie tragen können.\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "8.\nDie letzten Worte einer Stadtwache.\n\n\n\nKein Durchgang"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "9.\nKurz vor einem Kampf will ein Ritter der Grauen Rose ein Schwert organisieren, weil er seins verloren hat, und ruft:\"Männer!!! Ein Schwert!!!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Man hört Geschäpper und Geklirre!!! \nDann sagt der Ritter vom Schmerz erfüllt:\"Männer!!! Einen Heiler!!!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "10.\nDie letzten Worte von Fooser\n\n\n\n\"Pah, das sind doch nur Bauern!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "11.\nWie viele Elfen braucht es um eine Kerze anzuzünden?\n\n\n\n\n"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "12.\nWas macht ein Norodaj mit einem Kamel?\n\n\n\n\nJemand sagte ihm das sei ein Wüstenschiff."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "13.\nEinen Tag vor der Wahl zum neuen Governour von Trolls Bane: Eine alte Frau stürzt und fällt auf den Rücken. Verzweifelt versucht sie wieder aufzustehen. Zufällig kommt Edward Cromwell vorbei und "
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "hilft der alten Dame auf und sie bedankt sich. \"Sie wissen ja wohl für wen sie bei der nächsten Wahl stimmen sollen? Kann ich mit ihrer Stimme rechnen?\" Antwortet die"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "alte Frau: \"Tut mir leid, Mister Cromwell. Ich bin auf den Rücken gefallen - nicht auf den Kopf.\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "14.\nWoran erkennt man, das die Gegend die man gerade durchwandert von Elfen bewohnt ist?\n\n\n\n\nDas Gras ist so kurz abgefressen."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "15.\nWie bringt man einen Zwerg in der Taverne zum hüpfen?\n\n\n\n\nIn dem man ein Goldstück an die Decke nagelt."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "16.\nZwerg zum Elf: \"Wusstest du schon, daß nur Fleischfresser Intelligenz entwickeln können?\"\nDarauf der Elf: \"Wie meinst du denn das?\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Zwerg: \"Na wieviel IQ braucht man schon um sich an einen Grashalm anzupirschen?\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "17.\nStephen Rothman hält zur Einweihung der FEstung Kallahorn ein riesiges Bankett. Alles Essen und es wird gefeiert.\nMitten im Essen brüllt Rothman: \"Morgen töten wir 1000 Zwerge - und einen Gnom.\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Alle blicken auf und Fooser fragt: \"Wieso denn bitteschön einen Gnom?\"\nDa meint Rothman zu Arameh: \"Siehste? Nach den 1000 Zwergen fragt kein Mensch...\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "18\nWarum schlägt Stephen Rothman keine Kinder?\n\n\n\n\nKönnten ja seine sein."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "19\nWarum spielt Stephan Rothman nie verstecken?\n\n\n\n\n"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "20.\nWieviele Goblins braucht es um einen explodierenden Trank zu brauen?\n\n\n\n\nDas kommt auf die Anzahl der Versuche an."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "21.\nBegegnen sich ein Elf und ein Zwerg.\nDer Zwerg: \"Also wenn man dich so sieht, könnte man meinen bei euch wäre eine Hungersnot ausgebrochen."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Darauf der Elf: \"und wenn man dich so sieht, könntest du dafür verantwortlich sein!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "22.\nWas ist schwerer, einen Elfenschneeman oder einen Zwergenschneeman zu bauen?\n\n\n\n\nDer Zwergenschneemann natürlich, da muß man erst den Kopf aushölen!"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "23.\nEdward Cromwell wird entführt. Die Entführer verlangen 10 Gold, ansonsten lassen sie ihn frei."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "24.\nTreffen sich drei Krokodile.\nSagt das Erste: Ich habe vor vier wochen einen Zwergen gefressen. Der hatte so viel Bier getrunken, ich bin immer noch voll.\nSagt das Zweite: Ich hab vor zwei"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Wochen einen Ork gefressen. Der hatte so viel Knoblauch intus, mir stößt es jetzt noch den Magen hoch.\nSagt das Dritte: Das ist doch noch gar nicht. Ich hatte vor drei Wochen"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "einen Kallahorn gefressen. Der war sooo hohl, dass ich jetzt noch nicht tauchen kann."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "25.\nIn Gobaith werden alle Frauen befragt, ob die mit Stephen Rothman ins Bett gehen würden.\n2% sagten: \"ja\" 3% sagten: \"nein\" und 95% sagten: \"nie wieder!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "26.\nEin Mann kommt in eine Kneipe: \"Hallo Leute, kennt ihr schon den neuesten Kallahornwitz? Also: ...\"\nBevor er weitererzählen kann, erhebt sich ein bärenhafter Typ und sagt mit drohender Stimme: "
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "\"Also... ich bin der Schwertmeister der Kallahorns, der drahtige Typ da am Tisch ist der Beste Bogenschütze der Insel, neben ihm sitzen der ehemalige Goveneur und Arameh ... wollen Sie noch"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "immer einen Kallahornrwitz erzählen?!\"\n\"Eigentlich ist mir die Lust vergangen\", sagt der Neuankömmling, \"fünfmal denselben Witz erklären ist fad...\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "27.\nEin Echsenmensch, ein Elf und ein Zwerg kommen in eine Taverne und bestellen sich jeweils einen Teller Suppe. Doch in jeder Suppe ist eine Fliege.\nDer Echsenmensch schaut sich die Fliege"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "kurz an, läßt seine Zunge aus dem Maul schnellen und frißt sie.\nDer Elf holt sie vorsichtig aus der Suppe heraus, streichelt sie zärtlich und fragt: \"Lebst du noch?\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Und der Zwerg schleudert sie auf den Tisch und schreit: \"Spuck sofort meine Suppe wieder aus!!!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "28.\nKommt ein Zwerg in eine Taverne, trägt Mist in seinen Händen und ruft: \"Hey Leute, seht doch mal wo ich beinahe hineingetreten wäre!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "29.\nEin Zwerg erkundigt sich bei einer Ruderbarke am großen Fluß: \"Wieviel kostet die Fahrt nach Silberbrand?\" \"Zwei Goldmünzen!\" meint der Kapitän. Entsetz dreht sich der Zwerg um."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Als die Barke ablegt und Flußabwärts gleitet, rennt der Zwerg am Ufer neben her. Die ganze Fahrt lachen der Kapitän und die Ruderer, aber dem kurzbeinigem Geizhals geht die Puste nicht aus."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Als die Barke das nächste Mal anlegt, keucht der Zwerg heran. \"Wieviel - japps - Wieviel kostet die Fahrt nach Silberbrand von hier?\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "\"Jetzt kostets vier Goldmünzen.\" Johlt der Kaptän. \"Silberbrand liegt nämlich stromaufwärts.\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "30.\nWieviel Elfen braucht man um eine Kuh zu töten?\n\n\n\n\n10! 9 Elfen heben die Kuh hoch und der 10. frisst ihr das Gras weg."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "31.\nWie verwandelt man einen Zwerg in einen Elfen?\n\n\n\n\nWaschen, rasieren, Streckbank ..."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "32.\nWarum frißt ein Wolf plötzlich Äpfel?\n\n\n\n\nEr hat vor einer Stunde einen Ork gebissen und kriegt den Geschmack nicht mehr aus dem Maul."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "33.\nEin Zwerg, ein Elf und ein Goblin werden von einem Ogerstamm gefangen. Die Oger fragen den Goblin, ob er noch einen letzten Wunsch hat. \"Ja, Hunger...Fleisch!!\" Der Goblin bekommt eine alte Keule"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "mit einigen Fleischresten und nagt sie ab. Dann schlagen ihm die Oger den Schädel ein, fressen ihn in einem Gelage auf und bespannen mit seiner Haut eine Trommel."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Die Oger fragen den Elf, ob er noch einen letzten Wunsch hat. \"Ja, ich will noch mal ein Lied singen!\" Der Elf ergreift seine Harfe und singt sein Lied voll süßem Schmelz und zarter Poesie."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Dann schlagen ihm die Oger den Schädel ein, fressen ihn in einem eintägigen Gelage auf und bespannen mit seiner Haut eine Trommel.\nDie Oger fragen den Zwerg, ob er noch einen letzten"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Wunsch hat. \"Ja, ich hätte gerne ein Messer!\" Die Oger beraten kurz und beschließen, dass der Zwerg auch mit Messer keine Gefahr ist."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Er bekommt sein Messer. Er packt es, rammt es sich fünfmal in den Bauch und brüllt: \"Aus mir macht ihr keine Trommel!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Ende"
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "The book of the jokes"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": ""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "1. \nA Salkamaerian, an Albarian and a Gynkeesh go into a tavern.\nWhat did they do at the end of the evening?"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "The Salkamaerian got drunk and gave the guests a lesson about manners.\nThe Albarian got drunk and insulted the guests.\n"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "The Gynkeesh sold two drunken slaves."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "2.\nAn innkeeper´s last words\n\n\n\n\"No beer for you and your dwarven friend any more.\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "3.\nWhat does an elf staring at a blank paper?\n\n\n\nHe studies his rights in Greenbriar."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "4.\nan elf is complainig to a halfling:\nelf: these rolls are from yesterday. i want rolls from today!"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "the halfling looks incomprehending at the elf.\nhalfling: so why don't you come back tomorrow?"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "5.\nHow should you never address a dwarven king?\n\n\n\n\nYour Highness..."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "6.\nElf: I just noticed that dwarfs only use one third of their brain.\nDwarf: Ah? And what do they do with the other half?"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "7.\nat the harbour a dead dwarf is found in the river. bound up, gagged, wound up. bound up, gagged, wound up in an in an iron chain, and with a heavy stone bound to his feet. "
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "the guard investigates. laconic comment by the corporal: \"shitty dwarves, allways steal more, than they can carry...\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "8.\nA royal guard's last words\n\n\n\nNo entry"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "9.\nIn preparation for a fight a knight of the Grey Rose looks for a sword because he has lost his. He shouts: \"Men! A sword!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "There is clash and clangor.\nThen the knight says with pain: Men! A healer!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "10.\nFooser´s last words\n\n\n\n\"Pshaw! They are only peasants!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "11.\nHow many elves does it take to light a candle?\n\n\n\n\nNon, when they finally decided to do it it's already bright outside."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "12.\nWhy does a Norodaj have a camel?\n\n\n\n\nSomeone told him it's a desert ship."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "13.\nOne day before the election to the new governour of Trolls Bane: An old woman slips and falls onto her back. Desperately she tries to stand up again. Just in that moment Edward Cromwell comes"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "along and helps the old woman up on her feet and she says thanks. \"You for sure know already who you have to vote in the next election?"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Can I count on your vote?\" Answers the old woman: \"I'm sorry, Mister Cromwell. I fell on my back - not on my head.\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "14.\nhow do you know you are passing through elven inhabitaed lands?\n\n\n\n\nthe grass is well grazed..."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "15\nhow to bring a dwarf to jump up and down continuosly? \n\n\n\nnail a goldpiece under the ceiling."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "16.\nDwarf to elf: \"Did you know that only carnivorous creatures are able to evolve intelligence?\"\nElf: \"What do you mean?\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Dwarf: \"Well, what do you think what IQ one needs to stalk a blade of grass?\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "17\nStephen Rothman gives a real big \"castle-warming\" party. Everybody is eating and feasting. during the meal Rothman anounces screaming: \"tomorrow we will kill 1000 dwarves - and a Gnome."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "everybody looks up, and Fooser asks: \"an why please a Gnome?\"\nsays Rothman to Arameh: \"you see? nobody asks for the 1000 dwarves...\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "18.\nWhy doesn't Stephen Rothman hit children?\n\n\n\n\nThey might be his own."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "19.\nwhy does Stephen Rothman never plays hide and seek?\n\n\n\n\nbecause nobody is looking for him..."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "20.\nHow many goblins does it take to brew an explosive potion?\n\n\n\n\nDepends on the number of tries."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "21.\nAn elf meets a dwarf. \nDwarf: \"Looking at you, one might think there is a famine.\" "
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Elf: \"And looking at you, one might think you´re responsible for it.\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "22.\nWhich one is more difficult to build: a snow-elf or a snow-dwarf?\n\n\n\n\nOf course a snow-dwarf because one has to hollow the head!"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "23.\nEdward Cromwell gets kidnapped. The kidnappers demand 10 gold, or else they will release him."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "24.\nthree Krokodiles meet.\nsays the first: four weeks ago i ate a dwarf. he had so much beer inside, i still feel drunk."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "says the second: i ate an ork, two weeks ago. he was so full of garlick, that even now my stomach acid is still rising."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "says the third: thats nothing. three weeks ago i ate a Kallahorn. that one was so hollow, that i can't dive anymore."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "25.\nIn Gobaith they ask all women, if they would go to bed with Stephen.\n2 % said: \"yes\" 3 % said: \"no\" and 95% said: \"never again!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "26.\nA man enters a tavern:\n\"hello folks, do you know the newest Kallahornjoke? it goes: ...\" Before he can tell more, a Type like a bear stands up, and says with menacing voice:"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "\"see... i am the swordmaster of Kallahorn, the tough looking guy over there is the best archer of the island, beside him sit the ex governer and arameh ... do you still want to tell a Kallahornjoke?!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "\"well, really, i am not so keen anymore\", says the newcomer, \"would be a bit boring, to explain the same joke five times...\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "27.\nA lizard, an elf and a dwarf go to a tavern and each orders a dish of soup. But there is a fly in each one.\nThe lizard briefly glances at the fly, snatches it with his tongue and eats it."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "The elf carefully takes the fly out of the soup, pets it endearingly and asks: \"Are you alive?\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "The dwarf throws the fly on the table and shouts: \"Spit out immediately my soup!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "28.\nA dwarf carrying muck in his hands enters a tavern and shouts proudly: \"Hey guys, look into what I´ve almost stepped\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "29.\nA dwarf askes at a rowing barge, \"how much is the fare to silverbranbd?\" \"two goldcoins.\" the captain says. aghast the dwarf turns back. "
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "as the barge starts the journey downriver, the dwarf"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "as the barge moores the next time, the dwarf comes nearer, tongue hanging out. \"how much ist the passage to silverbrand from here?\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "the captain grinns \"four gold coin. - silverbrand is upriver....\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "30.\nHow many elves do you need to kill a cow?\n\n\n\n\n10! 9 elves lift the cow up and the 10th eats all the grass."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "31.\nHow to change a dwarf into an elf?\n\n\n\n\nshave, wash, stretchbench..."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "32.\nWhy would a wolf eat apples?\n\n\n\n\nHe has just bitten an Orc one hour ago and needs to get rid of the taste from his mouth."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "33.\nA dwarf, an elf and a goblin are captured by an ogre tribe. The ogres ask the goblin for his last wish. \"Yeah, hunger...meet!\" The goblin gets an old joint and eats all the meet."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "Then the ogres bash his head, eats him during an orgy and covers a drum with his skin.\nThe ogres ask the elf for his last wish.\" I want to sing a last song\" The elf gets his harp and sings"
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "a drippy and poetic song. Then the ogres bash his head, eats him during a one-day-orgy and covers a drum with his skin."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "The ogres ask the dwarf for his last wish. \"I woud like to have a knife a last time.\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "The ogres consult quickly and decide that he is no danger for them."
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "He gets the knife, grabs it and stabs five times into his stomach and yells: \"You won´t make a drum out of me!\""
+    },
+    {
+      "difficulty": 7,
+      "image": 0,
+      "text": "End"
+    }
+  ]
+}

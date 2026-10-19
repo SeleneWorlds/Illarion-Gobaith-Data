@@ -1,0 +1,91 @@
+{
+  "itemId": 2617,
+  "variant": 6,
+  "de": "Buch mit dem Titel \"Lobpreis an Irmorom\"",
+  "en": "Book with the title \"Glorification to Irmorom\"",
+  "language": "common language",
+  "pagesDe": [
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "Glorification to\n\nIrmorom"
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "geschrieben von\nThorgrimm, Hohepriester Irmoroms\nübersetzt von\nAshayen Cromwell"
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "1.\nFeierabend senkt sie nieder,\nfreundlich über Land und Berg,\nwebt den Ton der Feierlieder\ndurch das Herz von jedem Zwerg."
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "2.\nBald erstirbt dass Schmiedefeuer,\nHey, macht schnell das Bierfass auf,\nSaufen werden wir, singen Lieder,\nSo isses des Zwergen Brauch.\nHail DIR! Hail Dir Irmorom,\nSo isses des Zwergen Brauch!"
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "3.\nUnsre Lasten, unsre Sorgen\nIrmorom kennt sie ganz genau.\nDoch er wird für Freude sorgen,\nSchlagt auf das Bier holt rein die Sau!"
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "\n\nHail DIR! Hail Dir Irmorom,\nSchlagt auf das Bier holt rein die Sau!"
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "4.\nDrum lasst uns feiern, lasst uns singen,\nHoch die Krüge, rein das Fleisch.\nLaut und weit sollen unsre Lieder klingen,\nWeit über das Zwergenreich."
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "\n\nHail DIR! Hail Dir Irmorom,\nWeit über das Zwergenreich!"
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "Glorification to\n\nIrmorom"
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "written by\nThorgrimm, Hohepriester Irmoroms\ntranslate by Ashayen Cromwell"
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "1.\nClosing time is falling in,\nFriendly above land and hills.\nweaveing the ton of celebration songs,\nthrough the heart of every darf."
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "2.\nSoon the smithing fire will go out,\nHey, open the beer barrel very fast,\nwe´ll guzzle, sing songs,\nso is the dwarven rite.\nHail YOU! Hail you Irmorom,\nso is the dwarven rite."
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "3.\nOur burden, our worries\nIrmorom knows them all so well.\nBut he´ll make sure to bring joy\nDash the beer open, bring in the sow!"
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "\n\nHail YOU! Hail you Irmorom,\nDash the beer open, bring in the sow!"
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "4.\nTherfore let us celebrate, let us sing.\nLift the mugs, eat the meat.\nLoud and long our songs shall sound,\nfar across the dwarvenland."
+    },
+    {
+      "difficulty": 15,
+      "image": 0,
+      "text": "\n\nHail YOU! Hail you Irmorom!\nFar across the dwarvenland."
+    }
+  ]
+}

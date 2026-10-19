@@ -1,0 +1,101 @@
+{
+  "itemId": 115,
+  "variant": 1,
+  "de": "Buch mit dem Titel \"Smaragde\"",
+  "en": "Book with the title \"Emeralds\"",
+  "language": "common language",
+  "pagesDe": [
+    {
+      "difficulty": 0,
+      "image": 45,
+      "text": "\n\n~~Smaragde~~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Das Grün der Smaragde erinnert oft an das frische Grün einer Frühlingswiese oder eines Sommerwaldes. Darum ist es nicht verwunderlich, dass diese Steine häufig von naturverbundenen Personen getragen werden."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Die Kräfte magischer Smaragde sind je nach Gegenstand, auf den sie übertragen werden unterschiedlich. Es lässt sich jedoch oft erkennen, dass sie helfen sich und die Umgebung besser wahrzunehmen."
+    },
+    {
+      "difficulty": 0,
+      "image": 2780,
+      "text": "Waffen:\n\nÜberträgt man die magischen Kräfte eines Smaragdes auf eine Waffe, so steigert sie die Zielgenauigkeit der Waffe. Besonders bei Fernkampfwaffen ist dies ein nicht zu unterschätzender Vorteil."
+    },
+    {
+      "difficulty": 0,
+      "image": 20,
+      "text": "Rüstungen und Schilde:\n\nAuf ein Rüstungsteil oder ein Schild übertragen schützen die magischen Kräfte eines Smaragdes zusätzlich vor Stichschaden."
+    },
+    {
+      "difficulty": 0,
+      "image": 76,
+      "text": "Magierstäbe:\n\nSmaragdenergien in einem Magierstab bündeln die Kräfte des Trägers und erlauben es ihm so seine Zauber mit größerer Reichweite zu sprechen."
+    },
+    {
+      "difficulty": 0,
+      "image": 172,
+      "text": "Werkzeuge:\n\nVerstärkt man ein Werkzeug mit der magischen Energie eines Smaragdes, so wird man feststellen, dass die Gegenstände die man mit diesem Werkzeug herstellt eine größere Haltbarkeit aufweisen."
+    },
+    {
+      "difficulty": 0,
+      "image": 62,
+      "text": "Schmuckstücke:\n\nTrägt man ein Schmuckstück, welches Smaragdenergien enthält, so kann man seine Umgebung besser wahrnehmen. "
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Zu beachten ist hierbei, dass man niemals die Energien eines Smaragdes in ein Schmuckstück fließen lassen sollte, in welches ein andersartiger Stein eingefasst wurde."
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 0,
+      "image": 45,
+      "text": "\n\n~~Emeralds~~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "The green of emeralds often reminds of the fresh green of a spring meadow or a summerforest. It is therefore not too surprising that these stones are likely to be used by poeple with a close bond to nature."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "The powers of magic emeralds are different, depending on the object they are attached to. It is said that they can help in sharpening the bearer's senses in order to provide a better perception."
+    },
+    {
+      "difficulty": 0,
+      "image": 2780,
+      "text": "Weapons: Emerald energies flowing through a weapon can provide a better aim. This is very helpful not only for distance weapons."
+    },
+    {
+      "difficulty": 0,
+      "image": 20,
+      "text": "Armor and Shields: Used on Armor or Shielding, emerald powers can protect from piercing damage."
+    },
+    {
+      "difficulty": 0,
+      "image": 76,
+      "text": "Magic Wands: Emerald energies can bundle the bearer's powers and therefore enable a higher casting range."
+    },
+    {
+      "difficulty": 0,
+      "image": 172,
+      "text": "Tools: If one uses emerald power on tools, a higher durability of the items crafted by the tool can be achieved."
+    },
+    {
+      "difficulty": 0,
+      "image": 62,
+      "text": "Trinkets: If you bear a trinket with the energy of an emerald, you will be able to percept your surrounding better."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "There is one important thing to note: One should never let the energies of a Emerald flow into a trinket in which there is another stone embedded."
+    }
+  ]
+}

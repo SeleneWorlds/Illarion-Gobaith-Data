@@ -1,0 +1,726 @@
+{
+  "itemId": 2610,
+  "variant": 4,
+  "de": "Buch mit dem Titel \"Grundlagen der Magie\"",
+  "en": "Book with the title \"Basics of magic\"",
+  "language": "ancient language",
+  "pagesDe": [
+    {
+      "difficulty": 25,
+      "image": 155,
+      "text": "Grundlagen der Magie \nTeil eins von Djironnymas Gesamtwerk der Magie"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "1. Vorbetrachtungen ~ Seite 3 \n2. Arkane Strukturen Seite 11 \n3. Manaenergie ~Seite 21 \n 4. Besondere arkane Strukturen ~Seite 38 \n 5. Runenmagie ~Seite 65"
+    },
+    {
+      "difficulty": 25,
+      "image": 10,
+      "text": "1. Vorbetrachtungen \nWas ist Magie? "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Diese Frage beschäftigt die Sterblichen seit dem Anbeginn der Zeit. Es gibt hierzu ungezählte Ansichten, von fanatisch religiösen Irrglaube bis hin zu okkulten, an Wahnsinn grenzenden Theorien."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Letztendlich liegt die Wahrheit wohl irgendwo dazwischen."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Auch ich kann leider nicht behaupten, die endgültige Antwort zu kennen. Ich kann lediglich meine Beobachtungen und Schlussfolgerungen wiedergeben, aus dem Studium der verbreitesten Theorien und meinen"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "eigenen Erfahrungen und Experimenten heraus. Es ist am Leser sich seine eigene Meinung darüber zu bilden."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Wie sieht meine Antwort aus? Magie lässt sich mit einer simplen Gleichung erklären, die Erklärung ihrer einzelnen Bestandteile ist hingegen Komplexer:"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Magie ist gleich dem Manipulieren von arkanen Strukturen mittels Manaenergie."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Es bleibt nun also zu erklären, was sind arkane Strukturen und was ist Manaenergie. So ist es meist in der Thau-matologie, man klärt eine Frage und bringt zwei neue auf."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "2. Arkane Strukturen"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Arkane Strukturen werden oft als magisches Gerüst bezeichnet. Normalerweise sind sie für uns nicht wahrnehmbar. Einige Ritualzauber, Artefakte und Mutationen ermöglichen es jedoch sie zu erblicken."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "In solchen Fällen erscheinen sie als komplexe Netze, bestehend aus Verschlungenen, bläulich schimmernden Bahnen beziehungsweise Fäden. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Alles, gleich ob Wesen oder Objekt, das aus einem oder mehreren der fünf Elemente besteht besitzt eine eigene, spezifische und individuelle arkane Struktur. Arkane Strukturen ähnlicher Objekte weisen "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "zwar typische und signifikante Merkmale auf, aus denen sich durchaus Rückschlüsse auf die Beschaffenheit und die Eigenschaften des Objektes ziehen lassen, aber quasi nie gleicht eine arkane Struktur"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "der anderen, selbst dann nicht, wenn beide Objekte nach unserer normalen Sinneswahrnehmung identisch scheinen. Zur einzigen Ausnahme, den Runen, im nächstem Kapitel."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Die arkane Struktur steht in strengem und unmittelbaren Zusammenhang mit allen fünf Elementen. Beeinflusst man die arkane Struktur hat das zwangsläufig einen Einfluss auf die materielle und / oder auf"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "auf die geistige Form des Zielobjektes. Umgedreht verändert sich auch immer die arkane Struktur wenn sich die Elemente verändern. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Damit ist klar was magische Effekte sind, das verändern der arkanen Struktur. Formen wir einen Feuerball, so formen wir aus der arkanen Struktur der Luft beziehungsweise der Umgebung die eines "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Feuerball, so formen wir aus der arkanen Struktur der Luft beziehungsweise der Umgebung die eines Feuerballes."
+    },
+    {
+      "difficulty": 25,
+      "image": 165,
+      "text": "3. Manaenergie"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Was der gemeine Tölpel höchstens mit einem Manatrank in Verbindung setzten würde oder unwissend als Ausdauer eines Zauberers bezeichnet, ist wesentlich mehr als das. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Manaenergie wird zum einen in den Bahnen arkaner Strukturen gespeichert, zum anderen ist es, in weitaus geringerer Konzentration, im freien Raum dazwischen zu finden. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Wann immer wir die Elemente verändern braucht dies eine Form von Energie. Für uns am deutlichsten wird dies durch Muskelkraft. Das heben eines Steines erfordert Anstrengung, Energie."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Auch wenn wir magische Effekte wirken wollen, also die arkane Struktur verändern möchten, so erfordert dies Energie. Diese Energie nennen wir Manaenergie oder meist einfach nur Mana. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Ein Zauber der einen magischen Effekt wirkt, nutzt das Mana aus seiner eigenen arkanen Struktur und verändert damit das Zielobjekt. Genauer betrachtet heißt dies, das die Manaenergie in mehreren "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Strahlen aus der arkanen Struktur des Magiers schießt und in (meist bogenförmigen) Flugbahnen auf die arkane Struktur des Zielobjektes trifft. Durch das plötzliche Eindringen der Manaenergie in die"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Zielstruktur verändert diese ihre Form, je nach dem wie die Strahlen aus Manaenergie auf sie eintreffen, beziehungsweise sie aus dem Magier heraus schossen, in spezifischer Art und Weise."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Bei diesem Prozess geht Manaenergie keinesfalls verloren. Sie dringt lediglich in die Zielstruktur ein. Jeder, der schon einmal direktes Ziel eines Zaubers war , kennt das Gefühl eines Kribbelns im "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "ganzen Körper. Ein Zeichen dafür, dass die eigene Arkane Struktur für den Moment mehr Manaenergie speichert als für gewöhnlich."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Dieses Mana verweilt nicht in der arkanen Struktur des Zielobjektes. Sie verteilt sich recht schnell wieder in die Umgebung der Zielstruktur bis diese wieder ihr normales Maß an Mana fasst."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Der Zauberer, der das Mana aus seiner arkanen Struktur gerade verloren hat, zieht neue Manaenergie wiederum aus der Umgebung seiner eigenen arkanen Struktur, bis auch diese wieder ihr normales Maß"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "erreicht hat. Wobei anzumerken ist, das Mana deutlich länger brauch um in eine arkane Struktur zu wandern als aus einer heraus."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Wie viel Manaenergie eine arkane Struktur fassen kann, ist von vielen Faktoren abhängig, ihre Größe und Form sind die wichtigsten zwei. Wobei anzumerken ist, dass durch die mögliche extrem enge und"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "verschlungene Faltung einer arkanen Struktur, die augenscheinliche Größe eines Objektes kaum etwas über die Größe seiner arkanen Struktur und damit über ihr Fassungsvermögen für Mana aussagt. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Wie schon angedeutet geht Manaenergie nie verloren. Genauso wenig kann sie erschaffen werden. Davon sind mir auch keine Ausnahmen bekannt und den Berichten und Legenden, von denen von erschaffen oder "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Vernichten von Mana gesprochen wird, sind dies Fehldeutungen oder schlichtweg Märchen. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "4. Besondere arkane Strukturen"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Ein paar arkane Strukturen unterscheiden sich deutlich von der Regel, so dass es sich lohnt sie gesondert zu betrachten. Dies sind Manaquellen, Manaströme, Gebiete toter Magie und Runen."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Letztere werden in nächstem Kapitel besprochen die anderen drei will ich hier kurz erklären."
+    },
+    {
+      "difficulty": 25,
+      "image": 2079,
+      "text": "4.1 Manaquellen"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Im Grunde genommen ist Manaquelle ein sehr irre führendes Wort. Wie angesprochen kann Manaenergie nicht erschaffen werden, folglich gibt es auch keine echten Quellen von Mana. Sogenannte Manaquellen"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "weisen immer zwei signifikante Merkmale auf, aus denen ihre arkane Struktur besteht. Einem Zentrum und den Sammelbahnen. Das Zentrum ist eine meist kugelförmige, extrem komprimierte arkane Struktur"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "die ein unwahrscheinlich großes Maß an Manaenergie speichern kann und diese, wenn sie vollkommen gefüllt ist in die nähere Umgebung abgibt. Die Sammelbahnen sind bis zu mehrere Meilen lange Fäden "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "arkaner Struktur, die aus dem Zentrum der Quelle in alle Richtungen ragen. Sie ziehen Mana aus der weiten Umgebung der Quelle und transportieren es ins Zentrum."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "In ihrer unmittelbaren Umgebung steht einem Magier ein höheres Maß an Manaenergie zur Verfügung, dies erleichtert vor allem rituelle Magie."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Manaquellen haben materiell Stark unterschiedliche Formen und Größen. Felsen. Edelsteine, Bäume, Teiche oder andere kleine Gewässer sind die häufigsten Erscheinungsformen. Handelt es sich bei der"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Manaquelle um ein kleines Gewässer oder ein Pflanze, so regeneriert das Trinken von ihr beziehungsweise das Essen ihrer Frucht in raschem Maße die speicherbare Manaenergie des Konsumenten. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Die Wirkung ist vergleichbar mit der eines Manatrankes."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Wegen ihrer Macht für Magier und ihrer Seltenheit sind sie oft umkämpfte Objekte. Da sie aber auch magische und unnatürliche Kreaturen instinktiv anlocken gibt es auf Illarion viele von ihnen die, von"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Herrscharen von Monstern bewacht, in Vergessenheit gerieten. Die größte und mächtigste aller bekannten Manaquellen findet man, wie sollte es anders sein, in Lor Angur."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Nur durch sie ist es möglich die mächtigen Schutzzauber der Stadt aufrecht erhalten zu können."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "4.2 Manaströme"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Wie erwähnt besitzt alles was existiert eine arkane Struktur, bestehend aus vielen kleinen, verschlungenen Bahnen. Auch unsere Heimatebene Illarion besitzt als ganzes eine solche Struktur die sie"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "die sie zusammenhält. Die einzelnen Bahne dieser Arkanen Struktur sind so riesig, das sie uns als Manaströme bekannt sind."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Manaströme ermöglichen Zauberern, vor allem für rituelle Magie, aus ihnen Manaenergie zu ziehen. Ähnlich wie bei Manaquellen, wenngleich in geringerem Maße. Sie haben jedoch einen entscheidenden"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Vorteil gegenüber Manaquellen. Man kann an ihnen entlang rituelle Zauber leiten, also die Reichweite eines Rituals extrem erhöhen. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Ströme aus Manaenergie, die ein Magier bei einem Ritual abschießt, gleiten an entlang diese Bahnen um schätzungsweise die zehn fache Reichweite."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Dies sollte erklären, warum Punkte, an denen sich zwei oder mehr Manaströme kreuzen, so beliebte Ritualplätze und Standorte für Magiertürme sind."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "4.3 Gebiete toter Magie"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Durch magische Unfälle, wie missglückte Rituale, entstanden, sind die arkanen Strukturen der Umgebung in einem Gebiet toter Magie derart deformiert und zerstört, dass der Großteil der Manaenergie aus"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "ihnen entwichen ist und in Strukturen und die Umgebung außerhalb des Gebietes gewandert ist. In Gebieten toter Magie ist es absolut unmöglich Magie anzuwenden. Jedes Wesen oder Objekt, das sich in"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "einem solchen Gebiet aufhält, verliert kontinuierlich Mananergie, was in den allen Fällen nach einer gewissen Zeit tödlich beziehungsweise zerstörend endet."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Glücklicher weise sind Gebiete toter Magie äußerst selten, sollte man jedoch eines entdecken, sollte man es möglichst rasch wieder verlassen."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "5. Runenmagie"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Runenmagie umfasst alle Zauber die durch Kombination einzelner Runen gewirkt werden. Wir sprechen bei den Zaubern die durch Runenmagie gewirkt werden im Allgemeinen von Runensprüchen oder kurz nur"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Sprüchen. Der Magier konzentriert sich hierzu auf die Rune und spricht sie in der antiken Sprache laut aus. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Runen sind charakteristische arkane Strukturen, die in der arkanen Struktur ihres Trägers, gewoben werden und ihm dadurch einen spezifischen, raschen Zugang auf Magie ermöglichen indem sie bei ihrer"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Anrufung die gespeicherte Manaenergie in speziellen Bahnen lenken. Runen sind die einzigen arkanen Strukturen, die sich gleichen. So weist die Rune RA bei jedem Magier die gleiche arkane Struktur auf."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Wir kennen 28 verschiedene Runen, jede hat eine bestimmte Bedeutung, die Übersetzung vom Antik. Aus der Kombination der Runen ergibt sich dann eine Wortkette, die in ihrem Sinn dem arkanem Effekt nahe"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "kommt. So ist es möglich einen Spruch den man nur hört und dessen Effekt man nicht sieht selbst dann in seinem Wirken zu deuten, wenn man ihn nicht kennt."
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 25,
+      "image": 155,
+      "text": "Basics of magic \nPart one of Djironnyma's Anthology of Magic"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "1. Preamble ~ page 3 \n2. Arcane structures ~ page 12 \n3. Mana energy ~ page 24 \n4. Particular arcane structures ~ page 41 \n5. Rune magic ~ page 66"
+    },
+    {
+      "difficulty": 25,
+      "image": 10,
+      "text": "1. Preamble \nWhat is magic? "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "This question has been bothering the mortals since the beginning of time. There are millions of opinions, starting with fanatic, religious misbelief, coming up to occult, "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "nearly insane theories about it's answer. In the end, one might say, everything comes down to something in between all that theories."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Even I myself can't really say, that I know the final answer to this question. I can only tell, what I have seen and to what conclusions I've come to,"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "during my life, the experiments I've been doing and the time I've been studying the most common theories. It's all up to the reader, to form his own opinion about all this"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "It's all up to the reader, to form his own opinion about all this. What does my answer look like?"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Magic can be explained with a simple equation, though, the explanation of the different parts of that equation are much more complex. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Magic is the manipulation of arcane structures, using mana energy. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "This question has been bothering the mortals since the beginning of time. There are millions of opinions, starting with fanatic, religious misbelief, coming up to occult, nearly insane theories about "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "2. Arcane structures"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Arcane structures are often named as magical framework. Normally, they aren't perceptible to us. Some rituals, artefacts and mutations, though, make it possible, to sense, feel or see them. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "In such cases, they accrue to be complex nets, consisting of intertwined, regularly bluely glooming widths or twines. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Everything, no matter if creature or object, that consist of one or more of the five elements, possesses an own, specific and individual arcane structure. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Arcane structures of objects that are similar to each other, might sometimes have typical or significant characteristics, from which you can read into the consistency and properties of the object,"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "but, as good as never, have exactly the same arcane structure, even if both of the objects seem to be exactly the same to our regular senses."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "The only exception to that are the runes, about which we will take later on, in a later chapter. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "There is an intimate and direct correlation between the arcane structure and the five elements."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "If you influence the arcane structure, you automatically will also cause effect to the material and/or spiritual form of the target. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Vice versa, the arcane structure will always be effected, if you change something about the elements a target is consisting of. Thereby it's clear to see,"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "what magical effects are: the change of the arcane structure. If we summon a fireball, we do it by forming the arcane structure of a fireball,"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "using the arcane structure of the air or the surroundings near us to create it in the material world."
+    },
+    {
+      "difficulty": 25,
+      "image": 165,
+      "text": "3. Mana energy"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "What the common dolt will link with a manapotion or think of as the stamina of a mage, is much more than that. Mana energy is, on one side, stored in the webs of arcane structures, while,"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "on the other side, it can be found in very low amounts in the free spaces in between those webs. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Whenever you plan to change the elements, you will need that specific form of energy. The most obvious case is the power of muscles. Lifting up a stone costs effort, energy. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "If we want to cause magical effects, meaning, if we want to change the arcane structure, we will also have to relay on that energy. We call it mana energy or – simply put – mana."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "A mage, that causes a magical effect, uses the mana of his own arcane structure, changing his target with it. To tell the meaning of this more exactly:"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "The mana energy is fired out (most times in an arcuate line) of the arcane structure of the mage, hitting the arcane structure of the target. Cause of the sudden intrusion of mana energy"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "into the target structure, that structure changes it's form, depending on the way the mana came out of the mage or was hitting the target, in a specific way. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "During this process, the mana energy isn't exactly lost. I's just being injected into the target structure. Everyone, that has ever been the target of a spell knows about that tingling feeling all"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "over the body. It's a sign for one's own arcane structure, saving more mana energy than it normally does. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "That mana isn't staying in the arcane structure of the target, but splitting up to the surroundings of it pretty quickly, regaining the regular amount of mana the target's arcane structure normally"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "contains. The arcane structure of the mage that was using the spell, on the other side, will draw the mana energy back from it's surroundings to regain it's regular amount of mana."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Note, though, that the process of regaining mana will need a lot more time to happen than the process of losing the mana, the target's structure is containing too much. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "How much mana energy an arcane structure can carry, is depending on many factors. Size and shape are two of the most important ones. Note, that an extremely thin and entwined convolution of an arcane"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "structure can let it seem quite different to what it really is like, to us. Therefor, it can be quite hard to tell how much mana a specific arcane structure is able to hold. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "As indicated before, mana energy is never lost, nor can it be produced. I don't know of any exceptions to that either. Reports or legends about mana being created or destroyed are most likely"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "misconstructions or simply fables. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "4. Particular arcane structures"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Some arcane structures of course, differ from the standard, which makes them worth giving an extra look to them. Those are mana sources, mana streams, areas of dead magic and runes. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "About the last case, I will talk later on in the next chapter. The first three, I will give a small explanation about, now. "
+    },
+    {
+      "difficulty": 25,
+      "image": 2079,
+      "text": " 4.1 Sources of mana"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "In general, sources of mana are misleading words. As mentioned before, mana energy can't be created. So named sources of mana always have two significant characteristics,"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "about what their arcane structure is made of. A center and collecting streams. The center is, most of the times, a spheric, extremely compressed arcane structure that can safe an unbelievably high"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "amount of mana energy, giving that energy away to the surrounding areas when it's filled. The collecting streams are twines that can reach up to several miles in length."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "They spread out from the center in all directions, collecting the mana energy of their surroundings, delivering it back to the center. In their immediate surrounding area,"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "a mage can use a higher amount of mana energy, which eases especially the use of ritual magic. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Sources of mana have, depending on each source, very different shapes and sizes: Rocks, gemstones, trees, pools or other small bodies of water are the most common form of such sources. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "When a plant or a small body of water is a source of mana, drinking it's water or eating the it's fruit can make you regain mana very quickly. It's similar to a manapotion."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Because of the power they give to mages and the rarity they accure with, they are often objects, that are heavily fought for. The fact, that magical or unnatural creatures are instinctively attracted "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "by them, has caused many of the sources, being guarded by tons of creatures, that are existing in Illarion, to be forgotten about. The biggest and mightiest source of mana can be found,"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "how could it be different, in Lor-Angur. It's only thanks to that source, that all those strong protective charms that guard the town can be kept working. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "4.2 Mana streams"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "As mentioned before, everything that exists holds it's own arcane structure, consisting of many small, entwined lines. The level we are living on, Illarion, also has it's own arcane structure,"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "that makes it exist. The single lines of that arcane structure are so huge, that we are talking about them as mana streams."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Mana streams make it possible for mages, to drag mana energy out of them, especially for ritual magic. Similar to sources of mana, though not as much. They also have a great advantage to mana sources:"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "You can cast ritual spells along them, which can widen the range of a ritual extremely. Flows of mana energy that a mage produces during a ritual, are gliding along those huge mana streams and can"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "reach up to ten times the range they would normally work with. That should explain, why points where two or more mana streams cross are being loved that much as locations for rituals or places where"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "where magetowers are build."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "4.3 Areas of dead magic"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Caused by magical accidents, such as unsuccessful rituals, the arcane structures of some places have been demolished so heavily, that most of the mana energy they were carrying was given out to arcane"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "structures and areas outside the surrounding spots. In areas of dead magic, it's absolutely impossible to use magic. Every being or object, that stays in such an area, will continuealy lose mana"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "energy, which, in most cases, will end in their death or destruction. Luckily, those areas of dead magic accure very rarely. If you find one, though, you should leave it as quick as possible. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "5. Rune magic"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Rune magic contains all magic, that is made by combining single runes. Most of the time, we just call such magic that is made with rune magic rune spells or just spells. The mage concentrates on the"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "runes he wants to use and loudly speaks them out in the Ancient Language to use such a spell."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "Runes are characteristic arcane structures, that have been woven into the arcane structure of their possesor, giving him the possibility to quickly use magic, via guiding safed mana energy into"
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "specific forms and flows. Runes are the only accurances, that always have the same arcane structure. Meaning, RA for example, has the same arcane structure, no matter which mage contains it. "
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "We know of 28 different runes, each having a certain meaning, a translation from Ancient. The combination of runes creates a line of words, that has a meaning that is similar to it's arcane effect."
+    },
+    {
+      "difficulty": 25,
+      "image": 0,
+      "text": "That way, it is possible to guess the effect of a spell you hear, that you haven't known of, or seen before. "
+    }
+  ]
+}

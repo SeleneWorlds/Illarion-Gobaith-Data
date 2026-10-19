@@ -1,0 +1,101 @@
+{
+  "itemId": 2607,
+  "variant": 3,
+  "de": "Buch mit dem Titel \"Blausteine\"",
+  "en": "Book with the title \"Bluestones\"",
+  "language": "common language",
+  "pagesDe": [
+    {
+      "difficulty": 0,
+      "image": 284,
+      "text": "\n\n~~Blausteine~~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Das kühle Gelassenheit, die Blausteine für die meisten Personen ausstrahlt macht diese Steine für Krieger wie auch für Magier gleichermaßen bedeutsam."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Es heißt, dass die magischen Energien von solchen Blausteinen die Grundlage für viele Arten von Schutzmagie sind."
+    },
+    {
+      "difficulty": 0,
+      "image": 2626,
+      "text": "Waffen:\n\nLässt man die magischen Energien von Blausteinen in eine Waffe einfließen, so steigert sich dadurch die Fähigkeit des Trägers zur Verteidigung."
+    },
+    {
+      "difficulty": 0,
+      "image": 2360,
+      "text": "Rüstungen und Schilde:\n\nIn Rüstungen und Schilden bewirken die magischen Kräfte von Blausteinen einen gesteigerten Verteidigungswert."
+    },
+    {
+      "difficulty": 0,
+      "image": 208,
+      "text": "Magierstäbe:\n\nIn einem Magierstab hingegen bewirken Blausteinenergien eine Steigerung in der Heilmagie, sowie bei allen Sprüchen, die mit dem Erschaffen von Elementen zu tun haben."
+    },
+    {
+      "difficulty": 0,
+      "image": 72,
+      "text": "Werkzeuge:\n\nLässt man die magischen Energien eines Blausteines in ein Werkzeug fließen, so steigern diese die Qualität des Werkzeuges."
+    },
+    {
+      "difficulty": 0,
+      "image": 71,
+      "text": "Schmuckstücke:\n\nIn Schmuckstücken wie Ringen oder auch Amuletten bewirken die Energien der magischen Blausteine, dass der Körper des Träger wiederstandsfähiger wird."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Zu beachten ist hierbei, dass man niemals die Energien eines Blausteins in ein Schmuckstück fließen lassen sollte, in welches ein andersartiger Stein eingefasst wurde."
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 0,
+      "image": 284,
+      "text": "\n\n~~Bluestones~~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "The calmness that bluestones emanate for most people makes them important for warriors and mages alike."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "It is told that magic energies of bluestones are the base for many kinds of protective magic."
+    },
+    {
+      "difficulty": 0,
+      "image": 2626,
+      "text": "Weapons:\n\nIf one lets the magic energies of bluestones flow into a weapon, the bearer's ability of defence is raised."
+    },
+    {
+      "difficulty": 0,
+      "image": 2360,
+      "text": "Armors and Shields:\n\nThe powers of bluestone help the bearer by providing a higher defence value."
+    },
+    {
+      "difficulty": 0,
+      "image": 208,
+      "text": "Magic wands:\n\nIn a magic wand, bluestone powers cause an empowerment of healing magic and any spells that contain the creation of elements."
+    },
+    {
+      "difficulty": 0,
+      "image": 72,
+      "text": "Tools:\n\nThe quality of a tool can be enhanced by bluestone power."
+    },
+    {
+      "difficulty": 0,
+      "image": 71,
+      "text": "Trinkets:\n\nTrinkets that are treated with bluestone energy can provide better resistance of the bearer."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "There is one important thing to note: One should never let the energies of a Bluestone flow into a trinket in which there is another stone embedded."
+    }
+  ]
+}

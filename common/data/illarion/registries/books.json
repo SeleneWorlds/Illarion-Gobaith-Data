@@ -1,0 +1,34 @@
+{
+  "name": "books",
+  "platform": "server",
+  "icon": "book-open",
+  "schema": {
+    "itemId": "integer",
+    "variant": "integer",
+    "de": "string",
+    "en": "string",
+    "language": "string",
+    "pagesDe": {
+      "type": "array",
+      "valueType": {
+        "type": "object",
+        "properties": {
+          "text": "string",
+          "image": "integer",
+          "difficulty": "integer"
+        }
+      }
+    },
+    "pagesEn": {
+      "type": "array",
+      "valueType": {
+        "type": "object",
+        "properties": {
+          "text": "string",
+          "image": "integer",
+          "difficulty": "integer"
+        }
+      }
+    }
+  }
+}

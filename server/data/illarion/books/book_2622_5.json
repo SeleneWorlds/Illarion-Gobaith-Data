@@ -1,0 +1,101 @@
+{
+  "itemId": 2622,
+  "variant": 5,
+  "de": "Buch mit dem Titel \"Diamanten\"",
+  "en": "Book with the title \"Diamonds\"",
+  "language": "common language",
+  "pagesDe": [
+    {
+      "difficulty": 0,
+      "image": 285,
+      "text": "\n\n~~Diamanten~~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Diamanten gehören mit zu den seltensten Edelsteinen auf dieser Insel. Ihre Klarheit wird oft mit der eines klugen Geistes verglichen, weswegen diese Edelsteine von vielen Eldan-Anhängern und Gelehrten getragen werden."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Magische Diamanten haben oft ihre natürliche Wiederstandskraft weiterentwickelt und sind in der Lage diese Energien auf andere Gegenstände zu übertragen."
+    },
+    {
+      "difficulty": 0,
+      "image": 3035,
+      "text": "Waffen:\n\n Überträgt ein magischer Diamant seine Energien auf eine Waffe so verlängert man dadurch die Haltbarkeit. Die Waffen nutzen sich nicht mehr so rasch ab und brechen seltener."
+    },
+    {
+      "difficulty": 0,
+      "image": 2369,
+      "text": "Rüstungen und Schilde:\n\nAuch hier verlängert die Energie eines magischen Diamanten die Lebensdauer. Dies kann, wie bei den Waffen auch, bis hin zur Unzerstörbarkeit reichen."
+    },
+    {
+      "difficulty": 0,
+      "image": 57,
+      "text": "Magierstäbe:\n\nSelbst die Stäbe der Magier können durch das Übertragen der magischen Energien haltbarer gemacht werden."
+    },
+    {
+      "difficulty": 0,
+      "image": 551,
+      "text": "Werkzeuge:\n\nMagische Energien verlängern ebenso die Haltbarkeit von Werkzeugen. Nicht zu verwechseln mit den Energien des Smaragdes, die die Haltbarkeit der gefertigten Gegenstände verlängern."
+    },
+    {
+      "difficulty": 0,
+      "image": 222,
+      "text": "Schmuckstücke:\n\nLässt man die Energien eines magischen Diamantes in ein Schmuckstück fließen, so hilft er dem Träger zu einem klügerem Geist."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Zu beachten ist hierbei, dass man niemals die Energien eines Diamanten in ein Schmuckstück fließen lassen sollte, in welches ein andersartiger Stein eingefasst wurde."
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 0,
+      "image": 285,
+      "text": "\n\n~~Diamonds~~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Diamonds are among the rarest gems on this island. Their clarity is often compared with the one of a clever mind, which is why these gems are often used by followers of Eldan and savants."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Magic diamonds have often developed their natural resistance and are able to transmit these energies onto other objects."
+    },
+    {
+      "difficulty": 0,
+      "image": 3035,
+      "text": "Weapons:\n\nIf a magic diamond transmits it's energies onto a weapon, this enhances it's durability. Weapons don't degrade as fast as usual and tends to break less often."
+    },
+    {
+      "difficulty": 0,
+      "image": 2369,
+      "text": "Armors and Shields:\n\nThe same effect here: The durability of the object is enhanced. It can, like weapons, reach on to indestructability."
+    },
+    {
+      "difficulty": 0,
+      "image": 57,
+      "text": "Magic wands:\n\nEven magic wands can be made more endurable with the aid of magic energies."
+    },
+    {
+      "difficulty": 0,
+      "image": 551,
+      "text": "Tools:\n\nMagic energies also enhance the durability of tools. Do not confuse them with the energies of emeralds, which tend to enhance the durability of the crafted items."
+    },
+    {
+      "difficulty": 0,
+      "image": 222,
+      "text": "Trinkets:\n\nIf one lets the magic energies flow into trinkets, cleverness can be enhanced."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "There is one important thing to note: One should never let the energies of a diamond flow into a trinket in which there is another stone embedded."
+    }
+  ]
+}

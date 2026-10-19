@@ -1,0 +1,71 @@
+{
+  "itemId": 2622,
+  "variant": 0,
+  "de": "Buch mit dem Titel \"Buch der Priester Eldans\"",
+  "en": "Book with the title \"Book of the priests of Eldan\"",
+  "language": "common language",
+  "pagesDe": [
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Das Buch der Priester Eldans"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Der Novize:"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Was du suchst sind Weisheit und Wissen. Doch vielleicht führt dein Weg zu sehr zu Hochmut und nicht zu Eldan."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Sei stark im Glauben. Eldan führt dich und er bringt dich deinem Ziel näher, die Spur zu finden - zur Weisheit."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Sei stark in Taten. Zeige Eifer. Wie dir und mir Eldan den Zweifel nahm, den Hochmut, zeigt er den Weg."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Sei stark im Mute. Ich sehe den Weg. Und werde er steinig oder steil, ihm sind wir bestimmt zu folgen."
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Book of the priests of Eldan"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "The novice:"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "What you are seeking after is wisdom and knowledge. But maybe your way leads too much to pride but to Eldan."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Be strong in faith. Eldan will lead you and he will guide you closer to your aim - finding the path of wisdom."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Be strong in actions. Be zealous. Just as Eldan took our doubt and pride, yours and mine, he will show our way."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Be strong in courage. I see the way. And though he might become stony or steep, we are meant to follow him."
+    }
+  ]
+}

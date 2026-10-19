@@ -1,0 +1,101 @@
+{
+  "itemId": 108,
+  "variant": 1,
+  "de": "Buch mit dem Titel \"Amethysten\"",
+  "en": "Book with the title \"Amethyst\"",
+  "language": "common language",
+  "pagesDe": [
+    {
+      "difficulty": 0,
+      "image": 197,
+      "text": "\n\n~~Amethysten~~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Ob Bogenschütze, Botenreiter oder Seeman...jeder, der sich die Winde zum Freund machen will schwört auf die Energien von magischen Amethysten."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Trägt man einen Gegenstand am Körper, in denen Amethystenergien fließen, so hat man das Gefühl, dass einem alles schneller von der Hand geht."
+    },
+    {
+      "difficulty": 0,
+      "image": 2739,
+      "text": "Waffen:\n\nÜberträgt man die magischen Energien eines Amethysten auf eine Waffe, so steigert man damit die Geschwindigkeit in der man diese Waffe zu führen vermag."
+    },
+    {
+      "difficulty": 0,
+      "image": 2284,
+      "text": "Rüstungen und Schilde:\n\nSowohl in Rüstungen als auch in Schilden erleichtern Amethystenergien das Gewicht und die Tragbarkeit dieser Gegenstände, so dass man das Gefühl hat, dass man sich leichter und schneller bewegen kann."
+    },
+    {
+      "difficulty": 0,
+      "image": 2785,
+      "text": "Magierstäbe:\n\nMagierstäbe, durch die Amethystenergien fließen locker im wahrsten Sinne des Wortes die Zunge des Trägers. Alle Sprüche scheinen ihnen schneller von den Lippen zu gleiten, als es sonst möglich wäre."
+    },
+    {
+      "difficulty": 0,
+      "image": 313,
+      "text": "Werkzeuge:\n\nAlle Arbeiten scheinen einen viel leichter und schneller von der Hand zu gehen, wenn man ein Werkzeug benutzt, durch das die magischen Energien von Amethysten fließen."
+    },
+    {
+      "difficulty": 0,
+      "image": 79,
+      "text": "Schmuckstücke:\n\nSchmuckstücke, durch die Amethystenergien fließen machen den Träger schneller."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Zu beachten ist hierbei, dass man niemals die Energien eines Amethysten in ein Schmuckstück fließen lassen sollte, in welches ein andersartiger Stein eingefasst wurde."
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 0,
+      "image": 197,
+      "text": "\n\n~~Amethysts~~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Be it the archer, the mounted envoy or the mariner - Everyone who wants the winds on his side uses the energies of amethysts."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "If you carry an object with amethyst energies flowing in it, you feel as if everything you start is carried out faster."
+    },
+    {
+      "difficulty": 0,
+      "image": 2739,
+      "text": "Weapons:\n\nUsed on a weapon, amethyst energies enhance the speed with which you can swing your arm."
+    },
+    {
+      "difficulty": 0,
+      "image": 2284,
+      "text": "Armor and Shields:\n\nThe powers of amethysts appear to lower the weight of armor and shield, causing the ability of faster movement for the carrier."
+    },
+    {
+      "difficulty": 0,
+      "image": 2785,
+      "text": "Magic wands:\n\nMagic wands with amethyst magic use to literally unfasten your tongue - All the spells appear to be casted faster."
+    },
+    {
+      "difficulty": 0,
+      "image": 313,
+      "text": "Tools:\n\nWorking with an amethyst-based tool makes your work somehow more easy and faster."
+    },
+    {
+      "difficulty": 0,
+      "image": 79,
+      "text": "Trinkets:\n\nTrinkets with amethyst energies happen to make their bearer faster."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "There is one important thing to note: One should never let the energies of an amethyst flow into a trinket in which there is another stone embedded."
+    }
+  ]
+}

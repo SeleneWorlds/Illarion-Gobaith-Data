@@ -1,0 +1,131 @@
+{
+  "itemId": 2598,
+  "variant": 2,
+  "de": "Buch mit dem Titel \"Das Volk der Goblins\"",
+  "en": "Book with the title \"Goblin Culture\"",
+  "language": "common language",
+  "pagesDe": [
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "\n \n Das Volk der Goblins"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Wir, die Goblins, stehen in einer gewissen Beziehung zu Orks, glaube ich. Sicher, wir sind flinker und gewitzter. Wir haben große Augen, Ohren und Münder. Unser ganzer Körper ist mit einem Kurzhaarfell bedeckt."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Unser Gesicht weist eine grüne lederartige Haut auf. Man sagt auch, wir besäßen eine Fistelstimme. Ich wurde mal mit einem Säugling verglichen, der heult, weil er seinen Schnuller verloren hat. Was soll's."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Wir sind etwas klein und nicht gerade sehr stark und leben in lockeren Familienbanden, deren Führung sich untereinander stark unterscheidet. Wir sind nicht böse, nein, aber auch nicht auf den Kopf gefallen und wir mögen keine langweiligen Religionen."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Man sagt, ich würde mich schrecklich kleiden und manchmal auch muffeln, aber das glaube ich nicht. Auch dass meine Essmanieren schlecht wären, sagt man, und das was ich esse sei nicht schmackhaft - also ich finde es köstlich."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Offenbar ist ein gut gereifter rostiger Dolch keine Nahrung für Menschen, aber deshalb sollten sie so etwas trotzdem mal kosten."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Bisweilen werden wir eingefangen und von Ork-Horden versklavt, deshalb versuchen wir, ihnen aus dem Weg zu gehen. Wir erschrecken uns leicht, natürlich nicht vor Halblingen, die sind ja auch gar nicht schrecklich. Nicht so wie diese riesigen Elben."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Geruch und Geschmack sind bei uns stark ausgeprägt, und wir sind sehr geschickt mit den Händen. Wir geben gute Alchemisten ab oder Handwerker, sogar Diebe. Aber ich bin natürlich keiner, das schwöre ich."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Wir mögen keine Magie, aber einige von uns haben wohl Talent dazu. Ich habe von diesem weisen <highlor-angurian> zauberer gehört. Wer weiß, vielleicht nur ein Gerücht!"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Wir leben nicht in Dörfern, sondern in kleinen Lagern. Manche Leute finden solche Lager bedrohlich, ich verstehe gar nicht, warum. Auf jemanden mit einer Schleuder einen Stein zu werfen, ist doch nicht wirklich schlimm!"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "In Albar, werden wir Goblins zum Kampf mit Tieren gezwungen. manchmal werden wir auch einfach als Sklaven gehalten, arme Goblins."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Manche von uns, so habe ich gehört, leben in Dörfern in Gynkese oder sogar Salkamaeria. Dort arbeiten sie als Diener, Boten oder Kaufleute. Einige sogar als Alchemisten!"
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "\n \n Goblin Culture"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "We, the goblins, are somewhat related to orcs I think. Though, we are more agile and a bit smarter, of course. We have big eyes, ears, and mouths. Our whole body is covered in short fur."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Though, our faces have a leathery greenish skin. We have squeaky voices, or so I am told. I once was compared to a baby crying or whining for something he just lost. I don't believe it."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "We are somewhat small, and not too strong. We live in loose families and leadership varies from one another. We are not evil, no, but we aren't boring and do not like boring religions."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "I've been told I dress rather badly and sometimes smell, but I don't think so. Also, that my eating habits are bad and what I eat is not tasty, but I find it rather delicious."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Apparently a well aged, rusty dagger isn't food to humans, but they should try it some time."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Sometimes we are caught and enslaved by orcish tribes, we try to stay away from them though. We scare easily, but not to halflings, they aren't scary at all. Not like a tall elf."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "We have great smell and taste, and are very good with our hands. We make good alchemists and craftsmen, or even thiefs. I am not one though, I swear."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "We don't like magic, but some are talented in it. I hear there is this wise high lor-angurian mage. Maybe, it could just be a rumor!"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "We don't live in towns, but small camps. Some people find these camps dangerous, I don't know why. Throwing a rock at someone with a sling isn't that bad!"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "In Albar, us goblins are forced to fight other animals. Sometimes we are just used as slaves though, poor goblins."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Sometimes, I hear, we live in Gynkese communities, or even Salkamaerian one. We work as servants, messengers, or merchants there. Sometimes, even as alchemists!"
+    }
+  ]
+}

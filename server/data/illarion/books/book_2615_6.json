@@ -1,0 +1,61 @@
+{
+  "itemId": 2615,
+  "variant": 6,
+  "de": "Buch mit dem Titel \"Gebet für Zelphia\"",
+  "en": "Book with the title \"Petition for Zelphia\"",
+  "language": "lizard language",
+  "pagesDe": [
+    {
+      "difficulty": 20,
+      "image": 0,
+      "text": "Niedergeschrieben von\nDarzog,\nNovice von Tanora\n\nübersetzt von\nAshayen Cromwell"
+    },
+    {
+      "difficulty": 20,
+      "image": 0,
+      "text": "Oh Zelphia\nWasser unseres Lebens\nQuelle unseres Seins"
+    },
+    {
+      "difficulty": 20,
+      "image": 0,
+      "text": "Du bringst uns Ruhe und Besonnenheit\nDu gibts uns Stärke und Gerechtigkeit\nDu schenkst uns Weisheit und Geduld"
+    },
+    {
+      "difficulty": 20,
+      "image": 0,
+      "text": "\n\nOh Zelphia"
+    },
+    {
+      "difficulty": 20,
+      "image": 0,
+      "text": "\n\nauf Deinen Pfaden folgen wir!"
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 20,
+      "image": 0,
+      "text": "Written down from\nDarzog,\nnovice of Tanora\n\ntranslate by\nAshayen Cromwell"
+    },
+    {
+      "difficulty": 20,
+      "image": 0,
+      "text": "Oh Zelphia\nWater of life\nSpring of being"
+    },
+    {
+      "difficulty": 20,
+      "image": 0,
+      "text": "You bring calmness and considerateness to us.\nYou give us strength and justice.\nYou endow wisdom and endurance."
+    },
+    {
+      "difficulty": 20,
+      "image": 0,
+      "text": "\n\nOh, Zelphia"
+    },
+    {
+      "difficulty": 20,
+      "image": 0,
+      "text": "\n\non your path we´ll follow!"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "itemId": 2617,
+  "variant": 5,
+  "de": "Buch mit dem Titel \"Kodex der Grauen Rose\"",
+  "en": "Book with the title \"Codex of the Grey Rose\"",
+  "language": "common language",
+  "pagesDe": [
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "\n\n~Der Verhaltenskodex der Grauen Rose~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "~Kodex des Geistes~\nDies sind die drei Kreise des GEISTES.\nBefolgt sie!"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "1. WISSEN IST MACHT\nSammelt Informationen und meldet sie den Rittern. Für die Allgemeinheit wichtige Informationen werden später in einer Bibliothek untergebracht."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "2. KÖNNEN IST WERTVOLL\nSpezialisiert euch auf eine Arbeit und werdet Meister eures Faches. Doch bedenkt, dass das Leben nicht nur in Arbeiten besteht."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "3. SCHWEIGEN IST NOTWENDIG\nSprecht niemals über Geheimnisse der Gilde. Auch wenn ihr neue Mitglieder anwerbt, gebt ihnen nur die öffentlich erhältlichen Informationen."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "~Kodes der Schuld~\nDies sind die drei Kreise der Schuld.\nVermeidet sie!"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "1. IHR SOLLT NICHT PROVIZIEREN\nEs ist nicht notwendig. Wenn ihr provoziert werdet, antwortet weise. Wenn ihr Aggressionen habt, wendet sie gegen Monster."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "2. IHR SOLLT NICHT BELEIDIGEN\nWenn ihr selbst beleidigt werdet, so antwortet weise, höflich und benutzt euren Verstand. Denket daran, eure Sprache repräsentiert eure Herkunft,"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "eure Weisheit, und die Gilde!"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "3. IHR SOLLT NICHT ANGREIFEN\nNicht ohne einen sehr guten Grund.Wenn ihr angegriffen werdet, so antwortet schnell und tödlich."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "~Kodex der Ehre~\nDies sind die zwölf Kreise der Ehre.\nHandelt nach ihnen!"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "1. BELEIDIGUNG\nBürger, die wiederholt Ordensmitglieder beleidigen und angreifen, müssen ruhiggestellt werden mit Frieden oder Gewalt. In letzterem Fall muss der hohe Zirkel vor einer Aktion kontaktiert"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "2. SCHWÄCHE\nWenn ihr gewalttätig werdet, zeigt ihr nur die Schwäche eures Geistes. Kontrolliert eure Emotionen, besonders die negativen und starken Gefühle. Lasst euch nicht hinreißen."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Doch lacht soviel ihr mögt!\n\nDies sei Ehre."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "3. STÄRKE\nWenn ihr einen starken Gegner nicht besiegen könnt, dann gebt es zu. Das zeigt wahre Stärke. Dies sei Ehre."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "4. LÜGNER\nSprechet die Wahrheit. Schweigt wenn nötig. Lügen ist Schande. Dies sei Ehre."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "5. HALTET WORT\nGebt kein Wort, das ihr nicht halten könnt und haltet, was ihr sagt. Nur im Konfliktfall um eurer oder der Gilde Ehre, bittet darum, euer Wort zurücknehmen zu dürfen. Dies sei Ehre"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "6. STEHT ZUM ZIRKEL\nUnd zu euren Freunden und helft ihnen, wo immer eure Hilfe benötigt wird. Dies sei Ehre."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "7. ZAHLET ZURÜCK\nVergeltet Gutes mit Gutem, aber nicht Böses mit Bösem, seid gerecht und dankbar. Dies sei Ehre."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "8. RESPEKT\nRespektiert die Zirkelmitglieder und Freunde der Gilde. Respektiert auch einen starken Feind oder Monster. Dies sei Ehre."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "9. WACHSAMKEIT\nSeid wachsam und lauft in keine Falle, sondern beseitigt sie mit oder ohne Gewalt! Findet die schwachen Stellen eurer Feinde. Dies sei Ehre."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "10. SCHUTZ\nSchützet die Schwachen und helft ihrer Entwicklung. Wenn ihr einen Verbrecher beobachtet, der tötet oder stiehlt, dann eilet zur Hilfe. Dies sei Ehre."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "11. ORDNUNG\nDie Befehle, die vom Zirkel (oder hohen Zirkel) kommen, befolgt ihr. Ihr mögt nach einem Grund fragen, wenn dieser nicht erkennbar ist. Dies sei Ehre."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "12. DENKT\nIhr habt einen Geist und individuelle Gedanken. Verwendet beide ruhig, gepaart mit Weisheit. Dies sei Ehre."
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "\n\n~Codex of the Grey Rose~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "~Codex of Mind~\nThese are the three Circles of Mind.\nFollow them!"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "1. KNOWLEDGE IS POWER\nGather all information you can get, and hand them to the guild. It will be collected, and the most important data will be put into a library."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "2. SKILL IS \nSpecialize in one profession and become a master of it. But always remember that life is more than that."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "3. SILENCE IS NECESSARY\nNever talk about the secrets of the guild. Even when recruiting new members, give them only the information available for the public. "
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "~Codex of Guilt~\nThese are the three Circles of Guilt. \n Avoid them !"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "1. YOU SHALL NOT PROVOKE\nIt is not necessary. If you are provoked, answer wise. If you have aggressions, use them on monsters."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "2. YOU SHALL NOT INSULT\nIf you are insulted yourself, then respond wise and friendly using your brain. Remember, your language represents your origin, and your wisdom, and the guild itself!"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "3. YOU SHALL NOT ATTACK\nNot without a very good reason. If attacked by others, respond quickly and deadly. "
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "~Codex of Honour~\nThese are the thirteen Circles of Honour.\nRespect them!"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "1. INSULT\nPeople that repeatedly insult and attack guild members, must be calmed down. If necessary by use of violence but don't forget to contact the circle before. That is honour."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "2. WEAKNESS\nTo react in violence only shows the weakness of your mind. Control your emotions. Especially the negative ones, and the strong feelings."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Don't give in! But laugh as much as you want !\n\nThat is honour."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "3. STRENGTH\nIf you cannot kill a strong enemy, admit it. This shows true strength. That is honour."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "4. LIARS\nSpeak the truth. Say nothing if necessary. Lying is a disgrace. Truth is honour."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "5. KEEP WORD\nDon't give anyone your word if you can't keep it and keep what you have said. Only if it contradicts your or the guild's honour, ask to take back your word. That is honour."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "6. STAND TO THE ORDER\nAnd to those you call your friends. And help all those that obviously need help. That is honour."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "7. PAY BACK\nRepay good deeds with good deeds but don't repay evil with evil. Be fair and thankful. That is honour."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "8. RESPECT\nRespect the other members, and respect friends of the guild. Also respect a strong enemy, or monster. That is honour."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "9. VIGILENCE\nWatch your surroundings and don't run into traps but destroy them with or without violence. Find the weak points of the enemies. That is honour."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "10. PROTECTION\nProtect the weak and help them in their development . If you see a criminal killing or stealing, then help. That is honour."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "11. ORDER\nThe commands coming from the circle or high circle should be followed. You can ask for the reason, if it is not obvious. That is honour."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "12. THINK\nYou have a mind, and you have individual thoughts. Use both combined with wisdom. That is honour."
+    }
+  ]
+}

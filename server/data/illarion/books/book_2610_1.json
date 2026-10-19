@@ -1,0 +1,131 @@
+{
+  "en": "Book with the title \"The Fisherman's Guidebook\"",
+  "variant": 1,
+  "pagesEn": [
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "\n \n The Fisherman's Guidebook"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Fishing is an interesting art in itself. The possibility of catching different kinds of fish of different sizes gives a certain excitement to the fisherman."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Any fish caught may be used to cook fish dishes, or just heat them over a fire and eaten directly. Some even do not mind eating them raw."
+    },
+    {
+      "difficulty": 0,
+      "image": 72,
+      "text": "Tools\nThe only tool needed for fishing is the Fishing Rod. When bought, it will also be supplied with bait for fishing. Rods are made in a way to make fishing an easy task."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "How To\nFishing is relatively simple. Grab the rod firmly with both hands, swing the rod from your back forwards and let the line extend outwards into the water."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Have patience and wait calmly. Occasionally nudge the rod a bit, fish may be attracted to motions. However, your bait may be eaten without you even noticing. Hence, after some time, reel back and cast the line again."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "The second you feel a pull, quickly tug the rod upwards and reel the line, hopefully the fish shall remain attached."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Caution\nKeep a tight grip to your fishing rod. The water makes your line heavy, especially if a fish is caught. It may be no surprise if your rod slips out of your hands."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "A lot of stress is applied to the line when repeatedly catching fish. Careful, your line might break with time."
+    },
+    {
+      "difficulty": 0,
+      "image": 73,
+      "text": "Fish\nThe trout is the most common fish around Gobaith. There are plenty around, and they can be caught with ease."
+    },
+    {
+      "difficulty": 0,
+      "image": 355,
+      "text": "The Salmon is another kind of fish that can be caught. It's not as common as the trout, but are usually larger in size and sweeter in taste."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "By that we conclude our small guidebook. Now grab a fishing rod and try your luck!"
+    }
+  ],
+  "pagesDe": [
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "\n \n Ein Ratgeber für Angler"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Das Fischen ist eine Kunst für sich. Die Möglichkeit, verschiedene Fische unterschiedlicher Art und Größe zu fangen, macht sie sehr interresant für den Angler."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Jeder gefangene Fisch kann von einem Koch zu einem Fischgericht weiterverarbeitet werden. Man kann die Fische, die man fängt, aber auch einfach nur über dem Feuer rösten oder sogar roh verzehren."
+    },
+    {
+      "difficulty": 0,
+      "image": 72,
+      "text": "Werkzeuge\nDas einzige, was man zum Fischen braucht, ist eine Angelrute. Jede gekaufte Angel ist bereits mit einem Köder versehen. Die Angelruten sind so gemacht, dass das Fischen einfacher wird."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Wie man angelt.\nDer Vorgang des Angelns ist im Grunde genommen sehr simpel. Nimm die Rute nicht zu locker und nicht zu fest in beide Hände, hol Schwung und wirf die Schnur ins Wasser."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Jetzt gilt es, geduldig und ruhig zu warten. Manche Fische reagieren auf Bewegungen, also kannst du die Angel ein wenig bewegen während du wartest. Manchmal kann es allerdings passieren, dass dein Köder einfach von der Angel gefressen wird. Du solltest die Leine also hin- und wieder neu auswerfen."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Sobald du einen Ruck spürst, musst du die Angel schnell aus dem Wasser ziehen. Wenn alles gut verläuft, hängt der Fisch noch an der Leine."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Achtung\nHalte die Angel nicht zu locker. Durch das Wasser wird die Angelschnur schwerer. Besonders wenn ein Fisch anbeisst, ist es keine Überraschung, dass er die Angelrute mit sich reisst, wenn du sie nicht fest genug hältst."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Wegen der hohen Belastung, kann die Angelschnur nach einiger Zeit reissen. Sei also vorsichtig."
+    },
+    {
+      "difficulty": 0,
+      "image": 73,
+      "text": "Fische\nDie Forelle ist der Fisch, der in Gobaith's Gewässern am meisten vorkommt. Er kann leicht gefunden und gefangen werden."
+    },
+    {
+      "difficulty": 0,
+      "image": 355,
+      "text": "Der Lachs ist eine andere Fischart, die du hier angeln kannst. Er ist ein wenig seltener, aber meistens größer als die Forelle und sein Fleisch schmeckt zarter."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Hiermit beenden wir unsere Einführung in die Kunst des Fischens. Schnapp dir eine Angelrute und versuch dein Glück!"
+    }
+  ],
+  "language": "common language",
+  "itemId": 2610,
+  "de": "Buch mit dem Titel \"Ein Ratgeber für Angler\""
+}

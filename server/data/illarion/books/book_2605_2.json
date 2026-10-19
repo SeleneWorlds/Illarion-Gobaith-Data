@@ -1,0 +1,21 @@
+{
+  "de": "Vergilbtes schwarzes Buch",
+  "variant": 2,
+  "pagesEn": [
+    {
+      "difficulty": 0,
+      "image": 2499,
+      "text": "Everyone who wants to make use of my 'services', approach Pilnock Wimnab and ask for me. \n\n ~The Dark Brewer~"
+    }
+  ],
+  "pagesDe": [
+    {
+      "difficulty": 0,
+      "image": 2499,
+      "text": "Jeder, der meine 'Dienste' in Anspruch nehmen will, soll sich an Pilnock Wimnab wenden und nach mir fragen. \n\n ~Der Dunkle Brauer~"
+    }
+  ],
+  "language": "common language",
+  "itemId": 2605,
+  "en": ""
+}

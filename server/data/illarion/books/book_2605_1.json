@@ -1,0 +1,191 @@
+{
+  "itemId": 2605,
+  "variant": 1,
+  "de": "Buch mit dem Titel \"Kriegshandbuch der Zwerge I\"",
+  "en": "Book with the title \"Warguide of the Dwarves I\"",
+  "language": "dwarf language",
+  "pagesDe": [
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Hiebwaffen\n\nDie Axt ist die Mutter aller Waffen, deswegen nutzen wir Zwerge sie."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Mit diesen Waffen lassen sich heftige Angriffe ausführen und geschickt geführt ersetzen sie jedes Schild."
+    },
+    {
+      "difficulty": 0,
+      "image": 2660,
+      "text": "Zwergenaxt"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Die meistgenutzte Axt der Zwerge, vereint alle Eigenschaften die eine wahre Zwergenwaffe brauch. Kraft, Schnelligkeit und Geschicklichkeit."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Kraft, mit der Zwergenaxt können verheerende Angriffe ausgeführt werden."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Schnelligkeit, durch ihre ausbalancierte Fertigung lässt sie sich leicht und schnell führen."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Geschicklichkeit, der schlank Griff und die schnittige Klinge geben der Axt eine präzise Handhabung. "
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Legenden zufolge soll es sogar magische Zwergenäxte geben."
+    },
+    {
+      "difficulty": 0,
+      "image": 383,
+      "text": "Kriegsaxt"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Die Kriegsaxt eignet sich gut zum kämpfen auch sie vereint die wichtigen Werte einer Axt. "
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Doch wird sie durch ihre Fertigung und Form nie an eine Zwergenaxt heranreichen welche durch zwergische Schmiede geformt wurde."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Legenden zufolge soll es auch magische und Feuer-Kriegsäxte geben."
+    },
+    {
+      "difficulty": 0,
+      "image": 2629,
+      "text": "Schlachtaxt"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Die Schlachtaxt an sich ist keine sehr gute Axt, von Zwergen wird sie allenfalls zum Trainieren genutzt da man mit ihr keinen großen Schaden anrichten kann."
+    },
+    {
+      "difficulty": 0,
+      "image": 205,
+      "text": "Doppelaxt"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Durch Größe und Masse überzeugt die Doppelaxt, Treffer die mit dieser Axt angerichtet werden beenden unweigerlich Leben."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Doch sind nur wenige in der Lage solch eine wuchtige Waffe, auch nach jahrelangem Training, richtig zu führen."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Geschrieben von\nBoindil Al'Ad Kázár\n1. Zhas im Jahre 24"
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Slashing weapons\n\nThe axe is the mother of all weapons, that's why dwarves are using them."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "With these weapons you can perform mighty attacks and, used with enough skill, they replace every shield."
+    },
+    {
+      "difficulty": 0,
+      "image": 2660,
+      "text": "Dwarvenaxe"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "The most used axe by dwarves, it unites all attributes a real dwarveweapon needs. Power, rapidness and dexterity"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Power, with the dwarvenaxe you can perform mighty attacks."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Rapidness, because of it's balanced production the dwarvenaxe can be handled quick and easy."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Dexterity, the thin handle and the rakish blade gives a precise handling to the axe."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Legends tell that there are magicial dwarvenaxes too."
+    },
+    {
+      "difficulty": 0,
+      "image": 383,
+      "text": "Waraxe"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "The waraxe is qualified for battles and unites all important attributes of an axe."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "But because of it's production and it's shape it'll never reach tha quality of a dwarvenaxe, smithed by dwarven smiths."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Legends tell that there are magicial and fire waraxes."
+    },
+    {
+      "difficulty": 0,
+      "image": 2629,
+      "text": "Battleaxe"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "The battleaxe is not realy a good axe, that's why dwarves use them mostly for training because the damage causes it's causes isn't big."
+    },
+    {
+      "difficulty": 0,
+      "image": 205,
+      "text": "Doubleaxe"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "With size and dimensions of this axe, strikes with this weapon can inevitably terminates lives."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "But only few can handle this axe with enough skill, even after long years of training."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Written by\nBoindil Al'Ad Kàzár\n1st Zhas in the 24th year"
+    }
+  ]
+}

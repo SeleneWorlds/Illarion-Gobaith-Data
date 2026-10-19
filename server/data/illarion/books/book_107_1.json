@@ -1,0 +1,101 @@
+{
+  "itemId": 107,
+  "variant": 1,
+  "de": "Buch mit dem Titel \"Rubine\"",
+  "en": "Book with the title \"Ruby\"",
+  "language": "common language",
+  "pagesDe": [
+    {
+      "difficulty": 0,
+      "image": 46,
+      "text": "\n\n~~Rubine~~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Das Rot der Rubine wird von Kriegern wie auch von den Anhängern der Flamme Irmoroms gleichermaßen geschützt und bewundert. Krieger glauben, das sie dadurch ihr Kampfgeschick stärken."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Die Anhänger Irmoroms hingegen sind davon überzeugt, dass die Kräfte des Rubins ihr handwerkliches Können steigern."
+    },
+    {
+      "difficulty": 0,
+      "image": 2627,
+      "text": "Waffen:\n\nLeitet man die magischen Energien eines Rubins in eine Waffe,so verstärkt man dadurch deren natürliche Angriffskraft."
+    },
+    {
+      "difficulty": 0,
+      "image": 917,
+      "text": "Rüstungen und Schilde:\n\nIn Rüstungen wie auch in Schilden bewirken die magischen Energien einen zusätzlichen Schutz vor Hiebschaden."
+    },
+    {
+      "difficulty": 0,
+      "image": 323,
+      "text": "Magierstäbe:\n\nFließen Rubinenergien durch einen Magierstab, so steigert dies die Kampfmagie des Trägers."
+    },
+    {
+      "difficulty": 0,
+      "image": 102,
+      "text": "Werkzeuge:\n\nVerwendet man ein Werkzeug, durch das die magischen Energien eines Rubins fließen so ist dies förderlich für das handwerkliche Talent."
+    },
+    {
+      "difficulty": 0,
+      "image": 67,
+      "text": "Schmuckstücke:\n\nSchmuckstücke in denen die magische Energie von Rubinen fließt steigern die Geschicklichkeit des Trägers."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Zu beachten ist hierbei, dass man niemals die Energien eines Rubins in ein Schmuckstück fließen lassen sollte, in welches ein andersartiger Stein eingefasst wurde."
+    }
+  ],
+  "pagesEn": [
+    {
+      "difficulty": 0,
+      "image": 46,
+      "text": "\n\n~~Ruby~~"
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "The red colour of rubys is admired and appreciated by warriors and followers of the flame of irmorom in the same measure. Warriors believe that the power of rubys can raise their fighting skills."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "Followers of Irmorom, on the other hand, are confident that rubys can enhance their crafting skills."
+    },
+    {
+      "difficulty": 0,
+      "image": 2627,
+      "text": "Weapons:\n\nIf one focuses the magic energies of a ruby in a weapon, its natural chraging power is raised."
+    },
+    {
+      "difficulty": 0,
+      "image": 917,
+      "text": "Armors and Shields:\n\nThe magic energies of rubys can provide additional protection from concussion blows."
+    },
+    {
+      "difficulty": 0,
+      "image": 323,
+      "text": "Magic wands:\n\nIf ruby energies flow through a wand, the battle magic of the bearer is strenghtened."
+    },
+    {
+      "difficulty": 0,
+      "image": 102,
+      "text": "Tools:\n\nIf you use a tool which is holding the powers of a ruby, your craftsmanship talents can be enhanced."
+    },
+    {
+      "difficulty": 0,
+      "image": 67,
+      "text": "Trinkets:\n\nTrinkets that store the magic energy of Rubys use to raise the dexterity of the bearer."
+    },
+    {
+      "difficulty": 0,
+      "image": 0,
+      "text": "There is one important thing to note: One should never let the energies of a Ruby flow into a trinket in which there is another stone embedded."
+    }
+  ]
+}
