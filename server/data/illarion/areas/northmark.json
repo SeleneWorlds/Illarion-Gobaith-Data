@@ -1,0 +1,20 @@
+{
+    "area": {
+        "include": [
+            {
+                "type": "rectangle",
+                "x": -379,
+                "y": -478,
+                "z": 0,
+                "width": 56,
+                "height": 51
+            }
+        ],
+        "exclude": []
+    },
+    "tags": [
+        "login_location"
+    ],
+    "enabled": true,
+    "name": "Northmark"
+}

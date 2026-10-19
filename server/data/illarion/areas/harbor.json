@@ -1,0 +1,20 @@
+{
+    "tags": [
+        "login_location"
+    ],
+    "enabled": true,
+    "area": {
+        "include": [
+            {
+                "type": "rectangle",
+                "x": -293,
+                "y": 32,
+                "z": 0,
+                "width": 23,
+                "height": 14
+            }
+        ],
+        "exclude": []
+    },
+    "name": "Harbor"
+}

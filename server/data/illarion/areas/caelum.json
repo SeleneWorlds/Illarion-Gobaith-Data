@@ -1,0 +1,20 @@
+{
+    "area": {
+        "include": [
+            {
+                "type": "rectangle",
+                "x": -498,
+                "y": -92,
+                "z": 0,
+                "width": 43,
+                "height": 50
+            }
+        ],
+        "exclude": []
+    },
+    "tags": [
+        "login_location"
+    ],
+    "enabled": true,
+    "name": "Caelum"
+}

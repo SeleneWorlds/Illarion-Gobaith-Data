@@ -1,0 +1,29 @@
+{
+    "area": {
+        "include": [
+            {
+                "type": "rectangle",
+                "x": -443,
+                "y": 39,
+                "z": 0,
+                "width": 88,
+                "height": 72
+            }
+        ],
+        "exclude": [
+            {
+                "type": "rectangle",
+                "x": -445,
+                "y": 60,
+                "z": 0,
+                "width": 21,
+                "height": 53
+            }
+        ]
+    },
+    "tags": [
+        "login_location"
+    ],
+    "enabled": true,
+    "name": "Greenbriar"
+}

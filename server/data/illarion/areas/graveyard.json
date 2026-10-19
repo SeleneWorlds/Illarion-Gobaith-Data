@@ -1,0 +1,20 @@
+{
+    "enabled": true,
+    "tags": [
+        "login_location"
+    ],
+    "area": {
+        "include": [
+            {
+                "type": "rectangle",
+                "x": 86,
+                "y": 21,
+                "z": 0,
+                "width": 17,
+                "height": 21
+            }
+        ],
+        "exclude": []
+    },
+    "name": "Graveyard"
+}

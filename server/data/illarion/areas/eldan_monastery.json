@@ -1,0 +1,20 @@
+{
+    "area": {
+        "include": [
+            {
+                "type": "rectangle",
+                "x": -433,
+                "y": -163,
+                "z": 0,
+                "width": 59,
+                "height": 31
+            }
+        ],
+        "exclude": []
+    },
+    "tags": [
+        "login_location"
+    ],
+    "enabled": true,
+    "name": "Eldan Monastery"
+}
