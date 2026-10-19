@@ -1,0 +1,9 @@
+{
+  "name": "fortune_cookies",
+  "platform": "server",
+  "icon": "scroll-text",
+  "schema": {
+    "de": "string",
+    "en": "string"
+  }
+}
