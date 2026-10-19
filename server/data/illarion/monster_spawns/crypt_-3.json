@@ -7,8 +7,8 @@
     "range": 8,
     "spawnRange": 8,
     "spawnTime": {
-        "min": 5,
-        "max": 15
+        "min": 120,
+        "max": 300
     },
     "spawnAll": true,
     "monsters": {
