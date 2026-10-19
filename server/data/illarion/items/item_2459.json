@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
+  "genus": "neuter",
   "name": "troutFilletDish",
   "level": 25,
   "visual": "illarion:items/item_2459",

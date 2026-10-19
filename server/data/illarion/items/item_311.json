@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
+  "genus": "neuter",
   "name": "glassBlowPipe",
   "level": 10,
   "visual": "illarion:items/item_311",

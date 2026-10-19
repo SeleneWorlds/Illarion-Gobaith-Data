@@ -10,7 +10,8 @@
     "buyStack": 1,
     "maxStack": 1000,
     "rareness": 1,
-    "name": "gynkeseFire",
+    "genus": "female",
+  "name": "gynkeseFire",
     "level": 20,
     "visual": "illarion:items/item_2502",
     "metadata": {

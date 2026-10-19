@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
+  "genus": "male",
   "name": "armourersHammer",
   "level": 5,
   "visual": "illarion:items/item_2709",

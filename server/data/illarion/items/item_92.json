@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
+  "genus": "female",
   "name": "oilLamp",
   "level": 35,
   "visual": "illarion:items/item_92",

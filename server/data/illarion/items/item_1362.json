@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
+  "genus": "female",
   "name": "",
   "level": 0,
   "visual": "illarion:items/item_1362",

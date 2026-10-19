@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
+  "genus": "male",
   "name": "steelHat",
   "level": 20,
   "armor": {

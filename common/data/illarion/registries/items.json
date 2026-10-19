@@ -21,6 +21,23 @@
     "buyStack": "integer",
     "maxStack": "integer",
     "rareness": "integer",
+    "genus": {
+      "type": "enum",
+      "values": [
+        {
+          "value": "male",
+          "label": "Male"
+        },
+        {
+          "value": "female",
+          "label": "Female"
+        },
+        {
+          "value": "neuter",
+          "label": "Neuter"
+        }
+      ]
+    },
     "name": "string",
     "level": "integer",
     "armor": {

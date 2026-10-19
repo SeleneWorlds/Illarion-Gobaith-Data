@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
+  "genus": "male",
   "name": "kettleOff",
   "level": 0,
   "impassable": false,

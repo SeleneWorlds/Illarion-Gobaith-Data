@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
+  "genus": "female",
   "name": "emeraldPowder",
   "level": 80,
   "visual": "illarion:items/item_448",

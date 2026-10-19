@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
+  "genus": "male",
   "name": "clayCup",
   "level": 20,
   "visual": "illarion:items/item_2184",

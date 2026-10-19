@@ -10,7 +10,8 @@
     "buyStack": 1,
     "maxStack": 1000,
     "rareness": 2,
-    "name": "dough",
+    "genus": "male",
+  "name": "dough",
     "level": 0,
     "visual": "illarion:items/item_5",
     "metadata": {

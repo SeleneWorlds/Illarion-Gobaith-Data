@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
+  "genus": "female",
   "name": "flute",
   "level": 15,
   "visual": "illarion:items/item_90",

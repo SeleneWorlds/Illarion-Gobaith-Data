@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
+  "genus": "neuter",
   "name": "wineBarrelOne",
   "level": 0,
   "impassable": true,

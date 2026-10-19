@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
+  "genus": "female",
   "name": "gildedLongsword",
   "level": 80,
   "weapon": {

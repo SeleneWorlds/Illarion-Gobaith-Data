@@ -8,6 +8,7 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
+  "genus": "female",
   "name": "unfinished_item",
   "level": 0,
   "visual": "illarion:items/item_1",

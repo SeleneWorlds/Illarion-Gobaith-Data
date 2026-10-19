@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
+  "genus": "male",
   "name": "mugWithLid",
   "level": 45,
   "visual": "illarion:items/item_310",

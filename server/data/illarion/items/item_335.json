@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1,
   "rareness": 1,
+  "genus": "female",
   "name": "lute",
   "level": 60,
   "visual": "illarion:items/item_335",

@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 1000,
   "rareness": 1,
+  "genus": "male",
   "name": "bucketOfWater",
   "level": 5,
   "visual": "illarion:items/item_52",

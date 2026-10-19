@@ -10,6 +10,7 @@
   "buyStack": 1,
   "maxStack": 30000,
   "rareness": 1,
+  "genus": "female",
   "name": "goldCoins",
   "level": 0,
   "visual": "illarion:items/item_61",

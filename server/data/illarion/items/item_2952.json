@@ -9,7 +9,8 @@
     "buyStack": 1,
     "maxStack": 1000,
     "rareness": 1,
-    "name": "woodenPlate",
+    "genus": "male",
+  "name": "woodenPlate",
     "level": 5,
     "visual": "illarion:items/item_2952",
     "metadata": {
