@@ -16,5 +16,33 @@
   "visual": "illarion:items/item_80",
   "metadata": {
     "id": 80
+  },
+  "food": {
+    "value": 3000,
+    "diet": -30,
+    "racialDiet": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      30,
+      0,
+      0
+    ],
+    "uneatable": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
   }
 }

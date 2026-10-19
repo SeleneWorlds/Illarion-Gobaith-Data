@@ -16,5 +16,10 @@
   "visual": "illarion:items/item_2058",
   "metadata": {
     "id": 2058
+  },
+  "drink": {
+    "value": 50,
+    "leftover": "illarion:item_2055",
+    "alcohol": 0
   }
 }

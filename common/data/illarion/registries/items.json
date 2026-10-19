@@ -89,6 +89,43 @@
     "containerSlots": {
       "type": "integer",
       "optional": true
+    },
+    "food": {
+      "type": "object",
+      "optional": true,
+      "properties": {
+        "value": "integer",
+        "leftover": {
+          "type": "registry",
+          "registry": "illarion:items",
+          "optional": true
+        },
+        "diet": "integer",
+        "racialDiet": {
+          "type": "array",
+          "valueType": "integer"
+        },
+        "uneatable": {
+          "type": "array",
+          "valueType": "boolean"
+        },
+        "poison": {
+          "type": "integer",
+          "optional": true
+        }
+      }
+    },
+    "drink": {
+      "type": "object",
+      "optional": true,
+      "properties": {
+        "value": "integer",
+        "leftover": {
+          "type": "registry",
+          "registry": "illarion:items"
+        },
+        "alcohol": "integer"
+      }
     }
   }
 }

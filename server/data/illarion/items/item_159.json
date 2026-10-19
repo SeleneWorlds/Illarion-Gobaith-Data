@@ -16,5 +16,34 @@
   "visual": "illarion:items/item_159",
   "metadata": {
     "id": 159
+  },
+  "food": {
+    "value": -500,
+    "diet": -50,
+    "racialDiet": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "uneatable": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "poison": 1000
   }
 }

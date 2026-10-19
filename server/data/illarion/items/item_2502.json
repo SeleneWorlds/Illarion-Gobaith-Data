@@ -1,20 +1,25 @@
 {
-    "volume": 1,
-    "weight": 50,
-    "agingSpeed": 254,
-    "objectAfterRot": null,
-    "script": "item.id_2502_gynkfire",
-    "rotsInInventory": false,
-    "brightness": 0,
-    "worth": 800,
-    "buyStack": 1,
-    "maxStack": 1000,
-    "rareness": 1,
-    "genus": "female",
+  "volume": 1,
+  "weight": 50,
+  "agingSpeed": 254,
+  "objectAfterRot": null,
+  "script": "item.id_2502_gynkfire",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 800,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "genus": "female",
   "name": "gynkeseFire",
-    "level": 20,
-    "visual": "illarion:items/item_2502",
-    "metadata": {
-        "id": 2502
-    }
+  "level": 20,
+  "visual": "illarion:items/item_2502",
+  "metadata": {
+    "id": 2502
+  },
+  "drink": {
+    "value": 800,
+    "leftover": "illarion:item_164",
+    "alcohol": 0
+  }
 }
