@@ -7,8 +7,8 @@
     },
     "range": 8,
     "spawnTime": {
-        "min": 5,
-        "max": 15
+        "min": 60,
+        "max": 120
     },
     "spawnAll": true,
     "spawnRange": 8,
