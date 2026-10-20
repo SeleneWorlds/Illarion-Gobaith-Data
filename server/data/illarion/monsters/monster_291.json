@@ -200,7 +200,7 @@
       }
     ]
   },
-  "script": "monster.mon_29_animals",
+  "script": "monster.sheep",
   "metadata": {
     "id": 291,
     "name": "Sheep"
