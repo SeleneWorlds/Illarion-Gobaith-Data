@@ -57,7 +57,8 @@
             "data": {
               "id": 2551,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Für deine harte und ehrliche Arbeit belohnt dich Findari, die Göttin der Luft, mit einem Kleinod aus Reiner Luft.",
@@ -71,7 +72,8 @@
             "data": {
               "id": 197,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 1,
               "message": {
                 "de": "Zwischen all den Früchten siehst du auf einmal ein strahlendes Etwas. Du findest einen magischen Amethyst.",
@@ -85,7 +87,8 @@
             "data": {
               "id": 65,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Bei genauer Betrachtung entpuppt sich ein Ast am Boden als Bogen. Ob den ein elfischer Späher hier deponiert hat?",
@@ -99,7 +102,8 @@
             "data": {
               "id": 2295,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Über einem Ast hängt ein paar alter Handschuhe. Der Besitzer vermisst die offenbahr nicht.",
@@ -113,7 +117,8 @@
             "data": {
               "id": 463,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Eine Feder hat sich zwischen den Zweigen verfangen. Ob man mit ihr auch schreiben kann?",

@@ -78,7 +78,8 @@
             "data": {
               "id": 2552,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Für deine harte und ehrliche Arbeit belohnt dich Ushara, die Göttin der Erde, mit einem Kleinod aus Reiner Erde.",
@@ -92,7 +93,8 @@
             "data": {
               "id": 197,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 1,
               "message": {
                 "de": "Deine Spitzhacke zertrümmert den Fels und zum Vorschein kommt ein eingeschlossener Edelstein. Du findest einen magischen Amethyst.",
@@ -106,7 +108,8 @@
             "data": {
               "id": 310,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Zwerge scheinen alten Krügen keine Beachtung beizumessen, insbesondere, wenn sie leer sind. Auch hier liegt einfach einer herum.",
@@ -120,7 +123,8 @@
             "data": {
               "id": 1908,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Diese Mine wurde offensichtlich kürzlich von Zwergen aufgesucht. Wie sonst erklärt sich der Bierkrug, den du zwischen dem Geröll findest?",
@@ -134,7 +138,8 @@
             "data": {
               "id": 391,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "In einer Felsspalte liegt eine alte Fackel. Hier ist wohl jemanden ein Licht aufgegangen.",

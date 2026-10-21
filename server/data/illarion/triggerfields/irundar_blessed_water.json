@@ -62,7 +62,8 @@
                   "oldItem": "illarion:item_2498",
                   "item": "illarion:item_2496",
                   "count": 1,
-                  "quality": 999,
+                  "quality": 9,
+                  "durability": 99,
                   "data": 3,
                   "onSuccess": [
                     {

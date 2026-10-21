@@ -78,7 +78,8 @@
             "data": {
               "id": 2554,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Für deine harte und ehrliche Arbeit belohnt dich Tanora, die Göttin des Wassers, mit einem Kleinod aus Reinem Wasser.",
@@ -92,7 +93,8 @@
             "data": {
               "id": 283,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 1,
               "message": {
                 "de": "Tief im Matsch stößt deine Schaufel auf etwas hartes. Du findest einen magischen Schwarzstein.",
@@ -106,7 +108,8 @@
             "data": {
               "id": 2658,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Du findest eine Knochenhand im Matsch. Sie umklammert ein altes Schwert.",
@@ -120,7 +123,8 @@
             "data": {
               "id": 51,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Du ziehst einen alten Eimer aus dem Schlick.",
@@ -134,7 +138,8 @@
             "data": {
               "id": 2184,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Ein Tonkrug offenbahrt sich im Matsch. Die Überreste einer alten Zivilisation oder einfach nur vom letzten Saufgelage?",

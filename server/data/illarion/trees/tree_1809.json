@@ -20,7 +20,8 @@
             "data": {
               "id": 544,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0
             }
           }
@@ -34,7 +35,8 @@
             "data": {
               "id": 56,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0
             }
           },
@@ -74,7 +76,8 @@
             "data": {
               "id": 152,
               "quantity": 1,
-              "quality": 999,
+              "quality": 9,
+              "durability": 99,
               "data": 0,
               "message": {
                 "de": "Unter dem Baumstumpf findest du seltsame Wurzeln.",

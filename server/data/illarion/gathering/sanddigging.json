@@ -78,7 +78,8 @@
             "data": {
               "id": 2553,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Für deine harte und ehrliche Arbeit belohnt dich Brágon, die Gott des Feuers, mit einem Kleinod aus Reinem Feuer.",
@@ -92,7 +93,8 @@
             "data": {
               "id": 198,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 1,
               "message": {
                 "de": "Ein Stein, strahlend wie die heiße Wüstensonne, kommt zwischen all dem Sand zum Vorschein. Du findest einen magischen Topa.",
@@ -106,7 +108,8 @@
             "data": {
               "id": 3077,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Eine funkelnde Münze liegt auf deinem Schaufelblatt. Hat sich die harte Arbeit doch gelohnt!",
@@ -120,7 +123,8 @@
             "data": {
               "id": 21,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Du findest einige noch heiße Kohlen im Sand. Ein Glück, dass du nicht auf diese Überreste einer nächtlichen Grillfeier getreten bist.",
@@ -134,7 +138,8 @@
             "data": {
               "id": 1266,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Deine Schaufel stößt auf einen runden Kieselstein.",

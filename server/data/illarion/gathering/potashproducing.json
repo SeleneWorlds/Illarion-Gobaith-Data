@@ -33,7 +33,8 @@
             "data": {
               "id": 2553,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Für deine harte und ehrliche Arbeit belohnt dich Brágon, die Gott des Feuers, mit einem Kleinod aus Reinem Feuer.",
@@ -47,7 +48,8 @@
             "data": {
               "id": 45,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 1,
               "message": {
                 "de": "In der Asche erspähst du einen grün funkelnden Gegenstand. Du findest einen magischen Smaragd.",

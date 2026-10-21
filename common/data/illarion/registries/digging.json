@@ -12,6 +12,7 @@
             "properties": {
               "id": "integer",
               "quality": "integer",
+              "durability": { "type": "integer", "min": 0, "max": 99, "optional": true },
               "data": "integer",
               "message": {
                 "type": "object",
@@ -21,6 +22,8 @@
                 },
                 "optional": true
               },
+              "durabilityMin": { "type": "integer", "min": 0, "max": 99, "optional": true },
+              "durabilityMax": { "type": "integer", "min": 0, "max": 99, "optional": true },
               "qualityMin": {
                 "type": "integer",
                 "optional": true

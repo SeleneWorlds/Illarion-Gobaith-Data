@@ -57,7 +57,8 @@
             "data": {
               "id": 2551,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Für deine harte und ehrliche Arbeit belohnt dich Findari, die Göttin der Luft, mit einem Kleinod aus Reiner Luft.",
@@ -71,7 +72,8 @@
             "data": {
               "id": 45,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 1,
               "message": {
                 "de": "Im Unterholz erspähst du einen grün funkelnden Gegenstand. Du findest einen magischen Smaragd.",
@@ -85,7 +87,8 @@
             "data": {
               "id": 2441,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Im Erdboben machst du einen alten, rostigen Helm aus. Ein Überbleibsel einer längst vergessenen Schlacht?",
@@ -99,7 +102,8 @@
             "data": {
               "id": 235,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "In einer Spechthöhle findest du einen goldenen Ring. Wird er dich ins Dunkle treiben?",
@@ -113,7 +117,8 @@
             "data": {
               "id": 2664,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Du findest einen Ast, den man auch sehr gut als Keule verwenden könnte.",

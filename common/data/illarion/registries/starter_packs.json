@@ -27,7 +27,8 @@
             "registry": "illarion:items"
           },
           "count": "integer",
-          "quality": "integer"
+          "quality": "integer",
+          "durability": { "type": "integer", "min": 0, "max": 99, "optional": true }
         }
       }
     }

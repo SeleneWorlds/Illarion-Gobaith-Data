@@ -60,6 +60,7 @@
               "id": "integer",
               "quantity": "integer",
               "quality": "integer",
+              "durability": { "type": "integer", "min": 0, "max": 99, "optional": true },
               "data": "integer",
               "message": {
                 "type": "object",

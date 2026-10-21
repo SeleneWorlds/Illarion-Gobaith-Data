@@ -57,7 +57,8 @@
             "data": {
               "id": 2552,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Für deine harte und ehrliche Arbeit belohnt dich Ushara, die Göttin der Erde, mit einem Kleinod aus Reiner Erde.",
@@ -71,7 +72,8 @@
             "data": {
               "id": 46,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 1,
               "message": {
                 "de": "Beim Durchpflügen des Erdbodens stößt du auf einen grün scheinenden Stein. Du findest einen magischen Smaragd.",
@@ -85,7 +87,8 @@
             "data": {
               "id": 1840,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Im Ackerboden ist ein angelaufender Kupferkelch zu finden.",
@@ -99,7 +102,8 @@
             "data": {
               "id": 2935,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Da hat wohl jemand eine Schüssel verloren, mit der er Saatgut augestreut hat. Nun gehört sie dir.",
@@ -113,7 +117,8 @@
             "data": {
               "id": 2760,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Zwischen den Feldfrüchten findest du ein altes Seil. Nützlich, oder?",

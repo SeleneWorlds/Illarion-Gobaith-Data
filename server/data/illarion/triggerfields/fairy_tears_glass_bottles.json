@@ -22,7 +22,8 @@
           "data": {
             "oldItem": "illarion:item_2498",
             "item": "illarion:item_2496",
-            "quality": 333,
+            "quality": 3,
+            "durability": 33,
             "data": 2
           }
         }

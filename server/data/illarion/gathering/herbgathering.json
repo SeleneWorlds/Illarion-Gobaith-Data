@@ -78,7 +78,8 @@
             "data": {
               "id": 2553,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Für deine harte und ehrliche Arbeit belohnt dich Brágon, die Gott des Feuers, mit einem Kleinod aus Reinem Feuer.",
@@ -92,7 +93,8 @@
             "data": {
               "id": 284,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 1,
               "message": {
                 "de": "Tief im Gestrüpp machst du ein blaues, unheimliches Leuchten aus. Du findest einen magischen Blaustein.",
@@ -106,7 +108,8 @@
             "data": {
               "id": 2183,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Ein alter Krug liegt verlassen und einsam im Gebüsch.",
@@ -120,7 +123,8 @@
             "data": {
               "id": 799,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Ein Weidenkorb liegt am Boden. Er scheint noch brauchbar zu sein.",
@@ -134,7 +138,8 @@
             "data": {
               "id": 2570,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0,
               "message": {
                 "de": "Ein Griff einer alten Sichel liegt achtlos weggeworfen zwischen Blättern und Ästen herum.",

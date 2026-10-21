@@ -12,7 +12,8 @@
             "data": {
               "id": 21,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0
             }
           },
@@ -22,7 +23,8 @@
             "data": {
               "id": 251,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0
             }
           },
@@ -32,7 +34,8 @@
             "data": {
               "id": 255,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0
             }
           },
@@ -42,7 +45,8 @@
             "data": {
               "id": 735,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 0
             }
           }

@@ -62,7 +62,8 @@
               "z": -8
             },
             "item": "illarion:item_35",
-            "quality": 999
+            "quality": 9,
+            "durability": 99
           }
         }
       ]

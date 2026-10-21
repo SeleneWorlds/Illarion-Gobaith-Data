@@ -17,7 +17,8 @@
           "data": {
             "item": "illarion:item_2121",
             "count": 1,
-            "quality": 999,
+            "quality": 9,
+            "durability": 99,
             "data": 23101982
           }
         },

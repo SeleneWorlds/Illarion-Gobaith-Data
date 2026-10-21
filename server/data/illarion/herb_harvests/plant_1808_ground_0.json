@@ -13,7 +13,8 @@
             "data": {
               "id": 755,
               "quantity": 1,
-              "quality": 333,
+              "quality": 3,
+              "durability": 33,
               "data": 15
             }
           }
