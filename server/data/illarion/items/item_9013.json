@@ -1,0 +1,20 @@
+{
+  "volume": 1,
+  "weight": 2,
+  "agingSpeed": 254,
+  "objectAfterRot": null,
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 10000,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "genus": "male",
+  "name": "fireRoot",
+  "level": 0,
+  "visual": "illarion:items/item_152",
+  "metadata": {
+    "id": 9013
+  }
+}

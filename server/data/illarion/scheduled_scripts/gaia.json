@@ -323,8 +323,7 @@
                             "type": "herb",
                             "weight": 8,
                             "data": {
-                                "item": "illarion:item_133",
-                                "data": 9001
+                                "item": "illarion:item_9001"
                             },
                             "conditions": [
                                 {
@@ -339,8 +338,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_134",
-                                "data": 9002
+                                "item": "illarion:item_9002"
                             },
                             "conditions": [
                                 {
@@ -355,8 +353,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_135",
-                                "data": 9003
+                                "item": "illarion:item_9003"
                             },
                             "conditions": [
                                 {
@@ -372,8 +369,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_136",
-                                "data": 9004
+                                "item": "illarion:item_9004"
                             },
                             "conditions": [
                                 {
@@ -389,8 +385,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_137",
-                                "data": 9005
+                                "item": "illarion:item_9005"
                             },
                             "conditions": [
                                 {
@@ -405,8 +400,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_138",
-                                "data": 9006
+                                "item": "illarion:item_9006"
                             },
                             "conditions": [
                                 {
@@ -421,8 +415,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_140",
-                                "data": 9007
+                                "item": "illarion:item_9007"
                             },
                             "conditions": [
                                 {
@@ -437,8 +430,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_141",
-                                "data": 9008
+                                "item": "illarion:item_9008"
                             },
                             "conditions": [
                                 {
@@ -454,8 +446,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_142",
-                                "data": 9009
+                                "item": "illarion:item_9009"
                             },
                             "conditions": [
                                 {
@@ -470,8 +461,7 @@
                             "type": "herb",
                             "weight": 4,
                             "data": {
-                                "item": "illarion:item_152",
-                                "data": 9013
+                                "item": "illarion:item_9013"
                             },
                             "conditions": [
                                 {
@@ -486,8 +476,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_144",
-                                "data": 9010
+                                "item": "illarion:item_9010"
                             },
                             "conditions": [
                                 {
@@ -502,8 +491,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_145",
-                                "data": 9011
+                                "item": "illarion:item_9011"
                             },
                             "conditions": [
                                 {
@@ -518,8 +506,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_146",
-                                "data": 9012
+                                "item": "illarion:item_9012"
                             },
                             "conditions": [
                                 {
@@ -534,8 +521,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_148",
-                                "data": 9014
+                                "item": "illarion:item_9014"
                             },
                             "conditions": [
                                 {
@@ -550,8 +536,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_156",
-                                "data": 9015
+                                "item": "illarion:item_9015"
                             },
                             "conditions": [
                                 {
@@ -566,8 +551,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_153",
-                                "data": 9016
+                                "item": "illarion:item_9016"
                             },
                             "conditions": [
                                 {
@@ -893,8 +877,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_133",
-                                "data": 9001
+                                "item": "illarion:item_9001"
                             },
                             "conditions": [
                                 {
@@ -909,8 +892,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_134",
-                                "data": 9002
+                                "item": "illarion:item_9002"
                             },
                             "conditions": [
                                 {
@@ -925,8 +907,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_135",
-                                "data": 9003
+                                "item": "illarion:item_9003"
                             },
                             "conditions": [
                                 {
@@ -942,8 +923,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_136",
-                                "data": 9004
+                                "item": "illarion:item_9004"
                             },
                             "conditions": [
                                 {
@@ -959,8 +939,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_137",
-                                "data": 9005
+                                "item": "illarion:item_9005"
                             },
                             "conditions": [
                                 {
@@ -975,8 +954,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_138",
-                                "data": 9006
+                                "item": "illarion:item_9006"
                             },
                             "conditions": [
                                 {
@@ -991,8 +969,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_140",
-                                "data": 9007
+                                "item": "illarion:item_9007"
                             },
                             "conditions": [
                                 {
@@ -1007,8 +984,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_141",
-                                "data": 9008
+                                "item": "illarion:item_9008"
                             },
                             "conditions": [
                                 {
@@ -1024,8 +1000,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_142",
-                                "data": 9009
+                                "item": "illarion:item_9009"
                             },
                             "conditions": [
                                 {
@@ -1040,8 +1015,7 @@
                             "type": "herb",
                             "weight": 4,
                             "data": {
-                                "item": "illarion:item_152",
-                                "data": 9013
+                                "item": "illarion:item_9013"
                             },
                             "conditions": [
                                 {
@@ -1056,8 +1030,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_144",
-                                "data": 9010
+                                "item": "illarion:item_9010"
                             },
                             "conditions": [
                                 {
@@ -1072,8 +1045,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_145",
-                                "data": 9011
+                                "item": "illarion:item_9011"
                             },
                             "conditions": [
                                 {
@@ -1088,8 +1060,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_146",
-                                "data": 9012
+                                "item": "illarion:item_9012"
                             },
                             "conditions": [
                                 {
@@ -1104,8 +1075,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_148",
-                                "data": 9014
+                                "item": "illarion:item_9014"
                             },
                             "conditions": [
                                 {
@@ -1120,8 +1090,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_156",
-                                "data": 9015
+                                "item": "illarion:item_9015"
                             },
                             "conditions": [
                                 {
@@ -1136,8 +1105,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_153",
-                                "data": 9016
+                                "item": "illarion:item_9016"
                             },
                             "conditions": [
                                 {
@@ -1463,8 +1431,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_133",
-                                "data": 9001
+                                "item": "illarion:item_9001"
                             },
                             "conditions": [
                                 {
@@ -1479,8 +1446,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_134",
-                                "data": 9002
+                                "item": "illarion:item_9002"
                             },
                             "conditions": [
                                 {
@@ -1495,8 +1461,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_135",
-                                "data": 9003
+                                "item": "illarion:item_9003"
                             },
                             "conditions": [
                                 {
@@ -1512,8 +1477,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_136",
-                                "data": 9004
+                                "item": "illarion:item_9004"
                             },
                             "conditions": [
                                 {
@@ -1529,8 +1493,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_137",
-                                "data": 9005
+                                "item": "illarion:item_9005"
                             },
                             "conditions": [
                                 {
@@ -1545,8 +1508,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_138",
-                                "data": 9006
+                                "item": "illarion:item_9006"
                             },
                             "conditions": [
                                 {
@@ -1561,8 +1523,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_140",
-                                "data": 9007
+                                "item": "illarion:item_9007"
                             },
                             "conditions": [
                                 {
@@ -1577,8 +1538,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_141",
-                                "data": 9008
+                                "item": "illarion:item_9008"
                             },
                             "conditions": [
                                 {
@@ -1594,8 +1554,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_142",
-                                "data": 9009
+                                "item": "illarion:item_9009"
                             },
                             "conditions": [
                                 {
@@ -1610,8 +1569,7 @@
                             "type": "herb",
                             "weight": 4,
                             "data": {
-                                "item": "illarion:item_152",
-                                "data": 9013
+                                "item": "illarion:item_9013"
                             },
                             "conditions": [
                                 {
@@ -1626,8 +1584,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_144",
-                                "data": 9010
+                                "item": "illarion:item_9010"
                             },
                             "conditions": [
                                 {
@@ -1642,8 +1599,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_145",
-                                "data": 9011
+                                "item": "illarion:item_9011"
                             },
                             "conditions": [
                                 {
@@ -1658,8 +1614,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_146",
-                                "data": 9012
+                                "item": "illarion:item_9012"
                             },
                             "conditions": [
                                 {
@@ -1674,8 +1629,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_148",
-                                "data": 9014
+                                "item": "illarion:item_9014"
                             },
                             "conditions": [
                                 {
@@ -1690,8 +1644,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_156",
-                                "data": 9015
+                                "item": "illarion:item_9015"
                             },
                             "conditions": [
                                 {
@@ -1706,8 +1659,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_153",
-                                "data": 9016
+                                "item": "illarion:item_9016"
                             },
                             "conditions": [
                                 {
@@ -2033,8 +1985,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_133",
-                                "data": 9001
+                                "item": "illarion:item_9001"
                             },
                             "conditions": [
                                 {
@@ -2049,8 +2000,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_134",
-                                "data": 9002
+                                "item": "illarion:item_9002"
                             },
                             "conditions": [
                                 {
@@ -2065,8 +2015,7 @@
                             "type": "herb",
                             "weight": 8,
                             "data": {
-                                "item": "illarion:item_135",
-                                "data": 9003
+                                "item": "illarion:item_9003"
                             },
                             "conditions": [
                                 {
@@ -2082,8 +2031,7 @@
                             "type": "herb",
                             "weight": 7,
                             "data": {
-                                "item": "illarion:item_136",
-                                "data": 9004
+                                "item": "illarion:item_9004"
                             },
                             "conditions": [
                                 {
@@ -2099,8 +2047,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_137",
-                                "data": 9005
+                                "item": "illarion:item_9005"
                             },
                             "conditions": [
                                 {
@@ -2115,8 +2062,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_138",
-                                "data": 9006
+                                "item": "illarion:item_9006"
                             },
                             "conditions": [
                                 {
@@ -2131,8 +2077,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_140",
-                                "data": 9007
+                                "item": "illarion:item_9007"
                             },
                             "conditions": [
                                 {
@@ -2147,8 +2092,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_141",
-                                "data": 9008
+                                "item": "illarion:item_9008"
                             },
                             "conditions": [
                                 {
@@ -2164,8 +2108,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_142",
-                                "data": 9009
+                                "item": "illarion:item_9009"
                             },
                             "conditions": [
                                 {
@@ -2180,8 +2123,7 @@
                             "type": "herb",
                             "weight": 4,
                             "data": {
-                                "item": "illarion:item_152",
-                                "data": 9013
+                                "item": "illarion:item_9013"
                             },
                             "conditions": [
                                 {
@@ -2196,8 +2138,7 @@
                             "type": "herb",
                             "weight": 10,
                             "data": {
-                                "item": "illarion:item_144",
-                                "data": 9010
+                                "item": "illarion:item_9010"
                             },
                             "conditions": [
                                 {
@@ -2212,8 +2153,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_145",
-                                "data": 9011
+                                "item": "illarion:item_9011"
                             },
                             "conditions": [
                                 {
@@ -2228,8 +2168,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_146",
-                                "data": 9012
+                                "item": "illarion:item_9012"
                             },
                             "conditions": [
                                 {
@@ -2244,8 +2183,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_148",
-                                "data": 9014
+                                "item": "illarion:item_9014"
                             },
                             "conditions": [
                                 {
@@ -2260,8 +2198,7 @@
                             "type": "herb",
                             "weight": 6,
                             "data": {
-                                "item": "illarion:item_156",
-                                "data": 9015
+                                "item": "illarion:item_9015"
                             },
                             "conditions": [
                                 {
@@ -2276,8 +2213,7 @@
                             "type": "herb",
                             "weight": 0,
                             "data": {
-                                "item": "illarion:item_153",
-                                "data": 9016
+                                "item": "illarion:item_9016"
                             },
                             "conditions": [
                                 {

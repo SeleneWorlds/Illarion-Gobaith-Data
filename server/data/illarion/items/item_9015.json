@@ -1,0 +1,20 @@
+{
+  "volume": 1,
+  "weight": 2,
+  "agingSpeed": 254,
+  "objectAfterRot": null,
+  "script": "",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 40,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "genus": "male",
+  "name": "wolverineFern",
+  "level": 0,
+  "visual": "illarion:items/item_156",
+  "metadata": {
+    "id": 9015
+  }
+}

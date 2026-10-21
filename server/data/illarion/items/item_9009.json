@@ -1,0 +1,48 @@
+{
+  "volume": 1,
+  "weight": 2,
+  "agingSpeed": 254,
+  "objectAfterRot": null,
+  "script": "item.food",
+  "rotsInInventory": false,
+  "brightness": 0,
+  "worth": 40,
+  "buyStack": 1,
+  "maxStack": 1000,
+  "rareness": 1,
+  "genus": "female",
+  "name": "desertBerry",
+  "level": 0,
+  "visual": "illarion:items/item_142",
+  "metadata": {
+    "id": 9009
+  },
+  "food": {
+    "value": 1500,
+    "diet": -15,
+    "racialDiet": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "uneatable": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  }
+}
