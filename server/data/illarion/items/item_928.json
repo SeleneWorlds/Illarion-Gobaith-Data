@@ -3,7 +3,7 @@
   "weight": 30000,
   "agingSpeed": 255,
   "objectAfterRot": null,
-  "script": "",
+  "script": "item.doors",
   "rotsInInventory": false,
   "brightness": 0,
   "worth": 0,
