@@ -153,6 +153,7 @@
             "weight": 0.5,
             "data": {
               "item": "illarion:item_69",
+              "wear": 4,
               "count": {
                 "min": 1,
                 "max": 1
