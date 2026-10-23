@@ -87,6 +87,7 @@
               "count": { "type": "range", "min": 1, "max": 250 },
               "quality": { "type": "range", "min": 1, "max": 9 },
               "durability": { "type": "range", "min": 0, "max": 99 },
+              "wear": { "type": "integer", "min": 0, "max": 255, "optional": true },
               "data": { "type": "map", "keyType": "string", "valueType": "string", "optional": true }
             }
           }
