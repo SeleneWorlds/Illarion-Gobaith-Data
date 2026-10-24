@@ -11,7 +11,7 @@
   "maxStack": 1,
   "rareness": 1,
   "genus": "neuter",
-  "name": "",
+  "name": "occupied",
   "level": 0,
   "visual": "illarion:items/item_228",
   "metadata": {
