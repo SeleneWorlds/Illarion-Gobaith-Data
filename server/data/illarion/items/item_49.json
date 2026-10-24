@@ -11,7 +11,7 @@
   "maxStack": 1000,
   "rareness": 1,
   "genus": "neuter",
-  "name": "potatoBread",
+  "name": "bread",
   "level": 20,
   "visual": "illarion:items/item_49",
   "metadata": {
