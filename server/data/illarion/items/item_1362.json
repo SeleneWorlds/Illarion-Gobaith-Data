@@ -13,6 +13,7 @@
   "genus": "female",
   "name": "chest1362",
   "level": 0,
+  "impassable": true,
   "visual": "illarion:items/item_1362",
   "metadata": {
     "id": 1362
