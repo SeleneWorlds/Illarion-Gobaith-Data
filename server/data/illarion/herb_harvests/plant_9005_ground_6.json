@@ -1,5 +1,5 @@
 {
-  "item": 767,
+  "item": 9005,
   "ground": 6,
   "minimumSkill": 30,
   "consumePlant": false,
@@ -11,7 +11,7 @@
             "type": "item",
             "weight": 1,
             "data": {
-              "id": 767,
+              "id": 9005,
               "quantity": 1,
               "quality": 3,
               "durability": 33,
