@@ -579,16 +579,6 @@
             }
           },
           {
-            "type": "nothing",
-            "label": "Undefined legacy item 2747",
-            "weight": 1
-          },
-          {
-            "type": "nothing",
-            "label": "Undefined legacy item 2748",
-            "weight": 1
-          },
-          {
             "type": "item",
             "weight": 1,
             "data": {
